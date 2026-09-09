@@ -1,5 +1,6 @@
-## 02.00
-Lees een getal in en druk daarna af of dit getal positief of negatief is.
+# 02_00
+
+Vraag de gebruiker om zijn leeftijd en controleer of hij/zij ouder is dan 18 jaar. Als de gebruiker ouder of gelijk is aan 18, toon dan "Je bent meerderjarig." Anders toon je "Je bent minderjarig."
 
 ## Fuzz Test Cases
 
@@ -9,38 +10,38 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=8
+**Description:** Run 1: args=87
 
 
 **Input:**
 
 ```
-8
+87
 ```
 
 **Expected Output:**
 
 ```
-Positief
+Voor welke leeftijd vraag je het tarief? Je bent meerderjarig.
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=4
+**Description:** Run 2: args=98
 
 
 **Input:**
 
 ```
-4
+98
 ```
 
 **Expected Output:**
 
 ```
-Positief
+Voor welke leeftijd vraag je het tarief? Je bent meerderjarig.
 ```
 
 ---
@@ -59,166 +60,242 @@ Positief
 **Expected Output:**
 
 ```
-Positief
+Voor welke leeftijd vraag je het tarief? Je bent minderjarig.
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=11
+**Description:** Run 4: args=23
 
 
 **Input:**
 
 ```
-11
+23
 ```
 
 **Expected Output:**
 
 ```
-Positief
+Voor welke leeftijd vraag je het tarief? Je bent meerderjarig.
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=-3
+**Description:** Run 5: args=57
 
 
 **Input:**
 
 ```
--3
+57
 ```
 
 **Expected Output:**
 
 ```
-Negatief
+Voor welke leeftijd vraag je het tarief? Je bent meerderjarig.
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=-10
+**Description:** Run 6: args=97
 
 
 **Input:**
 
 ```
--10
+97
 ```
 
 **Expected Output:**
 
 ```
-Negatief
+Voor welke leeftijd vraag je het tarief? Je bent meerderjarig.
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=-9
+**Description:** Run 7: args=41
 
 
 **Input:**
 
 ```
--9
+41
 ```
 
 **Expected Output:**
 
 ```
-Negatief
+Voor welke leeftijd vraag je het tarief? Je bent meerderjarig.
 ```
 
 ---
 
 ### Case 8
 
-**Description:** Run 8: args=4
+**Description:** Run 8: args=63
 
 
 **Input:**
 
 ```
-4
+63
 ```
 
 **Expected Output:**
 
 ```
-Positief
+Voor welke leeftijd vraag je het tarief? Je bent meerderjarig.
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=7
+**Description:** Run 9: args=81
 
 
 **Input:**
 
 ```
-7
+81
 ```
 
 **Expected Output:**
 
 ```
-Positief
+Voor welke leeftijd vraag je het tarief? Je bent meerderjarig.
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=-10
+**Description:** Run 10: args=78
 
 
 **Input:**
 
 ```
--10
+78
 ```
 
 **Expected Output:**
 
 ```
-Negatief
+Voor welke leeftijd vraag je het tarief? Je bent meerderjarig.
 ```
 
 ---
 
 ### Case 11
 
-**Description:** Run 11: args=12
+**Description:** Run 11: args=60
 
 
 **Input:**
 
 ```
-12
+60
 ```
 
 **Expected Output:**
 
 ```
-Positief
+Voor welke leeftijd vraag je het tarief? Je bent meerderjarig.
 ```
 
 ---
 
 ### Case 12
 
-**Description:** Run 12: args=14
+**Description:** Run 12: args=29
+
+
+**Input:**
+
+```
+29
+```
+
+**Expected Output:**
+
+```
+Voor welke leeftijd vraag je het tarief? Je bent meerderjarig.
+```
+
+---
+
+### Case 13
+
+**Description:** Run 13: args=41
+
+
+**Input:**
+
+```
+41
+```
+
+**Expected Output:**
+
+```
+Voor welke leeftijd vraag je het tarief? Je bent meerderjarig.
+```
+
+---
+
+### Case 14
+
+**Description:** Run 14: args=93
+
+
+**Input:**
+
+```
+93
+```
+
+**Expected Output:**
+
+```
+Voor welke leeftijd vraag je het tarief? Je bent meerderjarig.
+```
+
+---
+
+### Case 15
+
+**Description:** Run 15: args=78
+
+
+**Input:**
+
+```
+78
+```
+
+**Expected Output:**
+
+```
+Voor welke leeftijd vraag je het tarief? Je bent meerderjarig.
+```
+
+---
+
+### Case 16
+
+**Description:** Run 16: args=14
 
 
 **Input:**
@@ -230,64 +307,178 @@ Positief
 **Expected Output:**
 
 ```
-Positief
+Voor welke leeftijd vraag je het tarief? Je bent minderjarig.
 ```
 
 ---
 
-### Case 13
+### Case 17
 
-**Description:** Run 13: args=-12
+**Description:** Run 17: args=76
 
 
 **Input:**
 
 ```
--12
+76
 ```
 
 **Expected Output:**
 
 ```
-Negatief
+Voor welke leeftijd vraag je het tarief? Je bent meerderjarig.
 ```
 
 ---
 
-### Case 14
+### Case 18
 
-**Description:** Run 14: args=-7
+**Description:** Run 18: args=99
 
 
 **Input:**
 
 ```
--7
+99
 ```
 
 **Expected Output:**
 
 ```
-Negatief
+Voor welke leeftijd vraag je het tarief? Je bent meerderjarig.
 ```
 
 ---
 
-### Case 15
+### Case 19
 
-**Description:** Run 15: args=-10
+**Description:** Run 19: args=71
 
 
 **Input:**
 
 ```
--10
+71
 ```
 
 **Expected Output:**
 
 ```
-Negatief
+Voor welke leeftijd vraag je het tarief? Je bent meerderjarig.
+```
+
+---
+
+### Case 20
+
+**Description:** Run 20: args=8
+
+
+**Input:**
+
+```
+8
+```
+
+**Expected Output:**
+
+```
+Voor welke leeftijd vraag je het tarief? Je bent minderjarig.
+```
+
+---
+
+### Case 21
+
+**Description:** Run 21: args=5
+
+
+**Input:**
+
+```
+5
+```
+
+**Expected Output:**
+
+```
+Voor welke leeftijd vraag je het tarief? Je bent minderjarig.
+```
+
+---
+
+### Case 22
+
+**Description:** Run 22: args=7
+
+
+**Input:**
+
+```
+7
+```
+
+**Expected Output:**
+
+```
+Voor welke leeftijd vraag je het tarief? Je bent minderjarig.
+```
+
+---
+
+### Case 23
+
+**Description:** Run 23: args=8
+
+
+**Input:**
+
+```
+8
+```
+
+**Expected Output:**
+
+```
+Voor welke leeftijd vraag je het tarief? Je bent minderjarig.
+```
+
+---
+
+### Case 24
+
+**Description:** Run 24: args=83
+
+
+**Input:**
+
+```
+83
+```
+
+**Expected Output:**
+
+```
+Voor welke leeftijd vraag je het tarief? Je bent meerderjarig.
+```
+
+---
+
+### Case 25
+
+**Description:** Run 25: args=66
+
+
+**Input:**
+
+```
+66
+```
+
+**Expected Output:**
+
+```
+Voor welke leeftijd vraag je het tarief? Je bent meerderjarig.
 ```
 
 ---
