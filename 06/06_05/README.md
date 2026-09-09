@@ -1,2 +1,3 @@
-## 06.05
-Lees namen en scores van studenten in. Wanneer een lege naam ingegeven wordt, zal er een overzicht afgeprint worden van alle studenten en hun scores gevolgd door een gemiddelde van de klas. Wanneer er geen namen ingegeven wordt, zal de tekst 'Geen aanwezigen' getoond worden. Zorg voor gegevensvalidatie wanneer er een score wordt ingegeven: dit moet een numerieke waarde zijn.
+# 06_05
+
+Maak een programma dat de gebruiker vraagt om scores één voor één in te voeren. De gebruiker stopt door 0 in te voeren. Het programma toont daarna het totaal aantal scores, het gemiddelde van alle scores, en hoeveel scores hoger zijn dan het gemiddelde.
