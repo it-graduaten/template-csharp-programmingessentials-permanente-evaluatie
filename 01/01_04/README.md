@@ -1,9 +1,8 @@
-# 01.04
-De telefoonmaatschappij rekent aan haar klanten jaarlijks een vast bedrag aan van € 23. Per nationale of internationale oproep moet je nog eens € 0,12 bijbetalen.
+# 01_04
 
-In deze tarieven is geen btw inbegrepen.
+Converteer Celsius naar Fahrenheit.
 
-Schrijf een programma dat het aantal jaarlijkse nationale en internationale oproepen opvraagt en de totaalprijs afdrukt inclusief btw. We veronderstellen een btw-percentage van 21%.
+Vraag de gebruiker om een temperatuur in graden Celsius. Bereken de equivalente temperatuur in Fahrenheit met de formule: F = C × 9/5 + 32. Toon het resultaat met twee decimalen.
 
 ## Fuzz Test Cases
 
@@ -13,300 +12,475 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=39, 1
+**Description:** Run 1: args=684.7483903178405
 
 
 **Input:**
 
 ```
-39
-1
+684.7483903178405
 ```
 
 **Expected Output:**
 
 ```
-Totaal te betalen: 33,64 euro
+1,264.55
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=76, 47
+**Description:** Run 2: args=618.0054586891699
 
 
 **Input:**
 
 ```
-76
-47
+618.0054586891699
 ```
 
 **Expected Output:**
 
 ```
-Totaal te betalen: 45,69 euro
+1,144.41
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=70, 2
+**Description:** Run 3: args=391.46114822943144
 
 
 **Input:**
 
 ```
-70
-2
+391.46114822943144
 ```
 
 **Expected Output:**
 
 ```
-Totaal te betalen: 38,28 euro
+736.63
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=71, 98
+**Description:** Run 4: args=810.5212167559991
 
 
 **Input:**
 
 ```
-71
-98
+810.5212167559991
 ```
 
 **Expected Output:**
 
 ```
-Totaal te betalen: 52,37 euro
+1,490.94
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=88, 8
+**Description:** Run 5: args=453.6015243084379
 
 
 **Input:**
 
 ```
-88
-8
+453.6015243084379
 ```
 
 **Expected Output:**
 
 ```
-Totaal te betalen: 41,77 euro
+848.48
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=56, 80
+**Description:** Run 6: args=806.0843130858813
 
 
 **Input:**
 
 ```
-56
-80
+806.0843130858813
 ```
 
 **Expected Output:**
 
 ```
-Totaal te betalen: 47,58 euro
+1,482.95
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=61, 38
+**Description:** Run 7: args=-2.2461441544632663
 
 
 **Input:**
 
 ```
-61
-38
+-2.2461441544632663
 ```
 
 **Expected Output:**
 
 ```
-Totaal te betalen: 42,20 euro
+27.96
 ```
 
 ---
 
 ### Case 8
 
-**Description:** Run 8: args=65, 37
+**Description:** Run 8: args=812.7149349841083
 
 
 **Input:**
 
 ```
-65
-37
+812.7149349841083
 ```
 
 **Expected Output:**
 
 ```
-Totaal te betalen: 42,64 euro
+1,494.89
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=86, 43
+**Description:** Run 9: args=561.9956865582512
 
 
 **Input:**
 
 ```
-86
-43
+561.9956865582512
 ```
 
 **Expected Output:**
 
 ```
-Totaal te betalen: 46,56 euro
+1,043.59
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=29, 93
+**Description:** Run 10: args=56.0705108626704
 
 
 **Input:**
 
 ```
-29
-93
+56.0705108626704
 ```
 
 **Expected Output:**
 
 ```
-Totaal te betalen: 45,54 euro
+132.93
 ```
 
 ---
 
 ### Case 11
 
-**Description:** Run 11: args=87, 20
+**Description:** Run 11: args=321.9671207020194
 
 
 **Input:**
 
 ```
-87
-20
+321.9671207020194
 ```
 
 **Expected Output:**
 
 ```
-Totaal te betalen: 43,37 euro
+611.54
 ```
 
 ---
 
 ### Case 12
 
-**Description:** Run 12: args=17, 10
+**Description:** Run 12: args=471.4492476623867
 
 
 **Input:**
 
 ```
-17
-10
+471.4492476623867
 ```
 
 **Expected Output:**
 
 ```
-Totaal te betalen: 31,75 euro
+880.61
 ```
 
 ---
 
 ### Case 13
 
-**Description:** Run 13: args=58, 38
+**Description:** Run 13: args=959.5181148086206
 
 
 **Input:**
 
 ```
-58
-38
+959.5181148086206
 ```
 
 **Expected Output:**
 
 ```
-Totaal te betalen: 41,77 euro
+1,759.13
 ```
 
 ---
 
 ### Case 14
 
-**Description:** Run 14: args=26, 44
+**Description:** Run 14: args=68.47705500748307
 
 
 **Input:**
 
 ```
-26
-44
+68.47705500748307
 ```
 
 **Expected Output:**
 
 ```
-Totaal te betalen: 37,99 euro
+155.26
 ```
 
 ---
 
 ### Case 15
 
-**Description:** Run 15: args=43, 6
+**Description:** Run 15: args=6.491558090750189
 
 
 **Input:**
 
 ```
-43
-6
+6.491558090750189
 ```
 
 **Expected Output:**
 
 ```
-Totaal te betalen: 34,94 euro
+43.68
+```
+
+---
+
+### Case 16
+
+**Description:** Run 16: args=465.5948724696167
+
+
+**Input:**
+
+```
+465.5948724696167
+```
+
+**Expected Output:**
+
+```
+870.07
+```
+
+---
+
+### Case 17
+
+**Description:** Run 17: args=888.1713330419848
+
+
+**Input:**
+
+```
+888.1713330419848
+```
+
+**Expected Output:**
+
+```
+1,630.71
+```
+
+---
+
+### Case 18
+
+**Description:** Run 18: args=399.6364779256351
+
+
+**Input:**
+
+```
+399.6364779256351
+```
+
+**Expected Output:**
+
+```
+751.35
+```
+
+---
+
+### Case 19
+
+**Description:** Run 19: args=-11.349933038919943
+
+
+**Input:**
+
+```
+-11.349933038919943
+```
+
+**Expected Output:**
+
+```
+11.57
+```
+
+---
+
+### Case 20
+
+**Description:** Run 20: args=867.4653332974663
+
+
+**Input:**
+
+```
+867.4653332974663
+```
+
+**Expected Output:**
+
+```
+1,593.44
+```
+
+---
+
+### Case 21
+
+**Description:** Run 21: args=933.7014720961838
+
+
+**Input:**
+
+```
+933.7014720961838
+```
+
+**Expected Output:**
+
+```
+1,712.66
+```
+
+---
+
+### Case 22
+
+**Description:** Run 22: args=655.0065683174547
+
+
+**Input:**
+
+```
+655.0065683174547
+```
+
+**Expected Output:**
+
+```
+1,211.01
+```
+
+---
+
+### Case 23
+
+**Description:** Run 23: args=149.07987013954607
+
+
+**Input:**
+
+```
+149.07987013954607
+```
+
+**Expected Output:**
+
+```
+300.34
+```
+
+---
+
+### Case 24
+
+**Description:** Run 24: args=597.5901008719441
+
+
+**Input:**
+
+```
+597.5901008719441
+```
+
+**Expected Output:**
+
+```
+1,107.66
+```
+
+---
+
+### Case 25
+
+**Description:** Run 25: args=422.2279266250524
+
+
+**Input:**
+
+```
+422.2279266250524
+```
+
+**Expected Output:**
+
+```
+792.01
 ```
 
 ---
