@@ -1,9 +1,12 @@
-## 07.09
-Schrijf een programma om het behaalde level van een gebruiker te tonen op basis van zijn gehaalde ervaringspunten.
+# 07_09
 
-Volgende tabel geeft aan hoeveel punten nodig zijn voor welk level. 
+Maak een programma dat een lijst van getallen verwerkt en deze op verschillende manieren weergeeft. De gebruiker geeft het aantal getallen op dat hij wil invoeren, daarna voert hij de getallen in.
 
+Het programma heeft de volgende methodes nodig:
 
-Maak voor deze oefening gebruik van een lijst waarin je de benodigde ervaringspunten verwerkt.
+- Een void methode die een lijst van getallen afdrukt (met de lijst als parameter)
+- Een methode die het maximumgetal uit de lijst teruggeeft (met de lijst als parameter)
+- Een methode die het minimumgetal uit de lijst teruggeeft (met de lijst als parameter)
+- Een methode die het totaal van alle getallen teruggeeft (met de lijst als parameter)
 
-Het programma vraagt de gebruiker om gehele getallen in te vullen, zijnde de ervaringspunten die verdiend zijn. Blijf dit herhalen tot de gebruiker een foutieve waarde ingeeft. Toon nu aan de gebruiker wat zijn behaalde level is op basis van alle ervaringspunten.
+Het programma toont de lijst van getallen, gevolgd door het maximum, minimum en totaal.
