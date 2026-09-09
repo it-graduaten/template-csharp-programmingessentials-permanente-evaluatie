@@ -1,11 +1,8 @@
-# 01.06
-Als iemand zijn ideaal lichaamsgewicht wenst te kennen, moet je volgende formule toepassen (enkel voor volwassenen):
+# 01_06
 
-M = (L + 4 * P - 100) / 2
+Bereken de omtrek van een cirkel.
 
-M = lichaamsgewicht in kg L = lengte in cm P = polsomtrek in cm
-
-Schrijf een programma dat de lengte en de polsomtrek inleest en daarna het ideaal lichaamsgewicht afdrukt.
+Vraag de straal van een cirkel in centimeters. Bereken de omtrek met de formule: omtrek = 2 × π × straal, waarbij je π als 3,14 gebruikt. Toon het resultaat met twee decimalen.
 
 ## Fuzz Test Cases
 
@@ -15,300 +12,475 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=118, 20
+**Description:** Run 1: args=921.4007404475894
 
 
 **Input:**
 
 ```
-118
-20
+921.4007404475894
 ```
 
 **Expected Output:**
 
 ```
-Ideaal gewicht: 49 kilo
+5,786.40
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=111, 16
+**Description:** Run 2: args=260.58019726863495
 
 
 **Input:**
 
 ```
-111
-16
+260.58019726863495
 ```
 
 **Expected Output:**
 
 ```
-Ideaal gewicht: 37,5 kilo
+1,636.44
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=179, 16
+**Description:** Run 3: args=538.9342252803694
 
 
 **Input:**
 
 ```
-179
-16
+538.9342252803694
 ```
 
 **Expected Output:**
 
 ```
-Ideaal gewicht: 71,5 kilo
+3,384.51
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=88, 17
+**Description:** Run 4: args=319.7346050909479
 
 
 **Input:**
 
 ```
-88
-17
+319.7346050909479
 ```
 
 **Expected Output:**
 
 ```
-Ideaal gewicht: 28 kilo
+2,007.93
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=129, 18
+**Description:** Run 5: args=23.080129612079777
 
 
 **Input:**
 
 ```
-129
-18
+23.080129612079777
 ```
 
 **Expected Output:**
 
 ```
-Ideaal gewicht: 50,5 kilo
+144.94
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=152, 18
+**Description:** Run 6: args=17.36706780536485
 
 
 **Input:**
 
 ```
-152
-18
+17.36706780536485
 ```
 
 **Expected Output:**
 
 ```
-Ideaal gewicht: 62 kilo
+109.07
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=97, 16
+**Description:** Run 7: args=16.999581177692516
 
 
 **Input:**
 
 ```
-97
-16
+16.999581177692516
 ```
 
 **Expected Output:**
 
 ```
-Ideaal gewicht: 30,5 kilo
+106.76
 ```
 
 ---
 
 ### Case 8
 
-**Description:** Run 8: args=4, 19
+**Description:** Run 8: args=70.13663581276676
 
 
 **Input:**
 
 ```
-4
-19
+70.13663581276676
 ```
 
 **Expected Output:**
 
 ```
-Ideaal gewicht: -10 kilo
+440.46
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=107, 20
+**Description:** Run 9: args=181.3621814286875
 
 
 **Input:**
 
 ```
-107
-20
+181.3621814286875
 ```
 
 **Expected Output:**
 
 ```
-Ideaal gewicht: 43,5 kilo
+1,138.95
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=8, 20
+**Description:** Run 10: args=776.4028373649159
 
 
 **Input:**
 
 ```
-8
-20
+776.4028373649159
 ```
 
 **Expected Output:**
 
 ```
-Ideaal gewicht: -6 kilo
+4,875.81
 ```
 
 ---
 
 ### Case 11
 
-**Description:** Run 11: args=131, 20
+**Description:** Run 11: args=347.02472804092514
 
 
 **Input:**
 
 ```
-131
-20
+347.02472804092514
 ```
 
 **Expected Output:**
 
 ```
-Ideaal gewicht: 55,5 kilo
+2,179.32
 ```
 
 ---
 
 ### Case 12
 
-**Description:** Run 12: args=58, 19
+**Description:** Run 12: args=476.5597649095712
 
 
 **Input:**
 
 ```
-58
-19
+476.5597649095712
 ```
 
 **Expected Output:**
 
 ```
-Ideaal gewicht: 17 kilo
+2,992.80
 ```
 
 ---
 
 ### Case 13
 
-**Description:** Run 13: args=203, 17
+**Description:** Run 13: args=191.71567623021284
 
 
 **Input:**
 
 ```
-203
-17
+191.71567623021284
 ```
 
 **Expected Output:**
 
 ```
-Ideaal gewicht: 85,5 kilo
+1,203.97
 ```
 
 ---
 
 ### Case 14
 
-**Description:** Run 14: args=75, 17
+**Description:** Run 14: args=937.2581757684867
 
 
 **Input:**
 
 ```
-75
-17
+937.2581757684867
 ```
 
 **Expected Output:**
 
 ```
-Ideaal gewicht: 21,5 kilo
+5,885.98
 ```
 
 ---
 
 ### Case 15
 
-**Description:** Run 15: args=51, 15
+**Description:** Run 15: args=92.22249718447948
 
 
 **Input:**
 
 ```
-51
-15
+92.22249718447948
 ```
 
 **Expected Output:**
 
 ```
-Ideaal gewicht: 5,5 kilo
+579.16
+```
+
+---
+
+### Case 16
+
+**Description:** Run 16: args=71.57731403261486
+
+
+**Input:**
+
+```
+71.57731403261486
+```
+
+**Expected Output:**
+
+```
+449.51
+```
+
+---
+
+### Case 17
+
+**Description:** Run 17: args=53.73266065165097
+
+
+**Input:**
+
+```
+53.73266065165097
+```
+
+**Expected Output:**
+
+```
+337.44
+```
+
+---
+
+### Case 18
+
+**Description:** Run 18: args=629.6847374056022
+
+
+**Input:**
+
+```
+629.6847374056022
+```
+
+**Expected Output:**
+
+```
+3,954.42
+```
+
+---
+
+### Case 19
+
+**Description:** Run 19: args=116.66114416716368
+
+
+**Input:**
+
+```
+116.66114416716368
+```
+
+**Expected Output:**
+
+```
+732.63
+```
+
+---
+
+### Case 20
+
+**Description:** Run 20: args=675.6855048142849
+
+
+**Input:**
+
+```
+675.6855048142849
+```
+
+**Expected Output:**
+
+```
+4,243.30
+```
+
+---
+
+### Case 21
+
+**Description:** Run 21: args=103.10228241742432
+
+
+**Input:**
+
+```
+103.10228241742432
+```
+
+**Expected Output:**
+
+```
+647.48
+```
+
+---
+
+### Case 22
+
+**Description:** Run 22: args=780.4766019522557
+
+
+**Input:**
+
+```
+780.4766019522557
+```
+
+**Expected Output:**
+
+```
+4,901.39
+```
+
+---
+
+### Case 23
+
+**Description:** Run 23: args=490.1095882915299
+
+
+**Input:**
+
+```
+490.1095882915299
+```
+
+**Expected Output:**
+
+```
+3,077.89
+```
+
+---
+
+### Case 24
+
+**Description:** Run 24: args=560.1752782490681
+
+
+**Input:**
+
+```
+560.1752782490681
+```
+
+**Expected Output:**
+
+```
+3,517.90
+```
+
+---
+
+### Case 25
+
+**Description:** Run 25: args=51.648729014565156
+
+
+**Input:**
+
+```
+51.648729014565156
+```
+
+**Expected Output:**
+
+```
+324.35
 ```
 
 ---
