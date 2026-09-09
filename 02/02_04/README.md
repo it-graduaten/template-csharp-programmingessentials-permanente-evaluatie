@@ -1,5 +1,6 @@
-## 02.04
-Schrijf een programma dat een getal inleest en daarna afprint of dit getal deelbaar is door 5 én 11.
+# 02_04
+
+Vraag de gebruiker om zijn geslacht (man of vrouw) en zijn leeftijd in jaren. Als de persoon ouder is dan 60 jaar, toon dan "Pensioen". Als de persoon tussen 18 en 60 jaar oud is, toon dan "Werkend". Toon anders "Kind".
 
 ## Fuzz Test Cases
 
@@ -9,570 +10,500 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=19
+**Description:** Run 1: args=man, 73
 
 
 **Input:**
 
 ```
-19
-```
-
-**Expected Output:**
-
-```
-Niet deelbaar.
-```
-
----
-
-### Case 2
-
-**Description:** Run 2: args=73
-
-
-**Input:**
-
-```
+man
 73
 ```
 
 **Expected Output:**
 
 ```
-Niet deelbaar.
+Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Pensioen
+```
+
+---
+
+### Case 2
+
+**Description:** Run 2: args=vrouw, 68
+
+
+**Input:**
+
+```
+vrouw
+68
+```
+
+**Expected Output:**
+
+```
+Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Pensioen
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=151
+**Description:** Run 3: args=vrouw, 2
 
 
 **Input:**
 
 ```
-151
+vrouw
+2
 ```
 
 **Expected Output:**
 
 ```
-Niet deelbaar.
+Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Kind
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=129
+**Description:** Run 4: args=man, 14
 
 
 **Input:**
 
 ```
-129
+man
+14
 ```
 
 **Expected Output:**
 
 ```
-Niet deelbaar.
+Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Kind
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=146
+**Description:** Run 5: args=vrouw, 18
 
 
 **Input:**
 
 ```
-146
+vrouw
+18
 ```
 
 **Expected Output:**
 
 ```
-Niet deelbaar.
+Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Werkend
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=185
+**Description:** Run 6: args=man, 17
 
 
 **Input:**
 
 ```
-185
+man
+17
 ```
 
 **Expected Output:**
 
 ```
-Niet deelbaar.
+Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Kind
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=22
+**Description:** Run 7: args=man, 0
 
 
 **Input:**
 
 ```
-22
+man
+0
 ```
 
 **Expected Output:**
 
 ```
-Niet deelbaar.
+Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Kind
 ```
 
 ---
 
 ### Case 8
 
-**Description:** Run 8: args=32
+**Description:** Run 8: args=vrouw, 23
 
 
 **Input:**
 
 ```
-32
+vrouw
+23
 ```
 
 **Expected Output:**
 
 ```
-Niet deelbaar.
+Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Werkend
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=153
+**Description:** Run 9: args=vrouw, 36
 
 
 **Input:**
 
 ```
-153
+vrouw
+36
 ```
 
 **Expected Output:**
 
 ```
-Niet deelbaar.
+Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Werkend
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=124
+**Description:** Run 10: args=man, 75
 
 
 **Input:**
 
 ```
-124
+man
+75
 ```
 
 **Expected Output:**
 
 ```
-Niet deelbaar.
+Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Pensioen
 ```
 
 ---
 
 ### Case 11
 
-**Description:** Run 11: args=136
+**Description:** Run 11: args=man, 72
 
 
 **Input:**
 
 ```
-136
+man
+72
 ```
 
 **Expected Output:**
 
 ```
-Niet deelbaar.
+Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Pensioen
 ```
 
 ---
 
 ### Case 12
 
-**Description:** Run 12: args=99
+**Description:** Run 12: args=vrouw, 86
 
 
 **Input:**
 
 ```
-99
+vrouw
+86
 ```
 
 **Expected Output:**
 
 ```
-Niet deelbaar.
+Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Pensioen
 ```
 
 ---
 
 ### Case 13
 
-**Description:** Run 13: args=137
+**Description:** Run 13: args=vrouw, 37
 
 
 **Input:**
 
 ```
-137
-```
-
-**Expected Output:**
-
-```
-Niet deelbaar.
-```
-
----
-
-### Case 14
-
-**Description:** Run 14: args=159
-
-
-**Input:**
-
-```
-159
-```
-
-**Expected Output:**
-
-```
-Niet deelbaar.
-```
-
----
-
-### Case 15
-
-**Description:** Run 15: args=218
-
-
-**Input:**
-
-```
-218
-```
-
-**Expected Output:**
-
-```
-Niet deelbaar.
-```
-
----
-
-### Case 16
-
-**Description:** Run 16: args=30
-
-
-**Input:**
-
-```
-30
-```
-
-**Expected Output:**
-
-```
-Niet deelbaar.
-```
-
----
-
-### Case 17
-
-**Description:** Run 17: args=11
-
-
-**Input:**
-
-```
-11
-```
-
-**Expected Output:**
-
-```
-Niet deelbaar.
-```
-
----
-
-### Case 18
-
-**Description:** Run 18: args=192
-
-
-**Input:**
-
-```
-192
-```
-
-**Expected Output:**
-
-```
-Niet deelbaar.
-```
-
----
-
-### Case 19
-
-**Description:** Run 19: args=150
-
-
-**Input:**
-
-```
-150
-```
-
-**Expected Output:**
-
-```
-Niet deelbaar.
-```
-
----
-
-### Case 20
-
-**Description:** Run 20: args=155
-
-
-**Input:**
-
-```
-155
-```
-
-**Expected Output:**
-
-```
-Niet deelbaar.
-```
-
----
-
-### Case 21
-
-**Description:** Run 21: args=61
-
-
-**Input:**
-
-```
-61
-```
-
-**Expected Output:**
-
-```
-Niet deelbaar.
-```
-
----
-
-### Case 22
-
-**Description:** Run 22: args=161
-
-
-**Input:**
-
-```
-161
-```
-
-**Expected Output:**
-
-```
-Niet deelbaar.
-```
-
----
-
-### Case 23
-
-**Description:** Run 23: args=69
-
-
-**Input:**
-
-```
-69
-```
-
-**Expected Output:**
-
-```
-Niet deelbaar.
-```
-
----
-
-### Case 24
-
-**Description:** Run 24: args=13
-
-
-**Input:**
-
-```
-13
-```
-
-**Expected Output:**
-
-```
-Niet deelbaar.
-```
-
----
-
-### Case 25
-
-**Description:** Run 25: args=37
-
-
-**Input:**
-
-```
+vrouw
 37
 ```
 
 **Expected Output:**
 
 ```
-Niet deelbaar.
+Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Werkend
 ```
 
 ---
 
-### Case 26
+### Case 14
 
-**Description:** Run 26: args=47
+**Description:** Run 14: args=vrouw, 71
 
 
 **Input:**
 
 ```
-47
+vrouw
+71
 ```
 
 **Expected Output:**
 
 ```
-Niet deelbaar.
+Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Pensioen
 ```
 
 ---
 
-### Case 27
+### Case 15
 
-**Description:** Run 27: args=181
+**Description:** Run 15: args=vrouw, 32
 
 
 **Input:**
 
 ```
-181
+vrouw
+32
 ```
 
 **Expected Output:**
 
 ```
-Niet deelbaar.
+Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Werkend
 ```
 
 ---
 
-### Case 28
+### Case 16
 
-**Description:** Run 28: args=136
+**Description:** Run 16: args=vrouw, 14
 
 
 **Input:**
 
 ```
-136
+vrouw
+14
 ```
 
 **Expected Output:**
 
 ```
-Niet deelbaar.
+Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Kind
 ```
 
 ---
 
-### Case 29
+### Case 17
 
-**Description:** Run 29: args=91
+**Description:** Run 17: args=vrouw, 1
 
 
 **Input:**
 
 ```
-91
+vrouw
+1
 ```
 
 **Expected Output:**
 
 ```
-Niet deelbaar.
+Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Kind
 ```
 
 ---
 
-### Case 30
+### Case 18
 
-**Description:** Run 30: args=45
+**Description:** Run 18: args=vrouw, 98
 
 
 **Input:**
 
 ```
-45
+vrouw
+98
 ```
 
 **Expected Output:**
 
 ```
-Niet deelbaar.
+Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Pensioen
+```
+
+---
+
+### Case 19
+
+**Description:** Run 19: args=vrouw, 34
+
+
+**Input:**
+
+```
+vrouw
+34
+```
+
+**Expected Output:**
+
+```
+Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Werkend
+```
+
+---
+
+### Case 20
+
+**Description:** Run 20: args=vrouw, 89
+
+
+**Input:**
+
+```
+vrouw
+89
+```
+
+**Expected Output:**
+
+```
+Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Pensioen
+```
+
+---
+
+### Case 21
+
+**Description:** Run 21: args=vrouw, 15
+
+
+**Input:**
+
+```
+vrouw
+15
+```
+
+**Expected Output:**
+
+```
+Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Kind
+```
+
+---
+
+### Case 22
+
+**Description:** Run 22: args=man, 13
+
+
+**Input:**
+
+```
+man
+13
+```
+
+**Expected Output:**
+
+```
+Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Kind
+```
+
+---
+
+### Case 23
+
+**Description:** Run 23: args=vrouw, 1
+
+
+**Input:**
+
+```
+vrouw
+1
+```
+
+**Expected Output:**
+
+```
+Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Kind
+```
+
+---
+
+### Case 24
+
+**Description:** Run 24: args=vrouw, 68
+
+
+**Input:**
+
+```
+vrouw
+68
+```
+
+**Expected Output:**
+
+```
+Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Pensioen
+```
+
+---
+
+### Case 25
+
+**Description:** Run 25: args=vrouw, 53
+
+
+**Input:**
+
+```
+vrouw
+53
+```
+
+**Expected Output:**
+
+```
+Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Werkend
 ```
 
 ---
