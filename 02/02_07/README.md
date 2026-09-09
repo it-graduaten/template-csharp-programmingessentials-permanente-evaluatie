@@ -1,5 +1,6 @@
-## 02.07
-Lees 4 getallen in. Druk van deze 4 getallen het kleinste getal af. Probeer dit zo efficiënt mogelijk op te lossen. Het moet heel gemakkelijk zijn om later een 5de getal in te lezen en toch nog altijd het kleinste af te drukken.
+# 02_07
+
+Vraag de gebruiker om het aantal minuten dat hij/zij per dag wandelt. Als de persoon minder dan 15 minuten wandelt, toon dan "Kort wandelen". Als de persoon tussen 15 en 45 minuten wandelt, toon dan "Gemiddeld wandelen". Als de persoon meer dan 45 minuten wandelt, toon dan "Lang wandelen".
 
 ## Fuzz Test Cases
 
@@ -9,550 +10,475 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=193, 172, 696, 59
+**Description:** Run 1: args=66
 
 
 **Input:**
 
 ```
-193
-172
-696
-59
+66
 ```
 
 **Expected Output:**
 
 ```
-Kleinste getal: 59
+Hoeveel minuten wandel je per dag? Lang wandelen
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=498, 107, 472, 142
+**Description:** Run 2: args=35
 
 
 **Input:**
 
 ```
-498
-107
-472
-142
+35
 ```
 
 **Expected Output:**
 
 ```
-Kleinste getal: 107
+Hoeveel minuten wandel je per dag? Gemiddeld wandelen
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=140, 596, 377, 280
+**Description:** Run 3: args=112
 
 
 **Input:**
 
 ```
-140
-596
-377
-280
+112
 ```
 
 **Expected Output:**
 
 ```
-Kleinste getal: 140
+Hoeveel minuten wandel je per dag? Lang wandelen
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=309, 443, 99, 47
+**Description:** Run 4: args=29
 
 
 **Input:**
 
 ```
-309
-443
-99
-47
+29
 ```
 
 **Expected Output:**
 
 ```
-Kleinste getal: 47
+Hoeveel minuten wandel je per dag? Gemiddeld wandelen
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=615, 392, 165, 767
+**Description:** Run 5: args=99
 
 
 **Input:**
 
 ```
-615
-392
-165
-767
+99
 ```
 
 **Expected Output:**
 
 ```
-Kleinste getal: 165
+Hoeveel minuten wandel je per dag? Lang wandelen
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=486, 505, 683, 503
+**Description:** Run 6: args=80
 
 
 **Input:**
 
 ```
-486
-505
-683
-503
+80
 ```
 
 **Expected Output:**
 
 ```
-Kleinste getal: 486
+Hoeveel minuten wandel je per dag? Lang wandelen
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=441, 446, 21, 369
+**Description:** Run 7: args=116
 
 
 **Input:**
 
 ```
-441
-446
-21
-369
+116
 ```
 
 **Expected Output:**
 
 ```
-Kleinste getal: 21
+Hoeveel minuten wandel je per dag? Lang wandelen
 ```
 
 ---
 
 ### Case 8
 
-**Description:** Run 8: args=666, 224, -9, 638
+**Description:** Run 8: args=64
 
 
 **Input:**
 
 ```
-666
-224
--9
-638
+64
 ```
 
 **Expected Output:**
 
 ```
-Kleinste getal: -9
+Hoeveel minuten wandel je per dag? Lang wandelen
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=331, 491, 481, 393
-
-
-**Input:**
-
-```
-331
-491
-481
-393
-```
-
-**Expected Output:**
-
-```
-Kleinste getal: 331
-```
-
----
-
-### Case 10
-
-**Description:** Run 10: args=120, 480, 461, 431
-
-
-**Input:**
-
-```
-120
-480
-461
-431
-```
-
-**Expected Output:**
-
-```
-Kleinste getal: 120
-```
-
----
-
-### Case 11
-
-**Description:** Run 11: args=-7, 33, 327, 731
-
-
-**Input:**
-
-```
--7
-33
-327
-731
-```
-
-**Expected Output:**
-
-```
-Kleinste getal: -7
-```
-
----
-
-### Case 12
-
-**Description:** Run 12: args=2, 362, 480, 362
+**Description:** Run 9: args=2
 
 
 **Input:**
 
 ```
 2
-362
-480
-362
 ```
 
 **Expected Output:**
 
 ```
-Kleinste getal: 2
+Hoeveel minuten wandel je per dag? Kort wandelen
+```
+
+---
+
+### Case 10
+
+**Description:** Run 10: args=37
+
+
+**Input:**
+
+```
+37
+```
+
+**Expected Output:**
+
+```
+Hoeveel minuten wandel je per dag? Gemiddeld wandelen
+```
+
+---
+
+### Case 11
+
+**Description:** Run 11: args=3
+
+
+**Input:**
+
+```
+3
+```
+
+**Expected Output:**
+
+```
+Hoeveel minuten wandel je per dag? Kort wandelen
+```
+
+---
+
+### Case 12
+
+**Description:** Run 12: args=44
+
+
+**Input:**
+
+```
+44
+```
+
+**Expected Output:**
+
+```
+Hoeveel minuten wandel je per dag? Gemiddeld wandelen
 ```
 
 ---
 
 ### Case 13
 
-**Description:** Run 13: args=772, 320, 666, 604
+**Description:** Run 13: args=99
 
 
 **Input:**
 
 ```
-772
-320
-666
-604
+99
 ```
 
 **Expected Output:**
 
 ```
-Kleinste getal: 320
+Hoeveel minuten wandel je per dag? Lang wandelen
 ```
 
 ---
 
 ### Case 14
 
-**Description:** Run 14: args=167, 367, 666, -1
+**Description:** Run 14: args=34
 
 
 **Input:**
 
 ```
-167
-367
-666
--1
+34
 ```
 
 **Expected Output:**
 
 ```
-Kleinste getal: -1
+Hoeveel minuten wandel je per dag? Gemiddeld wandelen
 ```
 
 ---
 
 ### Case 15
 
-**Description:** Run 15: args=419, 362, 367, 483
+**Description:** Run 15: args=99
 
 
 **Input:**
 
 ```
-419
-362
-367
-483
+99
 ```
 
 **Expected Output:**
 
 ```
-Kleinste getal: 362
+Hoeveel minuten wandel je per dag? Lang wandelen
 ```
 
 ---
 
 ### Case 16
 
-**Description:** Run 16: args=650, 793, 564, 371
+**Description:** Run 16: args=34
 
 
 **Input:**
 
 ```
-650
-793
-564
-371
+34
 ```
 
 **Expected Output:**
 
 ```
-Kleinste getal: 371
+Hoeveel minuten wandel je per dag? Gemiddeld wandelen
 ```
 
 ---
 
 ### Case 17
 
-**Description:** Run 17: args=228, 590, 472, 391
+**Description:** Run 17: args=29
 
 
 **Input:**
 
 ```
-228
-590
-472
-391
+29
 ```
 
 **Expected Output:**
 
 ```
-Kleinste getal: 228
+Hoeveel minuten wandel je per dag? Gemiddeld wandelen
 ```
 
 ---
 
 ### Case 18
 
-**Description:** Run 18: args=784, 647, 273, 780
+**Description:** Run 18: args=23
 
 
 **Input:**
 
 ```
-784
-647
-273
-780
+23
 ```
 
 **Expected Output:**
 
 ```
-Kleinste getal: 273
+Hoeveel minuten wandel je per dag? Gemiddeld wandelen
 ```
 
 ---
 
 ### Case 19
 
-**Description:** Run 19: args=761, 348, 526, 258
+**Description:** Run 19: args=56
 
 
 **Input:**
 
 ```
-761
-348
-526
-258
+56
 ```
 
 **Expected Output:**
 
 ```
-Kleinste getal: 258
+Hoeveel minuten wandel je per dag? Lang wandelen
 ```
 
 ---
 
 ### Case 20
 
-**Description:** Run 20: args=723, 591, 780, 482
+**Description:** Run 20: args=30
 
 
 **Input:**
 
 ```
-723
-591
-780
-482
+30
 ```
 
 **Expected Output:**
 
 ```
-Kleinste getal: 482
+Hoeveel minuten wandel je per dag? Gemiddeld wandelen
 ```
 
 ---
 
 ### Case 21
 
-**Description:** Run 21: args=400, 308, 417, 246
+**Description:** Run 21: args=90
 
 
 **Input:**
 
 ```
-400
-308
-417
-246
+90
 ```
 
 **Expected Output:**
 
 ```
-Kleinste getal: 246
+Hoeveel minuten wandel je per dag? Lang wandelen
 ```
 
 ---
 
 ### Case 22
 
-**Description:** Run 22: args=478, 701, 89, 212
+**Description:** Run 22: args=72
 
 
 **Input:**
 
 ```
-478
-701
-89
-212
+72
 ```
 
 **Expected Output:**
 
 ```
-Kleinste getal: 89
+Hoeveel minuten wandel je per dag? Lang wandelen
 ```
 
 ---
 
 ### Case 23
 
-**Description:** Run 23: args=48, 498, 148, 466
+**Description:** Run 23: args=82
 
 
 **Input:**
 
 ```
-48
-498
-148
-466
+82
 ```
 
 **Expected Output:**
 
 ```
-Kleinste getal: 48
+Hoeveel minuten wandel je per dag? Lang wandelen
 ```
 
 ---
 
 ### Case 24
 
-**Description:** Run 24: args=371, 450, 589, 492
+**Description:** Run 24: args=56
 
 
 **Input:**
 
 ```
-371
-450
-589
-492
+56
 ```
 
 **Expected Output:**
 
 ```
-Kleinste getal: 371
+Hoeveel minuten wandel je per dag? Lang wandelen
 ```
 
 ---
 
 ### Case 25
 
-**Description:** Run 25: args=350, 502, 730, 157
+**Description:** Run 25: args=37
 
 
 **Input:**
 
 ```
-350
-502
-730
-157
+37
 ```
 
 **Expected Output:**
 
 ```
-Kleinste getal: 157
+Hoeveel minuten wandel je per dag? Gemiddeld wandelen
 ```
 
 ---
