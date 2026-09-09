@@ -1,5 +1,6 @@
-## 02.02
-Lees 2 getallen in. Deel het eerste getal door het tweede getal. Houd rekening met delen door 0. Indien dit het geval is, toon je “... is niet deelbaar door 0.”
+# 02_02
+
+Vraag de gebruiker om een cijfer (tussen 0 en 100). Als het cijfer 50 of meer is, toon dan "Geslaagd". Anders toon je "Niet geslaagd."
 
 ## Fuzz Test Cases
 
@@ -9,300 +10,475 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=10, 14
-
-
-**Input:**
-
-```
-10
-14
-```
-
-**Expected Output:**
-
-```
-10 / 14 = 0
-```
-
----
-
-### Case 2
-
-**Description:** Run 2: args=9, 5
-
-
-**Input:**
-
-```
-9
-5
-```
-
-**Expected Output:**
-
-```
-9 / 5 = 1
-```
-
----
-
-### Case 3
-
-**Description:** Run 3: args=7, 15
-
-
-**Input:**
-
-```
-7
-15
-```
-
-**Expected Output:**
-
-```
-7 / 15 = 0
-```
-
----
-
-### Case 4
-
-**Description:** Run 4: args=13, 13
-
-
-**Input:**
-
-```
-13
-13
-```
-
-**Expected Output:**
-
-```
-13 / 13 = 1
-```
-
----
-
-### Case 5
-
-**Description:** Run 5: args=15, 16
-
-
-**Input:**
-
-```
-15
-16
-```
-
-**Expected Output:**
-
-```
-15 / 16 = 0
-```
-
----
-
-### Case 6
-
-**Description:** Run 6: args=9, 9
-
-
-**Input:**
-
-```
-9
-9
-```
-
-**Expected Output:**
-
-```
-9 / 9 = 1
-```
-
----
-
-### Case 7
-
-**Description:** Run 7: args=14, 3
-
-
-**Input:**
-
-```
-14
-3
-```
-
-**Expected Output:**
-
-```
-14 / 3 = 4
-```
-
----
-
-### Case 8
-
-**Description:** Run 8: args=9, 9
-
-
-**Input:**
-
-```
-9
-9
-```
-
-**Expected Output:**
-
-```
-9 / 9 = 1
-```
-
----
-
-### Case 9
-
-**Description:** Run 9: args=2, 4
-
-
-**Input:**
-
-```
-2
-4
-```
-
-**Expected Output:**
-
-```
-2 / 4 = 0
-```
-
----
-
-### Case 10
-
-**Description:** Run 10: args=3, 4
-
-
-**Input:**
-
-```
-3
-4
-```
-
-**Expected Output:**
-
-```
-3 / 4 = 0
-```
-
----
-
-### Case 11
-
-**Description:** Run 11: args=12, 14
+**Description:** Run 1: args=12
 
 
 **Input:**
 
 ```
 12
-14
 ```
 
 **Expected Output:**
 
 ```
-12 / 14 = 0
+Geef het behaalde cijfer: Niet geslaagd.
+```
+
+---
+
+### Case 2
+
+**Description:** Run 2: args=27
+
+
+**Input:**
+
+```
+27
+```
+
+**Expected Output:**
+
+```
+Geef het behaalde cijfer: Niet geslaagd.
+```
+
+---
+
+### Case 3
+
+**Description:** Run 3: args=42
+
+
+**Input:**
+
+```
+42
+```
+
+**Expected Output:**
+
+```
+Geef het behaalde cijfer: Niet geslaagd.
+```
+
+---
+
+### Case 4
+
+**Description:** Run 4: args=86
+
+
+**Input:**
+
+```
+86
+```
+
+**Expected Output:**
+
+```
+Geef het behaalde cijfer: Geslaagd
+```
+
+---
+
+### Case 5
+
+**Description:** Run 5: args=82
+
+
+**Input:**
+
+```
+82
+```
+
+**Expected Output:**
+
+```
+Geef het behaalde cijfer: Geslaagd
+```
+
+---
+
+### Case 6
+
+**Description:** Run 6: args=96
+
+
+**Input:**
+
+```
+96
+```
+
+**Expected Output:**
+
+```
+Geef het behaalde cijfer: Geslaagd
+```
+
+---
+
+### Case 7
+
+**Description:** Run 7: args=5
+
+
+**Input:**
+
+```
+5
+```
+
+**Expected Output:**
+
+```
+Geef het behaalde cijfer: Niet geslaagd.
+```
+
+---
+
+### Case 8
+
+**Description:** Run 8: args=78
+
+
+**Input:**
+
+```
+78
+```
+
+**Expected Output:**
+
+```
+Geef het behaalde cijfer: Geslaagd
+```
+
+---
+
+### Case 9
+
+**Description:** Run 9: args=97
+
+
+**Input:**
+
+```
+97
+```
+
+**Expected Output:**
+
+```
+Geef het behaalde cijfer: Geslaagd
+```
+
+---
+
+### Case 10
+
+**Description:** Run 10: args=49
+
+
+**Input:**
+
+```
+49
+```
+
+**Expected Output:**
+
+```
+Geef het behaalde cijfer: Niet geslaagd.
+```
+
+---
+
+### Case 11
+
+**Description:** Run 11: args=59
+
+
+**Input:**
+
+```
+59
+```
+
+**Expected Output:**
+
+```
+Geef het behaalde cijfer: Geslaagd
 ```
 
 ---
 
 ### Case 12
 
-**Description:** Run 12: args=13, 8
+**Description:** Run 12: args=60
 
 
 **Input:**
 
 ```
-13
-8
+60
 ```
 
 **Expected Output:**
 
 ```
-13 / 8 = 1
+Geef het behaalde cijfer: Geslaagd
 ```
 
 ---
 
 ### Case 13
 
-**Description:** Run 13: args=14, 1
+**Description:** Run 13: args=69
 
 
 **Input:**
 
 ```
-14
-1
+69
 ```
 
 **Expected Output:**
 
 ```
-14 / 1 = 14
+Geef het behaalde cijfer: Geslaagd
 ```
 
 ---
 
 ### Case 14
 
-**Description:** Run 14: args=3, 6
+**Description:** Run 14: args=44
 
 
 **Input:**
 
 ```
-3
-6
+44
 ```
 
 **Expected Output:**
 
 ```
-3 / 6 = 0
+Geef het behaalde cijfer: Niet geslaagd.
 ```
 
 ---
 
 ### Case 15
 
-**Description:** Run 15: args=10, 9
+**Description:** Run 15: args=93
 
 
 **Input:**
 
 ```
-10
-9
+93
 ```
 
 **Expected Output:**
 
 ```
-10 / 9 = 1
+Geef het behaalde cijfer: Geslaagd
+```
+
+---
+
+### Case 16
+
+**Description:** Run 16: args=23
+
+
+**Input:**
+
+```
+23
+```
+
+**Expected Output:**
+
+```
+Geef het behaalde cijfer: Niet geslaagd.
+```
+
+---
+
+### Case 17
+
+**Description:** Run 17: args=43
+
+
+**Input:**
+
+```
+43
+```
+
+**Expected Output:**
+
+```
+Geef het behaalde cijfer: Niet geslaagd.
+```
+
+---
+
+### Case 18
+
+**Description:** Run 18: args=11
+
+
+**Input:**
+
+```
+11
+```
+
+**Expected Output:**
+
+```
+Geef het behaalde cijfer: Niet geslaagd.
+```
+
+---
+
+### Case 19
+
+**Description:** Run 19: args=77
+
+
+**Input:**
+
+```
+77
+```
+
+**Expected Output:**
+
+```
+Geef het behaalde cijfer: Geslaagd
+```
+
+---
+
+### Case 20
+
+**Description:** Run 20: args=42
+
+
+**Input:**
+
+```
+42
+```
+
+**Expected Output:**
+
+```
+Geef het behaalde cijfer: Niet geslaagd.
+```
+
+---
+
+### Case 21
+
+**Description:** Run 21: args=52
+
+
+**Input:**
+
+```
+52
+```
+
+**Expected Output:**
+
+```
+Geef het behaalde cijfer: Geslaagd
+```
+
+---
+
+### Case 22
+
+**Description:** Run 22: args=90
+
+
+**Input:**
+
+```
+90
+```
+
+**Expected Output:**
+
+```
+Geef het behaalde cijfer: Geslaagd
+```
+
+---
+
+### Case 23
+
+**Description:** Run 23: args=26
+
+
+**Input:**
+
+```
+26
+```
+
+**Expected Output:**
+
+```
+Geef het behaalde cijfer: Niet geslaagd.
+```
+
+---
+
+### Case 24
+
+**Description:** Run 24: args=43
+
+
+**Input:**
+
+```
+43
+```
+
+**Expected Output:**
+
+```
+Geef het behaalde cijfer: Niet geslaagd.
+```
+
+---
+
+### Case 25
+
+**Description:** Run 25: args=53
+
+
+**Input:**
+
+```
+53
+```
+
+**Expected Output:**
+
+```
+Geef het behaalde cijfer: Geslaagd
 ```
 
 ---
