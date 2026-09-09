@@ -1,5 +1,6 @@
-## 02.06
-Lees 3 getallen in en zoek het gemiddelde van deze drie getallen. Wanneer het resultaat hoger dan of gelijk is aan 50 print je geslaagd anders niet geslaagd.
+# 02_06
+
+Vraag de gebruiker om een getal. Toon of het getal even of oneven is. Een getal is even als het deelbaar is door 2 (gebruik de modulo-operator %).
 
 ## Fuzz Test Cases
 
@@ -9,525 +10,475 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=18, 60, 62
+**Description:** Run 1: args=80
 
 
 **Input:**
 
 ```
-18
-60
-62
+80
 ```
 
 **Expected Output:**
 
 ```
-46, niet geslaagd
+Geef een getal: Het getal is even
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=42, 44, 57
+**Description:** Run 2: args=-74
 
 
 **Input:**
 
 ```
-42
-44
-57
+-74
 ```
 
 **Expected Output:**
 
 ```
-47, niet geslaagd
+Geef een getal: Het getal is even
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=39, 75, 34
+**Description:** Run 3: args=68
 
 
 **Input:**
 
 ```
-39
-75
-34
+68
 ```
 
 **Expected Output:**
 
 ```
-49, niet geslaagd
+Geef een getal: Het getal is even
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=42, 88, 44
+**Description:** Run 4: args=39
 
 
 **Input:**
 
 ```
-42
-88
-44
+39
 ```
 
 **Expected Output:**
 
 ```
-58, geslaagd
+Geef een getal: Het getal is oneven
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=62, 62, 84
+**Description:** Run 5: args=21
 
 
 **Input:**
 
 ```
-62
-62
-84
+21
 ```
 
 **Expected Output:**
 
 ```
-69, geslaagd
+Geef een getal: Het getal is oneven
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=50, 73, 28
+**Description:** Run 6: args=8
 
 
 **Input:**
 
 ```
-50
-73
-28
+8
 ```
 
 **Expected Output:**
 
 ```
-50, geslaagd
+Geef een getal: Het getal is even
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=55, 49, 30
+**Description:** Run 7: args=-84
 
 
 **Input:**
 
 ```
-55
-49
-30
+-84
 ```
 
 **Expected Output:**
 
 ```
-44, niet geslaagd
+Geef een getal: Het getal is even
 ```
 
 ---
 
 ### Case 8
 
-**Description:** Run 8: args=22, 80, 96
+**Description:** Run 8: args=-32
 
 
 **Input:**
 
 ```
-22
-80
-96
+-32
 ```
 
 **Expected Output:**
 
 ```
-66, geslaagd
+Geef een getal: Het getal is even
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=54, 79, 60
+**Description:** Run 9: args=-5
 
 
 **Input:**
 
 ```
-54
-79
-60
+-5
 ```
 
 **Expected Output:**
 
 ```
-64, geslaagd
+Geef een getal: Het getal is oneven
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=67, 62, 54
+**Description:** Run 10: args=-94
 
 
 **Input:**
 
 ```
-67
-62
-54
+-94
 ```
 
 **Expected Output:**
 
 ```
-61, geslaagd
+Geef een getal: Het getal is even
 ```
 
 ---
 
 ### Case 11
 
-**Description:** Run 11: args=31, 47, 81
+**Description:** Run 11: args=29
 
 
 **Input:**
 
 ```
-31
-47
-81
+29
 ```
 
 **Expected Output:**
 
 ```
-53, geslaagd
+Geef een getal: Het getal is oneven
 ```
 
 ---
 
 ### Case 12
 
-**Description:** Run 12: args=55, 30, 51
+**Description:** Run 12: args=-56
 
 
 **Input:**
 
 ```
-55
-30
-51
+-56
 ```
 
 **Expected Output:**
 
 ```
-45, niet geslaagd
+Geef een getal: Het getal is even
 ```
 
 ---
 
 ### Case 13
 
-**Description:** Run 13: args=52, 59, 86
+**Description:** Run 13: args=-11
 
 
 **Input:**
 
 ```
-52
-59
-86
+-11
 ```
 
 **Expected Output:**
 
 ```
-65, geslaagd
+Geef een getal: Het getal is oneven
 ```
 
 ---
 
 ### Case 14
 
-**Description:** Run 14: args=55, 63, 27
+**Description:** Run 14: args=-33
 
 
 **Input:**
 
 ```
-55
-63
-27
+-33
 ```
 
 **Expected Output:**
 
 ```
-48, niet geslaagd
+Geef een getal: Het getal is oneven
 ```
 
 ---
 
 ### Case 15
 
-**Description:** Run 15: args=30, 80, 96
+**Description:** Run 15: args=-21
 
 
 **Input:**
 
 ```
-30
-80
-96
+-21
 ```
 
 **Expected Output:**
 
 ```
-68, geslaagd
+Geef een getal: Het getal is oneven
 ```
 
 ---
 
 ### Case 16
 
-**Description:** Run 16: args=67, 60, 90
+**Description:** Run 16: args=-97
 
 
 **Input:**
 
 ```
-67
-60
-90
+-97
 ```
 
 **Expected Output:**
 
 ```
-72, geslaagd
+Geef een getal: Het getal is oneven
 ```
 
 ---
 
 ### Case 17
 
-**Description:** Run 17: args=64, 77, 76
+**Description:** Run 17: args=40
 
 
 **Input:**
 
 ```
-64
-77
-76
+40
 ```
 
 **Expected Output:**
 
 ```
-72, geslaagd
+Geef een getal: Het getal is even
 ```
 
 ---
 
 ### Case 18
 
-**Description:** Run 18: args=17, 44, 53
+**Description:** Run 18: args=-61
 
 
 **Input:**
 
 ```
-17
-44
-53
+-61
 ```
 
 **Expected Output:**
 
 ```
-38, niet geslaagd
+Geef een getal: Het getal is oneven
 ```
 
 ---
 
 ### Case 19
 
-**Description:** Run 19: args=31, 39, 73
+**Description:** Run 19: args=60
 
 
 **Input:**
 
 ```
-31
-39
-73
+60
 ```
 
 **Expected Output:**
 
 ```
-47, niet geslaagd
+Geef een getal: Het getal is even
 ```
 
 ---
 
 ### Case 20
 
-**Description:** Run 20: args=55, 60, 61
+**Description:** Run 20: args=29
 
 
 **Input:**
 
 ```
-55
-60
-61
+29
 ```
 
 **Expected Output:**
 
 ```
-58, geslaagd
+Geef een getal: Het getal is oneven
 ```
 
 ---
 
 ### Case 21
 
-**Description:** Run 21: args=58, 83, 23
+**Description:** Run 21: args=77
 
 
 **Input:**
 
 ```
-58
-83
-23
+77
 ```
 
 **Expected Output:**
 
 ```
-54, geslaagd
+Geef een getal: Het getal is oneven
 ```
 
 ---
 
 ### Case 22
 
-**Description:** Run 22: args=37, 49, 54
+**Description:** Run 22: args=72
 
 
 **Input:**
 
 ```
-37
-49
-54
+72
 ```
 
 **Expected Output:**
 
 ```
-46, niet geslaagd
+Geef een getal: Het getal is even
 ```
 
 ---
 
 ### Case 23
 
-**Description:** Run 23: args=67, 85, 74
+**Description:** Run 23: args=-22
 
 
 **Input:**
 
 ```
-67
-85
-74
+-22
 ```
 
 **Expected Output:**
 
 ```
-75, geslaagd
+Geef een getal: Het getal is even
 ```
 
 ---
 
 ### Case 24
 
-**Description:** Run 24: args=60, 57, 33
+**Description:** Run 24: args=90
 
 
 **Input:**
 
 ```
-60
-57
-33
+90
 ```
 
 **Expected Output:**
 
 ```
-50, geslaagd
+Geef een getal: Het getal is even
 ```
 
 ---
 
 ### Case 25
 
-**Description:** Run 25: args=51, 52, 47
+**Description:** Run 25: args=3
 
 
 **Input:**
 
 ```
-51
-52
-47
+3
 ```
 
 **Expected Output:**
 
 ```
-50, geslaagd
+Geef een getal: Het getal is oneven
 ```
 
 ---
