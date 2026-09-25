@@ -12,500 +12,500 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=223.73058549622635, 28.974906545373496
+**Description:** Run 1: args=231.14820883699647, 25.589045589883064
 
 
 **Input:**
 
 ```
-223.73058549622635
-28.974906545373496
+231.14820883699647
+25.589045589883064
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(1): Couldn't find a project to run. Ensure a project exists in /workspace/exercise-solutions/programming-essentials/01/01_05/consoleapp, or pass the path to the project using --project.
+116.75
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=144.95326238986243, 20.616518729876354
+**Description:** Run 2: args=139.67908171924165, 14.125935464306611
 
 
 **Input:**
 
 ```
-144.95326238986243
-20.616518729876354
+139.67908171924165
+14.125935464306611
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(1): Couldn't find a project to run. Ensure a project exists in /workspace/exercise-solutions/programming-essentials/01/01_05/consoleapp, or pass the path to the project using --project.
+48.09
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=122.73395837082846, 18.829111824151035
+**Description:** Run 3: args=234.7566477290873, 20.773891059527834
 
 
 **Input:**
 
 ```
-122.73395837082846
-18.829111824151035
+234.7566477290873
+20.773891059527834
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(1): Couldn't find a project to run. Ensure a project exists in /workspace/exercise-solutions/programming-essentials/01/01_05/consoleapp, or pass the path to the project using --project.
+108.93
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=130.57022865000414, 28.11235454634874
+**Description:** Run 4: args=177.94248550618852, 26.117628660544042
 
 
 **Input:**
 
 ```
-130.57022865000414
-28.11235454634874
+177.94248550618852
+26.117628660544042
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(1): Couldn't find a project to run. Ensure a project exists in /workspace/exercise-solutions/programming-essentials/01/01_05/consoleapp, or pass the path to the project using --project.
+91.21
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=195.32896579155823, 29.074902176003885
+**Description:** Run 5: args=244.25415463610267, 26.886873322285123
 
 
 **Input:**
 
 ```
-195.32896579155823
-29.074902176003885
+244.25415463610267
+26.886873322285123
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(1): Couldn't find a project to run. Ensure a project exists in /workspace/exercise-solutions/programming-essentials/01/01_05/consoleapp, or pass the path to the project using --project.
+125.90
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=149.19086109746505, 27.09920542330883
+**Description:** Run 6: args=211.87739107533335, 10.566241813136696
 
 
 **Input:**
 
 ```
-149.19086109746505
-27.09920542330883
+211.87739107533335
+10.566241813136696
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(1): Couldn't find a project to run. Ensure a project exists in /workspace/exercise-solutions/programming-essentials/01/01_05/consoleapp, or pass the path to the project using --project.
+77.07
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=165.72556134692513, 16.417464038553433
+**Description:** Run 7: args=190.74952070102967, 12.732892739697576
 
 
 **Input:**
 
 ```
-165.72556134692513
-16.417464038553433
+190.74952070102967
+12.732892739697576
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(1): Couldn't find a project to run. Ensure a project exists in /workspace/exercise-solutions/programming-essentials/01/01_05/consoleapp, or pass the path to the project using --project.
+70.84
 ```
 
 ---
 
 ### Case 8
 
-**Description:** Run 8: args=212.46648981049114, 29.233581057343766
+**Description:** Run 8: args=147.00733884016034, 24.24629167993138
 
 
 **Input:**
 
 ```
-212.46648981049114
-29.233581057343766
+147.00733884016034
+24.24629167993138
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(1): Couldn't find a project to run. Ensure a project exists in /workspace/exercise-solutions/programming-essentials/01/01_05/consoleapp, or pass the path to the project using --project.
+72.00
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=178.76817101987245, 23.002467978844056
+**Description:** Run 9: args=167.03086453958417, 17.155062296167262
 
 
 **Input:**
 
 ```
-178.76817101987245
-23.002467978844056
+167.03086453958417
+17.155062296167262
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(1): Couldn't find a project to run. Ensure a project exists in /workspace/exercise-solutions/programming-essentials/01/01_05/consoleapp, or pass the path to the project using --project.
+67.83
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=157.5400607819227, 27.21387255410299
+**Description:** Run 10: args=189.03995720645906, 26.239184520356154
 
 
 **Input:**
 
 ```
-157.5400607819227
-27.21387255410299
+189.03995720645906
+26.239184520356154
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(1): Couldn't find a project to run. Ensure a project exists in /workspace/exercise-solutions/programming-essentials/01/01_05/consoleapp, or pass the path to the project using --project.
+97.00
 ```
 
 ---
 
 ### Case 11
 
-**Description:** Run 11: args=196.39722710503167, 29.233382484787406
+**Description:** Run 11: args=210.6007080070044, 23.38178437600139
 
 
 **Input:**
 
 ```
-196.39722710503167
-29.233382484787406
+210.6007080070044
+23.38178437600139
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(1): Couldn't find a project to run. Ensure a project exists in /workspace/exercise-solutions/programming-essentials/01/01_05/consoleapp, or pass the path to the project using --project.
+102.06
 ```
 
 ---
 
 ### Case 12
 
-**Description:** Run 12: args=144.82651145579877, 24.388574133483182
+**Description:** Run 12: args=195.69173868549743, 20.658528589187977
 
 
 **Input:**
 
 ```
-144.82651145579877
-24.388574133483182
+195.69173868549743
+20.658528589187977
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(1): Couldn't find a project to run. Ensure a project exists in /workspace/exercise-solutions/programming-essentials/01/01_05/consoleapp, or pass the path to the project using --project.
+89.16
 ```
 
 ---
 
 ### Case 13
 
-**Description:** Run 13: args=248.69466936484952, 23.264776939445476
+**Description:** Run 13: args=195.83843167072308, 28.93033089465201
 
 
 **Input:**
 
 ```
-248.69466936484952
-23.264776939445476
+195.83843167072308
+28.93033089465201
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(1): Couldn't find a project to run. Ensure a project exists in /workspace/exercise-solutions/programming-essentials/01/01_05/consoleapp, or pass the path to the project using --project.
+105.78
 ```
 
 ---
 
 ### Case 14
 
-**Description:** Run 14: args=202.81738770038328, 21.729470964931018
+**Description:** Run 14: args=168.04679033288625, 25.761316419600732
 
 
 **Input:**
 
 ```
-202.81738770038328
-21.729470964931018
+168.04679033288625
+25.761316419600732
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(1): Couldn't find a project to run. Ensure a project exists in /workspace/exercise-solutions/programming-essentials/01/01_05/consoleapp, or pass the path to the project using --project.
+85.55
 ```
 
 ---
 
 ### Case 15
 
-**Description:** Run 15: args=157.29253310132873, 27.670595331061698
+**Description:** Run 15: args=202.77567894034334, 18.800193711551557
 
 
 **Input:**
 
 ```
-157.29253310132873
-27.670595331061698
+202.77567894034334
+18.800193711551557
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(1): Couldn't find a project to run. Ensure a project exists in /workspace/exercise-solutions/programming-essentials/01/01_05/consoleapp, or pass the path to the project using --project.
+88.99
 ```
 
 ---
 
 ### Case 16
 
-**Description:** Run 16: args=240.355256978523, 20.36265524257552
+**Description:** Run 16: args=198.00493080945984, 29.846040413797212
 
 
 **Input:**
 
 ```
-240.355256978523
-20.36265524257552
+198.00493080945984
+29.846040413797212
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(1): Couldn't find a project to run. Ensure a project exists in /workspace/exercise-solutions/programming-essentials/01/01_05/consoleapp, or pass the path to the project using --project.
+108.69
 ```
 
 ---
 
 ### Case 17
 
-**Description:** Run 17: args=179.4096732480316, 10.88466856298378
+**Description:** Run 17: args=184.2430178286275, 21.972804672441455
 
 
 **Input:**
 
 ```
-179.4096732480316
-10.88466856298378
+184.2430178286275
+21.972804672441455
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(1): Couldn't find a project to run. Ensure a project exists in /workspace/exercise-solutions/programming-essentials/01/01_05/consoleapp, or pass the path to the project using --project.
+86.07
 ```
 
 ---
 
 ### Case 18
 
-**Description:** Run 18: args=217.6965633598948, 15.952243417800604
+**Description:** Run 18: args=232.7819973278835, 25.227639512678458
 
 
 **Input:**
 
 ```
-217.6965633598948
-15.952243417800604
+232.7819973278835
+25.227639512678458
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(1): Couldn't find a project to run. Ensure a project exists in /workspace/exercise-solutions/programming-essentials/01/01_05/consoleapp, or pass the path to the project using --project.
+116.85
 ```
 
 ---
 
 ### Case 19
 
-**Description:** Run 19: args=123.91967196042312, 22.576695052135456
+**Description:** Run 19: args=235.5523068201805, 16.163048892714606
 
 
 **Input:**
 
 ```
-123.91967196042312
-22.576695052135456
+235.5523068201805
+16.163048892714606
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(1): Couldn't find a project to run. Ensure a project exists in /workspace/exercise-solutions/programming-essentials/01/01_05/consoleapp, or pass the path to the project using --project.
+100.10
 ```
 
 ---
 
 ### Case 20
 
-**Description:** Run 20: args=186.72663484293122, 17.668032559937366
+**Description:** Run 20: args=124.53406339923885, 10.613196050436164
 
 
 **Input:**
 
 ```
-186.72663484293122
-17.668032559937366
+124.53406339923885
+10.613196050436164
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(1): Couldn't find a project to run. Ensure a project exists in /workspace/exercise-solutions/programming-essentials/01/01_05/consoleapp, or pass the path to the project using --project.
+33.49
 ```
 
 ---
 
 ### Case 21
 
-**Description:** Run 21: args=190.7222388095779, 25.6849569244676
+**Description:** Run 21: args=198.78030376449158, 28.38309552064657
 
 
 **Input:**
 
 ```
-190.7222388095779
-25.6849569244676
+198.78030376449158
+28.38309552064657
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(1): Couldn't find a project to run. Ensure a project exists in /workspace/exercise-solutions/programming-essentials/01/01_05/consoleapp, or pass the path to the project using --project.
+106.16
 ```
 
 ---
 
 ### Case 22
 
-**Description:** Run 22: args=191.17245838602418, 21.46263285888959
+**Description:** Run 22: args=152.8531898028928, 21.85205497705424
 
 
 **Input:**
 
 ```
-191.17245838602418
-21.46263285888959
+152.8531898028928
+21.85205497705424
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(1): Couldn't find a project to run. Ensure a project exists in /workspace/exercise-solutions/programming-essentials/01/01_05/consoleapp, or pass the path to the project using --project.
+70.13
 ```
 
 ---
 
 ### Case 23
 
-**Description:** Run 23: args=112.37210276094372, 21.295833167232512
+**Description:** Run 23: args=233.28576271043065, 16.476588625013928
 
 
 **Input:**
 
 ```
-112.37210276094372
-21.295833167232512
+233.28576271043065
+16.476588625013928
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(1): Couldn't find a project to run. Ensure a project exists in /workspace/exercise-solutions/programming-essentials/01/01_05/consoleapp, or pass the path to the project using --project.
+99.60
 ```
 
 ---
 
 ### Case 24
 
-**Description:** Run 24: args=241.26202589594416, 11.619167950916049
+**Description:** Run 24: args=138.1720390432705, 27.514371696047945
 
 
 **Input:**
 
 ```
-241.26202589594416
-11.619167950916049
+138.1720390432705
+27.514371696047945
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(1): Couldn't find a project to run. Ensure a project exists in /workspace/exercise-solutions/programming-essentials/01/01_05/consoleapp, or pass the path to the project using --project.
+74.11
 ```
 
 ---
 
 ### Case 25
 
-**Description:** Run 25: args=143.00322384440247, 27.61605072276616
+**Description:** Run 25: args=188.33948755274295, 22.936242569639965
 
 
 **Input:**
 
 ```
-143.00322384440247
-27.61605072276616
+188.33948755274295
+22.936242569639965
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(1): Couldn't find a project to run. Ensure a project exists in /workspace/exercise-solutions/programming-essentials/01/01_05/consoleapp, or pass the path to the project using --project.
+90.04
 ```
 
 ---
