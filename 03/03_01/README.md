@@ -20,140 +20,7 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=9
-
-
-**Input:**
-
-```
-9
-```
-
-**Expected Output:**
-
-```
-Geef een getal tussen 1 en 7: Ongeldige dag
-```
-
----
-
-### Case 2
-
-**Description:** Run 2: args=7
-
-
-**Input:**
-
-```
-7
-```
-
-**Expected Output:**
-
-```
-Geef een getal tussen 1 en 7: zondag
-```
-
----
-
-### Case 3
-
-**Description:** Run 3: args=9
-
-
-**Input:**
-
-```
-9
-```
-
-**Expected Output:**
-
-```
-Geef een getal tussen 1 en 7: Ongeldige dag
-```
-
----
-
-### Case 4
-
-**Description:** Run 4: args=8
-
-
-**Input:**
-
-```
-8
-```
-
-**Expected Output:**
-
-```
-Geef een getal tussen 1 en 7: Ongeldige dag
-```
-
----
-
-### Case 5
-
-**Description:** Run 5: args=4
-
-
-**Input:**
-
-```
-4
-```
-
-**Expected Output:**
-
-```
-Geef een getal tussen 1 en 7: donderdag
-```
-
----
-
-### Case 6
-
-**Description:** Run 6: args=8
-
-
-**Input:**
-
-```
-8
-```
-
-**Expected Output:**
-
-```
-Geef een getal tussen 1 en 7: Ongeldige dag
-```
-
----
-
-### Case 7
-
-**Description:** Run 7: args=0
-
-
-**Input:**
-
-```
-0
-```
-
-**Expected Output:**
-
-```
-Geef een getal tussen 1 en 7: Ongeldige dag
-```
-
----
-
-### Case 8
-
-**Description:** Run 8: args=1
+**Description:** Run 1: args=1
 
 
 **Input:**
@@ -165,109 +32,14 @@ Geef een getal tussen 1 en 7: Ongeldige dag
 **Expected Output:**
 
 ```
-Geef een getal tussen 1 en 7: maandag
+maandag
 ```
 
 ---
 
-### Case 9
+### Case 2
 
-**Description:** Run 9: args=3
-
-
-**Input:**
-
-```
-3
-```
-
-**Expected Output:**
-
-```
-Geef een getal tussen 1 en 7: woensdag
-```
-
----
-
-### Case 10
-
-**Description:** Run 10: args=0
-
-
-**Input:**
-
-```
-0
-```
-
-**Expected Output:**
-
-```
-Geef een getal tussen 1 en 7: Ongeldige dag
-```
-
----
-
-### Case 11
-
-**Description:** Run 11: args=5
-
-
-**Input:**
-
-```
-5
-```
-
-**Expected Output:**
-
-```
-Geef een getal tussen 1 en 7: vrijdag
-```
-
----
-
-### Case 12
-
-**Description:** Run 12: args=8
-
-
-**Input:**
-
-```
-8
-```
-
-**Expected Output:**
-
-```
-Geef een getal tussen 1 en 7: Ongeldige dag
-```
-
----
-
-### Case 13
-
-**Description:** Run 13: args=7
-
-
-**Input:**
-
-```
-7
-```
-
-**Expected Output:**
-
-```
-Geef een getal tussen 1 en 7: zondag
-```
-
----
-
-### Case 14
-
-**Description:** Run 14: args=4
+**Description:** Run 2: args=4
 
 
 **Input:**
@@ -279,33 +51,14 @@ Geef een getal tussen 1 en 7: zondag
 **Expected Output:**
 
 ```
-Geef een getal tussen 1 en 7: donderdag
+donderdag
 ```
 
 ---
 
-### Case 15
+### Case 3
 
-**Description:** Run 15: args=2
-
-
-**Input:**
-
-```
-2
-```
-
-**Expected Output:**
-
-```
-Geef een getal tussen 1 en 7: dinsdag
-```
-
----
-
-### Case 16
-
-**Description:** Run 16: args=5
+**Description:** Run 3: args=5
 
 
 **Input:**
@@ -317,7 +70,254 @@ Geef een getal tussen 1 en 7: dinsdag
 **Expected Output:**
 
 ```
-Geef een getal tussen 1 en 7: vrijdag
+vrijdag
+```
+
+---
+
+### Case 4
+
+**Description:** Run 4: args=7
+
+
+**Input:**
+
+```
+7
+```
+
+**Expected Output:**
+
+```
+zondag
+```
+
+---
+
+### Case 5
+
+**Description:** Run 5: args=9
+
+
+**Input:**
+
+```
+9
+```
+
+**Expected Output:**
+
+```
+Ongeldige dag
+```
+
+---
+
+### Case 6
+
+**Description:** Run 6: args=10
+
+
+**Input:**
+
+```
+10
+```
+
+**Expected Output:**
+
+```
+Ongeldige dag
+```
+
+---
+
+### Case 7
+
+**Description:** Run 7: args=4
+
+
+**Input:**
+
+```
+4
+```
+
+**Expected Output:**
+
+```
+donderdag
+```
+
+---
+
+### Case 8
+
+**Description:** Run 8: args=6
+
+
+**Input:**
+
+```
+6
+```
+
+**Expected Output:**
+
+```
+zaterdag
+```
+
+---
+
+### Case 9
+
+**Description:** Run 9: args=6
+
+
+**Input:**
+
+```
+6
+```
+
+**Expected Output:**
+
+```
+zaterdag
+```
+
+---
+
+### Case 10
+
+**Description:** Run 10: args=2
+
+
+**Input:**
+
+```
+2
+```
+
+**Expected Output:**
+
+```
+dinsdag
+```
+
+---
+
+### Case 11
+
+**Description:** Run 11: args=0
+
+
+**Input:**
+
+```
+0
+```
+
+**Expected Output:**
+
+```
+Ongeldige dag
+```
+
+---
+
+### Case 12
+
+**Description:** Run 12: args=1
+
+
+**Input:**
+
+```
+1
+```
+
+**Expected Output:**
+
+```
+maandag
+```
+
+---
+
+### Case 13
+
+**Description:** Run 13: args=2
+
+
+**Input:**
+
+```
+2
+```
+
+**Expected Output:**
+
+```
+dinsdag
+```
+
+---
+
+### Case 14
+
+**Description:** Run 14: args=0
+
+
+**Input:**
+
+```
+0
+```
+
+**Expected Output:**
+
+```
+Ongeldige dag
+```
+
+---
+
+### Case 15
+
+**Description:** Run 15: args=4
+
+
+**Input:**
+
+```
+4
+```
+
+**Expected Output:**
+
+```
+donderdag
+```
+
+---
+
+### Case 16
+
+**Description:** Run 16: args=2
+
+
+**Input:**
+
+```
+2
+```
+
+**Expected Output:**
+
+```
+dinsdag
 ```
 
 ---
@@ -336,7 +336,7 @@ Geef een getal tussen 1 en 7: vrijdag
 **Expected Output:**
 
 ```
-Geef een getal tussen 1 en 7: Ongeldige dag
+Ongeldige dag
 ```
 
 ---
@@ -355,26 +355,26 @@ Geef een getal tussen 1 en 7: Ongeldige dag
 **Expected Output:**
 
 ```
-Geef een getal tussen 1 en 7: vrijdag
+vrijdag
 ```
 
 ---
 
 ### Case 19
 
-**Description:** Run 19: args=1
+**Description:** Run 19: args=6
 
 
 **Input:**
 
 ```
-1
+6
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal tussen 1 en 7: maandag
+zaterdag
 ```
 
 ---
@@ -393,26 +393,26 @@ Geef een getal tussen 1 en 7: maandag
 **Expected Output:**
 
 ```
-Geef een getal tussen 1 en 7: zondag
+zondag
 ```
 
 ---
 
 ### Case 21
 
-**Description:** Run 21: args=6
+**Description:** Run 21: args=10
 
 
 **Input:**
 
 ```
-6
+10
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal tussen 1 en 7: zaterdag
+Ongeldige dag
 ```
 
 ---
@@ -431,26 +431,26 @@ Geef een getal tussen 1 en 7: zaterdag
 **Expected Output:**
 
 ```
-Geef een getal tussen 1 en 7: donderdag
+donderdag
 ```
 
 ---
 
 ### Case 23
 
-**Description:** Run 23: args=3
+**Description:** Run 23: args=5
 
 
 **Input:**
 
 ```
-3
+5
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal tussen 1 en 7: woensdag
+vrijdag
 ```
 
 ---
@@ -469,26 +469,26 @@ Geef een getal tussen 1 en 7: woensdag
 **Expected Output:**
 
 ```
-Geef een getal tussen 1 en 7: zaterdag
+zaterdag
 ```
 
 ---
 
 ### Case 25
 
-**Description:** Run 25: args=8
+**Description:** Run 25: args=10
 
 
 **Input:**
 
 ```
-8
+10
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal tussen 1 en 7: Ongeldige dag
+Ongeldige dag
 ```
 
 ---

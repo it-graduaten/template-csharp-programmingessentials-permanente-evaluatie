@@ -15,64 +15,45 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=149
+**Description:** Run 1: args=684
 
 
 **Input:**
 
 ```
-149
+684
 ```
 
 **Expected Output:**
 
 ```
-Geef een jaartal: Geen schrikkeljaar
+Schrikkeljaar
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=1409
+**Description:** Run 2: args=1242
 
 
 **Input:**
 
 ```
-1409
+1242
 ```
 
 **Expected Output:**
 
 ```
-Geef een jaartal: Geen schrikkeljaar
+Geen schrikkeljaar
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=1070
-
-
-**Input:**
-
-```
-1070
-```
-
-**Expected Output:**
-
-```
-Geef een jaartal: Geen schrikkeljaar
-```
-
----
-
-### Case 4
-
-**Description:** Run 4: args=716
+**Description:** Run 3: args=716
 
 
 **Input:**
@@ -84,406 +65,425 @@ Geef een jaartal: Geen schrikkeljaar
 **Expected Output:**
 
 ```
-Geef een jaartal: Schrikkeljaar
+Schrikkeljaar
+```
+
+---
+
+### Case 4
+
+**Description:** Run 4: args=1233
+
+
+**Input:**
+
+```
+1233
+```
+
+**Expected Output:**
+
+```
+Geen schrikkeljaar
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=604
+**Description:** Run 5: args=1973
 
 
 **Input:**
 
 ```
-604
+1973
 ```
 
 **Expected Output:**
 
 ```
-Geef een jaartal: Schrikkeljaar
+Geen schrikkeljaar
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=1766
+**Description:** Run 6: args=1954
 
 
 **Input:**
 
 ```
-1766
+1954
 ```
 
 **Expected Output:**
 
 ```
-Geef een jaartal: Geen schrikkeljaar
+Geen schrikkeljaar
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=496
+**Description:** Run 7: args=857
 
 
 **Input:**
 
 ```
-496
+857
 ```
 
 **Expected Output:**
 
 ```
-Geef een jaartal: Schrikkeljaar
+Geen schrikkeljaar
 ```
 
 ---
 
 ### Case 8
 
-**Description:** Run 8: args=888
+**Description:** Run 8: args=1361
 
 
 **Input:**
 
 ```
-888
+1361
 ```
 
 **Expected Output:**
 
 ```
-Geef een jaartal: Schrikkeljaar
+Geen schrikkeljaar
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=22
+**Description:** Run 9: args=1453
 
 
 **Input:**
 
 ```
-22
+1453
 ```
 
 **Expected Output:**
 
 ```
-Geef een jaartal: Geen schrikkeljaar
+Geen schrikkeljaar
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=1935
+**Description:** Run 10: args=1597
 
 
 **Input:**
 
 ```
-1935
+1597
 ```
 
 **Expected Output:**
 
 ```
-Geef een jaartal: Geen schrikkeljaar
+Geen schrikkeljaar
 ```
 
 ---
 
 ### Case 11
 
-**Description:** Run 11: args=1900
+**Description:** Run 11: args=1954
 
 
 **Input:**
 
 ```
-1900
+1954
 ```
 
 **Expected Output:**
 
 ```
-Geef een jaartal: Geen schrikkeljaar
+Geen schrikkeljaar
 ```
 
 ---
 
 ### Case 12
 
-**Description:** Run 12: args=568
+**Description:** Run 12: args=1244
 
 
 **Input:**
 
 ```
-568
+1244
 ```
 
 **Expected Output:**
 
 ```
-Geef een jaartal: Schrikkeljaar
+Schrikkeljaar
 ```
 
 ---
 
 ### Case 13
 
-**Description:** Run 13: args=849
+**Description:** Run 13: args=926
 
 
 **Input:**
 
 ```
-849
+926
 ```
 
 **Expected Output:**
 
 ```
-Geef een jaartal: Geen schrikkeljaar
+Geen schrikkeljaar
 ```
 
 ---
 
 ### Case 14
 
-**Description:** Run 14: args=1259
+**Description:** Run 14: args=1732
 
 
 **Input:**
 
 ```
-1259
+1732
 ```
 
 **Expected Output:**
 
 ```
-Geef een jaartal: Geen schrikkeljaar
+Schrikkeljaar
 ```
 
 ---
 
 ### Case 15
 
-**Description:** Run 15: args=601
+**Description:** Run 15: args=1791
 
 
 **Input:**
 
 ```
-601
+1791
 ```
 
 **Expected Output:**
 
 ```
-Geef een jaartal: Geen schrikkeljaar
+Geen schrikkeljaar
 ```
 
 ---
 
 ### Case 16
 
-**Description:** Run 16: args=1196
+**Description:** Run 16: args=1175
 
 
 **Input:**
 
 ```
-1196
+1175
 ```
 
 **Expected Output:**
 
 ```
-Geef een jaartal: Schrikkeljaar
+Geen schrikkeljaar
 ```
 
 ---
 
 ### Case 17
 
-**Description:** Run 17: args=1544
+**Description:** Run 17: args=1592
 
 
 **Input:**
 
 ```
-1544
+1592
 ```
 
 **Expected Output:**
 
 ```
-Geef een jaartal: Schrikkeljaar
+Schrikkeljaar
 ```
 
 ---
 
 ### Case 18
 
-**Description:** Run 18: args=2015
+**Description:** Run 18: args=490
 
 
 **Input:**
 
 ```
-2015
+490
 ```
 
 **Expected Output:**
 
 ```
-Geef een jaartal: Geen schrikkeljaar
+Geen schrikkeljaar
 ```
 
 ---
 
 ### Case 19
 
-**Description:** Run 19: args=497
+**Description:** Run 19: args=1521
 
 
 **Input:**
 
 ```
-497
+1521
 ```
 
 **Expected Output:**
 
 ```
-Geef een jaartal: Geen schrikkeljaar
+Geen schrikkeljaar
 ```
 
 ---
 
 ### Case 20
 
-**Description:** Run 20: args=147
+**Description:** Run 20: args=958
 
 
 **Input:**
 
 ```
-147
+958
 ```
 
 **Expected Output:**
 
 ```
-Geef een jaartal: Geen schrikkeljaar
+Geen schrikkeljaar
 ```
 
 ---
 
 ### Case 21
 
-**Description:** Run 21: args=861
+**Description:** Run 21: args=917
 
 
 **Input:**
 
 ```
-861
+917
 ```
 
 **Expected Output:**
 
 ```
-Geef een jaartal: Geen schrikkeljaar
+Geen schrikkeljaar
 ```
 
 ---
 
 ### Case 22
 
-**Description:** Run 22: args=1277
+**Description:** Run 22: args=656
 
 
 **Input:**
 
 ```
-1277
+656
 ```
 
 **Expected Output:**
 
 ```
-Geef een jaartal: Geen schrikkeljaar
+Schrikkeljaar
 ```
 
 ---
 
 ### Case 23
 
-**Description:** Run 23: args=661
+**Description:** Run 23: args=704
 
 
 **Input:**
 
 ```
-661
+704
 ```
 
 **Expected Output:**
 
 ```
-Geef een jaartal: Geen schrikkeljaar
+Schrikkeljaar
 ```
 
 ---
 
 ### Case 24
 
-**Description:** Run 24: args=975
+**Description:** Run 24: args=1962
 
 
 **Input:**
 
 ```
-975
+1962
 ```
 
 **Expected Output:**
 
 ```
-Geef een jaartal: Geen schrikkeljaar
+Geen schrikkeljaar
 ```
 
 ---
 
 ### Case 25
 
-**Description:** Run 25: args=1550
+**Description:** Run 25: args=711
 
 
 **Input:**
 
 ```
-1550
+711
 ```
 
 **Expected Output:**
 
 ```
-Geef een jaartal: Geen schrikkeljaar
+Geen schrikkeljaar
 ```
 
 ---
