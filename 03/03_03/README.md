@@ -12,197 +12,45 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=W
+**Description:** Run 1: args=a
 
 
 **Input:**
 
 ```
-W
+a
 ```
 
 **Expected Output:**
 
 ```
-Geef een letter: Medeklinker
+Klinker
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=J
+**Description:** Run 2: args=P
 
 
 **Input:**
 
 ```
-J
+P
 ```
 
 **Expected Output:**
 
 ```
-Geef een letter: Medeklinker
+Medeklinker
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=u
-
-
-**Input:**
-
-```
-u
-```
-
-**Expected Output:**
-
-```
-Geef een letter: Klinker
-```
-
----
-
-### Case 4
-
-**Description:** Run 4: args=J
-
-
-**Input:**
-
-```
-J
-```
-
-**Expected Output:**
-
-```
-Geef een letter: Medeklinker
-```
-
----
-
-### Case 5
-
-**Description:** Run 5: args=v
-
-
-**Input:**
-
-```
-v
-```
-
-**Expected Output:**
-
-```
-Geef een letter: Medeklinker
-```
-
----
-
-### Case 6
-
-**Description:** Run 6: args=X
-
-
-**Input:**
-
-```
-X
-```
-
-**Expected Output:**
-
-```
-Geef een letter: Medeklinker
-```
-
----
-
-### Case 7
-
-**Description:** Run 7: args=o
-
-
-**Input:**
-
-```
-o
-```
-
-**Expected Output:**
-
-```
-Geef een letter: Klinker
-```
-
----
-
-### Case 8
-
-**Description:** Run 8: args=V
-
-
-**Input:**
-
-```
-V
-```
-
-**Expected Output:**
-
-```
-Geef een letter: Medeklinker
-```
-
----
-
-### Case 9
-
-**Description:** Run 9: args=M
-
-
-**Input:**
-
-```
-M
-```
-
-**Expected Output:**
-
-```
-Geef een letter: Medeklinker
-```
-
----
-
-### Case 10
-
-**Description:** Run 10: args=d
-
-
-**Input:**
-
-```
-d
-```
-
-**Expected Output:**
-
-```
-Geef een letter: Medeklinker
-```
-
----
-
-### Case 11
-
-**Description:** Run 11: args=l
+**Description:** Run 3: args=l
 
 
 **Input:**
@@ -214,185 +62,204 @@ l
 **Expected Output:**
 
 ```
-Geef een letter: Medeklinker
+Medeklinker
+```
+
+---
+
+### Case 4
+
+**Description:** Run 4: args=F
+
+
+**Input:**
+
+```
+F
+```
+
+**Expected Output:**
+
+```
+Medeklinker
+```
+
+---
+
+### Case 5
+
+**Description:** Run 5: args=Q
+
+
+**Input:**
+
+```
+Q
+```
+
+**Expected Output:**
+
+```
+Medeklinker
+```
+
+---
+
+### Case 6
+
+**Description:** Run 6: args=v
+
+
+**Input:**
+
+```
+v
+```
+
+**Expected Output:**
+
+```
+Medeklinker
+```
+
+---
+
+### Case 7
+
+**Description:** Run 7: args=M
+
+
+**Input:**
+
+```
+M
+```
+
+**Expected Output:**
+
+```
+Medeklinker
+```
+
+---
+
+### Case 8
+
+**Description:** Run 8: args=R
+
+
+**Input:**
+
+```
+R
+```
+
+**Expected Output:**
+
+```
+Medeklinker
+```
+
+---
+
+### Case 9
+
+**Description:** Run 9: args=B
+
+
+**Input:**
+
+```
+B
+```
+
+**Expected Output:**
+
+```
+Medeklinker
+```
+
+---
+
+### Case 10
+
+**Description:** Run 10: args=K
+
+
+**Input:**
+
+```
+K
+```
+
+**Expected Output:**
+
+```
+Medeklinker
+```
+
+---
+
+### Case 11
+
+**Description:** Run 11: args=h
+
+
+**Input:**
+
+```
+h
+```
+
+**Expected Output:**
+
+```
+Medeklinker
 ```
 
 ---
 
 ### Case 12
 
-**Description:** Run 12: args=J
+**Description:** Run 12: args=t
 
 
 **Input:**
 
 ```
-J
+t
 ```
 
 **Expected Output:**
 
 ```
-Geef een letter: Medeklinker
+Medeklinker
 ```
 
 ---
 
 ### Case 13
 
-**Description:** Run 13: args=d
+**Description:** Run 13: args=Z
 
 
 **Input:**
 
 ```
-d
+Z
 ```
 
 **Expected Output:**
 
 ```
-Geef een letter: Medeklinker
+Medeklinker
 ```
 
 ---
 
 ### Case 14
 
-**Description:** Run 14: args=C
-
-
-**Input:**
-
-```
-C
-```
-
-**Expected Output:**
-
-```
-Geef een letter: Medeklinker
-```
-
----
-
-### Case 15
-
-**Description:** Run 15: args=u
-
-
-**Input:**
-
-```
-u
-```
-
-**Expected Output:**
-
-```
-Geef een letter: Klinker
-```
-
----
-
-### Case 16
-
-**Description:** Run 16: args=G
-
-
-**Input:**
-
-```
-G
-```
-
-**Expected Output:**
-
-```
-Geef een letter: Medeklinker
-```
-
----
-
-### Case 17
-
-**Description:** Run 17: args=y
-
-
-**Input:**
-
-```
-y
-```
-
-**Expected Output:**
-
-```
-Geef een letter: Medeklinker
-```
-
----
-
-### Case 18
-
-**Description:** Run 18: args=j
-
-
-**Input:**
-
-```
-j
-```
-
-**Expected Output:**
-
-```
-Geef een letter: Medeklinker
-```
-
----
-
-### Case 19
-
-**Description:** Run 19: args=A
-
-
-**Input:**
-
-```
-A
-```
-
-**Expected Output:**
-
-```
-Geef een letter: Klinker
-```
-
----
-
-### Case 20
-
-**Description:** Run 20: args=s
-
-
-**Input:**
-
-```
-s
-```
-
-**Expected Output:**
-
-```
-Geef een letter: Medeklinker
-```
-
----
-
-### Case 21
-
-**Description:** Run 21: args=r
+**Description:** Run 14: args=r
 
 
 **Input:**
@@ -404,71 +271,166 @@ r
 **Expected Output:**
 
 ```
-Geef een letter: Medeklinker
+Medeklinker
+```
+
+---
+
+### Case 15
+
+**Description:** Run 15: args=R
+
+
+**Input:**
+
+```
+R
+```
+
+**Expected Output:**
+
+```
+Medeklinker
+```
+
+---
+
+### Case 16
+
+**Description:** Run 16: args=k
+
+
+**Input:**
+
+```
+k
+```
+
+**Expected Output:**
+
+```
+Medeklinker
+```
+
+---
+
+### Case 17
+
+**Description:** Run 17: args=f
+
+
+**Input:**
+
+```
+f
+```
+
+**Expected Output:**
+
+```
+Medeklinker
+```
+
+---
+
+### Case 18
+
+**Description:** Run 18: args=h
+
+
+**Input:**
+
+```
+h
+```
+
+**Expected Output:**
+
+```
+Medeklinker
+```
+
+---
+
+### Case 19
+
+**Description:** Run 19: args=L
+
+
+**Input:**
+
+```
+L
+```
+
+**Expected Output:**
+
+```
+Medeklinker
+```
+
+---
+
+### Case 20
+
+**Description:** Run 20: args=i
+
+
+**Input:**
+
+```
+i
+```
+
+**Expected Output:**
+
+```
+Klinker
+```
+
+---
+
+### Case 21
+
+**Description:** Run 21: args=X
+
+
+**Input:**
+
+```
+X
+```
+
+**Expected Output:**
+
+```
+Medeklinker
 ```
 
 ---
 
 ### Case 22
 
-**Description:** Run 22: args=u
+**Description:** Run 22: args=e
 
 
 **Input:**
 
 ```
-u
+e
 ```
 
 **Expected Output:**
 
 ```
-Geef een letter: Klinker
+Klinker
 ```
 
 ---
 
 ### Case 23
 
-**Description:** Run 23: args=z
-
-
-**Input:**
-
-```
-z
-```
-
-**Expected Output:**
-
-```
-Geef een letter: Medeklinker
-```
-
----
-
-### Case 24
-
-**Description:** Run 24: args=z
-
-
-**Input:**
-
-```
-z
-```
-
-**Expected Output:**
-
-```
-Geef een letter: Medeklinker
-```
-
----
-
-### Case 25
-
-**Description:** Run 25: args=T
+**Description:** Run 23: args=T
 
 
 **Input:**
@@ -480,7 +442,45 @@ T
 **Expected Output:**
 
 ```
-Geef een letter: Medeklinker
+Medeklinker
+```
+
+---
+
+### Case 24
+
+**Description:** Run 24: args=H
+
+
+**Input:**
+
+```
+H
+```
+
+**Expected Output:**
+
+```
+Medeklinker
+```
+
+---
+
+### Case 25
+
+**Description:** Run 25: args=k
+
+
+**Input:**
+
+```
+k
+```
+
+**Expected Output:**
+
+```
+Medeklinker
 ```
 
 ---

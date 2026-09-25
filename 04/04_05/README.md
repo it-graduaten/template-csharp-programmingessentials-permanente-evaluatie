@@ -20,25 +20,25 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=1, IWwvj, bart, hJ09p, bart, 1gJMD, bart
+**Description:** Run 1: args=1, xZYiM, bart, uKymW, anna, GS079, bart
 
 
 **Input:**
 
 ```
 1
-IWwvj
+xZYiM
 bart
-hJ09p
-bart
-1gJMD
+uKymW
+anna
+GS079
 bart
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel studenten gaan stemmen? Naam van student 1: Voor welke kandidaat stem je? (Anna/Bart): Totaal aantal stemmen: 1
+Naam van student 1: Totaal aantal stemmen: 1
 Stemmen voor Anna: 0
 Stemmen voor Bart: 1
 Bart heeft gewonnen!
@@ -48,53 +48,25 @@ Bart heeft gewonnen!
 
 ### Case 2
 
-**Description:** Run 2: args=2, KYYtk, bart, tLnbD, bart, iWmmc, bart
-
-
-**Input:**
-
-```
-2
-KYYtk
-bart
-tLnbD
-bart
-iWmmc
-bart
-```
-
-**Expected Output:**
-
-```
-Hoeveel studenten gaan stemmen? Naam van student 1: Voor welke kandidaat stem je? (Anna/Bart): Naam van student 2: Voor welke kandidaat stem je? (Anna/Bart): Totaal aantal stemmen: 2
-Stemmen voor Anna: 0
-Stemmen voor Bart: 2
-Bart heeft gewonnen!
-```
-
----
-
-### Case 3
-
-**Description:** Run 3: args=3, RxwL9, anna, UsTek, bart, pgY7z, anna
+**Description:** Run 2: args=3, iR7M6, anna, cb7VS, anna, Gqjdf, bart
 
 
 **Input:**
 
 ```
 3
-RxwL9
+iR7M6
 anna
-UsTek
+cb7VS
+anna
+Gqjdf
 bart
-pgY7z
-anna
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel studenten gaan stemmen? Naam van student 1: Voor welke kandidaat stem je? (Anna/Bart): Naam van student 2: Voor welke kandidaat stem je? (Anna/Bart): Naam van student 3: Voor welke kandidaat stem je? (Anna/Bart): Totaal aantal stemmen: 3
+Naam van student 1: Naam van student 2: Naam van student 3: Totaal aantal stemmen: 3
 Stemmen voor Anna: 2
 Stemmen voor Bart: 1
 Anna heeft gewonnen!
@@ -102,27 +74,195 @@ Anna heeft gewonnen!
 
 ---
 
-### Case 4
+### Case 3
 
-**Description:** Run 4: args=2, f478u, anna, vhRSb, anna, H3pzX, bart
+**Description:** Run 3: args=2, Rn6l5, bart, eglti, anna, QYdJa, bart
 
 
 **Input:**
 
 ```
 2
-f478u
+Rn6l5
+bart
+eglti
 anna
-vhRSb
-anna
-H3pzX
+QYdJa
 bart
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel studenten gaan stemmen? Naam van student 1: Voor welke kandidaat stem je? (Anna/Bart): Naam van student 2: Voor welke kandidaat stem je? (Anna/Bart): Totaal aantal stemmen: 2
+Naam van student 1: Naam van student 2: Totaal aantal stemmen: 2
+Stemmen voor Anna: 1
+Stemmen voor Bart: 1
+Het is een gelijke stand!
+```
+
+---
+
+### Case 4
+
+**Description:** Run 4: args=2, LpxgS, bart, n6xWk, bart, Dr4tQ, anna
+
+
+**Input:**
+
+```
+2
+LpxgS
+bart
+n6xWk
+bart
+Dr4tQ
+anna
+```
+
+**Expected Output:**
+
+```
+Naam van student 1: Naam van student 2: Totaal aantal stemmen: 2
+Stemmen voor Anna: 0
+Stemmen voor Bart: 2
+Bart heeft gewonnen!
+```
+
+---
+
+### Case 5
+
+**Description:** Run 5: args=1, Gbpjg, bart, aLUMv, anna, jUxOu, bart
+
+
+**Input:**
+
+```
+1
+Gbpjg
+bart
+aLUMv
+anna
+jUxOu
+bart
+```
+
+**Expected Output:**
+
+```
+Naam van student 1: Totaal aantal stemmen: 1
+Stemmen voor Anna: 0
+Stemmen voor Bart: 1
+Bart heeft gewonnen!
+```
+
+---
+
+### Case 6
+
+**Description:** Run 6: args=1, WlW2l, anna, MB11T, anna, VlUJM, anna
+
+
+**Input:**
+
+```
+1
+WlW2l
+anna
+MB11T
+anna
+VlUJM
+anna
+```
+
+**Expected Output:**
+
+```
+Naam van student 1: Totaal aantal stemmen: 1
+Stemmen voor Anna: 1
+Stemmen voor Bart: 0
+Anna heeft gewonnen!
+```
+
+---
+
+### Case 7
+
+**Description:** Run 7: args=1, 4esEE, anna, C7qgq, bart, MmvBL, bart
+
+
+**Input:**
+
+```
+1
+4esEE
+anna
+C7qgq
+bart
+MmvBL
+bart
+```
+
+**Expected Output:**
+
+```
+Naam van student 1: Totaal aantal stemmen: 1
+Stemmen voor Anna: 1
+Stemmen voor Bart: 0
+Anna heeft gewonnen!
+```
+
+---
+
+### Case 8
+
+**Description:** Run 8: args=1, fHBol, anna, ypcLi, bart, iQ3J3, bart
+
+
+**Input:**
+
+```
+1
+fHBol
+anna
+ypcLi
+bart
+iQ3J3
+bart
+```
+
+**Expected Output:**
+
+```
+Naam van student 1: Totaal aantal stemmen: 1
+Stemmen voor Anna: 1
+Stemmen voor Bart: 0
+Anna heeft gewonnen!
+```
+
+---
+
+### Case 9
+
+**Description:** Run 9: args=2, e9Lym, anna, a7sIp, anna, KBGCC, bart
+
+
+**Input:**
+
+```
+2
+e9Lym
+anna
+a7sIp
+anna
+KBGCC
+bart
+```
+
+**Expected Output:**
+
+```
+Naam van student 1: Naam van student 2: Totaal aantal stemmen: 2
 Stemmen voor Anna: 2
 Stemmen voor Bart: 0
 Anna heeft gewonnen!
@@ -130,225 +270,85 @@ Anna heeft gewonnen!
 
 ---
 
-### Case 5
-
-**Description:** Run 5: args=2, 6tqHi, bart, RT2LF, anna, FDKUS, anna
-
-
-**Input:**
-
-```
-2
-6tqHi
-bart
-RT2LF
-anna
-FDKUS
-anna
-```
-
-**Expected Output:**
-
-```
-Hoeveel studenten gaan stemmen? Naam van student 1: Voor welke kandidaat stem je? (Anna/Bart): Naam van student 2: Voor welke kandidaat stem je? (Anna/Bart): Totaal aantal stemmen: 2
-Stemmen voor Anna: 1
-Stemmen voor Bart: 1
-Het is een gelijke stand!
-```
-
----
-
-### Case 6
-
-**Description:** Run 6: args=3, 6bN0d, bart, XrhvV, bart, KC3ie, bart
-
-
-**Input:**
-
-```
-3
-6bN0d
-bart
-XrhvV
-bart
-KC3ie
-bart
-```
-
-**Expected Output:**
-
-```
-Hoeveel studenten gaan stemmen? Naam van student 1: Voor welke kandidaat stem je? (Anna/Bart): Naam van student 2: Voor welke kandidaat stem je? (Anna/Bart): Naam van student 3: Voor welke kandidaat stem je? (Anna/Bart): Totaal aantal stemmen: 3
-Stemmen voor Anna: 0
-Stemmen voor Bart: 3
-Bart heeft gewonnen!
-```
-
----
-
-### Case 7
-
-**Description:** Run 7: args=2, BqddO, anna, eXsXZ, bart, RUvO9, anna
-
-
-**Input:**
-
-```
-2
-BqddO
-anna
-eXsXZ
-bart
-RUvO9
-anna
-```
-
-**Expected Output:**
-
-```
-Hoeveel studenten gaan stemmen? Naam van student 1: Voor welke kandidaat stem je? (Anna/Bart): Naam van student 2: Voor welke kandidaat stem je? (Anna/Bart): Totaal aantal stemmen: 2
-Stemmen voor Anna: 1
-Stemmen voor Bart: 1
-Het is een gelijke stand!
-```
-
----
-
-### Case 8
-
-**Description:** Run 8: args=3, 8pD0U, bart, owkHV, anna, rAc1J, bart
-
-
-**Input:**
-
-```
-3
-8pD0U
-bart
-owkHV
-anna
-rAc1J
-bart
-```
-
-**Expected Output:**
-
-```
-Hoeveel studenten gaan stemmen? Naam van student 1: Voor welke kandidaat stem je? (Anna/Bart): Naam van student 2: Voor welke kandidaat stem je? (Anna/Bart): Naam van student 3: Voor welke kandidaat stem je? (Anna/Bart): Totaal aantal stemmen: 3
-Stemmen voor Anna: 1
-Stemmen voor Bart: 2
-Bart heeft gewonnen!
-```
-
----
-
-### Case 9
-
-**Description:** Run 9: args=3, h2GOq, anna, tbr6s, bart, yiXrC, bart
-
-
-**Input:**
-
-```
-3
-h2GOq
-anna
-tbr6s
-bart
-yiXrC
-bart
-```
-
-**Expected Output:**
-
-```
-Hoeveel studenten gaan stemmen? Naam van student 1: Voor welke kandidaat stem je? (Anna/Bart): Naam van student 2: Voor welke kandidaat stem je? (Anna/Bart): Naam van student 3: Voor welke kandidaat stem je? (Anna/Bart): Totaal aantal stemmen: 3
-Stemmen voor Anna: 1
-Stemmen voor Bart: 2
-Bart heeft gewonnen!
-```
-
----
-
 ### Case 10
 
-**Description:** Run 10: args=3, 0oelB, anna, QRgn4, bart, cMoOD, bart
+**Description:** Run 10: args=2, YeAnI, bart, tk0H1, anna, 3XoIY, bart
 
 
 **Input:**
 
 ```
-3
-0oelB
-anna
-QRgn4
+2
+YeAnI
 bart
-cMoOD
+tk0H1
+anna
+3XoIY
 bart
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel studenten gaan stemmen? Naam van student 1: Voor welke kandidaat stem je? (Anna/Bart): Naam van student 2: Voor welke kandidaat stem je? (Anna/Bart): Naam van student 3: Voor welke kandidaat stem je? (Anna/Bart): Totaal aantal stemmen: 3
+Naam van student 1: Naam van student 2: Totaal aantal stemmen: 2
 Stemmen voor Anna: 1
-Stemmen voor Bart: 2
-Bart heeft gewonnen!
+Stemmen voor Bart: 1
+Het is een gelijke stand!
 ```
 
 ---
 
 ### Case 11
 
-**Description:** Run 11: args=3, OCfZf, anna, Q4yqh, bart, GzzQc, anna
+**Description:** Run 11: args=1, n3SH3, bart, o92qv, bart, siRc1, bart
 
 
 **Input:**
 
 ```
-3
-OCfZf
-anna
-Q4yqh
+1
+n3SH3
 bart
-GzzQc
-anna
+o92qv
+bart
+siRc1
+bart
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel studenten gaan stemmen? Naam van student 1: Voor welke kandidaat stem je? (Anna/Bart): Naam van student 2: Voor welke kandidaat stem je? (Anna/Bart): Naam van student 3: Voor welke kandidaat stem je? (Anna/Bart): Totaal aantal stemmen: 3
-Stemmen voor Anna: 2
+Naam van student 1: Totaal aantal stemmen: 1
+Stemmen voor Anna: 0
 Stemmen voor Bart: 1
-Anna heeft gewonnen!
+Bart heeft gewonnen!
 ```
 
 ---
 
 ### Case 12
 
-**Description:** Run 12: args=3, b9o5O, anna, 4YwV9, bart, nDQZf, anna
+**Description:** Run 12: args=1, lqtZt, anna, 9GEKg, anna, qLGDc, anna
 
 
 **Input:**
 
 ```
-3
-b9o5O
+1
+lqtZt
 anna
-4YwV9
-bart
-nDQZf
+9GEKg
+anna
+qLGDc
 anna
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel studenten gaan stemmen? Naam van student 1: Voor welke kandidaat stem je? (Anna/Bart): Naam van student 2: Voor welke kandidaat stem je? (Anna/Bart): Naam van student 3: Voor welke kandidaat stem je? (Anna/Bart): Totaal aantal stemmen: 3
-Stemmen voor Anna: 2
-Stemmen voor Bart: 1
+Naam van student 1: Totaal aantal stemmen: 1
+Stemmen voor Anna: 1
+Stemmen voor Bart: 0
 Anna heeft gewonnen!
 ```
 
@@ -356,26 +356,26 @@ Anna heeft gewonnen!
 
 ### Case 13
 
-**Description:** Run 13: args=2, WIMYG, anna, Gnefm, anna, GWoh1, anna
+**Description:** Run 13: args=1, poxuM, anna, fThpI, bart, zMpbv, bart
 
 
 **Input:**
 
 ```
-2
-WIMYG
+1
+poxuM
 anna
-Gnefm
-anna
-GWoh1
-anna
+fThpI
+bart
+zMpbv
+bart
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel studenten gaan stemmen? Naam van student 1: Voor welke kandidaat stem je? (Anna/Bart): Naam van student 2: Voor welke kandidaat stem je? (Anna/Bart): Totaal aantal stemmen: 2
-Stemmen voor Anna: 2
+Naam van student 1: Totaal aantal stemmen: 1
+Stemmen voor Anna: 1
 Stemmen voor Bart: 0
 Anna heeft gewonnen!
 ```
@@ -384,26 +384,26 @@ Anna heeft gewonnen!
 
 ### Case 14
 
-**Description:** Run 14: args=3, ESh5J, bart, lj2pf, anna, lgGrG, bart
+**Description:** Run 14: args=2, sAUtU, bart, o3Nda, bart, BwL2g, anna
 
 
 **Input:**
 
 ```
-3
-ESh5J
+2
+sAUtU
 bart
-lj2pf
+o3Nda
+bart
+BwL2g
 anna
-lgGrG
-bart
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel studenten gaan stemmen? Naam van student 1: Voor welke kandidaat stem je? (Anna/Bart): Naam van student 2: Voor welke kandidaat stem je? (Anna/Bart): Naam van student 3: Voor welke kandidaat stem je? (Anna/Bart): Totaal aantal stemmen: 3
-Stemmen voor Anna: 1
+Naam van student 1: Naam van student 2: Totaal aantal stemmen: 2
+Stemmen voor Anna: 0
 Stemmen voor Bart: 2
 Bart heeft gewonnen!
 ```
@@ -412,28 +412,28 @@ Bart heeft gewonnen!
 
 ### Case 15
 
-**Description:** Run 15: args=2, Ibk2s, bart, sgGih, bart, w1HLk, bart
+**Description:** Run 15: args=3, LR05E, anna, FUtmg, anna, Xn2TO, anna
 
 
 **Input:**
 
 ```
-2
-Ibk2s
-bart
-sgGih
-bart
-w1HLk
-bart
+3
+LR05E
+anna
+FUtmg
+anna
+Xn2TO
+anna
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel studenten gaan stemmen? Naam van student 1: Voor welke kandidaat stem je? (Anna/Bart): Naam van student 2: Voor welke kandidaat stem je? (Anna/Bart): Totaal aantal stemmen: 2
-Stemmen voor Anna: 0
-Stemmen voor Bart: 2
-Bart heeft gewonnen!
+Naam van student 1: Naam van student 2: Naam van student 3: Totaal aantal stemmen: 3
+Stemmen voor Anna: 3
+Stemmen voor Bart: 0
+Anna heeft gewonnen!
 ```
 
 ---

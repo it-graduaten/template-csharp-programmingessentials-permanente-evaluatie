@@ -14,21 +14,21 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=16, 14, 3
+**Description:** Run 1: args=25, 3, 7
 
 
 **Input:**
 
 ```
-16
-14
+25
 3
+7
 ```
 
 **Expected Output:**
 
 ```
-Geef het aantal afwezigen voor les 1: Geef het aantal afwezigen voor les 2: Geef het aantal afwezigen voor les 3: Totaal aantal afwezigen: 33
+Totaal aantal afwezigen: 35
 Lessen zonder afwezigen: 0
 ```
 
@@ -36,21 +36,21 @@ Lessen zonder afwezigen: 0
 
 ### Case 2
 
-**Description:** Run 2: args=21, 28, 6
+**Description:** Run 2: args=5, 6, 25
 
 
 **Input:**
 
 ```
-21
-28
+5
 6
+25
 ```
 
 **Expected Output:**
 
 ```
-Geef het aantal afwezigen voor les 1: Geef het aantal afwezigen voor les 2: Geef het aantal afwezigen voor les 3: Totaal aantal afwezigen: 55
+Totaal aantal afwezigen: 36
 Lessen zonder afwezigen: 0
 ```
 
@@ -58,21 +58,21 @@ Lessen zonder afwezigen: 0
 
 ### Case 3
 
-**Description:** Run 3: args=9, 18, 23
+**Description:** Run 3: args=13, 30, 28
 
 
 **Input:**
 
 ```
-9
-18
-23
+13
+30
+28
 ```
 
 **Expected Output:**
 
 ```
-Geef het aantal afwezigen voor les 1: Geef het aantal afwezigen voor les 2: Geef het aantal afwezigen voor les 3: Totaal aantal afwezigen: 50
+Totaal aantal afwezigen: 71
 Lessen zonder afwezigen: 0
 ```
 
@@ -80,21 +80,21 @@ Lessen zonder afwezigen: 0
 
 ### Case 4
 
-**Description:** Run 4: args=17, 17, 5
+**Description:** Run 4: args=24, 11, 10
 
 
 **Input:**
 
 ```
-17
-17
-5
+24
+11
+10
 ```
 
 **Expected Output:**
 
 ```
-Geef het aantal afwezigen voor les 1: Geef het aantal afwezigen voor les 2: Geef het aantal afwezigen voor les 3: Totaal aantal afwezigen: 39
+Totaal aantal afwezigen: 45
 Lessen zonder afwezigen: 0
 ```
 
@@ -102,21 +102,21 @@ Lessen zonder afwezigen: 0
 
 ### Case 5
 
-**Description:** Run 5: args=22, 24, 26
+**Description:** Run 5: args=12, 14, 23
 
 
 **Input:**
 
 ```
-22
-24
-26
+12
+14
+23
 ```
 
 **Expected Output:**
 
 ```
-Geef het aantal afwezigen voor les 1: Geef het aantal afwezigen voor les 2: Geef het aantal afwezigen voor les 3: Totaal aantal afwezigen: 72
+Totaal aantal afwezigen: 49
 Lessen zonder afwezigen: 0
 ```
 
@@ -124,21 +124,21 @@ Lessen zonder afwezigen: 0
 
 ### Case 6
 
-**Description:** Run 6: args=23, 4, 16
+**Description:** Run 6: args=5, 11, 10
 
 
 **Input:**
 
 ```
-23
-4
-16
+5
+11
+10
 ```
 
 **Expected Output:**
 
 ```
-Geef het aantal afwezigen voor les 1: Geef het aantal afwezigen voor les 2: Geef het aantal afwezigen voor les 3: Totaal aantal afwezigen: 43
+Totaal aantal afwezigen: 26
 Lessen zonder afwezigen: 0
 ```
 
@@ -146,43 +146,43 @@ Lessen zonder afwezigen: 0
 
 ### Case 7
 
-**Description:** Run 7: args=4, 2, 0
+**Description:** Run 7: args=27, 27, 3
 
 
 **Input:**
 
 ```
-4
-2
-0
+27
+27
+3
 ```
 
 **Expected Output:**
 
 ```
-Geef het aantal afwezigen voor les 1: Geef het aantal afwezigen voor les 2: Geef het aantal afwezigen voor les 3: Totaal aantal afwezigen: 6
-Lessen zonder afwezigen: 1
+Totaal aantal afwezigen: 57
+Lessen zonder afwezigen: 0
 ```
 
 ---
 
 ### Case 8
 
-**Description:** Run 8: args=17, 7, 4
+**Description:** Run 8: args=20, 29, 12
 
 
 **Input:**
 
 ```
-17
-7
-4
+20
+29
+12
 ```
 
 **Expected Output:**
 
 ```
-Geef het aantal afwezigen voor les 1: Geef het aantal afwezigen voor les 2: Geef het aantal afwezigen voor les 3: Totaal aantal afwezigen: 28
+Totaal aantal afwezigen: 61
 Lessen zonder afwezigen: 0
 ```
 
@@ -190,21 +190,21 @@ Lessen zonder afwezigen: 0
 
 ### Case 9
 
-**Description:** Run 9: args=19, 20, 16
+**Description:** Run 9: args=26, 27, 18
 
 
 **Input:**
 
 ```
-19
-20
-16
+26
+27
+18
 ```
 
 **Expected Output:**
 
 ```
-Geef het aantal afwezigen voor les 1: Geef het aantal afwezigen voor les 2: Geef het aantal afwezigen voor les 3: Totaal aantal afwezigen: 55
+Totaal aantal afwezigen: 71
 Lessen zonder afwezigen: 0
 ```
 
@@ -212,43 +212,43 @@ Lessen zonder afwezigen: 0
 
 ### Case 10
 
-**Description:** Run 10: args=15, 0, 3
+**Description:** Run 10: args=27, 8, 9
 
 
 **Input:**
 
 ```
-15
-0
-3
+27
+8
+9
 ```
 
 **Expected Output:**
 
 ```
-Geef het aantal afwezigen voor les 1: Geef het aantal afwezigen voor les 2: Geef het aantal afwezigen voor les 3: Totaal aantal afwezigen: 18
-Lessen zonder afwezigen: 1
+Totaal aantal afwezigen: 44
+Lessen zonder afwezigen: 0
 ```
 
 ---
 
 ### Case 11
 
-**Description:** Run 11: args=18, 17, 6
+**Description:** Run 11: args=30, 7, 9
 
 
 **Input:**
 
 ```
-18
-17
-6
+30
+7
+9
 ```
 
 **Expected Output:**
 
 ```
-Geef het aantal afwezigen voor les 1: Geef het aantal afwezigen voor les 2: Geef het aantal afwezigen voor les 3: Totaal aantal afwezigen: 41
+Totaal aantal afwezigen: 46
 Lessen zonder afwezigen: 0
 ```
 
@@ -256,43 +256,43 @@ Lessen zonder afwezigen: 0
 
 ### Case 12
 
-**Description:** Run 12: args=27, 7, 29
-
-
-**Input:**
-
-```
-27
-7
-29
-```
-
-**Expected Output:**
-
-```
-Geef het aantal afwezigen voor les 1: Geef het aantal afwezigen voor les 2: Geef het aantal afwezigen voor les 3: Totaal aantal afwezigen: 63
-Lessen zonder afwezigen: 0
-```
-
----
-
-### Case 13
-
-**Description:** Run 13: args=28, 8, 19
+**Description:** Run 12: args=28, 1, 0
 
 
 **Input:**
 
 ```
 28
-8
-19
+1
+0
 ```
 
 **Expected Output:**
 
 ```
-Geef het aantal afwezigen voor les 1: Geef het aantal afwezigen voor les 2: Geef het aantal afwezigen voor les 3: Totaal aantal afwezigen: 55
+Totaal aantal afwezigen: 29
+Lessen zonder afwezigen: 1
+```
+
+---
+
+### Case 13
+
+**Description:** Run 13: args=15, 17, 16
+
+
+**Input:**
+
+```
+15
+17
+16
+```
+
+**Expected Output:**
+
+```
+Totaal aantal afwezigen: 48
 Lessen zonder afwezigen: 0
 ```
 
@@ -300,21 +300,21 @@ Lessen zonder afwezigen: 0
 
 ### Case 14
 
-**Description:** Run 14: args=7, 30, 3
+**Description:** Run 14: args=6, 20, 24
 
 
 **Input:**
 
 ```
-7
-30
-3
+6
+20
+24
 ```
 
 **Expected Output:**
 
 ```
-Geef het aantal afwezigen voor les 1: Geef het aantal afwezigen voor les 2: Geef het aantal afwezigen voor les 3: Totaal aantal afwezigen: 40
+Totaal aantal afwezigen: 50
 Lessen zonder afwezigen: 0
 ```
 
@@ -322,21 +322,21 @@ Lessen zonder afwezigen: 0
 
 ### Case 15
 
-**Description:** Run 15: args=3, 14, 11
+**Description:** Run 15: args=22, 14, 16
 
 
 **Input:**
 
 ```
-3
+22
 14
-11
+16
 ```
 
 **Expected Output:**
 
 ```
-Geef het aantal afwezigen voor les 1: Geef het aantal afwezigen voor les 2: Geef het aantal afwezigen voor les 3: Totaal aantal afwezigen: 28
+Totaal aantal afwezigen: 52
 Lessen zonder afwezigen: 0
 ```
 

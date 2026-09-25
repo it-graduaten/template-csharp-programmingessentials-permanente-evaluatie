@@ -14,345 +14,345 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=73, 11, 89, 1, 96
+**Description:** Run 1: args=65, 97, 34, 82, 75
 
 
 **Input:**
 
 ```
-73
-11
-89
-1
-96
+65
+97
+34
+82
+75
 ```
 
 **Expected Output:**
 
 ```
-Geef score van student 1: Geef score van student 2: Geef score van student 3: Geef score van student 4: Geef score van student 5: Het gemiddelde is 54.
+Het gemiddelde is 70.6.
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=46, 87, 88, 94, 83
+**Description:** Run 2: args=82, 65, 91, 66, 29
 
 
 **Input:**
 
 ```
-46
-87
-88
-94
-83
+82
+65
+91
+66
+29
 ```
 
 **Expected Output:**
 
 ```
-Geef score van student 1: Geef score van student 2: Geef score van student 3: Geef score van student 4: Geef score van student 5: Het gemiddelde is 79.6.
+Het gemiddelde is 66.6.
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=92, 35, 31, 92, 59
+**Description:** Run 3: args=79, 86, 2, 4, 94
 
 
 **Input:**
 
 ```
-92
-35
-31
-92
-59
+79
+86
+2
+4
+94
 ```
 
 **Expected Output:**
 
 ```
-Geef score van student 1: Geef score van student 2: Geef score van student 3: Geef score van student 4: Geef score van student 5: Het gemiddelde is 61.8.
+Het gemiddelde is 53.
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=17, 68, 12, 62, 61
+**Description:** Run 4: args=2, 44, 12, 15, 10
 
 
 **Input:**
 
 ```
-17
-68
+2
+44
 12
-62
-61
+15
+10
 ```
 
 **Expected Output:**
 
 ```
-Geef score van student 1: Geef score van student 2: Geef score van student 3: Geef score van student 4: Geef score van student 5: Het gemiddelde is 44.
+Het gemiddelde is 16.6.
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=74, 29, 57, 95, 79
+**Description:** Run 5: args=3, 90, 22, 95, 98
 
 
 **Input:**
 
 ```
-74
-29
-57
+3
+90
+22
 95
-79
+98
 ```
 
 **Expected Output:**
 
 ```
-Geef score van student 1: Geef score van student 2: Geef score van student 3: Geef score van student 4: Geef score van student 5: Het gemiddelde is 66.8.
+Het gemiddelde is 61.6.
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=11, 39, 69, 14, 48
+**Description:** Run 6: args=73, 17, 95, 99, 53
 
 
 **Input:**
 
 ```
-11
-39
-69
-14
-48
+73
+17
+95
+99
+53
 ```
 
 **Expected Output:**
 
 ```
-Geef score van student 1: Geef score van student 2: Geef score van student 3: Geef score van student 4: Geef score van student 5: Het gemiddelde is 36.2.
+Het gemiddelde is 67.4.
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=75, 32, 33, 12, 4
+**Description:** Run 7: args=28, 36, 33, 10, 75
 
 
 **Input:**
 
 ```
-75
-32
+28
+36
 33
-12
-4
+10
+75
 ```
 
 **Expected Output:**
 
 ```
-Geef score van student 1: Geef score van student 2: Geef score van student 3: Geef score van student 4: Geef score van student 5: Het gemiddelde is 31.2.
+Het gemiddelde is 36.4.
 ```
 
 ---
 
 ### Case 8
 
-**Description:** Run 8: args=74, 11, 99, 39, 68
+**Description:** Run 8: args=93, 53, 20, 14, 68
 
 
 **Input:**
 
 ```
-74
-11
-99
-39
+93
+53
+20
+14
 68
 ```
 
 **Expected Output:**
 
 ```
-Geef score van student 1: Geef score van student 2: Geef score van student 3: Geef score van student 4: Geef score van student 5: Het gemiddelde is 58.2.
+Het gemiddelde is 49.6.
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=31, 28, 48, 13, 4
+**Description:** Run 9: args=17, 27, 18, 99, 61
 
 
 **Input:**
 
 ```
-31
-28
-48
-13
-4
+17
+27
+18
+99
+61
 ```
 
 **Expected Output:**
 
 ```
-Geef score van student 1: Geef score van student 2: Geef score van student 3: Geef score van student 4: Geef score van student 5: Het gemiddelde is 24.8.
+Het gemiddelde is 44.4.
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=57, 90, 3, 96, 11
+**Description:** Run 10: args=85, 49, 77, 1, 44
 
 
 **Input:**
 
 ```
-57
-90
-3
-96
-11
+85
+49
+77
+1
+44
 ```
 
 **Expected Output:**
 
 ```
-Geef score van student 1: Geef score van student 2: Geef score van student 3: Geef score van student 4: Geef score van student 5: Het gemiddelde is 51.4.
+Het gemiddelde is 51.2.
 ```
 
 ---
 
 ### Case 11
 
-**Description:** Run 11: args=32, 13, 90, 22, 67
+**Description:** Run 11: args=70, 25, 89, 59, 99
 
 
 **Input:**
 
 ```
-32
-13
-90
-22
-67
+70
+25
+89
+59
+99
 ```
 
 **Expected Output:**
 
 ```
-Geef score van student 1: Geef score van student 2: Geef score van student 3: Geef score van student 4: Geef score van student 5: Het gemiddelde is 44.8.
+Het gemiddelde is 68.4.
 ```
 
 ---
 
 ### Case 12
 
-**Description:** Run 12: args=15, 90, 35, 8, 89
+**Description:** Run 12: args=43, 25, 21, 65, 79
 
 
 **Input:**
 
 ```
-15
-90
-35
-8
-89
+43
+25
+21
+65
+79
 ```
 
 **Expected Output:**
 
 ```
-Geef score van student 1: Geef score van student 2: Geef score van student 3: Geef score van student 4: Geef score van student 5: Het gemiddelde is 47.4.
+Het gemiddelde is 46.6.
 ```
 
 ---
 
 ### Case 13
 
-**Description:** Run 13: args=12, 26, 49, 33, 24
+**Description:** Run 13: args=80, 11, 55, 16, 58
 
 
 **Input:**
 
 ```
-12
-26
-49
-33
-24
+80
+11
+55
+16
+58
 ```
 
 **Expected Output:**
 
 ```
-Geef score van student 1: Geef score van student 2: Geef score van student 3: Geef score van student 4: Geef score van student 5: Het gemiddelde is 28.8.
+Het gemiddelde is 44.
 ```
 
 ---
 
 ### Case 14
 
-**Description:** Run 14: args=32, 5, 66, 56, 5
+**Description:** Run 14: args=32, 87, 9, 94, 0
 
 
 **Input:**
 
 ```
 32
-5
-66
-56
-5
+87
+9
+94
+0
 ```
 
 **Expected Output:**
 
 ```
-Geef score van student 1: Geef score van student 2: Geef score van student 3: Geef score van student 4: Geef score van student 5: Het gemiddelde is 32.8.
+Het gemiddelde is 44.4.
 ```
 
 ---
 
 ### Case 15
 
-**Description:** Run 15: args=20, 38, 39, 17, 72
+**Description:** Run 15: args=13, 40, 41, 47, 55
 
 
 **Input:**
 
 ```
-20
-38
-39
-17
-72
+13
+40
+41
+47
+55
 ```
 
 **Expected Output:**
 
 ```
-Geef score van student 1: Geef score van student 2: Geef score van student 3: Geef score van student 4: Geef score van student 5: Het gemiddelde is 37.2.
+Het gemiddelde is 39.2.
 ```
 
 ---

@@ -17,337 +17,447 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=5, 3, 2, 392.92393119117014
+**Description:** Run 1: args=5, 13, 10, 485.2290761177968
 
 
 **Input:**
 
 ```
 5
-3
-2
-392.92393119117014
+13
+10
+485.2290761177968
 ```
 
 **Expected Output:**
 
 ```
-Geef de dag van de week (1-7): Geef het uur van aankomst: Geef het aantal personen: Geef het totaalbedrag: Resultaat: 392.92393119117014
+Resultaat: 412.4447147001273
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=4, 9, 10, 437.886631698033
+**Description:** Run 2: args=3, 22, 5, 145.5832543947127
 
 
 **Input:**
 
 ```
-4
-9
-10
-437.886631698033
+3
+22
+5
+145.5832543947127
 ```
 
 **Expected Output:**
 
 ```
-Geef de dag van de week (1-7): Geef het uur van aankomst: Geef het aantal personen: Geef het totaalbedrag: Resultaat: 415.99230011313136
+Resultaat: 138.30409167497706
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=3, 19, 2, 41.19942698381921
+**Description:** Run 3: args=7, 22, 6, 316.2348126716414
 
 
 **Input:**
 
 ```
-3
-19
-2
-41.19942698381921
+7
+22
+6
+316.2348126716414
 ```
 
 **Expected Output:**
 
 ```
-Geef de dag van de week (1-7): Geef het uur van aankomst: Geef het aantal personen: Geef het totaalbedrag: Resultaat: 41.19942698381921
+Resultaat: 300.42307203805933
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=2, 7, 2, 76.09983798268976
+**Description:** Run 4: args=7, 2, 7, 29.80597279945468
 
 
 **Input:**
 
 ```
-2
 7
 2
-76.09983798268976
+7
+29.80597279945468
 ```
 
 **Expected Output:**
 
 ```
-Geef de dag van de week (1-7): Geef het uur van aankomst: Geef het aantal personen: Geef het totaalbedrag: Resultaat: 76.09983798268976
+Resultaat: 28.315674159481944
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=5, 15, 3, 110.50282260567907
+**Description:** Run 5: args=2, 4, 7, 482.2912945539349
 
 
 **Input:**
 
 ```
-5
-15
-3
-110.50282260567907
+2
+4
+7
+482.2912945539349
 ```
 
 **Expected Output:**
 
 ```
-Geef de dag van de week (1-7): Geef het uur van aankomst: Geef het aantal personen: Geef het totaalbedrag: Resultaat: 110.50282260567907
+Resultaat: 458.17672982623816
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=7, 3, 7, 71.83569791548157
+**Description:** Run 6: args=3, 6, 9, 280.72710429434613
 
 
 **Input:**
 
 ```
-7
 3
-7
-71.83569791548157
+6
+9
+280.72710429434613
 ```
 
 **Expected Output:**
 
 ```
-Geef de dag van de week (1-7): Geef het uur van aankomst: Geef het aantal personen: Geef het totaalbedrag: Resultaat: 68.24391301970749
+Resultaat: 266.6907490796288
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=5, 22, 6, 419.86217889500625
+**Description:** Run 7: args=5, 19, 10, 274.83529738531126
 
 
 **Input:**
 
 ```
 5
-22
-6
-419.86217889500625
+19
+10
+274.83529738531126
 ```
 
 **Expected Output:**
 
 ```
-Geef de dag van de week (1-7): Geef het uur van aankomst: Geef het aantal personen: Geef het totaalbedrag: Resultaat: 398.86906995025595
+Resultaat: 261.0935325160457
 ```
 
 ---
 
 ### Case 8
 
-**Description:** Run 8: args=3, 0, 9, 390.9411952663685
+**Description:** Run 8: args=6, 18, 4, 149.2829532414699
 
 
 **Input:**
 
 ```
-3
-0
-9
-390.9411952663685
+6
+18
+4
+149.2829532414699
 ```
 
 **Expected Output:**
 
 ```
-Geef de dag van de week (1-7): Geef het uur van aankomst: Geef het aantal personen: Geef het totaalbedrag: Resultaat: 371.39413550305005
+Resultaat: 141.8188055793964
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=5, 11, 9, 140.9016352188004
+**Description:** Run 9: args=2, 16, 6, 489.69643921354407
 
 
 **Input:**
 
 ```
-5
-11
-9
-140.9016352188004
+2
+16
+6
+489.69643921354407
 ```
 
 **Expected Output:**
 
 ```
-Geef de dag van de week (1-7): Geef het uur van aankomst: Geef het aantal personen: Geef het totaalbedrag: Resultaat: 119.76638993598034
+Resultaat: 465.21161725286686
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=5, 1, 4, 444.3400333690388
+**Description:** Run 10: args=7, 10, 5, 423.4511774915855
 
 
 **Input:**
 
 ```
+7
+10
 5
-1
-4
-444.3400333690388
+423.4511774915855
 ```
 
 **Expected Output:**
 
 ```
-Geef de dag van de week (1-7): Geef het uur van aankomst: Geef het aantal personen: Geef het totaalbedrag: Resultaat: 422.12303170058686
+Resultaat: 402.2786186170062
 ```
 
 ---
 
 ### Case 11
 
-**Description:** Run 11: args=7, 8, 9, 284.7245776579283
+**Description:** Run 11: args=4, 9, 2, 214.97144802124743
 
 
 **Input:**
 
 ```
-7
-8
+4
 9
-284.7245776579283
+2
+214.97144802124743
 ```
 
 **Expected Output:**
 
 ```
-Geef de dag van de week (1-7): Geef het uur van aankomst: Geef het aantal personen: Geef het totaalbedrag: Resultaat: 270.4883487750319
+Resultaat: 214.97144802124743
 ```
 
 ---
 
 ### Case 12
 
-**Description:** Run 12: args=6, 22, 10, 439.0205276704575
+**Description:** Run 12: args=4, 9, 7, 95.28185372477824
 
 
 **Input:**
 
 ```
-6
-22
-10
-439.0205276704575
+4
+9
+7
+95.28185372477824
 ```
 
 **Expected Output:**
 
 ```
-Geef de dag van de week (1-7): Geef het uur van aankomst: Geef het aantal personen: Geef het totaalbedrag: Resultaat: 417.0695012869346
+Resultaat: 90.51776103853933
 ```
 
 ---
 
 ### Case 13
 
-**Description:** Run 13: args=6, 12, 7, 408.23072276699685
+**Description:** Run 13: args=7, 22, 8, 127.16934306791137
 
 
 **Input:**
 
 ```
-6
-12
 7
-408.23072276699685
+22
+8
+127.16934306791137
 ```
 
 **Expected Output:**
 
 ```
-Geef de dag van de week (1-7): Geef het uur van aankomst: Geef het aantal personen: Geef het totaalbedrag: Resultaat: 326.58457821359747
+Resultaat: 120.8108759145158
 ```
 
 ---
 
 ### Case 14
 
-**Description:** Run 14: args=2, 6, 4, 50.11531462681534
+**Description:** Run 14: args=4, 11, 2, 491.6296007611533
 
 
 **Input:**
 
 ```
-2
-6
 4
-50.11531462681534
+11
+2
+491.6296007611533
 ```
 
 **Expected Output:**
 
 ```
-Geef de dag van de week (1-7): Geef het uur van aankomst: Geef het aantal personen: Geef het totaalbedrag: Resultaat: 47.609548895474575
+Resultaat: 442.466640685038
 ```
 
 ---
 
 ### Case 15
 
-**Description:** Run 15: args=2, 4, 1, 388.93889645512184
+**Description:** Run 15: args=4, 10, 2, 136.9974693427081
 
 
 **Input:**
 
 ```
-2
 4
-1
-388.93889645512184
+10
+2
+136.9974693427081
 ```
 
 **Expected Output:**
 
 ```
-Geef de dag van de week (1-7): Geef het uur van aankomst: Geef het aantal personen: Geef het totaalbedrag: Resultaat: 388.93889645512184
+Resultaat: 136.9974693427081
 ```
 
 ---
 
 ### Case 16
 
-**Description:** Run 16: args=1, 23, 10, 250.62341205347047
+**Description:** Run 16: args=5, 3, 5, 74.44246491201692
+
+
+**Input:**
+
+```
+5
+3
+5
+74.44246491201692
+```
+
+**Expected Output:**
+
+```
+Resultaat: 70.72034166641608
+```
+
+---
+
+### Case 17
+
+**Description:** Run 17: args=5, 17, 7, 263.47013225243944
+
+
+**Input:**
+
+```
+5
+17
+7
+263.47013225243944
+```
+
+**Expected Output:**
+
+```
+Resultaat: 250.29662563981748
+```
+
+---
+
+### Case 18
+
+**Description:** Run 18: args=1, 14, 3, 233.2107389844819
+
+
+**Input:**
+
+```
+1
+14
+3
+233.2107389844819
+```
+
+**Expected Output:**
+
+```
+Resultaat: 209.88966508603372
+```
+
+---
+
+### Case 19
+
+**Description:** Run 19: args=4, 7, 2, 180.28154381788116
+
+
+**Input:**
+
+```
+4
+7
+2
+180.28154381788116
+```
+
+**Expected Output:**
+
+```
+Resultaat: 180.28154381788116
+```
+
+---
+
+### Case 20
+
+**Description:** Run 20: args=1, 18, 8, 293.7936112718475
+
+
+**Input:**
+
+```
+1
+18
+8
+293.7936112718475
+```
+
+**Expected Output:**
+
+```
+Resultaat: 279.1039307082551
+```
+
+---
+
+### Case 21
+
+**Description:** Run 21: args=1, 23, 10, 313.08790398724403
 
 
 **Input:**
@@ -356,211 +466,101 @@ Geef de dag van de week (1-7): Geef het uur van aankomst: Geef het aantal person
 1
 23
 10
-250.62341205347047
+313.08790398724403
 ```
 
 **Expected Output:**
 
 ```
-Geef de dag van de week (1-7): Geef het uur van aankomst: Geef het aantal personen: Geef het totaalbedrag: Resultaat: 238.09224145079696
-```
-
----
-
-### Case 17
-
-**Description:** Run 17: args=1, 7, 10, 81.85416760614159
-
-
-**Input:**
-
-```
-1
-7
-10
-81.85416760614159
-```
-
-**Expected Output:**
-
-```
-Geef de dag van de week (1-7): Geef het uur van aankomst: Geef het aantal personen: Geef het totaalbedrag: Resultaat: 77.76145922583451
-```
-
----
-
-### Case 18
-
-**Description:** Run 18: args=5, 13, 9, 316.80613043429
-
-
-**Input:**
-
-```
-5
-13
-9
-316.80613043429
-```
-
-**Expected Output:**
-
-```
-Geef de dag van de week (1-7): Geef het uur van aankomst: Geef het aantal personen: Geef het totaalbedrag: Resultaat: 269.2852108691465
-```
-
----
-
-### Case 19
-
-**Description:** Run 19: args=3, 9, 7, 142.56727800381077
-
-
-**Input:**
-
-```
-3
-9
-7
-142.56727800381077
-```
-
-**Expected Output:**
-
-```
-Geef de dag van de week (1-7): Geef het uur van aankomst: Geef het aantal personen: Geef het totaalbedrag: Resultaat: 135.43891410362022
-```
-
----
-
-### Case 20
-
-**Description:** Run 20: args=1, 18, 1, 162.97199137387884
-
-
-**Input:**
-
-```
-1
-18
-1
-162.97199137387884
-```
-
-**Expected Output:**
-
-```
-Geef de dag van de week (1-7): Geef het uur van aankomst: Geef het aantal personen: Geef het totaalbedrag: Resultaat: 162.97199137387884
-```
-
----
-
-### Case 21
-
-**Description:** Run 21: args=4, 19, 8, 63.44790662556198
-
-
-**Input:**
-
-```
-4
-19
-8
-63.44790662556198
-```
-
-**Expected Output:**
-
-```
-Geef de dag van de week (1-7): Geef het uur van aankomst: Geef het aantal personen: Geef het totaalbedrag: Resultaat: 60.27551129428388
+Resultaat: 297.4335087878818
 ```
 
 ---
 
 ### Case 22
 
-**Description:** Run 22: args=1, 13, 1, 201.22961355624219
+**Description:** Run 22: args=1, 6, 7, 448.64313861192454
 
 
 **Input:**
 
 ```
 1
-13
-1
-201.22961355624219
+6
+7
+448.64313861192454
 ```
 
 **Expected Output:**
 
 ```
-Geef de dag van de week (1-7): Geef het uur van aankomst: Geef het aantal personen: Geef het totaalbedrag: Resultaat: 181.10665220061796
+Resultaat: 426.2109816813283
 ```
 
 ---
 
 ### Case 23
 
-**Description:** Run 23: args=1, 22, 2, 478.3198611280883
+**Description:** Run 23: args=6, 4, 5, 92.16837703820671
 
 
 **Input:**
 
 ```
-1
-22
-2
-478.3198611280883
+6
+4
+5
+92.16837703820671
 ```
 
 **Expected Output:**
 
 ```
-Geef de dag van de week (1-7): Geef het uur van aankomst: Geef het aantal personen: Geef het totaalbedrag: Resultaat: 478.3198611280883
+Resultaat: 87.55995818629638
 ```
 
 ---
 
 ### Case 24
 
-**Description:** Run 24: args=1, 7, 7, 10.107107688757514
+**Description:** Run 24: args=6, 17, 1, 89.28075217137648
 
 
 **Input:**
 
 ```
+6
+17
 1
-7
-7
-10.107107688757514
+89.28075217137648
 ```
 
 **Expected Output:**
 
 ```
-Geef de dag van de week (1-7): Geef het uur van aankomst: Geef het aantal personen: Geef het totaalbedrag: Resultaat: 9.601752304319639
+Resultaat: 89.28075217137648
 ```
 
 ---
 
 ### Case 25
 
-**Description:** Run 25: args=7, 6, 7, 291.028562513281
+**Description:** Run 25: args=7, 20, 9, 319.7112341428076
 
 
 **Input:**
 
 ```
 7
-6
-7
-291.028562513281
+20
+9
+319.7112341428076
 ```
 
 **Expected Output:**
 
 ```
-Geef de dag van de week (1-7): Geef het uur van aankomst: Geef het aantal personen: Geef het totaalbedrag: Resultaat: 276.4771343876169
+Resultaat: 303.7256724356672
 ```
 
 ---

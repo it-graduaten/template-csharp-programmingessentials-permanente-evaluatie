@@ -16,487 +16,47 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=105, ja
+**Description:** Run 1: args=180, ja
 
 
 **Input:**
 
 ```
-105
+180
 ja
 ```
 
 **Expected Output:**
 
 ```
-Geef het aankoopbedrag: Ben je betalende lid? (ja/nee): 89.25
+153
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=55, nee
+**Description:** Run 2: args=187, ja
 
 
 **Input:**
 
 ```
-55
-nee
+187
+ja
 ```
 
 **Expected Output:**
 
 ```
-Geef het aankoopbedrag: Ben je betalende lid? (ja/nee): 55
+158.95
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=30, ja
-
-
-**Input:**
-
-```
-30
-ja
-```
-
-**Expected Output:**
-
-```
-Geef het aankoopbedrag: Ben je betalende lid? (ja/nee): 30
-```
-
----
-
-### Case 4
-
-**Description:** Run 4: args=193, nee
-
-
-**Input:**
-
-```
-193
-nee
-```
-
-**Expected Output:**
-
-```
-Geef het aankoopbedrag: Ben je betalende lid? (ja/nee): 183.35
-```
-
----
-
-### Case 5
-
-**Description:** Run 5: args=146, ja
-
-
-**Input:**
-
-```
-146
-ja
-```
-
-**Expected Output:**
-
-```
-Geef het aankoopbedrag: Ben je betalende lid? (ja/nee): 124.1
-```
-
----
-
-### Case 6
-
-**Description:** Run 6: args=117, nee
-
-
-**Input:**
-
-```
-117
-nee
-```
-
-**Expected Output:**
-
-```
-Geef het aankoopbedrag: Ben je betalende lid? (ja/nee): 111.14999999999999
-```
-
----
-
-### Case 7
-
-**Description:** Run 7: args=90, ja
-
-
-**Input:**
-
-```
-90
-ja
-```
-
-**Expected Output:**
-
-```
-Geef het aankoopbedrag: Ben je betalende lid? (ja/nee): 90
-```
-
----
-
-### Case 8
-
-**Description:** Run 8: args=110, ja
-
-
-**Input:**
-
-```
-110
-ja
-```
-
-**Expected Output:**
-
-```
-Geef het aankoopbedrag: Ben je betalende lid? (ja/nee): 93.5
-```
-
----
-
-### Case 9
-
-**Description:** Run 9: args=82, nee
-
-
-**Input:**
-
-```
-82
-nee
-```
-
-**Expected Output:**
-
-```
-Geef het aankoopbedrag: Ben je betalende lid? (ja/nee): 82
-```
-
----
-
-### Case 10
-
-**Description:** Run 10: args=17, ja
-
-
-**Input:**
-
-```
-17
-ja
-```
-
-**Expected Output:**
-
-```
-Geef het aankoopbedrag: Ben je betalende lid? (ja/nee): 17
-```
-
----
-
-### Case 11
-
-**Description:** Run 11: args=171, nee
-
-
-**Input:**
-
-```
-171
-nee
-```
-
-**Expected Output:**
-
-```
-Geef het aankoopbedrag: Ben je betalende lid? (ja/nee): 162.45
-```
-
----
-
-### Case 12
-
-**Description:** Run 12: args=79, ja
-
-
-**Input:**
-
-```
-79
-ja
-```
-
-**Expected Output:**
-
-```
-Geef het aankoopbedrag: Ben je betalende lid? (ja/nee): 79
-```
-
----
-
-### Case 13
-
-**Description:** Run 13: args=4, nee
-
-
-**Input:**
-
-```
-4
-nee
-```
-
-**Expected Output:**
-
-```
-Geef het aankoopbedrag: Ben je betalende lid? (ja/nee): 4
-```
-
----
-
-### Case 14
-
-**Description:** Run 14: args=36, ja
-
-
-**Input:**
-
-```
-36
-ja
-```
-
-**Expected Output:**
-
-```
-Geef het aankoopbedrag: Ben je betalende lid? (ja/nee): 36
-```
-
----
-
-### Case 15
-
-**Description:** Run 15: args=54, ja
-
-
-**Input:**
-
-```
-54
-ja
-```
-
-**Expected Output:**
-
-```
-Geef het aankoopbedrag: Ben je betalende lid? (ja/nee): 54
-```
-
----
-
-### Case 16
-
-**Description:** Run 16: args=75, nee
-
-
-**Input:**
-
-```
-75
-nee
-```
-
-**Expected Output:**
-
-```
-Geef het aankoopbedrag: Ben je betalende lid? (ja/nee): 75
-```
-
----
-
-### Case 17
-
-**Description:** Run 17: args=46, ja
-
-
-**Input:**
-
-```
-46
-ja
-```
-
-**Expected Output:**
-
-```
-Geef het aankoopbedrag: Ben je betalende lid? (ja/nee): 46
-```
-
----
-
-### Case 18
-
-**Description:** Run 18: args=75, nee
-
-
-**Input:**
-
-```
-75
-nee
-```
-
-**Expected Output:**
-
-```
-Geef het aankoopbedrag: Ben je betalende lid? (ja/nee): 75
-```
-
----
-
-### Case 19
-
-**Description:** Run 19: args=17, ja
-
-
-**Input:**
-
-```
-17
-ja
-```
-
-**Expected Output:**
-
-```
-Geef het aankoopbedrag: Ben je betalende lid? (ja/nee): 17
-```
-
----
-
-### Case 20
-
-**Description:** Run 20: args=73, nee
-
-
-**Input:**
-
-```
-73
-nee
-```
-
-**Expected Output:**
-
-```
-Geef het aankoopbedrag: Ben je betalende lid? (ja/nee): 73
-```
-
----
-
-### Case 21
-
-**Description:** Run 21: args=135, ja
-
-
-**Input:**
-
-```
-135
-ja
-```
-
-**Expected Output:**
-
-```
-Geef het aankoopbedrag: Ben je betalende lid? (ja/nee): 114.75
-```
-
----
-
-### Case 22
-
-**Description:** Run 22: args=8, ja
-
-
-**Input:**
-
-```
-8
-ja
-```
-
-**Expected Output:**
-
-```
-Geef het aankoopbedrag: Ben je betalende lid? (ja/nee): 8
-```
-
----
-
-### Case 23
-
-**Description:** Run 23: args=66, nee
-
-
-**Input:**
-
-```
-66
-nee
-```
-
-**Expected Output:**
-
-```
-Geef het aankoopbedrag: Ben je betalende lid? (ja/nee): 66
-```
-
----
-
-### Case 24
-
-**Description:** Run 24: args=189, ja
-
-
-**Input:**
-
-```
-189
-ja
-```
-
-**Expected Output:**
-
-```
-Geef het aankoopbedrag: Ben je betalende lid? (ja/nee): 160.65
-```
-
----
-
-### Case 25
-
-**Description:** Run 25: args=51, ja
+**Description:** Run 3: args=51, ja
 
 
 **Input:**
@@ -509,7 +69,447 @@ ja
 **Expected Output:**
 
 ```
-Geef het aankoopbedrag: Ben je betalende lid? (ja/nee): 51
+51
+```
+
+---
+
+### Case 4
+
+**Description:** Run 4: args=161, nee
+
+
+**Input:**
+
+```
+161
+nee
+```
+
+**Expected Output:**
+
+```
+152.95
+```
+
+---
+
+### Case 5
+
+**Description:** Run 5: args=102, nee
+
+
+**Input:**
+
+```
+102
+nee
+```
+
+**Expected Output:**
+
+```
+96.89999999999999
+```
+
+---
+
+### Case 6
+
+**Description:** Run 6: args=75, ja
+
+
+**Input:**
+
+```
+75
+ja
+```
+
+**Expected Output:**
+
+```
+75
+```
+
+---
+
+### Case 7
+
+**Description:** Run 7: args=52, ja
+
+
+**Input:**
+
+```
+52
+ja
+```
+
+**Expected Output:**
+
+```
+52
+```
+
+---
+
+### Case 8
+
+**Description:** Run 8: args=182, ja
+
+
+**Input:**
+
+```
+182
+ja
+```
+
+**Expected Output:**
+
+```
+154.7
+```
+
+---
+
+### Case 9
+
+**Description:** Run 9: args=14, nee
+
+
+**Input:**
+
+```
+14
+nee
+```
+
+**Expected Output:**
+
+```
+14
+```
+
+---
+
+### Case 10
+
+**Description:** Run 10: args=172, ja
+
+
+**Input:**
+
+```
+172
+ja
+```
+
+**Expected Output:**
+
+```
+146.2
+```
+
+---
+
+### Case 11
+
+**Description:** Run 11: args=129, ja
+
+
+**Input:**
+
+```
+129
+ja
+```
+
+**Expected Output:**
+
+```
+109.64999999999999
+```
+
+---
+
+### Case 12
+
+**Description:** Run 12: args=158, ja
+
+
+**Input:**
+
+```
+158
+ja
+```
+
+**Expected Output:**
+
+```
+134.29999999999998
+```
+
+---
+
+### Case 13
+
+**Description:** Run 13: args=175, ja
+
+
+**Input:**
+
+```
+175
+ja
+```
+
+**Expected Output:**
+
+```
+148.75
+```
+
+---
+
+### Case 14
+
+**Description:** Run 14: args=110, nee
+
+
+**Input:**
+
+```
+110
+nee
+```
+
+**Expected Output:**
+
+```
+104.5
+```
+
+---
+
+### Case 15
+
+**Description:** Run 15: args=62, nee
+
+
+**Input:**
+
+```
+62
+nee
+```
+
+**Expected Output:**
+
+```
+62
+```
+
+---
+
+### Case 16
+
+**Description:** Run 16: args=164, nee
+
+
+**Input:**
+
+```
+164
+nee
+```
+
+**Expected Output:**
+
+```
+155.79999999999998
+```
+
+---
+
+### Case 17
+
+**Description:** Run 17: args=93, nee
+
+
+**Input:**
+
+```
+93
+nee
+```
+
+**Expected Output:**
+
+```
+93
+```
+
+---
+
+### Case 18
+
+**Description:** Run 18: args=2, ja
+
+
+**Input:**
+
+```
+2
+ja
+```
+
+**Expected Output:**
+
+```
+2
+```
+
+---
+
+### Case 19
+
+**Description:** Run 19: args=178, nee
+
+
+**Input:**
+
+```
+178
+nee
+```
+
+**Expected Output:**
+
+```
+169.1
+```
+
+---
+
+### Case 20
+
+**Description:** Run 20: args=26, ja
+
+
+**Input:**
+
+```
+26
+ja
+```
+
+**Expected Output:**
+
+```
+26
+```
+
+---
+
+### Case 21
+
+**Description:** Run 21: args=170, nee
+
+
+**Input:**
+
+```
+170
+nee
+```
+
+**Expected Output:**
+
+```
+161.5
+```
+
+---
+
+### Case 22
+
+**Description:** Run 22: args=153, ja
+
+
+**Input:**
+
+```
+153
+ja
+```
+
+**Expected Output:**
+
+```
+130.04999999999998
+```
+
+---
+
+### Case 23
+
+**Description:** Run 23: args=173, ja
+
+
+**Input:**
+
+```
+173
+ja
+```
+
+**Expected Output:**
+
+```
+147.04999999999998
+```
+
+---
+
+### Case 24
+
+**Description:** Run 24: args=174, nee
+
+
+**Input:**
+
+```
+174
+nee
+```
+
+**Expected Output:**
+
+```
+165.29999999999998
+```
+
+---
+
+### Case 25
+
+**Description:** Run 25: args=47, ja
+
+
+**Input:**
+
+```
+47
+ja
+```
+
+**Expected Output:**
+
+```
+47
 ```
 
 ---

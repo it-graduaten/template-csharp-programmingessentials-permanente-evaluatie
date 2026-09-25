@@ -18,33 +18,13 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=84, 1
+**Description:** Run 1: args=39, 7
 
 
 **Input:**
 
 ```
-84
-1
-```
-
-**Expected Output:**
-
-```
-9 euro
-```
-
----
-
-### Case 2
-
-**Description:** Run 2: args=63, 7
-
-
-**Input:**
-
-```
-63
+39
 7
 ```
 
@@ -56,56 +36,36 @@ Below are the automatically generated input/output expectations.
 
 ---
 
+### Case 2
+
+**Description:** Run 2: args=94, 5
+
+
+**Input:**
+
+```
+94
+5
+```
+
+**Expected Output:**
+
+```
+9 euro
+```
+
+---
+
 ### Case 3
 
-**Description:** Run 3: args=35, 1
+**Description:** Run 3: args=7, 5
 
 
 **Input:**
 
 ```
-35
-1
-```
-
-**Expected Output:**
-
-```
-12 euro
-```
-
----
-
-### Case 4
-
-**Description:** Run 4: args=48, 6
-
-
-**Input:**
-
-```
-48
-6
-```
-
-**Expected Output:**
-
-```
-12 euro
-```
-
----
-
-### Case 5
-
-**Description:** Run 5: args=4, 3
-
-
-**Input:**
-
-```
-4
-3
+7
+5
 ```
 
 **Expected Output:**
@@ -116,136 +76,116 @@ Below are the automatically generated input/output expectations.
 
 ---
 
-### Case 6
+### Case 4
 
-**Description:** Run 6: args=31, 1
-
-
-**Input:**
-
-```
-31
-1
-```
-
-**Expected Output:**
-
-```
-12 euro
-```
-
----
-
-### Case 7
-
-**Description:** Run 7: args=18, 4
-
-
-**Input:**
-
-```
-18
-4
-```
-
-**Expected Output:**
-
-```
-12 euro
-```
-
----
-
-### Case 8
-
-**Description:** Run 8: args=78, 5
+**Description:** Run 4: args=78, 7
 
 
 **Input:**
 
 ```
 78
-5
+7
 ```
 
 **Expected Output:**
 
 ```
 9 euro
+```
+
+---
+
+### Case 5
+
+**Description:** Run 5: args=66, 1
+
+
+**Input:**
+
+```
+66
+1
+```
+
+**Expected Output:**
+
+```
+9 euro
+```
+
+---
+
+### Case 6
+
+**Description:** Run 6: args=33, 2
+
+
+**Input:**
+
+```
+33
+2
+```
+
+**Expected Output:**
+
+```
+10 euro
+```
+
+---
+
+### Case 7
+
+**Description:** Run 7: args=32, 2
+
+
+**Input:**
+
+```
+32
+2
+```
+
+**Expected Output:**
+
+```
+10 euro
+```
+
+---
+
+### Case 8
+
+**Description:** Run 8: args=55, 2
+
+
+**Input:**
+
+```
+55
+2
+```
+
+**Expected Output:**
+
+```
+10 euro
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=98, 3
+**Description:** Run 9: args=24, 5
 
 
 **Input:**
 
 ```
-98
-3
-```
-
-**Expected Output:**
-
-```
-9 euro
-```
-
----
-
-### Case 10
-
-**Description:** Run 10: args=98, 4
-
-
-**Input:**
-
-```
-98
-4
-```
-
-**Expected Output:**
-
-```
-9 euro
-```
-
----
-
-### Case 11
-
-**Description:** Run 11: args=96, 5
-
-
-**Input:**
-
-```
-96
+24
 5
-```
-
-**Expected Output:**
-
-```
-9 euro
-```
-
----
-
-### Case 12
-
-**Description:** Run 12: args=28, 3
-
-
-**Input:**
-
-```
-28
-3
 ```
 
 **Expected Output:**
@@ -256,9 +196,9 @@ Below are the automatically generated input/output expectations.
 
 ---
 
-### Case 13
+### Case 10
 
-**Description:** Run 13: args=21, 4
+**Description:** Run 10: args=21, 4
 
 
 **Input:**
@@ -276,36 +216,16 @@ Below are the automatically generated input/output expectations.
 
 ---
 
-### Case 14
+### Case 11
 
-**Description:** Run 14: args=4, 3
+**Description:** Run 11: args=31, 3
 
 
 **Input:**
 
 ```
-4
+31
 3
-```
-
-**Expected Output:**
-
-```
-7 euro
-```
-
----
-
-### Case 15
-
-**Description:** Run 15: args=32, 5
-
-
-**Input:**
-
-```
-32
-5
 ```
 
 **Expected Output:**
@@ -316,15 +236,115 @@ Below are the automatically generated input/output expectations.
 
 ---
 
-### Case 16
+### Case 12
 
-**Description:** Run 16: args=41, 2
+**Description:** Run 12: args=43, 4
 
 
 **Input:**
 
 ```
-41
+43
+4
+```
+
+**Expected Output:**
+
+```
+12 euro
+```
+
+---
+
+### Case 13
+
+**Description:** Run 13: args=47, 6
+
+
+**Input:**
+
+```
+47
+6
+```
+
+**Expected Output:**
+
+```
+12 euro
+```
+
+---
+
+### Case 14
+
+**Description:** Run 14: args=58, 4
+
+
+**Input:**
+
+```
+58
+4
+```
+
+**Expected Output:**
+
+```
+12 euro
+```
+
+---
+
+### Case 15
+
+**Description:** Run 15: args=80, 4
+
+
+**Input:**
+
+```
+80
+4
+```
+
+**Expected Output:**
+
+```
+9 euro
+```
+
+---
+
+### Case 16
+
+**Description:** Run 16: args=19, 4
+
+
+**Input:**
+
+```
+19
+4
+```
+
+**Expected Output:**
+
+```
+12 euro
+```
+
+---
+
+### Case 17
+
+**Description:** Run 17: args=56, 2
+
+
+**Input:**
+
+```
+56
 2
 ```
 
@@ -336,76 +356,16 @@ Below are the automatically generated input/output expectations.
 
 ---
 
-### Case 17
-
-**Description:** Run 17: args=87, 7
-
-
-**Input:**
-
-```
-87
-7
-```
-
-**Expected Output:**
-
-```
-9 euro
-```
-
----
-
 ### Case 18
 
-**Description:** Run 18: args=50, 5
+**Description:** Run 18: args=0, 1
 
 
 **Input:**
 
 ```
-50
-5
-```
-
-**Expected Output:**
-
-```
-12 euro
-```
-
----
-
-### Case 19
-
-**Description:** Run 19: args=24, 4
-
-
-**Input:**
-
-```
-24
-4
-```
-
-**Expected Output:**
-
-```
-12 euro
-```
-
----
-
-### Case 20
-
-**Description:** Run 20: args=93, 2
-
-
-**Input:**
-
-```
-93
-2
+0
+1
 ```
 
 **Expected Output:**
@@ -416,16 +376,56 @@ Below are the automatically generated input/output expectations.
 
 ---
 
-### Case 21
+### Case 19
 
-**Description:** Run 21: args=66, 6
+**Description:** Run 19: args=9, 1
 
 
 **Input:**
 
 ```
-66
-6
+9
+1
+```
+
+**Expected Output:**
+
+```
+7 euro
+```
+
+---
+
+### Case 20
+
+**Description:** Run 20: args=79, 4
+
+
+**Input:**
+
+```
+79
+4
+```
+
+**Expected Output:**
+
+```
+9 euro
+```
+
+---
+
+### Case 21
+
+**Description:** Run 21: args=98, 4
+
+
+**Input:**
+
+```
+98
+4
 ```
 
 **Expected Output:**
@@ -438,34 +438,34 @@ Below are the automatically generated input/output expectations.
 
 ### Case 22
 
-**Description:** Run 22: args=48, 6
+**Description:** Run 22: args=2, 3
 
 
 **Input:**
 
 ```
-48
-6
+2
+3
 ```
 
 **Expected Output:**
 
 ```
-12 euro
+7 euro
 ```
 
 ---
 
 ### Case 23
 
-**Description:** Run 23: args=15, 7
+**Description:** Run 23: args=32, 6
 
 
 **Input:**
 
 ```
-15
-7
+32
+6
 ```
 
 **Expected Output:**
@@ -478,14 +478,14 @@ Below are the automatically generated input/output expectations.
 
 ### Case 24
 
-**Description:** Run 24: args=99, 5
+**Description:** Run 24: args=68, 6
 
 
 **Input:**
 
 ```
-99
-5
+68
+6
 ```
 
 **Expected Output:**
@@ -498,20 +498,20 @@ Below are the automatically generated input/output expectations.
 
 ### Case 25
 
-**Description:** Run 25: args=3, 3
+**Description:** Run 25: args=44, 5
 
 
 **Input:**
 
 ```
-3
-3
+44
+5
 ```
 
 **Expected Output:**
 
 ```
-7 euro
+12 euro
 ```
 
 ---

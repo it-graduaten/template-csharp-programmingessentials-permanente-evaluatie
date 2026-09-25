@@ -16,450 +16,450 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=AJi29, FoQBS, SqCPi, Rd3iG, DYrBh, ja, M46Ts
+**Description:** Run 1: args=hRxyV, WctWg, qONII, 7uVhq, zMtk6, nee, eBEin
 
 
 **Input:**
 
 ```
-AJi29
-FoQBS
-SqCPi
-Rd3iG
-DYrBh
-ja
-M46Ts
+hRxyV
+WctWg
+qONII
+7uVhq
+zMtk6
+nee
+eBEin
 ```
 
 **Expected Output:**
 
 ```
-Geef product 1: Geef product 2: Geef product 3: Geef product 4: Geef product 5: Wil je een product verwijderen? (ja/nee): Welk product wil je verwijderen? Aantal producten: 5
-AJi29
-FoQBS
-SqCPi
-Rd3iG
-DYrBh
+Aantal producten: 5
+hRxyV
+WctWg
+qONII
+7uVhq
+zMtk6
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=GUgm0, 8nSc5, wa9Mc, Npnlx, jwPlG, ja, 8X93o
+**Description:** Run 2: args=xb0Di, VFUj3, 9Yr1V, Z4q7C, HiQVb, nee, OpMQ4
 
 
 **Input:**
 
 ```
-GUgm0
-8nSc5
-wa9Mc
-Npnlx
-jwPlG
-ja
-8X93o
+xb0Di
+VFUj3
+9Yr1V
+Z4q7C
+HiQVb
+nee
+OpMQ4
 ```
 
 **Expected Output:**
 
 ```
-Geef product 1: Geef product 2: Geef product 3: Geef product 4: Geef product 5: Wil je een product verwijderen? (ja/nee): Welk product wil je verwijderen? Aantal producten: 5
-GUgm0
-8nSc5
-wa9Mc
-Npnlx
-jwPlG
+Aantal producten: 5
+xb0Di
+VFUj3
+9Yr1V
+Z4q7C
+HiQVb
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=H8SqC, UaUuv, d31yn, xljgY, itkX4, nee, sJZY8
+**Description:** Run 3: args=IWoCj, yMGEW, CitDy, r4QEy, A5cPc, nee, CRjiZ
 
 
 **Input:**
 
 ```
-H8SqC
-UaUuv
-d31yn
-xljgY
-itkX4
+IWoCj
+yMGEW
+CitDy
+r4QEy
+A5cPc
 nee
-sJZY8
+CRjiZ
 ```
 
 **Expected Output:**
 
 ```
-Geef product 1: Geef product 2: Geef product 3: Geef product 4: Geef product 5: Wil je een product verwijderen? (ja/nee): Aantal producten: 5
-H8SqC
-UaUuv
-d31yn
-xljgY
-itkX4
+Aantal producten: 5
+IWoCj
+yMGEW
+CitDy
+r4QEy
+A5cPc
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=lNkG0, VG5iP, grDeP, VT55F, XkB5l, nee, PBawz
+**Description:** Run 4: args=92Kf6, jKuYV, kNNBV, IUpZE, cJrbl, nee, rGPty
 
 
 **Input:**
 
 ```
-lNkG0
-VG5iP
-grDeP
-VT55F
-XkB5l
+92Kf6
+jKuYV
+kNNBV
+IUpZE
+cJrbl
 nee
-PBawz
+rGPty
 ```
 
 **Expected Output:**
 
 ```
-Geef product 1: Geef product 2: Geef product 3: Geef product 4: Geef product 5: Wil je een product verwijderen? (ja/nee): Aantal producten: 5
-lNkG0
-VG5iP
-grDeP
-VT55F
-XkB5l
+Aantal producten: 5
+92Kf6
+jKuYV
+kNNBV
+IUpZE
+cJrbl
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=h63v3, HxANF, Uxj48, VvlSr, pDfpQ, ja, JmaO3
+**Description:** Run 5: args=ITxSU, Cy8nX, mZdXt, JMBBe, e4E24, nee, HWlXA
 
 
 **Input:**
 
 ```
-h63v3
-HxANF
-Uxj48
-VvlSr
-pDfpQ
-ja
-JmaO3
+ITxSU
+Cy8nX
+mZdXt
+JMBBe
+e4E24
+nee
+HWlXA
 ```
 
 **Expected Output:**
 
 ```
-Geef product 1: Geef product 2: Geef product 3: Geef product 4: Geef product 5: Wil je een product verwijderen? (ja/nee): Welk product wil je verwijderen? Aantal producten: 5
-h63v3
-HxANF
-Uxj48
-VvlSr
-pDfpQ
+Aantal producten: 5
+ITxSU
+Cy8nX
+mZdXt
+JMBBe
+e4E24
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=cK0l7, pzS1m, DQf14, ZgkuL, j7T3b, nee, vCa8k
+**Description:** Run 6: args=hID7F, tMpnd, H9NFq, fpkrD, 6jpae, ja, edYcU
 
 
 **Input:**
 
 ```
-cK0l7
-pzS1m
-DQf14
-ZgkuL
-j7T3b
-nee
-vCa8k
+hID7F
+tMpnd
+H9NFq
+fpkrD
+6jpae
+ja
+edYcU
 ```
 
 **Expected Output:**
 
 ```
-Geef product 1: Geef product 2: Geef product 3: Geef product 4: Geef product 5: Wil je een product verwijderen? (ja/nee): Aantal producten: 5
-cK0l7
-pzS1m
-DQf14
-ZgkuL
-j7T3b
+Aantal producten: 5
+hID7F
+tMpnd
+H9NFq
+fpkrD
+6jpae
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=18PRR, fZBf4, j9cyk, bKql0, WtSl0, nee, pQDId
+**Description:** Run 7: args=jB1q7, JLkuU, IduX1, BzOjR, bVP0x, nee, 4EzkL
 
 
 **Input:**
 
 ```
-18PRR
-fZBf4
-j9cyk
-bKql0
-WtSl0
+jB1q7
+JLkuU
+IduX1
+BzOjR
+bVP0x
 nee
-pQDId
+4EzkL
 ```
 
 **Expected Output:**
 
 ```
-Geef product 1: Geef product 2: Geef product 3: Geef product 4: Geef product 5: Wil je een product verwijderen? (ja/nee): Aantal producten: 5
-18PRR
-fZBf4
-j9cyk
-bKql0
-WtSl0
+Aantal producten: 5
+jB1q7
+JLkuU
+IduX1
+BzOjR
+bVP0x
 ```
 
 ---
 
 ### Case 8
 
-**Description:** Run 8: args=XLSYq, T7Nad, bOVe8, ku6UR, qPcuB, nee, B5BTm
+**Description:** Run 8: args=MI4ky, cKNrj, PXPTK, pGEkE, mEnv6, nee, gjdEU
 
 
 **Input:**
 
 ```
-XLSYq
-T7Nad
-bOVe8
-ku6UR
-qPcuB
+MI4ky
+cKNrj
+PXPTK
+pGEkE
+mEnv6
 nee
-B5BTm
+gjdEU
 ```
 
 **Expected Output:**
 
 ```
-Geef product 1: Geef product 2: Geef product 3: Geef product 4: Geef product 5: Wil je een product verwijderen? (ja/nee): Aantal producten: 5
-XLSYq
-T7Nad
-bOVe8
-ku6UR
-qPcuB
+Aantal producten: 5
+MI4ky
+cKNrj
+PXPTK
+pGEkE
+mEnv6
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=wlEio, 0Ozoq, 7Zqhn, MAxpZ, H2dOC, ja, umJx9
+**Description:** Run 9: args=EtY75, vPZUu, pIuoW, ezkHS, lvWkz, ja, ANTkJ
 
 
 **Input:**
 
 ```
-wlEio
-0Ozoq
-7Zqhn
-MAxpZ
-H2dOC
+EtY75
+vPZUu
+pIuoW
+ezkHS
+lvWkz
 ja
-umJx9
+ANTkJ
 ```
 
 **Expected Output:**
 
 ```
-Geef product 1: Geef product 2: Geef product 3: Geef product 4: Geef product 5: Wil je een product verwijderen? (ja/nee): Welk product wil je verwijderen? Aantal producten: 5
-wlEio
-0Ozoq
-7Zqhn
-MAxpZ
-H2dOC
+Aantal producten: 5
+EtY75
+vPZUu
+pIuoW
+ezkHS
+lvWkz
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=5mO1n, K2nWM, ffQWp, QmyGJ, L4d9h, nee, 2kC9c
+**Description:** Run 10: args=kHDJK, e9GJJ, 1Hy0h, Qdpsk, Z9zPY, nee, AFMm4
 
 
 **Input:**
 
 ```
-5mO1n
-K2nWM
-ffQWp
-QmyGJ
-L4d9h
+kHDJK
+e9GJJ
+1Hy0h
+Qdpsk
+Z9zPY
 nee
-2kC9c
+AFMm4
 ```
 
 **Expected Output:**
 
 ```
-Geef product 1: Geef product 2: Geef product 3: Geef product 4: Geef product 5: Wil je een product verwijderen? (ja/nee): Aantal producten: 5
-5mO1n
-K2nWM
-ffQWp
-QmyGJ
-L4d9h
+Aantal producten: 5
+kHDJK
+e9GJJ
+1Hy0h
+Qdpsk
+Z9zPY
 ```
 
 ---
 
 ### Case 11
 
-**Description:** Run 11: args=KBgue, 7Rpgz, 5zW0d, gGwXf, ACL7k, nee, q7xBm
+**Description:** Run 11: args=kUHKz, idzXo, vZuQJ, qDKD3, d0tuD, ja, XWVAD
 
 
 **Input:**
 
 ```
-KBgue
-7Rpgz
-5zW0d
-gGwXf
-ACL7k
-nee
-q7xBm
+kUHKz
+idzXo
+vZuQJ
+qDKD3
+d0tuD
+ja
+XWVAD
 ```
 
 **Expected Output:**
 
 ```
-Geef product 1: Geef product 2: Geef product 3: Geef product 4: Geef product 5: Wil je een product verwijderen? (ja/nee): Aantal producten: 5
-KBgue
-7Rpgz
-5zW0d
-gGwXf
-ACL7k
+Aantal producten: 5
+kUHKz
+idzXo
+vZuQJ
+qDKD3
+d0tuD
 ```
 
 ---
 
 ### Case 12
 
-**Description:** Run 12: args=TJzlQ, 04xIS, Dh9CQ, 7juOW, lHo3o, ja, N6kpe
+**Description:** Run 12: args=rwqzj, WRnoB, ejkjs, J5AaR, kOEyy, nee, 2cUr7
 
 
 **Input:**
 
 ```
-TJzlQ
-04xIS
-Dh9CQ
-7juOW
-lHo3o
-ja
-N6kpe
+rwqzj
+WRnoB
+ejkjs
+J5AaR
+kOEyy
+nee
+2cUr7
 ```
 
 **Expected Output:**
 
 ```
-Geef product 1: Geef product 2: Geef product 3: Geef product 4: Geef product 5: Wil je een product verwijderen? (ja/nee): Welk product wil je verwijderen? Aantal producten: 5
-TJzlQ
-04xIS
-Dh9CQ
-7juOW
-lHo3o
+Aantal producten: 5
+rwqzj
+WRnoB
+ejkjs
+J5AaR
+kOEyy
 ```
 
 ---
 
 ### Case 13
 
-**Description:** Run 13: args=9g8ja, fIIvD, ZGHx7, lADaY, 3tvxR, nee, G1mfr
+**Description:** Run 13: args=gVHoG, z7HiI, RG7QB, wSUjZ, rSK5m, ja, PfzCw
 
 
 **Input:**
 
 ```
-9g8ja
-fIIvD
-ZGHx7
-lADaY
-3tvxR
-nee
-G1mfr
+gVHoG
+z7HiI
+RG7QB
+wSUjZ
+rSK5m
+ja
+PfzCw
 ```
 
 **Expected Output:**
 
 ```
-Geef product 1: Geef product 2: Geef product 3: Geef product 4: Geef product 5: Wil je een product verwijderen? (ja/nee): Aantal producten: 5
-9g8ja
-fIIvD
-ZGHx7
-lADaY
-3tvxR
+Aantal producten: 5
+gVHoG
+z7HiI
+RG7QB
+wSUjZ
+rSK5m
 ```
 
 ---
 
 ### Case 14
 
-**Description:** Run 14: args=97Oo1, XAmSV, Ae8d3, J6tVf, EVP3a, ja, PNNXu
+**Description:** Run 14: args=5ztVf, 3mrhD, HHldX, MvHFI, BrPb1, ja, Ow0fc
 
 
 **Input:**
 
 ```
-97Oo1
-XAmSV
-Ae8d3
-J6tVf
-EVP3a
+5ztVf
+3mrhD
+HHldX
+MvHFI
+BrPb1
 ja
-PNNXu
+Ow0fc
 ```
 
 **Expected Output:**
 
 ```
-Geef product 1: Geef product 2: Geef product 3: Geef product 4: Geef product 5: Wil je een product verwijderen? (ja/nee): Welk product wil je verwijderen? Aantal producten: 5
-97Oo1
-XAmSV
-Ae8d3
-J6tVf
-EVP3a
+Aantal producten: 5
+5ztVf
+3mrhD
+HHldX
+MvHFI
+BrPb1
 ```
 
 ---
 
 ### Case 15
 
-**Description:** Run 15: args=bkO3D, cjxLN, nu0ZL, 2ODT5, lgYXB, ja, EiJJ6
+**Description:** Run 15: args=7MeU0, Zvw7B, RMeM9, l4D1Z, gafBR, ja, L03y4
 
 
 **Input:**
 
 ```
-bkO3D
-cjxLN
-nu0ZL
-2ODT5
-lgYXB
+7MeU0
+Zvw7B
+RMeM9
+l4D1Z
+gafBR
 ja
-EiJJ6
+L03y4
 ```
 
 **Expected Output:**
 
 ```
-Geef product 1: Geef product 2: Geef product 3: Geef product 4: Geef product 5: Wil je een product verwijderen? (ja/nee): Welk product wil je verwijderen? Aantal producten: 5
-bkO3D
-cjxLN
-nu0ZL
-2ODT5
-lgYXB
+Aantal producten: 5
+7MeU0
+Zvw7B
+RMeM9
+l4D1Z
+gafBR
 ```
 
 ---

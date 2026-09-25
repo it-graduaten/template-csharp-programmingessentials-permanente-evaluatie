@@ -16,432 +16,430 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=Ga1X1, oeBAD, 7A5El, FQ7ls, nee, tbezS
+**Description:** Run 1: args=1Dzsn, 7t0U5, 78f0P, KvZ5T, ja, uN0Vh
 
 
 **Input:**
 
 ```
-Ga1X1
-oeBAD
-7A5El
-FQ7ls
-nee
-tbezS
+1Dzsn
+7t0U5
+78f0P
+KvZ5T
+ja
+uN0Vh
 ```
 
 **Expected Output:**
 
 ```
-Geef kleur 1: Geef kleur 2: Geef kleur 3: Geef kleur 4: Wil je een vijfde kleur toevoegen? (ja/nee): Totaal aantal kleuren: 4
-Ga1X1
-oeBAD
-7A5El
-FQ7ls
+Totaal aantal kleuren: 5
+1Dzsn
+7t0U5
+78f0P
+KvZ5T
+uN0Vh
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=6P8Ye, pcNBN, EoC1j, jrYIa, ja, rYYog
+**Description:** Run 2: args=qguHL, YHFKH, iKbZQ, gDTy0, nee, kYRx7
 
 
 **Input:**
 
 ```
-6P8Ye
-pcNBN
-EoC1j
-jrYIa
-ja
-rYYog
+qguHL
+YHFKH
+iKbZQ
+gDTy0
+nee
+kYRx7
 ```
 
 **Expected Output:**
 
 ```
-Geef kleur 1: Geef kleur 2: Geef kleur 3: Geef kleur 4: Wil je een vijfde kleur toevoegen? (ja/nee): Geef de vijfde kleur: Totaal aantal kleuren: 5
-6P8Ye
-pcNBN
-EoC1j
-jrYIa
-rYYog
+Totaal aantal kleuren: 4
+qguHL
+YHFKH
+iKbZQ
+gDTy0
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=bsi4L, 39q67, BtBlg, sKsPG, ja, j2sMJ
+**Description:** Run 3: args=k9sF0, cbuEq, l1v3K, 4FT1f, nee, dn12P
 
 
 **Input:**
 
 ```
-bsi4L
-39q67
-BtBlg
-sKsPG
-ja
-j2sMJ
+k9sF0
+cbuEq
+l1v3K
+4FT1f
+nee
+dn12P
 ```
 
 **Expected Output:**
 
 ```
-Geef kleur 1: Geef kleur 2: Geef kleur 3: Geef kleur 4: Wil je een vijfde kleur toevoegen? (ja/nee): Geef de vijfde kleur: Totaal aantal kleuren: 5
-bsi4L
-39q67
-BtBlg
-sKsPG
-j2sMJ
+Totaal aantal kleuren: 4
+k9sF0
+cbuEq
+l1v3K
+4FT1f
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=cf3Uc, dzwwE, 628R3, UXGti, ja, FCJpF
+**Description:** Run 4: args=CziAu, I9vt7, TRCV4, QjdNG, nee, 5Hu35
 
 
 **Input:**
 
 ```
-cf3Uc
-dzwwE
-628R3
-UXGti
-ja
-FCJpF
+CziAu
+I9vt7
+TRCV4
+QjdNG
+nee
+5Hu35
 ```
 
 **Expected Output:**
 
 ```
-Geef kleur 1: Geef kleur 2: Geef kleur 3: Geef kleur 4: Wil je een vijfde kleur toevoegen? (ja/nee): Geef de vijfde kleur: Totaal aantal kleuren: 5
-cf3Uc
-dzwwE
-628R3
-UXGti
-FCJpF
+Totaal aantal kleuren: 4
+CziAu
+I9vt7
+TRCV4
+QjdNG
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=RCdgQ, qSFdo, tVbVX, R1o3R, ja, 7gV3X
+**Description:** Run 5: args=9HNdf, vz6X1, QCtZl, THNvE, nee, qv1Aw
 
 
 **Input:**
 
 ```
-RCdgQ
-qSFdo
-tVbVX
-R1o3R
-ja
-7gV3X
+9HNdf
+vz6X1
+QCtZl
+THNvE
+nee
+qv1Aw
 ```
 
 **Expected Output:**
 
 ```
-Geef kleur 1: Geef kleur 2: Geef kleur 3: Geef kleur 4: Wil je een vijfde kleur toevoegen? (ja/nee): Geef de vijfde kleur: Totaal aantal kleuren: 5
-RCdgQ
-qSFdo
-tVbVX
-R1o3R
-7gV3X
+Totaal aantal kleuren: 4
+9HNdf
+vz6X1
+QCtZl
+THNvE
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=AGaln, 2N67i, ousc8, lPd96, nee, EpUoC
+**Description:** Run 6: args=cGfMi, BFSvw, 7VnHW, fz6Hc, ja, A3uC9
 
 
 **Input:**
 
 ```
-AGaln
-2N67i
-ousc8
-lPd96
-nee
-EpUoC
+cGfMi
+BFSvw
+7VnHW
+fz6Hc
+ja
+A3uC9
 ```
 
 **Expected Output:**
 
 ```
-Geef kleur 1: Geef kleur 2: Geef kleur 3: Geef kleur 4: Wil je een vijfde kleur toevoegen? (ja/nee): Totaal aantal kleuren: 4
-AGaln
-2N67i
-ousc8
-lPd96
+Totaal aantal kleuren: 5
+cGfMi
+BFSvw
+7VnHW
+fz6Hc
+A3uC9
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=fmtQB, r68EB, NQCM7, 7pH33, ja, nJq1K
+**Description:** Run 7: args=CA42O, s1tpR, FnB5P, tRRE5, ja, MwoSI
 
 
 **Input:**
 
 ```
-fmtQB
-r68EB
-NQCM7
-7pH33
+CA42O
+s1tpR
+FnB5P
+tRRE5
 ja
-nJq1K
+MwoSI
 ```
 
 **Expected Output:**
 
 ```
-Geef kleur 1: Geef kleur 2: Geef kleur 3: Geef kleur 4: Wil je een vijfde kleur toevoegen? (ja/nee): Geef de vijfde kleur: Totaal aantal kleuren: 5
-fmtQB
-r68EB
-NQCM7
-7pH33
-nJq1K
+Totaal aantal kleuren: 5
+CA42O
+s1tpR
+FnB5P
+tRRE5
+MwoSI
 ```
 
 ---
 
 ### Case 8
 
-**Description:** Run 8: args=48FSc, 7aIlW, G0FDX, uqgLW, ja, 0QDJF
+**Description:** Run 8: args=4VjuF, uUhnk, 1VKzJ, IGKSL, ja, tvNlp
 
 
 **Input:**
 
 ```
-48FSc
-7aIlW
-G0FDX
-uqgLW
+4VjuF
+uUhnk
+1VKzJ
+IGKSL
 ja
-0QDJF
+tvNlp
 ```
 
 **Expected Output:**
 
 ```
-Geef kleur 1: Geef kleur 2: Geef kleur 3: Geef kleur 4: Wil je een vijfde kleur toevoegen? (ja/nee): Geef de vijfde kleur: Totaal aantal kleuren: 5
-48FSc
-7aIlW
-G0FDX
-uqgLW
-0QDJF
+Totaal aantal kleuren: 5
+4VjuF
+uUhnk
+1VKzJ
+IGKSL
+tvNlp
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=5RX1e, VUVPH, vIBJ1, p7XFD, ja, jSgkZ
+**Description:** Run 9: args=Id0ga, 11IuL, ozYjW, INhYV, ja, yN0Eu
 
 
 **Input:**
 
 ```
-5RX1e
-VUVPH
-vIBJ1
-p7XFD
+Id0ga
+11IuL
+ozYjW
+INhYV
 ja
-jSgkZ
+yN0Eu
 ```
 
 **Expected Output:**
 
 ```
-Geef kleur 1: Geef kleur 2: Geef kleur 3: Geef kleur 4: Wil je een vijfde kleur toevoegen? (ja/nee): Geef de vijfde kleur: Totaal aantal kleuren: 5
-5RX1e
-VUVPH
-vIBJ1
-p7XFD
-jSgkZ
+Totaal aantal kleuren: 5
+Id0ga
+11IuL
+ozYjW
+INhYV
+yN0Eu
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=j2Apq, xUiBA, NmWnH, Y14Qi, ja, 5Bim7
+**Description:** Run 10: args=GWqvz, NAOZP, wVOO8, lxHTv, ja, R2W2L
 
 
 **Input:**
 
 ```
-j2Apq
-xUiBA
-NmWnH
-Y14Qi
+GWqvz
+NAOZP
+wVOO8
+lxHTv
 ja
-5Bim7
+R2W2L
 ```
 
 **Expected Output:**
 
 ```
-Geef kleur 1: Geef kleur 2: Geef kleur 3: Geef kleur 4: Wil je een vijfde kleur toevoegen? (ja/nee): Geef de vijfde kleur: Totaal aantal kleuren: 5
-j2Apq
-xUiBA
-NmWnH
-Y14Qi
-5Bim7
+Totaal aantal kleuren: 5
+GWqvz
+NAOZP
+wVOO8
+lxHTv
+R2W2L
 ```
 
 ---
 
 ### Case 11
 
-**Description:** Run 11: args=a4DJc, pTx7F, 9yADT, LIrAv, ja, DnflT
+**Description:** Run 11: args=55NiP, Jphvp, apK5N, bi0RO, ja, go0r5
 
 
 **Input:**
 
 ```
-a4DJc
-pTx7F
-9yADT
-LIrAv
+55NiP
+Jphvp
+apK5N
+bi0RO
 ja
-DnflT
+go0r5
 ```
 
 **Expected Output:**
 
 ```
-Geef kleur 1: Geef kleur 2: Geef kleur 3: Geef kleur 4: Wil je een vijfde kleur toevoegen? (ja/nee): Geef de vijfde kleur: Totaal aantal kleuren: 5
-a4DJc
-pTx7F
-9yADT
-LIrAv
-DnflT
+Totaal aantal kleuren: 5
+55NiP
+Jphvp
+apK5N
+bi0RO
+go0r5
 ```
 
 ---
 
 ### Case 12
 
-**Description:** Run 12: args=14F3z, Xuy3c, s8hwS, qTlUS, ja, TaTQ8
+**Description:** Run 12: args=snW5V, v7fVl, KPt0P, JpHcG, ja, njwLG
 
 
 **Input:**
 
 ```
-14F3z
-Xuy3c
-s8hwS
-qTlUS
+snW5V
+v7fVl
+KPt0P
+JpHcG
 ja
-TaTQ8
+njwLG
 ```
 
 **Expected Output:**
 
 ```
-Geef kleur 1: Geef kleur 2: Geef kleur 3: Geef kleur 4: Wil je een vijfde kleur toevoegen? (ja/nee): Geef de vijfde kleur: Totaal aantal kleuren: 5
-14F3z
-Xuy3c
-s8hwS
-qTlUS
-TaTQ8
+Totaal aantal kleuren: 5
+snW5V
+v7fVl
+KPt0P
+JpHcG
+njwLG
 ```
 
 ---
 
 ### Case 13
 
-**Description:** Run 13: args=6uON0, zRNRr, zsuF1, XyOKk, ja, GcKdt
+**Description:** Run 13: args=SbuGZ, HsGdD, SpvtC, Zh8ke, ja, offLv
 
 
 **Input:**
 
 ```
-6uON0
-zRNRr
-zsuF1
-XyOKk
+SbuGZ
+HsGdD
+SpvtC
+Zh8ke
 ja
-GcKdt
+offLv
 ```
 
 **Expected Output:**
 
 ```
-Geef kleur 1: Geef kleur 2: Geef kleur 3: Geef kleur 4: Wil je een vijfde kleur toevoegen? (ja/nee): Geef de vijfde kleur: Totaal aantal kleuren: 5
-6uON0
-zRNRr
-zsuF1
-XyOKk
-GcKdt
+Totaal aantal kleuren: 5
+SbuGZ
+HsGdD
+SpvtC
+Zh8ke
+offLv
 ```
 
 ---
 
 ### Case 14
 
-**Description:** Run 14: args=zcZBy, JSJIs, KO2B0, 9fMPi, ja, fDTCG
+**Description:** Run 14: args=5CZHb, cncdK, bmFHO, QVo1P, nee, TSWll
 
 
 **Input:**
 
 ```
-zcZBy
-JSJIs
-KO2B0
-9fMPi
-ja
-fDTCG
+5CZHb
+cncdK
+bmFHO
+QVo1P
+nee
+TSWll
 ```
 
 **Expected Output:**
 
 ```
-Geef kleur 1: Geef kleur 2: Geef kleur 3: Geef kleur 4: Wil je een vijfde kleur toevoegen? (ja/nee): Geef de vijfde kleur: Totaal aantal kleuren: 5
-zcZBy
-JSJIs
-KO2B0
-9fMPi
-fDTCG
+Totaal aantal kleuren: 4
+5CZHb
+cncdK
+bmFHO
+QVo1P
 ```
 
 ---
 
 ### Case 15
 
-**Description:** Run 15: args=cNTEd, uJDj6, weyss, OH0cz, nee, bHE55
+**Description:** Run 15: args=3n4wn, ncHKQ, YXLag, HqSz5, ja, JfXSb
 
 
 **Input:**
 
 ```
-cNTEd
-uJDj6
-weyss
-OH0cz
-nee
-bHE55
+3n4wn
+ncHKQ
+YXLag
+HqSz5
+ja
+JfXSb
 ```
 
 **Expected Output:**
 
 ```
-Geef kleur 1: Geef kleur 2: Geef kleur 3: Geef kleur 4: Wil je een vijfde kleur toevoegen? (ja/nee): Totaal aantal kleuren: 4
-cNTEd
-uJDj6
-weyss
-OH0cz
+Totaal aantal kleuren: 5
+3n4wn
+ncHKQ
+YXLag
+HqSz5
+JfXSb
 ```
 
 ---

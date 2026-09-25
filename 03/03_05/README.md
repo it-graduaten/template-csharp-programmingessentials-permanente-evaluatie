@@ -17,7 +17,107 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=15, nee
+**Description:** Run 1: args=41, ja
+
+
+**Input:**
+
+```
+41
+ja
+```
+
+**Expected Output:**
+
+```
+richtingskeuzebegeleiding
+```
+
+---
+
+### Case 2
+
+**Description:** Run 2: args=15, ja
+
+
+**Input:**
+
+```
+15
+ja
+```
+
+**Expected Output:**
+
+```
+richtingskeuzebegeleiding
+```
+
+---
+
+### Case 3
+
+**Description:** Run 3: args=10, ja
+
+
+**Input:**
+
+```
+10
+ja
+```
+
+**Expected Output:**
+
+```
+richtingskeuzebegeleiding
+```
+
+---
+
+### Case 4
+
+**Description:** Run 4: args=27, nee
+
+
+**Input:**
+
+```
+27
+nee
+```
+
+**Expected Output:**
+
+```
+richtingskeuzebegeleiding
+```
+
+---
+
+### Case 5
+
+**Description:** Run 5: args=11, nee
+
+
+**Input:**
+
+```
+11
+nee
+```
+
+**Expected Output:**
+
+```
+richtingskeuzebegeleiding
+```
+
+---
+
+### Case 6
+
+**Description:** Run 6: args=15, nee
 
 
 **Input:**
@@ -30,154 +130,14 @@ nee
 **Expected Output:**
 
 ```
-Geef je gemiddelde percentage: Heb je wiskunde gevolgd? (ja/nee): richtingskeuzebegeleiding
-```
-
----
-
-### Case 2
-
-**Description:** Run 2: args=68, nee
-
-
-**Input:**
-
-```
-68
-nee
-```
-
-**Expected Output:**
-
-```
-Geef je gemiddelde percentage: Heb je wiskunde gevolgd? (ja/nee): Techniek
-```
-
----
-
-### Case 3
-
-**Description:** Run 3: args=21, ja
-
-
-**Input:**
-
-```
-21
-ja
-```
-
-**Expected Output:**
-
-```
-Geef je gemiddelde percentage: Heb je wiskunde gevolgd? (ja/nee): richtingskeuzebegeleiding
-```
-
----
-
-### Case 4
-
-**Description:** Run 4: args=2, ja
-
-
-**Input:**
-
-```
-2
-ja
-```
-
-**Expected Output:**
-
-```
-Geef je gemiddelde percentage: Heb je wiskunde gevolgd? (ja/nee): richtingskeuzebegeleiding
-```
-
----
-
-### Case 5
-
-**Description:** Run 5: args=12, nee
-
-
-**Input:**
-
-```
-12
-nee
-```
-
-**Expected Output:**
-
-```
-Geef je gemiddelde percentage: Heb je wiskunde gevolgd? (ja/nee): richtingskeuzebegeleiding
-```
-
----
-
-### Case 6
-
-**Description:** Run 6: args=73, ja
-
-
-**Input:**
-
-```
-73
-ja
-```
-
-**Expected Output:**
-
-```
-Geef je gemiddelde percentage: Heb je wiskunde gevolgd? (ja/nee): Techniek
+richtingskeuzebegeleiding
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=77, ja
-
-
-**Input:**
-
-```
-77
-ja
-```
-
-**Expected Output:**
-
-```
-Geef je gemiddelde percentage: Heb je wiskunde gevolgd? (ja/nee): Wetenschap
-```
-
----
-
-### Case 8
-
-**Description:** Run 8: args=98, ja
-
-
-**Input:**
-
-```
-98
-ja
-```
-
-**Expected Output:**
-
-```
-Geef je gemiddelde percentage: Heb je wiskunde gevolgd? (ja/nee): Wetenschap
-```
-
----
-
-### Case 9
-
-**Description:** Run 9: args=69, nee
+**Description:** Run 7: args=69, nee
 
 
 **Input:**
@@ -190,154 +150,254 @@ nee
 **Expected Output:**
 
 ```
-Geef je gemiddelde percentage: Heb je wiskunde gevolgd? (ja/nee): Techniek
+Techniek
+```
+
+---
+
+### Case 8
+
+**Description:** Run 8: args=19, nee
+
+
+**Input:**
+
+```
+19
+nee
+```
+
+**Expected Output:**
+
+```
+richtingskeuzebegeleiding
+```
+
+---
+
+### Case 9
+
+**Description:** Run 9: args=13, ja
+
+
+**Input:**
+
+```
+13
+ja
+```
+
+**Expected Output:**
+
+```
+richtingskeuzebegeleiding
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=5, ja
+**Description:** Run 10: args=36, nee
 
 
 **Input:**
 
 ```
-5
-ja
+36
+nee
 ```
 
 **Expected Output:**
 
 ```
-Geef je gemiddelde percentage: Heb je wiskunde gevolgd? (ja/nee): richtingskeuzebegeleiding
+richtingskeuzebegeleiding
 ```
 
 ---
 
 ### Case 11
 
-**Description:** Run 11: args=55, ja
+**Description:** Run 11: args=48, nee
 
 
 **Input:**
 
 ```
-55
-ja
+48
+nee
 ```
 
 **Expected Output:**
 
 ```
-Geef je gemiddelde percentage: Heb je wiskunde gevolgd? (ja/nee): richtingskeuzebegeleiding
+richtingskeuzebegeleiding
 ```
 
 ---
 
 ### Case 12
 
-**Description:** Run 12: args=14, nee
+**Description:** Run 12: args=4, nee
 
 
 **Input:**
 
 ```
-14
+4
 nee
 ```
 
 **Expected Output:**
 
 ```
-Geef je gemiddelde percentage: Heb je wiskunde gevolgd? (ja/nee): richtingskeuzebegeleiding
+richtingskeuzebegeleiding
 ```
 
 ---
 
 ### Case 13
 
-**Description:** Run 13: args=6, nee
+**Description:** Run 13: args=94, ja
 
 
 **Input:**
 
 ```
-6
-nee
+94
+ja
 ```
 
 **Expected Output:**
 
 ```
-Geef je gemiddelde percentage: Heb je wiskunde gevolgd? (ja/nee): richtingskeuzebegeleiding
+Wetenschap
 ```
 
 ---
 
 ### Case 14
 
-**Description:** Run 14: args=56, nee
+**Description:** Run 14: args=51, nee
 
 
 **Input:**
 
 ```
-56
+51
 nee
 ```
 
 **Expected Output:**
 
 ```
-Geef je gemiddelde percentage: Heb je wiskunde gevolgd? (ja/nee): richtingskeuzebegeleiding
+richtingskeuzebegeleiding
 ```
 
 ---
 
 ### Case 15
 
-**Description:** Run 15: args=65, ja
+**Description:** Run 15: args=40, ja
 
 
 **Input:**
 
 ```
-65
+40
 ja
 ```
 
 **Expected Output:**
 
 ```
-Geef je gemiddelde percentage: Heb je wiskunde gevolgd? (ja/nee): Techniek
+richtingskeuzebegeleiding
 ```
 
 ---
 
 ### Case 16
 
-**Description:** Run 16: args=22, ja
+**Description:** Run 16: args=32, ja
 
 
 **Input:**
 
 ```
-22
+32
 ja
 ```
 
 **Expected Output:**
 
 ```
-Geef je gemiddelde percentage: Heb je wiskunde gevolgd? (ja/nee): richtingskeuzebegeleiding
+richtingskeuzebegeleiding
 ```
 
 ---
 
 ### Case 17
 
-**Description:** Run 17: args=25, ja
+**Description:** Run 17: args=29, nee
+
+
+**Input:**
+
+```
+29
+nee
+```
+
+**Expected Output:**
+
+```
+richtingskeuzebegeleiding
+```
+
+---
+
+### Case 18
+
+**Description:** Run 18: args=93, ja
+
+
+**Input:**
+
+```
+93
+ja
+```
+
+**Expected Output:**
+
+```
+Wetenschap
+```
+
+---
+
+### Case 19
+
+**Description:** Run 19: args=7, ja
+
+
+**Input:**
+
+```
+7
+ja
+```
+
+**Expected Output:**
+
+```
+richtingskeuzebegeleiding
+```
+
+---
+
+### Case 20
+
+**Description:** Run 20: args=25, ja
 
 
 **Input:**
@@ -350,167 +410,107 @@ ja
 **Expected Output:**
 
 ```
-Geef je gemiddelde percentage: Heb je wiskunde gevolgd? (ja/nee): richtingskeuzebegeleiding
-```
-
----
-
-### Case 18
-
-**Description:** Run 18: args=99, nee
-
-
-**Input:**
-
-```
-99
-nee
-```
-
-**Expected Output:**
-
-```
-Geef je gemiddelde percentage: Heb je wiskunde gevolgd? (ja/nee): Letteren
-```
-
----
-
-### Case 19
-
-**Description:** Run 19: args=98, nee
-
-
-**Input:**
-
-```
-98
-nee
-```
-
-**Expected Output:**
-
-```
-Geef je gemiddelde percentage: Heb je wiskunde gevolgd? (ja/nee): Letteren
-```
-
----
-
-### Case 20
-
-**Description:** Run 20: args=87, nee
-
-
-**Input:**
-
-```
-87
-nee
-```
-
-**Expected Output:**
-
-```
-Geef je gemiddelde percentage: Heb je wiskunde gevolgd? (ja/nee): Letteren
+richtingskeuzebegeleiding
 ```
 
 ---
 
 ### Case 21
 
-**Description:** Run 21: args=12, ja
+**Description:** Run 21: args=12, nee
 
 
 **Input:**
 
 ```
 12
-ja
+nee
 ```
 
 **Expected Output:**
 
 ```
-Geef je gemiddelde percentage: Heb je wiskunde gevolgd? (ja/nee): richtingskeuzebegeleiding
+richtingskeuzebegeleiding
 ```
 
 ---
 
 ### Case 22
 
-**Description:** Run 22: args=47, nee
+**Description:** Run 22: args=39, nee
 
 
 **Input:**
 
 ```
-47
+39
 nee
 ```
 
 **Expected Output:**
 
 ```
-Geef je gemiddelde percentage: Heb je wiskunde gevolgd? (ja/nee): richtingskeuzebegeleiding
+richtingskeuzebegeleiding
 ```
 
 ---
 
 ### Case 23
 
-**Description:** Run 23: args=53, nee
+**Description:** Run 23: args=89, nee
 
 
 **Input:**
 
 ```
-53
+89
 nee
 ```
 
 **Expected Output:**
 
 ```
-Geef je gemiddelde percentage: Heb je wiskunde gevolgd? (ja/nee): richtingskeuzebegeleiding
+Letteren
 ```
 
 ---
 
 ### Case 24
 
-**Description:** Run 24: args=37, ja
+**Description:** Run 24: args=36, nee
 
 
 **Input:**
 
 ```
-37
-ja
-```
-
-**Expected Output:**
-
-```
-Geef je gemiddelde percentage: Heb je wiskunde gevolgd? (ja/nee): richtingskeuzebegeleiding
-```
-
----
-
-### Case 25
-
-**Description:** Run 25: args=65, nee
-
-
-**Input:**
-
-```
-65
+36
 nee
 ```
 
 **Expected Output:**
 
 ```
-Geef je gemiddelde percentage: Heb je wiskunde gevolgd? (ja/nee): Techniek
+richtingskeuzebegeleiding
+```
+
+---
+
+### Case 25
+
+**Description:** Run 25: args=3, nee
+
+
+**Input:**
+
+```
+3
+nee
+```
+
+**Expected Output:**
+
+```
+richtingskeuzebegeleiding
 ```
 
 ---

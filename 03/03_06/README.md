@@ -22,427 +22,167 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=A, 5
+**Description:** Run 1: args=C, 0
 
 
 **Input:**
 
 ```
-A
-5
+C
+0
 ```
 
 **Expected Output:**
 
 ```
-Geef de zone (A, B of C): Geef het aantal geparkeerde uren: 10
+0
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=A, 5
+**Description:** Run 2: args=A, 3
 
 
 **Input:**
 
 ```
 A
-5
+3
 ```
 
 **Expected Output:**
 
 ```
-Geef de zone (A, B of C): Geef het aantal geparkeerde uren: 10
+6
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=A, 3
+**Description:** Run 3: args=B, 8
 
 
 **Input:**
 
 ```
-A
-3
+B
+8
 ```
 
 **Expected Output:**
 
 ```
-Geef de zone (A, B of C): Geef het aantal geparkeerde uren: 6
+10
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=C, 3
+**Description:** Run 4: args=B, 7
 
 
 **Input:**
 
 ```
-C
-3
+B
+7
 ```
 
 **Expected Output:**
 
 ```
-Geef de zone (A, B of C): Geef het aantal geparkeerde uren: 3
+10
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=C, 5
+**Description:** Run 5: args=B, 3
 
 
 **Input:**
 
 ```
-C
-5
+B
+3
 ```
 
 **Expected Output:**
 
 ```
-Geef de zone (A, B of C): Geef het aantal geparkeerde uren: 5
+4.5
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=B, 5
+**Description:** Run 6: args=C, 2
 
 
 **Input:**
 
 ```
-B
-5
+C
+2
 ```
 
 **Expected Output:**
 
 ```
-Geef de zone (A, B of C): Geef het aantal geparkeerde uren: 7.5
+2
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=B, 6
+**Description:** Run 7: args=A, 1
 
 
 **Input:**
 
 ```
-B
-6
+A
+1
 ```
 
 **Expected Output:**
 
 ```
-Geef de zone (A, B of C): Geef het aantal geparkeerde uren: 9
+2
 ```
 
 ---
 
 ### Case 8
 
-**Description:** Run 8: args=B, 3
+**Description:** Run 8: args=A, 3
 
 
 **Input:**
 
 ```
-B
+A
 3
 ```
 
 **Expected Output:**
 
 ```
-Geef de zone (A, B of C): Geef het aantal geparkeerde uren: 4.5
+6
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=B, 6
-
-
-**Input:**
-
-```
-B
-6
-```
-
-**Expected Output:**
-
-```
-Geef de zone (A, B of C): Geef het aantal geparkeerde uren: 9
-```
-
----
-
-### Case 10
-
-**Description:** Run 10: args=B, 1
-
-
-**Input:**
-
-```
-B
-1
-```
-
-**Expected Output:**
-
-```
-Geef de zone (A, B of C): Geef het aantal geparkeerde uren: 1.5
-```
-
----
-
-### Case 11
-
-**Description:** Run 11: args=C, 3
-
-
-**Input:**
-
-```
-C
-3
-```
-
-**Expected Output:**
-
-```
-Geef de zone (A, B of C): Geef het aantal geparkeerde uren: 3
-```
-
----
-
-### Case 12
-
-**Description:** Run 12: args=B, 1
-
-
-**Input:**
-
-```
-B
-1
-```
-
-**Expected Output:**
-
-```
-Geef de zone (A, B of C): Geef het aantal geparkeerde uren: 1.5
-```
-
----
-
-### Case 13
-
-**Description:** Run 13: args=B, 6
-
-
-**Input:**
-
-```
-B
-6
-```
-
-**Expected Output:**
-
-```
-Geef de zone (A, B of C): Geef het aantal geparkeerde uren: 9
-```
-
----
-
-### Case 14
-
-**Description:** Run 14: args=A, 3
-
-
-**Input:**
-
-```
-A
-3
-```
-
-**Expected Output:**
-
-```
-Geef de zone (A, B of C): Geef het aantal geparkeerde uren: 6
-```
-
----
-
-### Case 15
-
-**Description:** Run 15: args=B, 2
-
-
-**Input:**
-
-```
-B
-2
-```
-
-**Expected Output:**
-
-```
-Geef de zone (A, B of C): Geef het aantal geparkeerde uren: 3
-```
-
----
-
-### Case 16
-
-**Description:** Run 16: args=C, 2
-
-
-**Input:**
-
-```
-C
-2
-```
-
-**Expected Output:**
-
-```
-Geef de zone (A, B of C): Geef het aantal geparkeerde uren: 2
-```
-
----
-
-### Case 17
-
-**Description:** Run 17: args=C, 6
-
-
-**Input:**
-
-```
-C
-6
-```
-
-**Expected Output:**
-
-```
-Geef de zone (A, B of C): Geef het aantal geparkeerde uren: 6
-```
-
----
-
-### Case 18
-
-**Description:** Run 18: args=A, 8
-
-
-**Input:**
-
-```
-A
-8
-```
-
-**Expected Output:**
-
-```
-Geef de zone (A, B of C): Geef het aantal geparkeerde uren: 10
-```
-
----
-
-### Case 19
-
-**Description:** Run 19: args=B, 8
-
-
-**Input:**
-
-```
-B
-8
-```
-
-**Expected Output:**
-
-```
-Geef de zone (A, B of C): Geef het aantal geparkeerde uren: 10
-```
-
----
-
-### Case 20
-
-**Description:** Run 20: args=A, 7
-
-
-**Input:**
-
-```
-A
-7
-```
-
-**Expected Output:**
-
-```
-Geef de zone (A, B of C): Geef het aantal geparkeerde uren: 10
-```
-
----
-
-### Case 21
-
-**Description:** Run 21: args=B, 7
-
-
-**Input:**
-
-```
-B
-7
-```
-
-**Expected Output:**
-
-```
-Geef de zone (A, B of C): Geef het aantal geparkeerde uren: 10
-```
-
----
-
-### Case 22
-
-**Description:** Run 22: args=C, 5
+**Description:** Run 9: args=C, 5
 
 
 **Input:**
@@ -455,34 +195,74 @@ C
 **Expected Output:**
 
 ```
-Geef de zone (A, B of C): Geef het aantal geparkeerde uren: 5
+5
 ```
 
 ---
 
-### Case 23
+### Case 10
 
-**Description:** Run 23: args=B, 7
+**Description:** Run 10: args=A, 2
 
 
 **Input:**
 
 ```
-B
-7
+A
+2
 ```
 
 **Expected Output:**
 
 ```
-Geef de zone (A, B of C): Geef het aantal geparkeerde uren: 10
+4
 ```
 
 ---
 
-### Case 24
+### Case 11
 
-**Description:** Run 24: args=A, 0
+**Description:** Run 11: args=C, 6
+
+
+**Input:**
+
+```
+C
+6
+```
+
+**Expected Output:**
+
+```
+6
+```
+
+---
+
+### Case 12
+
+**Description:** Run 12: args=C, 3
+
+
+**Input:**
+
+```
+C
+3
+```
+
+**Expected Output:**
+
+```
+3
+```
+
+---
+
+### Case 13
+
+**Description:** Run 13: args=A, 0
 
 
 **Input:**
@@ -495,14 +275,214 @@ A
 **Expected Output:**
 
 ```
-Geef de zone (A, B of C): Geef het aantal geparkeerde uren: 0
+0
 ```
 
 ---
 
-### Case 25
+### Case 14
 
-**Description:** Run 25: args=C, 4
+**Description:** Run 14: args=C, 3
+
+
+**Input:**
+
+```
+C
+3
+```
+
+**Expected Output:**
+
+```
+3
+```
+
+---
+
+### Case 15
+
+**Description:** Run 15: args=A, 5
+
+
+**Input:**
+
+```
+A
+5
+```
+
+**Expected Output:**
+
+```
+10
+```
+
+---
+
+### Case 16
+
+**Description:** Run 16: args=C, 1
+
+
+**Input:**
+
+```
+C
+1
+```
+
+**Expected Output:**
+
+```
+1
+```
+
+---
+
+### Case 17
+
+**Description:** Run 17: args=C, 1
+
+
+**Input:**
+
+```
+C
+1
+```
+
+**Expected Output:**
+
+```
+1
+```
+
+---
+
+### Case 18
+
+**Description:** Run 18: args=A, 3
+
+
+**Input:**
+
+```
+A
+3
+```
+
+**Expected Output:**
+
+```
+6
+```
+
+---
+
+### Case 19
+
+**Description:** Run 19: args=B, 4
+
+
+**Input:**
+
+```
+B
+4
+```
+
+**Expected Output:**
+
+```
+6
+```
+
+---
+
+### Case 20
+
+**Description:** Run 20: args=A, 6
+
+
+**Input:**
+
+```
+A
+6
+```
+
+**Expected Output:**
+
+```
+10
+```
+
+---
+
+### Case 21
+
+**Description:** Run 21: args=B, 4
+
+
+**Input:**
+
+```
+B
+4
+```
+
+**Expected Output:**
+
+```
+6
+```
+
+---
+
+### Case 22
+
+**Description:** Run 22: args=A, 8
+
+
+**Input:**
+
+```
+A
+8
+```
+
+**Expected Output:**
+
+```
+10
+```
+
+---
+
+### Case 23
+
+**Description:** Run 23: args=B, 4
+
+
+**Input:**
+
+```
+B
+4
+```
+
+**Expected Output:**
+
+```
+6
+```
+
+---
+
+### Case 24
+
+**Description:** Run 24: args=C, 4
 
 
 **Input:**
@@ -515,7 +495,27 @@ C
 **Expected Output:**
 
 ```
-Geef de zone (A, B of C): Geef het aantal geparkeerde uren: 4
+4
+```
+
+---
+
+### Case 25
+
+**Description:** Run 25: args=B, 7
+
+
+**Input:**
+
+```
+B
+7
+```
+
+**Expected Output:**
+
+```
+10
 ```
 
 ---

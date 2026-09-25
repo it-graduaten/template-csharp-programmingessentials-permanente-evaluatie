@@ -14,71 +14,72 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=1
+**Description:** Run 1: args=8
 
 
 **Input:**
 
 ```
-1
+8
 ```
 
 **Expected Output:**
 
 ```
-maandag
-werkdag
+Ongeldige dag
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=8
+**Description:** Run 2: args=3
 
 
 **Input:**
 
 ```
-8
+3
 ```
 
 **Expected Output:**
 
 ```
-Ongeldige dag
+woensdag
+werkdag
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=8
+**Description:** Run 3: args=6
 
 
 **Input:**
 
 ```
-8
+6
 ```
 
 **Expected Output:**
 
 ```
-Ongeldige dag
+zaterdag
+weekenddag
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=8
+**Description:** Run 4: args=0
 
 
 **Input:**
 
 ```
-8
+0
 ```
 
 **Expected Output:**
@@ -91,19 +92,20 @@ Ongeldige dag
 
 ### Case 5
 
-**Description:** Run 5: args=8
+**Description:** Run 5: args=3
 
 
 **Input:**
 
 ```
-8
+3
 ```
 
 **Expected Output:**
 
 ```
-Ongeldige dag
+woensdag
+werkdag
 ```
 
 ---
@@ -130,7 +132,27 @@ werkdag
 
 ### Case 7
 
-**Description:** Run 7: args=8
+**Description:** Run 7: args=7
+
+
+**Input:**
+
+```
+7
+```
+
+**Expected Output:**
+
+```
+zondag
+weekenddag
+```
+
+---
+
+### Case 8
+
+**Description:** Run 8: args=8
 
 
 **Input:**
@@ -147,29 +169,109 @@ Ongeldige dag
 
 ---
 
-### Case 8
+### Case 9
 
-**Description:** Run 8: args=4
+**Description:** Run 9: args=5
 
 
 **Input:**
 
 ```
-4
+5
 ```
 
 **Expected Output:**
 
 ```
-donderdag
+vrijdag
 werkdag
 ```
 
 ---
 
-### Case 9
+### Case 10
 
-**Description:** Run 9: args=3
+**Description:** Run 10: args=5
+
+
+**Input:**
+
+```
+5
+```
+
+**Expected Output:**
+
+```
+vrijdag
+werkdag
+```
+
+---
+
+### Case 11
+
+**Description:** Run 11: args=6
+
+
+**Input:**
+
+```
+6
+```
+
+**Expected Output:**
+
+```
+zaterdag
+weekenddag
+```
+
+---
+
+### Case 12
+
+**Description:** Run 12: args=5
+
+
+**Input:**
+
+```
+5
+```
+
+**Expected Output:**
+
+```
+vrijdag
+werkdag
+```
+
+---
+
+### Case 13
+
+**Description:** Run 13: args=2
+
+
+**Input:**
+
+```
+2
+```
+
+**Expected Output:**
+
+```
+dinsdag
+werkdag
+```
+
+---
+
+### Case 14
+
+**Description:** Run 14: args=3
 
 
 **Input:**
@@ -187,119 +289,21 @@ werkdag
 
 ---
 
-### Case 10
-
-**Description:** Run 10: args=7
-
-
-**Input:**
-
-```
-7
-```
-
-**Expected Output:**
-
-```
-zondag
-weekenddag
-```
-
----
-
-### Case 11
-
-**Description:** Run 11: args=7
-
-
-**Input:**
-
-```
-7
-```
-
-**Expected Output:**
-
-```
-zondag
-weekenddag
-```
-
----
-
-### Case 12
-
-**Description:** Run 12: args=0
-
-
-**Input:**
-
-```
-0
-```
-
-**Expected Output:**
-
-```
-Ongeldige dag
-```
-
----
-
-### Case 13
-
-**Description:** Run 13: args=8
-
-
-**Input:**
-
-```
-8
-```
-
-**Expected Output:**
-
-```
-Ongeldige dag
-```
-
----
-
-### Case 14
-
-**Description:** Run 14: args=7
-
-
-**Input:**
-
-```
-7
-```
-
-**Expected Output:**
-
-```
-zondag
-weekenddag
-```
-
----
-
 ### Case 15
 
-**Description:** Run 15: args=2
+**Description:** Run 15: args=5
 
 
 **Input:**
 
 ```
-2
+5
 ```
 
 **Expected Output:**
 
 ```
-dinsdag
+vrijdag
 werkdag
 ```
 
