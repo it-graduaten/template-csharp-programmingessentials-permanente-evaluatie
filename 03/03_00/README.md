@@ -18,34 +18,19 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=39, 7
+**Complete console output:**
 
+```
+Geef je leeftijd: 95
+Geef de dag van de week (1-7): 1
+9 euro
+```
 
 **Input:**
 
 ```
-39
-7
-```
-
-**Expected Output:**
-
-```
-12 euro
-```
-
----
-
-### Case 2
-
-**Description:** Run 2: args=94, 5
-
-
-**Input:**
-
-```
-94
-5
+95
+1
 ```
 
 **Expected Output:**
@@ -56,16 +41,46 @@ Below are the automatically generated input/output expectations.
 
 ---
 
-### Case 3
+### Case 2
 
-**Description:** Run 3: args=7, 5
+**Complete console output:**
 
+```
+Geef je leeftijd: 12
+Geef de dag van de week (1-7): 3
+12 euro
+```
 
 **Input:**
 
 ```
-7
-5
+12
+3
+```
+
+**Expected Output:**
+
+```
+12 euro
+```
+
+---
+
+### Case 3
+
+**Complete console output:**
+
+```
+Geef je leeftijd: 10
+Geef de dag van de week (1-7): 6
+7 euro
+```
+
+**Input:**
+
+```
+10
+6
 ```
 
 **Expected Output:**
@@ -78,14 +93,19 @@ Below are the automatically generated input/output expectations.
 
 ### Case 4
 
-**Description:** Run 4: args=78, 7
+**Complete console output:**
 
+```
+Geef je leeftijd: 94
+Geef de dag van de week (1-7): 3
+9 euro
+```
 
 **Input:**
 
 ```
-78
-7
+94
+3
 ```
 
 **Expected Output:**
@@ -98,113 +118,18 @@ Below are the automatically generated input/output expectations.
 
 ### Case 5
 
-**Description:** Run 5: args=66, 1
-
-
-**Input:**
+**Complete console output:**
 
 ```
-66
-1
-```
-
-**Expected Output:**
-
-```
-9 euro
-```
-
----
-
-### Case 6
-
-**Description:** Run 6: args=33, 2
-
-
-**Input:**
-
-```
-33
-2
-```
-
-**Expected Output:**
-
-```
-10 euro
-```
-
----
-
-### Case 7
-
-**Description:** Run 7: args=32, 2
-
-
-**Input:**
-
-```
-32
-2
-```
-
-**Expected Output:**
-
-```
-10 euro
-```
-
----
-
-### Case 8
-
-**Description:** Run 8: args=55, 2
-
-
-**Input:**
-
-```
-55
-2
-```
-
-**Expected Output:**
-
-```
-10 euro
-```
-
----
-
-### Case 9
-
-**Description:** Run 9: args=24, 5
-
-
-**Input:**
-
-```
-24
-5
-```
-
-**Expected Output:**
-
-```
+Geef je leeftijd: 37
+Geef de dag van de week (1-7): 4
 12 euro
 ```
 
----
-
-### Case 10
-
-**Description:** Run 10: args=21, 4
-
-
 **Input:**
 
 ```
-21
+37
 4
 ```
 
@@ -216,16 +141,146 @@ Below are the automatically generated input/output expectations.
 
 ---
 
-### Case 11
+### Case 6
 
-**Description:** Run 11: args=31, 3
+**Complete console output:**
 
+```
+Geef je leeftijd: 52
+Geef de dag van de week (1-7): 7
+12 euro
+```
 
 **Input:**
 
 ```
-31
+52
+7
+```
+
+**Expected Output:**
+
+```
+12 euro
+```
+
+---
+
+### Case 7
+
+**Complete console output:**
+
+```
+Geef je leeftijd: 93
+Geef de dag van de week (1-7): 7
+9 euro
+```
+
+**Input:**
+
+```
+93
+7
+```
+
+**Expected Output:**
+
+```
+9 euro
+```
+
+---
+
+### Case 8
+
+**Complete console output:**
+
+```
+Geef je leeftijd: 87
+Geef de dag van de week (1-7): 3
+9 euro
+```
+
+**Input:**
+
+```
+87
 3
+```
+
+**Expected Output:**
+
+```
+9 euro
+```
+
+---
+
+### Case 9
+
+**Complete console output:**
+
+```
+Geef je leeftijd: 3
+Geef de dag van de week (1-7): 3
+7 euro
+```
+
+**Input:**
+
+```
+3
+3
+```
+
+**Expected Output:**
+
+```
+7 euro
+```
+
+---
+
+### Case 10
+
+**Complete console output:**
+
+```
+Geef je leeftijd: 88
+Geef de dag van de week (1-7): 5
+9 euro
+```
+
+**Input:**
+
+```
+88
+5
+```
+
+**Expected Output:**
+
+```
+9 euro
+```
+
+---
+
+### Case 11
+
+**Complete console output:**
+
+```
+Geef je leeftijd: 14
+Geef de dag van de week (1-7): 4
+12 euro
+```
+
+**Input:**
+
+```
+14
+4
 ```
 
 **Expected Output:**
@@ -238,14 +293,19 @@ Below are the automatically generated input/output expectations.
 
 ### Case 12
 
-**Description:** Run 12: args=43, 4
+**Complete console output:**
 
+```
+Geef je leeftijd: 24
+Geef de dag van de week (1-7): 7
+12 euro
+```
 
 **Input:**
 
 ```
-43
-4
+24
+7
 ```
 
 **Expected Output:**
@@ -258,13 +318,18 @@ Below are the automatically generated input/output expectations.
 
 ### Case 13
 
-**Description:** Run 13: args=47, 6
+**Complete console output:**
 
+```
+Geef je leeftijd: 51
+Geef de dag van de week (1-7): 6
+12 euro
+```
 
 **Input:**
 
 ```
-47
+51
 6
 ```
 
@@ -278,13 +343,18 @@ Below are the automatically generated input/output expectations.
 
 ### Case 14
 
-**Description:** Run 14: args=58, 4
+**Complete console output:**
 
+```
+Geef je leeftijd: 61
+Geef de dag van de week (1-7): 4
+12 euro
+```
 
 **Input:**
 
 ```
-58
+61
 4
 ```
 
@@ -298,53 +368,18 @@ Below are the automatically generated input/output expectations.
 
 ### Case 15
 
-**Description:** Run 15: args=80, 4
+**Complete console output:**
 
+```
+Geef je leeftijd: 35
+Geef de dag van de week (1-7): 2
+10 euro
+```
 
 **Input:**
 
 ```
-80
-4
-```
-
-**Expected Output:**
-
-```
-9 euro
-```
-
----
-
-### Case 16
-
-**Description:** Run 16: args=19, 4
-
-
-**Input:**
-
-```
-19
-4
-```
-
-**Expected Output:**
-
-```
-12 euro
-```
-
----
-
-### Case 17
-
-**Description:** Run 17: args=56, 2
-
-
-**Input:**
-
-```
-56
+35
 2
 ```
 
@@ -356,56 +391,121 @@ Below are the automatically generated input/output expectations.
 
 ---
 
-### Case 18
+### Case 16
 
-**Description:** Run 18: args=0, 1
+**Complete console output:**
 
+```
+Geef je leeftijd: 75
+Geef de dag van de week (1-7): 4
+9 euro
+```
 
 **Input:**
 
 ```
-0
-1
+75
+4
 ```
 
 **Expected Output:**
 
 ```
-7 euro
+9 euro
+```
+
+---
+
+### Case 17
+
+**Complete console output:**
+
+```
+Geef je leeftijd: 92
+Geef de dag van de week (1-7): 7
+9 euro
+```
+
+**Input:**
+
+```
+92
+7
+```
+
+**Expected Output:**
+
+```
+9 euro
+```
+
+---
+
+### Case 18
+
+**Complete console output:**
+
+```
+Geef je leeftijd: 16
+Geef de dag van de week (1-7): 7
+12 euro
+```
+
+**Input:**
+
+```
+16
+7
+```
+
+**Expected Output:**
+
+```
+12 euro
 ```
 
 ---
 
 ### Case 19
 
-**Description:** Run 19: args=9, 1
+**Complete console output:**
 
+```
+Geef je leeftijd: 38
+Geef de dag van de week (1-7): 1
+12 euro
+```
 
 **Input:**
 
 ```
-9
+38
 1
 ```
 
 **Expected Output:**
 
 ```
-7 euro
+12 euro
 ```
 
 ---
 
 ### Case 20
 
-**Description:** Run 20: args=79, 4
+**Complete console output:**
 
+```
+Geef je leeftijd: 78
+Geef de dag van de week (1-7): 5
+9 euro
+```
 
 **Input:**
 
 ```
-79
-4
+78
+5
 ```
 
 **Expected Output:**
@@ -418,34 +518,44 @@ Below are the automatically generated input/output expectations.
 
 ### Case 21
 
-**Description:** Run 21: args=98, 4
+**Complete console output:**
 
+```
+Geef je leeftijd: 47
+Geef de dag van de week (1-7): 3
+12 euro
+```
 
 **Input:**
 
 ```
-98
-4
+47
+3
 ```
 
 **Expected Output:**
 
 ```
-9 euro
+12 euro
 ```
 
 ---
 
 ### Case 22
 
-**Description:** Run 22: args=2, 3
+**Complete console output:**
 
+```
+Geef je leeftijd: 9
+Geef de dag van de week (1-7): 7
+7 euro
+```
 
 **Input:**
 
 ```
-2
-3
+9
+7
 ```
 
 **Expected Output:**
@@ -458,14 +568,19 @@ Below are the automatically generated input/output expectations.
 
 ### Case 23
 
-**Description:** Run 23: args=32, 6
+**Complete console output:**
 
+```
+Geef je leeftijd: 35
+Geef de dag van de week (1-7): 4
+12 euro
+```
 
 **Input:**
 
 ```
-32
-6
+35
+4
 ```
 
 **Expected Output:**
@@ -478,14 +593,19 @@ Below are the automatically generated input/output expectations.
 
 ### Case 24
 
-**Description:** Run 24: args=68, 6
+**Complete console output:**
 
+```
+Geef je leeftijd: 82
+Geef de dag van de week (1-7): 5
+9 euro
+```
 
 **Input:**
 
 ```
-68
-6
+82
+5
 ```
 
 **Expected Output:**
@@ -498,20 +618,25 @@ Below are the automatically generated input/output expectations.
 
 ### Case 25
 
-**Description:** Run 25: args=44, 5
+**Complete console output:**
 
+```
+Geef je leeftijd: 91
+Geef de dag van de week (1-7): 2
+7 euro
+```
 
 **Input:**
 
 ```
-44
-5
+91
+2
 ```
 
 **Expected Output:**
 
 ```
-12 euro
+7 euro
 ```
 
 ---

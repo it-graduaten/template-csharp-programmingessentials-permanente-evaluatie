@@ -16,198 +16,12 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=1
-
-
-**Input:**
+**Complete console output:**
 
 ```
-1
+Voor welke leeftijd vraag je het tarief? 32
+12 euro
 ```
-
-**Expected Output:**
-
-```
-Voor welke leeftijd vraag je het tarief? 7 euro
-```
-
----
-
-### Case 2
-
-**Description:** Run 2: args=29
-
-
-**Input:**
-
-```
-29
-```
-
-**Expected Output:**
-
-```
-Voor welke leeftijd vraag je het tarief? 12 euro
-```
-
----
-
-### Case 3
-
-**Description:** Run 3: args=39
-
-
-**Input:**
-
-```
-39
-```
-
-**Expected Output:**
-
-```
-Voor welke leeftijd vraag je het tarief? 12 euro
-```
-
----
-
-### Case 4
-
-**Description:** Run 4: args=18
-
-
-**Input:**
-
-```
-18
-```
-
-**Expected Output:**
-
-```
-Voor welke leeftijd vraag je het tarief? 12 euro
-```
-
----
-
-### Case 5
-
-**Description:** Run 5: args=57
-
-
-**Input:**
-
-```
-57
-```
-
-**Expected Output:**
-
-```
-Voor welke leeftijd vraag je het tarief? 12 euro
-```
-
----
-
-### Case 6
-
-**Description:** Run 6: args=28
-
-
-**Input:**
-
-```
-28
-```
-
-**Expected Output:**
-
-```
-Voor welke leeftijd vraag je het tarief? 12 euro
-```
-
----
-
-### Case 7
-
-**Description:** Run 7: args=19
-
-
-**Input:**
-
-```
-19
-```
-
-**Expected Output:**
-
-```
-Voor welke leeftijd vraag je het tarief? 12 euro
-```
-
----
-
-### Case 8
-
-**Description:** Run 8: args=34
-
-
-**Input:**
-
-```
-34
-```
-
-**Expected Output:**
-
-```
-Voor welke leeftijd vraag je het tarief? 12 euro
-```
-
----
-
-### Case 9
-
-**Description:** Run 9: args=8
-
-
-**Input:**
-
-```
-8
-```
-
-**Expected Output:**
-
-```
-Voor welke leeftijd vraag je het tarief? 7 euro
-```
-
----
-
-### Case 10
-
-**Description:** Run 10: args=66
-
-
-**Input:**
-
-```
-66
-```
-
-**Expected Output:**
-
-```
-Voor welke leeftijd vraag je het tarief? 9 euro
-```
-
----
-
-### Case 11
-
-**Description:** Run 11: args=32
-
 
 **Input:**
 
@@ -218,91 +32,65 @@ Voor welke leeftijd vraag je het tarief? 9 euro
 **Expected Output:**
 
 ```
-Voor welke leeftijd vraag je het tarief? 12 euro
+12 euro
 ```
 
 ---
 
-### Case 12
+### Case 2
 
-**Description:** Run 12: args=76
+**Complete console output:**
 
+```
+Voor welke leeftijd vraag je het tarief? 73
+9 euro
+```
 
 **Input:**
 
 ```
-76
+73
 ```
 
 **Expected Output:**
 
 ```
-Voor welke leeftijd vraag je het tarief? 9 euro
+9 euro
 ```
 
 ---
 
-### Case 13
+### Case 3
 
-**Description:** Run 13: args=14
+**Complete console output:**
 
+```
+Voor welke leeftijd vraag je het tarief? 74
+9 euro
+```
 
 **Input:**
 
 ```
-14
+74
 ```
 
 **Expected Output:**
 
 ```
-Voor welke leeftijd vraag je het tarief? 12 euro
+9 euro
 ```
 
 ---
 
-### Case 14
+### Case 4
 
-**Description:** Run 14: args=66
-
-
-**Input:**
+**Complete console output:**
 
 ```
-66
+Voor welke leeftijd vraag je het tarief? 16
+12 euro
 ```
-
-**Expected Output:**
-
-```
-Voor welke leeftijd vraag je het tarief? 9 euro
-```
-
----
-
-### Case 15
-
-**Description:** Run 15: args=75
-
-
-**Input:**
-
-```
-75
-```
-
-**Expected Output:**
-
-```
-Voor welke leeftijd vraag je het tarief? 9 euro
-```
-
----
-
-### Case 16
-
-**Description:** Run 16: args=16
-
 
 **Input:**
 
@@ -313,129 +101,42 @@ Voor welke leeftijd vraag je het tarief? 9 euro
 **Expected Output:**
 
 ```
-Voor welke leeftijd vraag je het tarief? 12 euro
+12 euro
 ```
 
 ---
 
-### Case 17
+### Case 5
 
-**Description:** Run 17: args=0
+**Complete console output:**
 
+```
+Voor welke leeftijd vraag je het tarief? 49
+12 euro
+```
 
 **Input:**
 
 ```
-0
+49
 ```
 
 **Expected Output:**
 
 ```
-Voor welke leeftijd vraag je het tarief? 7 euro
+12 euro
 ```
 
 ---
 
-### Case 18
+### Case 6
 
-**Description:** Run 18: args=21
-
-
-**Input:**
+**Complete console output:**
 
 ```
-21
+Voor welke leeftijd vraag je het tarief? 91
+9 euro
 ```
-
-**Expected Output:**
-
-```
-Voor welke leeftijd vraag je het tarief? 12 euro
-```
-
----
-
-### Case 19
-
-**Description:** Run 19: args=75
-
-
-**Input:**
-
-```
-75
-```
-
-**Expected Output:**
-
-```
-Voor welke leeftijd vraag je het tarief? 9 euro
-```
-
----
-
-### Case 20
-
-**Description:** Run 20: args=71
-
-
-**Input:**
-
-```
-71
-```
-
-**Expected Output:**
-
-```
-Voor welke leeftijd vraag je het tarief? 9 euro
-```
-
----
-
-### Case 21
-
-**Description:** Run 21: args=15
-
-
-**Input:**
-
-```
-15
-```
-
-**Expected Output:**
-
-```
-Voor welke leeftijd vraag je het tarief? 12 euro
-```
-
----
-
-### Case 22
-
-**Description:** Run 22: args=35
-
-
-**Input:**
-
-```
-35
-```
-
-**Expected Output:**
-
-```
-Voor welke leeftijd vraag je het tarief? 12 euro
-```
-
----
-
-### Case 23
-
-**Description:** Run 23: args=91
-
 
 **Input:**
 
@@ -446,45 +147,444 @@ Voor welke leeftijd vraag je het tarief? 12 euro
 **Expected Output:**
 
 ```
-Voor welke leeftijd vraag je het tarief? 9 euro
+9 euro
+```
+
+---
+
+### Case 7
+
+**Complete console output:**
+
+```
+Voor welke leeftijd vraag je het tarief? 66
+9 euro
+```
+
+**Input:**
+
+```
+66
+```
+
+**Expected Output:**
+
+```
+9 euro
+```
+
+---
+
+### Case 8
+
+**Complete console output:**
+
+```
+Voor welke leeftijd vraag je het tarief? 32
+12 euro
+```
+
+**Input:**
+
+```
+32
+```
+
+**Expected Output:**
+
+```
+12 euro
+```
+
+---
+
+### Case 9
+
+**Complete console output:**
+
+```
+Voor welke leeftijd vraag je het tarief? 50
+12 euro
+```
+
+**Input:**
+
+```
+50
+```
+
+**Expected Output:**
+
+```
+12 euro
+```
+
+---
+
+### Case 10
+
+**Complete console output:**
+
+```
+Voor welke leeftijd vraag je het tarief? 25
+12 euro
+```
+
+**Input:**
+
+```
+25
+```
+
+**Expected Output:**
+
+```
+12 euro
+```
+
+---
+
+### Case 11
+
+**Complete console output:**
+
+```
+Voor welke leeftijd vraag je het tarief? 64
+12 euro
+```
+
+**Input:**
+
+```
+64
+```
+
+**Expected Output:**
+
+```
+12 euro
+```
+
+---
+
+### Case 12
+
+**Complete console output:**
+
+```
+Voor welke leeftijd vraag je het tarief? 37
+12 euro
+```
+
+**Input:**
+
+```
+37
+```
+
+**Expected Output:**
+
+```
+12 euro
+```
+
+---
+
+### Case 13
+
+**Complete console output:**
+
+```
+Voor welke leeftijd vraag je het tarief? 55
+12 euro
+```
+
+**Input:**
+
+```
+55
+```
+
+**Expected Output:**
+
+```
+12 euro
+```
+
+---
+
+### Case 14
+
+**Complete console output:**
+
+```
+Voor welke leeftijd vraag je het tarief? 84
+9 euro
+```
+
+**Input:**
+
+```
+84
+```
+
+**Expected Output:**
+
+```
+9 euro
+```
+
+---
+
+### Case 15
+
+**Complete console output:**
+
+```
+Voor welke leeftijd vraag je het tarief? 92
+9 euro
+```
+
+**Input:**
+
+```
+92
+```
+
+**Expected Output:**
+
+```
+9 euro
+```
+
+---
+
+### Case 16
+
+**Complete console output:**
+
+```
+Voor welke leeftijd vraag je het tarief? 1
+7 euro
+```
+
+**Input:**
+
+```
+1
+```
+
+**Expected Output:**
+
+```
+7 euro
+```
+
+---
+
+### Case 17
+
+**Complete console output:**
+
+```
+Voor welke leeftijd vraag je het tarief? 97
+9 euro
+```
+
+**Input:**
+
+```
+97
+```
+
+**Expected Output:**
+
+```
+9 euro
+```
+
+---
+
+### Case 18
+
+**Complete console output:**
+
+```
+Voor welke leeftijd vraag je het tarief? 37
+12 euro
+```
+
+**Input:**
+
+```
+37
+```
+
+**Expected Output:**
+
+```
+12 euro
+```
+
+---
+
+### Case 19
+
+**Complete console output:**
+
+```
+Voor welke leeftijd vraag je het tarief? 68
+9 euro
+```
+
+**Input:**
+
+```
+68
+```
+
+**Expected Output:**
+
+```
+9 euro
+```
+
+---
+
+### Case 20
+
+**Complete console output:**
+
+```
+Voor welke leeftijd vraag je het tarief? 84
+9 euro
+```
+
+**Input:**
+
+```
+84
+```
+
+**Expected Output:**
+
+```
+9 euro
+```
+
+---
+
+### Case 21
+
+**Complete console output:**
+
+```
+Voor welke leeftijd vraag je het tarief? 80
+9 euro
+```
+
+**Input:**
+
+```
+80
+```
+
+**Expected Output:**
+
+```
+9 euro
+```
+
+---
+
+### Case 22
+
+**Complete console output:**
+
+```
+Voor welke leeftijd vraag je het tarief? 82
+9 euro
+```
+
+**Input:**
+
+```
+82
+```
+
+**Expected Output:**
+
+```
+9 euro
+```
+
+---
+
+### Case 23
+
+**Complete console output:**
+
+```
+Voor welke leeftijd vraag je het tarief? 16
+12 euro
+```
+
+**Input:**
+
+```
+16
+```
+
+**Expected Output:**
+
+```
+12 euro
 ```
 
 ---
 
 ### Case 24
 
-**Description:** Run 24: args=51
+**Complete console output:**
 
+```
+Voor welke leeftijd vraag je het tarief? 22
+12 euro
+```
 
 **Input:**
 
 ```
-51
+22
 ```
 
 **Expected Output:**
 
 ```
-Voor welke leeftijd vraag je het tarief? 12 euro
+12 euro
 ```
 
 ---
 
 ### Case 25
 
-**Description:** Run 25: args=85
+**Complete console output:**
 
+```
+Voor welke leeftijd vraag je het tarief? 14
+12 euro
+```
 
 **Input:**
 
 ```
-85
+14
 ```
 
 **Expected Output:**
 
 ```
-Voor welke leeftijd vraag je het tarief? 9 euro
+12 euro
 ```
 
 ---

@@ -22,48 +22,38 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=C, 0
+**Complete console output:**
 
+```
+Geef de zone (A, B of C): C
+Geef het aantal geparkeerde uren: 4
+4
+```
 
 **Input:**
 
 ```
 C
-0
+4
 ```
 
 **Expected Output:**
 
 ```
-0
+4
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=A, 3
-
-
-**Input:**
+**Complete console output:**
 
 ```
-A
-3
+Geef de zone (A, B of C): B
+Geef het aantal geparkeerde uren: 8
+10
 ```
-
-**Expected Output:**
-
-```
-6
-```
-
----
-
-### Case 3
-
-**Description:** Run 3: args=B, 8
-
 
 **Input:**
 
@@ -80,15 +70,270 @@ B
 
 ---
 
+### Case 3
+
+**Complete console output:**
+
+```
+Geef de zone (A, B of C): C
+Geef het aantal geparkeerde uren: 0
+0
+```
+
+**Input:**
+
+```
+C
+0
+```
+
+**Expected Output:**
+
+```
+0
+```
+
+---
+
 ### Case 4
 
-**Description:** Run 4: args=B, 7
+**Complete console output:**
 
+```
+Geef de zone (A, B of C): B
+Geef het aantal geparkeerde uren: 1
+1.5
+```
 
 **Input:**
 
 ```
 B
+1
+```
+
+**Expected Output:**
+
+```
+1.5
+```
+
+---
+
+### Case 5
+
+**Complete console output:**
+
+```
+Geef de zone (A, B of C): C
+Geef het aantal geparkeerde uren: 6
+6
+```
+
+**Input:**
+
+```
+C
+6
+```
+
+**Expected Output:**
+
+```
+6
+```
+
+---
+
+### Case 6
+
+**Complete console output:**
+
+```
+Geef de zone (A, B of C): B
+Geef het aantal geparkeerde uren: 4
+6
+```
+
+**Input:**
+
+```
+B
+4
+```
+
+**Expected Output:**
+
+```
+6
+```
+
+---
+
+### Case 7
+
+**Complete console output:**
+
+```
+Geef de zone (A, B of C): C
+Geef het aantal geparkeerde uren: 5
+5
+```
+
+**Input:**
+
+```
+C
+5
+```
+
+**Expected Output:**
+
+```
+5
+```
+
+---
+
+### Case 8
+
+**Complete console output:**
+
+```
+Geef de zone (A, B of C): A
+Geef het aantal geparkeerde uren: 8
+10
+```
+
+**Input:**
+
+```
+A
+8
+```
+
+**Expected Output:**
+
+```
+10
+```
+
+---
+
+### Case 9
+
+**Complete console output:**
+
+```
+Geef de zone (A, B of C): C
+Geef het aantal geparkeerde uren: 4
+4
+```
+
+**Input:**
+
+```
+C
+4
+```
+
+**Expected Output:**
+
+```
+4
+```
+
+---
+
+### Case 10
+
+**Complete console output:**
+
+```
+Geef de zone (A, B of C): B
+Geef het aantal geparkeerde uren: 6
+9
+```
+
+**Input:**
+
+```
+B
+6
+```
+
+**Expected Output:**
+
+```
+9
+```
+
+---
+
+### Case 11
+
+**Complete console output:**
+
+```
+Geef de zone (A, B of C): C
+Geef het aantal geparkeerde uren: 7
+7
+```
+
+**Input:**
+
+```
+C
+7
+```
+
+**Expected Output:**
+
+```
+7
+```
+
+---
+
+### Case 12
+
+**Complete console output:**
+
+```
+Geef de zone (A, B of C): B
+Geef het aantal geparkeerde uren: 6
+9
+```
+
+**Input:**
+
+```
+B
+6
+```
+
+**Expected Output:**
+
+```
+9
+```
+
+---
+
+### Case 13
+
+**Complete console output:**
+
+```
+Geef de zone (A, B of C): A
+Geef het aantal geparkeerde uren: 7
+10
+```
+
+**Input:**
+
+```
+A
 7
 ```
 
@@ -100,355 +345,220 @@ B
 
 ---
 
-### Case 5
+### Case 14
 
-**Description:** Run 5: args=B, 3
+**Complete console output:**
 
+```
+Geef de zone (A, B of C): B
+Geef het aantal geparkeerde uren: 8
+10
+```
 
 **Input:**
 
 ```
 B
-3
+8
 ```
 
 **Expected Output:**
 
 ```
-4.5
-```
-
----
-
-### Case 6
-
-**Description:** Run 6: args=C, 2
-
-
-**Input:**
-
-```
-C
-2
-```
-
-**Expected Output:**
-
-```
-2
-```
-
----
-
-### Case 7
-
-**Description:** Run 7: args=A, 1
-
-
-**Input:**
-
-```
-A
-1
-```
-
-**Expected Output:**
-
-```
-2
-```
-
----
-
-### Case 8
-
-**Description:** Run 8: args=A, 3
-
-
-**Input:**
-
-```
-A
-3
-```
-
-**Expected Output:**
-
-```
-6
-```
-
----
-
-### Case 9
-
-**Description:** Run 9: args=C, 5
-
-
-**Input:**
-
-```
-C
-5
-```
-
-**Expected Output:**
-
-```
-5
-```
-
----
-
-### Case 10
-
-**Description:** Run 10: args=A, 2
-
-
-**Input:**
-
-```
-A
-2
-```
-
-**Expected Output:**
-
-```
-4
-```
-
----
-
-### Case 11
-
-**Description:** Run 11: args=C, 6
-
-
-**Input:**
-
-```
-C
-6
-```
-
-**Expected Output:**
-
-```
-6
-```
-
----
-
-### Case 12
-
-**Description:** Run 12: args=C, 3
-
-
-**Input:**
-
-```
-C
-3
-```
-
-**Expected Output:**
-
-```
-3
-```
-
----
-
-### Case 13
-
-**Description:** Run 13: args=A, 0
-
-
-**Input:**
-
-```
-A
-0
-```
-
-**Expected Output:**
-
-```
-0
-```
-
----
-
-### Case 14
-
-**Description:** Run 14: args=C, 3
-
-
-**Input:**
-
-```
-C
-3
-```
-
-**Expected Output:**
-
-```
-3
+10
 ```
 
 ---
 
 ### Case 15
 
-**Description:** Run 15: args=A, 5
+**Complete console output:**
 
+```
+Geef de zone (A, B of C): C
+Geef het aantal geparkeerde uren: 5
+5
+```
 
 **Input:**
 
 ```
-A
+C
 5
 ```
 
 **Expected Output:**
 
 ```
-10
+5
 ```
 
 ---
 
 ### Case 16
 
-**Description:** Run 16: args=C, 1
+**Complete console output:**
 
+```
+Geef de zone (A, B of C): C
+Geef het aantal geparkeerde uren: 2
+2
+```
 
 **Input:**
 
 ```
 C
-1
+2
 ```
 
 **Expected Output:**
 
 ```
-1
+2
 ```
 
 ---
 
 ### Case 17
 
-**Description:** Run 17: args=C, 1
+**Complete console output:**
 
+```
+Geef de zone (A, B of C): B
+Geef het aantal geparkeerde uren: 5
+7.5
+```
 
 **Input:**
 
 ```
-C
-1
+B
+5
 ```
 
 **Expected Output:**
 
 ```
-1
+7.5
 ```
 
 ---
 
 ### Case 18
 
-**Description:** Run 18: args=A, 3
+**Complete console output:**
 
+```
+Geef de zone (A, B of C): A
+Geef het aantal geparkeerde uren: 0
+0
+```
 
 **Input:**
 
 ```
 A
-3
+0
 ```
 
 **Expected Output:**
 
 ```
-6
+0
 ```
 
 ---
 
 ### Case 19
 
-**Description:** Run 19: args=B, 4
+**Complete console output:**
 
+```
+Geef de zone (A, B of C): C
+Geef het aantal geparkeerde uren: 7
+7
+```
 
 **Input:**
 
 ```
-B
-4
+C
+7
 ```
 
 **Expected Output:**
 
 ```
-6
+7
 ```
 
 ---
 
 ### Case 20
 
-**Description:** Run 20: args=A, 6
+**Complete console output:**
 
+```
+Geef de zone (A, B of C): B
+Geef het aantal geparkeerde uren: 6
+9
+```
 
 **Input:**
 
 ```
-A
+B
 6
 ```
 
 **Expected Output:**
 
 ```
-10
+9
 ```
 
 ---
 
 ### Case 21
 
-**Description:** Run 21: args=B, 4
+**Complete console output:**
 
+```
+Geef de zone (A, B of C): C
+Geef het aantal geparkeerde uren: 4
+4
+```
 
 **Input:**
 
 ```
-B
+C
 4
 ```
 
 **Expected Output:**
 
 ```
-6
+4
 ```
 
 ---
 
 ### Case 22
 
-**Description:** Run 22: args=A, 8
+**Complete console output:**
 
+```
+Geef de zone (A, B of C): B
+Geef het aantal geparkeerde uren: 8
+10
+```
 
 **Input:**
 
 ```
-A
+B
 8
 ```
 
@@ -462,60 +572,75 @@ A
 
 ### Case 23
 
-**Description:** Run 23: args=B, 4
+**Complete console output:**
 
+```
+Geef de zone (A, B of C): B
+Geef het aantal geparkeerde uren: 6
+9
+```
 
 **Input:**
 
 ```
 B
-4
+6
 ```
 
 **Expected Output:**
 
 ```
-6
+9
 ```
 
 ---
 
 ### Case 24
 
-**Description:** Run 24: args=C, 4
+**Complete console output:**
 
+```
+Geef de zone (A, B of C): A
+Geef het aantal geparkeerde uren: 8
+10
+```
 
 **Input:**
 
 ```
-C
-4
-```
-
-**Expected Output:**
-
-```
-4
-```
-
----
-
-### Case 25
-
-**Description:** Run 25: args=B, 7
-
-
-**Input:**
-
-```
-B
-7
+A
+8
 ```
 
 **Expected Output:**
 
 ```
 10
+```
+
+---
+
+### Case 25
+
+**Complete console output:**
+
+```
+Geef de zone (A, B of C): B
+Geef het aantal geparkeerde uren: 6
+9
+```
+
+**Input:**
+
+```
+B
+6
+```
+
+**Expected Output:**
+
+```
+9
 ```
 
 ---

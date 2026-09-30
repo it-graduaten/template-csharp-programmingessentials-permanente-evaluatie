@@ -10,255 +10,35 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=12
+**Complete console output:**
 
+```
+Geef het behaalde cijfer: 36
+Niet geslaagd.
+```
 
 **Input:**
 
 ```
-12
+36
 ```
 
 **Expected Output:**
 
 ```
-Geef het behaalde cijfer: Niet geslaagd.
+Niet geslaagd.
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=27
-
-
-**Input:**
+**Complete console output:**
 
 ```
-27
+Geef het behaalde cijfer: 44
+Niet geslaagd.
 ```
-
-**Expected Output:**
-
-```
-Geef het behaalde cijfer: Niet geslaagd.
-```
-
----
-
-### Case 3
-
-**Description:** Run 3: args=42
-
-
-**Input:**
-
-```
-42
-```
-
-**Expected Output:**
-
-```
-Geef het behaalde cijfer: Niet geslaagd.
-```
-
----
-
-### Case 4
-
-**Description:** Run 4: args=86
-
-
-**Input:**
-
-```
-86
-```
-
-**Expected Output:**
-
-```
-Geef het behaalde cijfer: Geslaagd
-```
-
----
-
-### Case 5
-
-**Description:** Run 5: args=82
-
-
-**Input:**
-
-```
-82
-```
-
-**Expected Output:**
-
-```
-Geef het behaalde cijfer: Geslaagd
-```
-
----
-
-### Case 6
-
-**Description:** Run 6: args=96
-
-
-**Input:**
-
-```
-96
-```
-
-**Expected Output:**
-
-```
-Geef het behaalde cijfer: Geslaagd
-```
-
----
-
-### Case 7
-
-**Description:** Run 7: args=5
-
-
-**Input:**
-
-```
-5
-```
-
-**Expected Output:**
-
-```
-Geef het behaalde cijfer: Niet geslaagd.
-```
-
----
-
-### Case 8
-
-**Description:** Run 8: args=78
-
-
-**Input:**
-
-```
-78
-```
-
-**Expected Output:**
-
-```
-Geef het behaalde cijfer: Geslaagd
-```
-
----
-
-### Case 9
-
-**Description:** Run 9: args=97
-
-
-**Input:**
-
-```
-97
-```
-
-**Expected Output:**
-
-```
-Geef het behaalde cijfer: Geslaagd
-```
-
----
-
-### Case 10
-
-**Description:** Run 10: args=49
-
-
-**Input:**
-
-```
-49
-```
-
-**Expected Output:**
-
-```
-Geef het behaalde cijfer: Niet geslaagd.
-```
-
----
-
-### Case 11
-
-**Description:** Run 11: args=59
-
-
-**Input:**
-
-```
-59
-```
-
-**Expected Output:**
-
-```
-Geef het behaalde cijfer: Geslaagd
-```
-
----
-
-### Case 12
-
-**Description:** Run 12: args=60
-
-
-**Input:**
-
-```
-60
-```
-
-**Expected Output:**
-
-```
-Geef het behaalde cijfer: Geslaagd
-```
-
----
-
-### Case 13
-
-**Description:** Run 13: args=69
-
-
-**Input:**
-
-```
-69
-```
-
-**Expected Output:**
-
-```
-Geef het behaalde cijfer: Geslaagd
-```
-
----
-
-### Case 14
-
-**Description:** Run 14: args=44
-
 
 **Input:**
 
@@ -269,72 +49,203 @@ Geef het behaalde cijfer: Geslaagd
 **Expected Output:**
 
 ```
-Geef het behaalde cijfer: Niet geslaagd.
+Niet geslaagd.
 ```
 
 ---
 
-### Case 15
+### Case 3
 
-**Description:** Run 15: args=93
+**Complete console output:**
 
+```
+Geef het behaalde cijfer: 36
+Niet geslaagd.
+```
 
 **Input:**
 
 ```
-93
+36
 ```
 
 **Expected Output:**
 
 ```
-Geef het behaalde cijfer: Geslaagd
+Niet geslaagd.
 ```
 
 ---
 
-### Case 16
+### Case 4
 
-**Description:** Run 16: args=23
+**Complete console output:**
 
+```
+Geef het behaalde cijfer: 60
+Geslaagd
+```
 
 **Input:**
 
 ```
-23
+60
 ```
 
 **Expected Output:**
 
 ```
-Geef het behaalde cijfer: Niet geslaagd.
+Geslaagd
 ```
 
 ---
 
-### Case 17
+### Case 5
 
-**Description:** Run 17: args=43
+**Complete console output:**
 
+```
+Geef het behaalde cijfer: 1
+Niet geslaagd.
+```
 
 **Input:**
 
 ```
-43
+1
 ```
 
 **Expected Output:**
 
 ```
-Geef het behaalde cijfer: Niet geslaagd.
+Niet geslaagd.
 ```
 
 ---
 
-### Case 18
+### Case 6
 
-**Description:** Run 18: args=11
+**Complete console output:**
 
+```
+Geef het behaalde cijfer: 94
+Geslaagd
+```
+
+**Input:**
+
+```
+94
+```
+
+**Expected Output:**
+
+```
+Geslaagd
+```
+
+---
+
+### Case 7
+
+**Complete console output:**
+
+```
+Geef het behaalde cijfer: 46
+Niet geslaagd.
+```
+
+**Input:**
+
+```
+46
+```
+
+**Expected Output:**
+
+```
+Niet geslaagd.
+```
+
+---
+
+### Case 8
+
+**Complete console output:**
+
+```
+Geef het behaalde cijfer: 30
+Niet geslaagd.
+```
+
+**Input:**
+
+```
+30
+```
+
+**Expected Output:**
+
+```
+Niet geslaagd.
+```
+
+---
+
+### Case 9
+
+**Complete console output:**
+
+```
+Geef het behaalde cijfer: 58
+Geslaagd
+```
+
+**Input:**
+
+```
+58
+```
+
+**Expected Output:**
+
+```
+Geslaagd
+```
+
+---
+
+### Case 10
+
+**Complete console output:**
+
+```
+Geef het behaalde cijfer: 18
+Niet geslaagd.
+```
+
+**Input:**
+
+```
+18
+```
+
+**Expected Output:**
+
+```
+Niet geslaagd.
+```
+
+---
+
+### Case 11
+
+**Complete console output:**
+
+```
+Geef het behaalde cijfer: 11
+Niet geslaagd.
+```
 
 **Input:**
 
@@ -345,140 +256,329 @@ Geef het behaalde cijfer: Niet geslaagd.
 **Expected Output:**
 
 ```
-Geef het behaalde cijfer: Niet geslaagd.
+Niet geslaagd.
+```
+
+---
+
+### Case 12
+
+**Complete console output:**
+
+```
+Geef het behaalde cijfer: 91
+Geslaagd
+```
+
+**Input:**
+
+```
+91
+```
+
+**Expected Output:**
+
+```
+Geslaagd
+```
+
+---
+
+### Case 13
+
+**Complete console output:**
+
+```
+Geef het behaalde cijfer: 45
+Niet geslaagd.
+```
+
+**Input:**
+
+```
+45
+```
+
+**Expected Output:**
+
+```
+Niet geslaagd.
+```
+
+---
+
+### Case 14
+
+**Complete console output:**
+
+```
+Geef het behaalde cijfer: 65
+Geslaagd
+```
+
+**Input:**
+
+```
+65
+```
+
+**Expected Output:**
+
+```
+Geslaagd
+```
+
+---
+
+### Case 15
+
+**Complete console output:**
+
+```
+Geef het behaalde cijfer: 72
+Geslaagd
+```
+
+**Input:**
+
+```
+72
+```
+
+**Expected Output:**
+
+```
+Geslaagd
+```
+
+---
+
+### Case 16
+
+**Complete console output:**
+
+```
+Geef het behaalde cijfer: 13
+Niet geslaagd.
+```
+
+**Input:**
+
+```
+13
+```
+
+**Expected Output:**
+
+```
+Niet geslaagd.
+```
+
+---
+
+### Case 17
+
+**Complete console output:**
+
+```
+Geef het behaalde cijfer: 34
+Niet geslaagd.
+```
+
+**Input:**
+
+```
+34
+```
+
+**Expected Output:**
+
+```
+Niet geslaagd.
+```
+
+---
+
+### Case 18
+
+**Complete console output:**
+
+```
+Geef het behaalde cijfer: 33
+Niet geslaagd.
+```
+
+**Input:**
+
+```
+33
+```
+
+**Expected Output:**
+
+```
+Niet geslaagd.
 ```
 
 ---
 
 ### Case 19
 
-**Description:** Run 19: args=77
+**Complete console output:**
 
+```
+Geef het behaalde cijfer: 88
+Geslaagd
+```
 
 **Input:**
 
 ```
-77
+88
 ```
 
 **Expected Output:**
 
 ```
-Geef het behaalde cijfer: Geslaagd
+Geslaagd
 ```
 
 ---
 
 ### Case 20
 
-**Description:** Run 20: args=42
+**Complete console output:**
 
+```
+Geef het behaalde cijfer: 13
+Niet geslaagd.
+```
 
 **Input:**
 
 ```
-42
+13
 ```
 
 **Expected Output:**
 
 ```
-Geef het behaalde cijfer: Niet geslaagd.
+Niet geslaagd.
 ```
 
 ---
 
 ### Case 21
 
-**Description:** Run 21: args=52
+**Complete console output:**
 
+```
+Geef het behaalde cijfer: 88
+Geslaagd
+```
 
 **Input:**
 
 ```
-52
+88
 ```
 
 **Expected Output:**
 
 ```
-Geef het behaalde cijfer: Geslaagd
+Geslaagd
 ```
 
 ---
 
 ### Case 22
 
-**Description:** Run 22: args=90
+**Complete console output:**
 
+```
+Geef het behaalde cijfer: 23
+Niet geslaagd.
+```
 
 **Input:**
 
 ```
-90
+23
 ```
 
 **Expected Output:**
 
 ```
-Geef het behaalde cijfer: Geslaagd
+Niet geslaagd.
 ```
 
 ---
 
 ### Case 23
 
-**Description:** Run 23: args=26
+**Complete console output:**
 
+```
+Geef het behaalde cijfer: 71
+Geslaagd
+```
 
 **Input:**
 
 ```
-26
+71
 ```
 
 **Expected Output:**
 
 ```
-Geef het behaalde cijfer: Niet geslaagd.
+Geslaagd
 ```
 
 ---
 
 ### Case 24
 
-**Description:** Run 24: args=43
+**Complete console output:**
 
+```
+Geef het behaalde cijfer: 3
+Niet geslaagd.
+```
 
 **Input:**
 
 ```
-43
+3
 ```
 
 **Expected Output:**
 
 ```
-Geef het behaalde cijfer: Niet geslaagd.
+Niet geslaagd.
 ```
 
 ---
 
 ### Case 25
 
-**Description:** Run 25: args=53
+**Complete console output:**
 
+```
+Geef het behaalde cijfer: 1
+Niet geslaagd.
+```
 
 **Input:**
 
 ```
-53
+1
 ```
 
 **Expected Output:**
 
 ```
-Geef het behaalde cijfer: Geslaagd
+Niet geslaagd.
 ```
 
 ---

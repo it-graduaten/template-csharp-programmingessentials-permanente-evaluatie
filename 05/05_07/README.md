@@ -10,250 +10,327 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=1, Fatima
+**Complete console output:**
 
+```
+Hoeveel namen wil je invoeren?
+3
+Geef naam 1: Geef naam 2: Geef naam 3: 
+Frans
+Lisa
+Sanne
+```
 
 **Input:**
 
 ```
-1
-Fatima
+3
+Sanne
+Lisa
+Frans
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel namen wil je invoeren?
-Geef naam 1:
-Fatima
+Geef naam 1: Geef naam 2: Geef naam 3:
+Frans
+Lisa
+Sanne
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=1, Maria
+**Complete console output:**
 
+```
+Hoeveel namen wil je invoeren?
+1
+Geef naam 1: 
+Nicolas
+```
 
 **Input:**
 
 ```
 1
-Maria
+Nicolas
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel namen wil je invoeren?
 Geef naam 1:
-Maria
+Nicolas
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=4, Patrick, Bo, Heidi, Marie
+**Complete console output:**
 
+```
+Hoeveel namen wil je invoeren?
+4
+Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: 
+Marleen
+Tuur
+Gustaaf
+Danny
+```
 
 **Input:**
 
 ```
 4
-Patrick
-Bo
-Heidi
-Marie
+Danny
+Gustaaf
+Tuur
+Marleen
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel namen wil je invoeren?
 Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4:
-Marie
-Heidi
-Bo
-Patrick
+Marleen
+Tuur
+Gustaaf
+Danny
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=1, Willy
+**Complete console output:**
 
+```
+Hoeveel namen wil je invoeren?
+4
+Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: 
+Yves
+Greta
+Walter
+Kaat
+```
 
 **Input:**
 
 ```
-1
-Willy
+4
+Kaat
+Walter
+Greta
+Yves
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel namen wil je invoeren?
-Geef naam 1:
-Willy
+Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4:
+Yves
+Greta
+Walter
+Kaat
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=1, Lode
+**Complete console output:**
 
+```
+Hoeveel namen wil je invoeren?
+5
+Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Geef naam 5: 
+Annie
+Pieter
+Niels
+Liliane
+Ignace
+```
 
 **Input:**
 
 ```
-1
-Lode
+5
+Ignace
+Liliane
+Niels
+Pieter
+Annie
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel namen wil je invoeren?
-Geef naam 1:
-Lode
+Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Geef naam 5:
+Annie
+Pieter
+Niels
+Liliane
+Ignace
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=4, Hilde, Giovanni, Sara, Katrien
+**Complete console output:**
 
+```
+Hoeveel namen wil je invoeren?
+2
+Geef naam 1: Geef naam 2: 
+Paul
+Carina
+```
 
 **Input:**
 
 ```
-4
-Hilde
-Giovanni
-Sara
-Katrien
+2
+Carina
+Paul
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel namen wil je invoeren?
-Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4:
-Katrien
-Sara
-Giovanni
-Hilde
+Geef naam 1: Geef naam 2:
+Paul
+Carina
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=4, Muhammed, Mila, Gert, Dennis
+**Complete console output:**
 
+```
+Hoeveel namen wil je invoeren?
+1
+Geef naam 1: 
+Tomas
+```
 
 **Input:**
 
 ```
-4
-Muhammed
-Mila
-Gert
-Dennis
+1
+Tomas
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel namen wil je invoeren?
-Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4:
-Dennis
-Gert
-Mila
-Muhammed
+Geef naam 1:
+Tomas
 ```
 
 ---
 
 ### Case 8
 
-**Description:** Run 8: args=2, Erik, Kevin
+**Complete console output:**
 
+```
+Hoeveel namen wil je invoeren?
+1
+Geef naam 1: 
+Marc
+```
 
 **Input:**
 
 ```
-2
-Erik
-Kevin
+1
+Marc
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel namen wil je invoeren?
-Geef naam 1: Geef naam 2:
-Kevin
-Erik
+Geef naam 1:
+Marc
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=2, Philippe, Tania
+**Complete console output:**
 
+```
+Hoeveel namen wil je invoeren?
+5
+Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Geef naam 5: 
+Rania
+Fernand
+Hans
+Angela
+Maria
+```
 
 **Input:**
 
 ```
-2
-Philippe
-Tania
+5
+Maria
+Angela
+Hans
+Fernand
+Rania
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel namen wil je invoeren?
-Geef naam 1: Geef naam 2:
-Tania
-Philippe
+Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Geef naam 5:
+Rania
+Fernand
+Hans
+Angela
+Maria
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=5, Herman, François, Liliane, José, Denise
+**Complete console output:**
 
+```
+Hoeveel namen wil je invoeren?
+3
+Geef naam 1: Geef naam 2: Geef naam 3: 
+Robbe
+Oona
+Evy
+```
 
 **Input:**
 
 ```
-5
-Herman
-François
-Liliane
-José
-Denise
+3
+Evy
+Oona
+Robbe
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel namen wil je invoeren?
-Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Geef naam 5:
-Denise
-José
-Liliane
-François
-Herman
+Geef naam 1: Geef naam 2: Geef naam 3:
+Robbe
+Oona
+Evy
 ```
 
 ---

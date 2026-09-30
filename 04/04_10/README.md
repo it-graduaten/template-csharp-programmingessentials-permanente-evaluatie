@@ -17,375 +17,525 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=38, 50, 69, 53, 25
+**Complete console output:**
 
+```
+Geef score van Student A: 48
+Geef score van Student B: 33
+Geef score van Student C: 60
+Geef score van Student D: 39
+Geef score van Student E: 35
+De hoogste score is 60 van Student C.
+De laagste score is 33 van Student B.
+Het gemiddelde is 43.
+```
 
 **Input:**
 
 ```
-38
-50
-69
-53
-25
+48
+33
+60
+39
+35
 ```
 
 **Expected Output:**
 
 ```
-De hoogste score is 69 van Student C.
-De laagste score is 25 van Student E.
-Het gemiddelde is 47.
+De hoogste score is 60 van Student C.
+De laagste score is 33 van Student B.
+Het gemiddelde is 43.
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=30, 21, 42, 89, 66
+**Complete console output:**
 
+```
+Geef score van Student A: 26
+Geef score van Student B: 11
+Geef score van Student C: 39
+Geef score van Student D: 87
+Geef score van Student E: 98
+De hoogste score is 98 van Student E.
+De laagste score is 11 van Student B.
+Het gemiddelde is 52.2.
+```
 
 **Input:**
 
 ```
-30
-21
-42
-89
-66
+26
+11
+39
+87
+98
 ```
 
 **Expected Output:**
 
 ```
-De hoogste score is 89 van Student D.
-De laagste score is 21 van Student B.
-Het gemiddelde is 49.6.
+De hoogste score is 98 van Student E.
+De laagste score is 11 van Student B.
+Het gemiddelde is 52.2.
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=49, 86, 67, 29, 20
+**Complete console output:**
 
+```
+Geef score van Student A: 47
+Geef score van Student B: 93
+Geef score van Student C: 92
+Geef score van Student D: 0
+Geef score van Student E: 43
+De hoogste score is 93 van Student B.
+De laagste score is 0 van Student D.
+Het gemiddelde is 55.
+```
 
 **Input:**
 
 ```
-49
-86
-67
-29
-20
+47
+93
+92
+0
+43
 ```
 
 **Expected Output:**
 
 ```
-De hoogste score is 86 van Student B.
-De laagste score is 20 van Student E.
-Het gemiddelde is 50.2.
+De hoogste score is 93 van Student B.
+De laagste score is 0 van Student D.
+Het gemiddelde is 55.
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=89, 27, 97, 28, 22
+**Complete console output:**
 
+```
+Geef score van Student A: 41
+Geef score van Student B: 20
+Geef score van Student C: 53
+Geef score van Student D: 96
+Geef score van Student E: 98
+De hoogste score is 98 van Student E.
+De laagste score is 20 van Student B.
+Het gemiddelde is 61.6.
+```
 
 **Input:**
 
 ```
-89
-27
-97
-28
-22
+41
+20
+53
+96
+98
 ```
 
 **Expected Output:**
 
 ```
-De hoogste score is 97 van Student C.
-De laagste score is 22 van Student E.
-Het gemiddelde is 52.6.
+De hoogste score is 98 van Student E.
+De laagste score is 20 van Student B.
+Het gemiddelde is 61.6.
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=84, 49, 71, 23, 83
+**Complete console output:**
 
+```
+Geef score van Student A: 77
+Geef score van Student B: 34
+Geef score van Student C: 65
+Geef score van Student D: 85
+Geef score van Student E: 25
+De hoogste score is 85 van Student D.
+De laagste score is 25 van Student E.
+Het gemiddelde is 57.2.
+```
 
 **Input:**
 
 ```
-84
-49
-71
-23
-83
+77
+34
+65
+85
+25
 ```
 
 **Expected Output:**
 
 ```
-De hoogste score is 84 van Student A.
-De laagste score is 23 van Student D.
-Het gemiddelde is 62.
+De hoogste score is 85 van Student D.
+De laagste score is 25 van Student E.
+Het gemiddelde is 57.2.
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=72, 52, 66, 43, 77
+**Complete console output:**
 
+```
+Geef score van Student A: 63
+Geef score van Student B: 63
+Geef score van Student C: 27
+Geef score van Student D: 25
+Geef score van Student E: 42
+De hoogste score is 63 van Student A.
+De laagste score is 25 van Student D.
+Het gemiddelde is 44.
+```
 
 **Input:**
 
 ```
-72
-52
-66
-43
-77
+63
+63
+27
+25
+42
 ```
 
 **Expected Output:**
 
 ```
-De hoogste score is 77 van Student E.
-De laagste score is 43 van Student D.
-Het gemiddelde is 62.
+De hoogste score is 63 van Student A.
+De laagste score is 25 van Student D.
+Het gemiddelde is 44.
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=79, 33, 9, 88, 47
+**Complete console output:**
 
+```
+Geef score van Student A: 4
+Geef score van Student B: 58
+Geef score van Student C: 36
+Geef score van Student D: 1
+Geef score van Student E: 29
+De hoogste score is 58 van Student B.
+De laagste score is 1 van Student D.
+Het gemiddelde is 25.6.
+```
 
 **Input:**
 
 ```
-79
-33
-9
-88
-47
+4
+58
+36
+1
+29
 ```
 
 **Expected Output:**
 
 ```
-De hoogste score is 88 van Student D.
-De laagste score is 9 van Student C.
-Het gemiddelde is 51.2.
+De hoogste score is 58 van Student B.
+De laagste score is 1 van Student D.
+Het gemiddelde is 25.6.
 ```
 
 ---
 
 ### Case 8
 
-**Description:** Run 8: args=23, 72, 92, 11, 73
+**Complete console output:**
 
+```
+Geef score van Student A: 77
+Geef score van Student B: 51
+Geef score van Student C: 83
+Geef score van Student D: 9
+Geef score van Student E: 52
+De hoogste score is 83 van Student C.
+De laagste score is 9 van Student D.
+Het gemiddelde is 54.4.
+```
 
 **Input:**
 
 ```
-23
-72
-92
-11
-73
+77
+51
+83
+9
+52
 ```
 
 **Expected Output:**
 
 ```
-De hoogste score is 92 van Student C.
-De laagste score is 11 van Student D.
-Het gemiddelde is 54.2.
+De hoogste score is 83 van Student C.
+De laagste score is 9 van Student D.
+Het gemiddelde is 54.4.
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=90, 4, 38, 46, 49
+**Complete console output:**
 
+```
+Geef score van Student A: 28
+Geef score van Student B: 62
+Geef score van Student C: 65
+Geef score van Student D: 96
+Geef score van Student E: 68
+De hoogste score is 96 van Student D.
+De laagste score is 28 van Student A.
+Het gemiddelde is 63.8.
+```
 
 **Input:**
 
 ```
-90
-4
-38
-46
-49
+28
+62
+65
+96
+68
 ```
 
 **Expected Output:**
 
 ```
-De hoogste score is 90 van Student A.
-De laagste score is 4 van Student B.
-Het gemiddelde is 45.4.
+De hoogste score is 96 van Student D.
+De laagste score is 28 van Student A.
+Het gemiddelde is 63.8.
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=31, 14, 37, 2, 32
+**Complete console output:**
 
+```
+Geef score van Student A: 92
+Geef score van Student B: 31
+Geef score van Student C: 42
+Geef score van Student D: 62
+Geef score van Student E: 42
+De hoogste score is 92 van Student A.
+De laagste score is 31 van Student B.
+Het gemiddelde is 53.8.
+```
 
 **Input:**
 
 ```
+92
 31
-14
-37
-2
-32
+42
+62
+42
 ```
 
 **Expected Output:**
 
 ```
-De hoogste score is 37 van Student C.
-De laagste score is 2 van Student D.
-Het gemiddelde is 23.2.
+De hoogste score is 92 van Student A.
+De laagste score is 31 van Student B.
+Het gemiddelde is 53.8.
 ```
 
 ---
 
 ### Case 11
 
-**Description:** Run 11: args=65, 70, 20, 91, 90
+**Complete console output:**
 
+```
+Geef score van Student A: 62
+Geef score van Student B: 98
+Geef score van Student C: 82
+Geef score van Student D: 46
+Geef score van Student E: 65
+De hoogste score is 98 van Student B.
+De laagste score is 46 van Student D.
+Het gemiddelde is 70.6.
+```
 
 **Input:**
 
 ```
+62
+98
+82
+46
 65
-70
-20
-91
-90
 ```
 
 **Expected Output:**
 
 ```
-De hoogste score is 91 van Student D.
-De laagste score is 20 van Student C.
-Het gemiddelde is 67.2.
+De hoogste score is 98 van Student B.
+De laagste score is 46 van Student D.
+Het gemiddelde is 70.6.
 ```
 
 ---
 
 ### Case 12
 
-**Description:** Run 12: args=41, 89, 16, 4, 100
+**Complete console output:**
 
+```
+Geef score van Student A: 43
+Geef score van Student B: 93
+Geef score van Student C: 91
+Geef score van Student D: 68
+Geef score van Student E: 9
+De hoogste score is 93 van Student B.
+De laagste score is 9 van Student E.
+Het gemiddelde is 60.8.
+```
 
 **Input:**
 
 ```
-41
-89
-16
-4
-100
+43
+93
+91
+68
+9
 ```
 
 **Expected Output:**
 
 ```
-De hoogste score is 100 van Student E.
-De laagste score is 4 van Student D.
-Het gemiddelde is 50.
+De hoogste score is 93 van Student B.
+De laagste score is 9 van Student E.
+Het gemiddelde is 60.8.
 ```
 
 ---
 
 ### Case 13
 
-**Description:** Run 13: args=44, 89, 21, 17, 55
+**Complete console output:**
 
+```
+Geef score van Student A: 4
+Geef score van Student B: 49
+Geef score van Student C: 88
+Geef score van Student D: 64
+Geef score van Student E: 25
+De hoogste score is 88 van Student C.
+De laagste score is 4 van Student A.
+Het gemiddelde is 46.
+```
 
 **Input:**
 
 ```
-44
-89
-21
-17
-55
+4
+49
+88
+64
+25
 ```
 
 **Expected Output:**
 
 ```
-De hoogste score is 89 van Student B.
-De laagste score is 17 van Student D.
-Het gemiddelde is 45.2.
+De hoogste score is 88 van Student C.
+De laagste score is 4 van Student A.
+Het gemiddelde is 46.
 ```
 
 ---
 
 ### Case 14
 
-**Description:** Run 14: args=85, 55, 35, 0, 15
+**Complete console output:**
 
+```
+Geef score van Student A: 27
+Geef score van Student B: 45
+Geef score van Student C: 76
+Geef score van Student D: 19
+Geef score van Student E: 19
+De hoogste score is 76 van Student C.
+De laagste score is 19 van Student D.
+Het gemiddelde is 37.2.
+```
 
 **Input:**
 
 ```
-85
-55
-35
-0
-15
+27
+45
+76
+19
+19
 ```
 
 **Expected Output:**
 
 ```
-De hoogste score is 85 van Student A.
-De laagste score is 0 van Student D.
-Het gemiddelde is 38.
+De hoogste score is 76 van Student C.
+De laagste score is 19 van Student D.
+Het gemiddelde is 37.2.
 ```
 
 ---
 
 ### Case 15
 
-**Description:** Run 15: args=75, 20, 9, 94, 78
+**Complete console output:**
 
+```
+Geef score van Student A: 85
+Geef score van Student B: 75
+Geef score van Student C: 8
+Geef score van Student D: 42
+Geef score van Student E: 94
+De hoogste score is 94 van Student E.
+De laagste score is 8 van Student C.
+Het gemiddelde is 60.8.
+```
 
 **Input:**
 
 ```
+85
 75
-20
-9
+8
+42
 94
-78
 ```
 
 **Expected Output:**
 
 ```
-De hoogste score is 94 van Student D.
-De laagste score is 9 van Student C.
-Het gemiddelde is 55.2.
+De hoogste score is 94 van Student E.
+De laagste score is 8 van Student C.
+Het gemiddelde is 60.8.
 ```
 
 ---

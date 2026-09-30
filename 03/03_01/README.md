@@ -20,27 +20,58 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=1
+**Complete console output:**
 
+```
+Geef een getal tussen 1 en 7: 3
+woensdag
+```
 
 **Input:**
 
 ```
-1
+3
 ```
 
 **Expected Output:**
 
 ```
-maandag
+woensdag
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=1
+**Complete console output:**
 
+```
+Geef een getal tussen 1 en 7: 10
+Ongeldige dag
+```
+
+**Input:**
+
+```
+10
+```
+
+**Expected Output:**
+
+```
+Ongeldige dag
+```
+
+---
+
+### Case 3
+
+**Complete console output:**
+
+```
+Geef een getal tussen 1 en 7: 1
+maandag
+```
 
 **Input:**
 
@@ -56,86 +87,14 @@ maandag
 
 ---
 
-### Case 3
-
-**Description:** Run 3: args=8
-
-
-**Input:**
-
-```
-8
-```
-
-**Expected Output:**
-
-```
-Ongeldige dag
-```
-
----
-
 ### Case 4
 
-**Description:** Run 4: args=10
-
-
-**Input:**
+**Complete console output:**
 
 ```
-10
+Geef een getal tussen 1 en 7: 6
+zaterdag
 ```
-
-**Expected Output:**
-
-```
-Ongeldige dag
-```
-
----
-
-### Case 5
-
-**Description:** Run 5: args=9
-
-
-**Input:**
-
-```
-9
-```
-
-**Expected Output:**
-
-```
-Ongeldige dag
-```
-
----
-
-### Case 6
-
-**Description:** Run 6: args=10
-
-
-**Input:**
-
-```
-10
-```
-
-**Expected Output:**
-
-```
-Ongeldige dag
-```
-
----
-
-### Case 7
-
-**Description:** Run 7: args=6
-
 
 **Input:**
 
@@ -151,10 +110,83 @@ zaterdag
 
 ---
 
+### Case 5
+
+**Complete console output:**
+
+```
+Geef een getal tussen 1 en 7: 2
+dinsdag
+```
+
+**Input:**
+
+```
+2
+```
+
+**Expected Output:**
+
+```
+dinsdag
+```
+
+---
+
+### Case 6
+
+**Complete console output:**
+
+```
+Geef een getal tussen 1 en 7: 5
+vrijdag
+```
+
+**Input:**
+
+```
+5
+```
+
+**Expected Output:**
+
+```
+vrijdag
+```
+
+---
+
+### Case 7
+
+**Complete console output:**
+
+```
+Geef een getal tussen 1 en 7: 4
+donderdag
+```
+
+**Input:**
+
+```
+4
+```
+
+**Expected Output:**
+
+```
+donderdag
+```
+
+---
+
 ### Case 8
 
-**Description:** Run 8: args=2
+**Complete console output:**
 
+```
+Geef een getal tussen 1 en 7: 2
+dinsdag
+```
 
 **Input:**
 
@@ -172,8 +204,58 @@ dinsdag
 
 ### Case 9
 
-**Description:** Run 9: args=9
+**Complete console output:**
 
+```
+Geef een getal tussen 1 en 7: 5
+vrijdag
+```
+
+**Input:**
+
+```
+5
+```
+
+**Expected Output:**
+
+```
+vrijdag
+```
+
+---
+
+### Case 10
+
+**Complete console output:**
+
+```
+Geef een getal tussen 1 en 7: 6
+zaterdag
+```
+
+**Input:**
+
+```
+6
+```
+
+**Expected Output:**
+
+```
+zaterdag
+```
+
+---
+
+### Case 11
+
+**Complete console output:**
+
+```
+Geef een getal tussen 1 en 7: 9
+Ongeldige dag
+```
 
 **Input:**
 
@@ -189,15 +271,19 @@ Ongeldige dag
 
 ---
 
-### Case 10
+### Case 12
 
-**Description:** Run 10: args=8
+**Complete console output:**
 
+```
+Geef een getal tussen 1 en 7: 10
+Ongeldige dag
+```
 
 **Input:**
 
 ```
-8
+10
 ```
 
 **Expected Output:**
@@ -208,10 +294,37 @@ Ongeldige dag
 
 ---
 
-### Case 11
+### Case 13
 
-**Description:** Run 11: args=4
+**Complete console output:**
 
+```
+Geef een getal tussen 1 en 7: 2
+dinsdag
+```
+
+**Input:**
+
+```
+2
+```
+
+**Expected Output:**
+
+```
+dinsdag
+```
+
+---
+
+### Case 14
+
+**Complete console output:**
+
+```
+Geef een getal tussen 1 en 7: 4
+donderdag
+```
 
 **Input:**
 
@@ -227,105 +340,60 @@ donderdag
 
 ---
 
-### Case 12
-
-**Description:** Run 12: args=9
-
-
-**Input:**
-
-```
-9
-```
-
-**Expected Output:**
-
-```
-Ongeldige dag
-```
-
----
-
-### Case 13
-
-**Description:** Run 13: args=8
-
-
-**Input:**
-
-```
-8
-```
-
-**Expected Output:**
-
-```
-Ongeldige dag
-```
-
----
-
-### Case 14
-
-**Description:** Run 14: args=8
-
-
-**Input:**
-
-```
-8
-```
-
-**Expected Output:**
-
-```
-Ongeldige dag
-```
-
----
-
 ### Case 15
 
-**Description:** Run 15: args=6
+**Complete console output:**
 
+```
+Geef een getal tussen 1 en 7: 10
+Ongeldige dag
+```
 
 **Input:**
 
 ```
-6
+10
 ```
 
 **Expected Output:**
 
 ```
-zaterdag
+Ongeldige dag
 ```
 
 ---
 
 ### Case 16
 
-**Description:** Run 16: args=6
+**Complete console output:**
 
+```
+Geef een getal tussen 1 en 7: 10
+Ongeldige dag
+```
 
 **Input:**
 
 ```
-6
+10
 ```
 
 **Expected Output:**
 
 ```
-zaterdag
+Ongeldige dag
 ```
 
 ---
 
 ### Case 17
 
-**Description:** Run 17: args=3
+**Complete console output:**
 
+```
+Geef een getal tussen 1 en 7: 3
+woensdag
+```
 
 **Input:**
 
@@ -343,84 +411,12 @@ woensdag
 
 ### Case 18
 
-**Description:** Run 18: args=5
-
-
-**Input:**
+**Complete console output:**
 
 ```
-5
+Geef een getal tussen 1 en 7: 2
+dinsdag
 ```
-
-**Expected Output:**
-
-```
-vrijdag
-```
-
----
-
-### Case 19
-
-**Description:** Run 19: args=7
-
-
-**Input:**
-
-```
-7
-```
-
-**Expected Output:**
-
-```
-zondag
-```
-
----
-
-### Case 20
-
-**Description:** Run 20: args=3
-
-
-**Input:**
-
-```
-3
-```
-
-**Expected Output:**
-
-```
-woensdag
-```
-
----
-
-### Case 21
-
-**Description:** Run 21: args=1
-
-
-**Input:**
-
-```
-1
-```
-
-**Expected Output:**
-
-```
-maandag
-```
-
----
-
-### Case 22
-
-**Description:** Run 22: args=2
-
 
 **Input:**
 
@@ -436,15 +432,42 @@ dinsdag
 
 ---
 
-### Case 23
+### Case 19
 
-**Description:** Run 23: args=9
+**Complete console output:**
 
+```
+Geef een getal tussen 1 en 7: 2
+dinsdag
+```
 
 **Input:**
 
 ```
-9
+2
+```
+
+**Expected Output:**
+
+```
+dinsdag
+```
+
+---
+
+### Case 20
+
+**Complete console output:**
+
+```
+Geef een getal tussen 1 en 7: 8
+Ongeldige dag
+```
+
+**Input:**
+
+```
+8
 ```
 
 **Expected Output:**
@@ -455,10 +478,83 @@ Ongeldige dag
 
 ---
 
+### Case 21
+
+**Complete console output:**
+
+```
+Geef een getal tussen 1 en 7: 5
+vrijdag
+```
+
+**Input:**
+
+```
+5
+```
+
+**Expected Output:**
+
+```
+vrijdag
+```
+
+---
+
+### Case 22
+
+**Complete console output:**
+
+```
+Geef een getal tussen 1 en 7: 8
+Ongeldige dag
+```
+
+**Input:**
+
+```
+8
+```
+
+**Expected Output:**
+
+```
+Ongeldige dag
+```
+
+---
+
+### Case 23
+
+**Complete console output:**
+
+```
+Geef een getal tussen 1 en 7: 6
+zaterdag
+```
+
+**Input:**
+
+```
+6
+```
+
+**Expected Output:**
+
+```
+zaterdag
+```
+
+---
+
 ### Case 24
 
-**Description:** Run 24: args=10
+**Complete console output:**
 
+```
+Geef een getal tussen 1 en 7: 10
+Ongeldige dag
+```
 
 **Input:**
 
@@ -476,19 +572,23 @@ Ongeldige dag
 
 ### Case 25
 
-**Description:** Run 25: args=6
+**Complete console output:**
 
+```
+Geef een getal tussen 1 en 7: 0
+Ongeldige dag
+```
 
 **Input:**
 
 ```
-6
+0
 ```
 
 **Expected Output:**
 
 ```
-zaterdag
+Ongeldige dag
 ```
 
 ---

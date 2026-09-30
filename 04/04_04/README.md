@@ -14,330 +14,435 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=28, 71, 12
+**Complete console output:**
 
+```
+Geef aantal verkochte tickets voor voorstelling 1: 132
+Geef aantal verkochte tickets voor voorstelling 2: 28
+Geef aantal verkochte tickets voor voorstelling 3: 69
+Totaal aantal verkochte tickets: 229
+Voorstelling 1 heeft de meeste tickets verkocht met 132 tickets.
+```
 
 **Input:**
 
 ```
+132
 28
-71
-12
+69
 ```
 
 **Expected Output:**
 
 ```
-Totaal aantal verkochte tickets: 111
-Voorstelling 2 heeft de meeste tickets verkocht met 71 tickets.
+Totaal aantal verkochte tickets: 229
+Voorstelling 1 heeft de meeste tickets verkocht met 132 tickets.
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=43, 80, 18
+**Complete console output:**
 
+```
+Geef aantal verkochte tickets voor voorstelling 1: 175
+Geef aantal verkochte tickets voor voorstelling 2: 168
+Geef aantal verkochte tickets voor voorstelling 3: 200
+Totaal aantal verkochte tickets: 543
+Voorstelling 3 heeft de meeste tickets verkocht met 200 tickets.
+```
 
 **Input:**
 
 ```
-43
-80
-18
+175
+168
+200
 ```
 
 **Expected Output:**
 
 ```
-Totaal aantal verkochte tickets: 141
-Voorstelling 2 heeft de meeste tickets verkocht met 80 tickets.
+Totaal aantal verkochte tickets: 543
+Voorstelling 3 heeft de meeste tickets verkocht met 200 tickets.
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=92, 93, 90
+**Complete console output:**
 
+```
+Geef aantal verkochte tickets voor voorstelling 1: 12
+Geef aantal verkochte tickets voor voorstelling 2: 2
+Geef aantal verkochte tickets voor voorstelling 3: 60
+Totaal aantal verkochte tickets: 74
+Voorstelling 3 heeft de meeste tickets verkocht met 60 tickets.
+```
 
 **Input:**
 
 ```
-92
-93
-90
+12
+2
+60
 ```
 
 **Expected Output:**
 
 ```
-Totaal aantal verkochte tickets: 275
-Voorstelling 2 heeft de meeste tickets verkocht met 93 tickets.
+Totaal aantal verkochte tickets: 74
+Voorstelling 3 heeft de meeste tickets verkocht met 60 tickets.
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=44, 3, 88
+**Complete console output:**
 
+```
+Geef aantal verkochte tickets voor voorstelling 1: 132
+Geef aantal verkochte tickets voor voorstelling 2: 3
+Geef aantal verkochte tickets voor voorstelling 3: 146
+Totaal aantal verkochte tickets: 281
+Voorstelling 3 heeft de meeste tickets verkocht met 146 tickets.
+```
 
 **Input:**
 
 ```
-44
+132
 3
-88
+146
 ```
 
 **Expected Output:**
 
 ```
-Totaal aantal verkochte tickets: 135
-Voorstelling 3 heeft de meeste tickets verkocht met 88 tickets.
+Totaal aantal verkochte tickets: 281
+Voorstelling 3 heeft de meeste tickets verkocht met 146 tickets.
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=169, 45, 178
+**Complete console output:**
 
+```
+Geef aantal verkochte tickets voor voorstelling 1: 78
+Geef aantal verkochte tickets voor voorstelling 2: 50
+Geef aantal verkochte tickets voor voorstelling 3: 114
+Totaal aantal verkochte tickets: 242
+Voorstelling 3 heeft de meeste tickets verkocht met 114 tickets.
+```
 
 **Input:**
 
 ```
-169
-45
-178
+78
+50
+114
 ```
 
 **Expected Output:**
 
 ```
-Totaal aantal verkochte tickets: 392
-Voorstelling 3 heeft de meeste tickets verkocht met 178 tickets.
+Totaal aantal verkochte tickets: 242
+Voorstelling 3 heeft de meeste tickets verkocht met 114 tickets.
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=114, 16, 171
+**Complete console output:**
 
+```
+Geef aantal verkochte tickets voor voorstelling 1: 111
+Geef aantal verkochte tickets voor voorstelling 2: 150
+Geef aantal verkochte tickets voor voorstelling 3: 21
+Totaal aantal verkochte tickets: 282
+Voorstelling 2 heeft de meeste tickets verkocht met 150 tickets.
+```
 
 **Input:**
 
 ```
-114
-16
-171
+111
+150
+21
 ```
 
 **Expected Output:**
 
 ```
-Totaal aantal verkochte tickets: 301
-Voorstelling 3 heeft de meeste tickets verkocht met 171 tickets.
+Totaal aantal verkochte tickets: 282
+Voorstelling 2 heeft de meeste tickets verkocht met 150 tickets.
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=75, 183, 73
+**Complete console output:**
 
+```
+Geef aantal verkochte tickets voor voorstelling 1: 15
+Geef aantal verkochte tickets voor voorstelling 2: 28
+Geef aantal verkochte tickets voor voorstelling 3: 125
+Totaal aantal verkochte tickets: 168
+Voorstelling 3 heeft de meeste tickets verkocht met 125 tickets.
+```
 
 **Input:**
 
 ```
-75
-183
-73
+15
+28
+125
 ```
 
 **Expected Output:**
 
 ```
-Totaal aantal verkochte tickets: 331
-Voorstelling 2 heeft de meeste tickets verkocht met 183 tickets.
+Totaal aantal verkochte tickets: 168
+Voorstelling 3 heeft de meeste tickets verkocht met 125 tickets.
 ```
 
 ---
 
 ### Case 8
 
-**Description:** Run 8: args=65, 65, 62
+**Complete console output:**
 
+```
+Geef aantal verkochte tickets voor voorstelling 1: 65
+Geef aantal verkochte tickets voor voorstelling 2: 58
+Geef aantal verkochte tickets voor voorstelling 3: 88
+Totaal aantal verkochte tickets: 211
+Voorstelling 3 heeft de meeste tickets verkocht met 88 tickets.
+```
 
 **Input:**
 
 ```
 65
-65
-62
+58
+88
 ```
 
 **Expected Output:**
 
 ```
-Totaal aantal verkochte tickets: 192
-Voorstelling 1 heeft de meeste tickets verkocht met 65 tickets.
+Totaal aantal verkochte tickets: 211
+Voorstelling 3 heeft de meeste tickets verkocht met 88 tickets.
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=186, 133, 62
+**Complete console output:**
 
+```
+Geef aantal verkochte tickets voor voorstelling 1: 140
+Geef aantal verkochte tickets voor voorstelling 2: 108
+Geef aantal verkochte tickets voor voorstelling 3: 191
+Totaal aantal verkochte tickets: 439
+Voorstelling 3 heeft de meeste tickets verkocht met 191 tickets.
+```
 
 **Input:**
 
 ```
-186
-133
-62
+140
+108
+191
 ```
 
 **Expected Output:**
 
 ```
-Totaal aantal verkochte tickets: 381
-Voorstelling 1 heeft de meeste tickets verkocht met 186 tickets.
+Totaal aantal verkochte tickets: 439
+Voorstelling 3 heeft de meeste tickets verkocht met 191 tickets.
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=200, 23, 15
+**Complete console output:**
 
+```
+Geef aantal verkochte tickets voor voorstelling 1: 90
+Geef aantal verkochte tickets voor voorstelling 2: 155
+Geef aantal verkochte tickets voor voorstelling 3: 40
+Totaal aantal verkochte tickets: 285
+Voorstelling 2 heeft de meeste tickets verkocht met 155 tickets.
+```
 
 **Input:**
 
 ```
-200
-23
-15
+90
+155
+40
 ```
 
 **Expected Output:**
 
 ```
-Totaal aantal verkochte tickets: 238
-Voorstelling 1 heeft de meeste tickets verkocht met 200 tickets.
+Totaal aantal verkochte tickets: 285
+Voorstelling 2 heeft de meeste tickets verkocht met 155 tickets.
 ```
 
 ---
 
 ### Case 11
 
-**Description:** Run 11: args=170, 110, 145
+**Complete console output:**
 
+```
+Geef aantal verkochte tickets voor voorstelling 1: 132
+Geef aantal verkochte tickets voor voorstelling 2: 199
+Geef aantal verkochte tickets voor voorstelling 3: 67
+Totaal aantal verkochte tickets: 398
+Voorstelling 2 heeft de meeste tickets verkocht met 199 tickets.
+```
 
 **Input:**
 
 ```
-170
-110
-145
+132
+199
+67
 ```
 
 **Expected Output:**
 
 ```
-Totaal aantal verkochte tickets: 425
-Voorstelling 1 heeft de meeste tickets verkocht met 170 tickets.
+Totaal aantal verkochte tickets: 398
+Voorstelling 2 heeft de meeste tickets verkocht met 199 tickets.
 ```
 
 ---
 
 ### Case 12
 
-**Description:** Run 12: args=61, 4, 23
+**Complete console output:**
 
+```
+Geef aantal verkochte tickets voor voorstelling 1: 122
+Geef aantal verkochte tickets voor voorstelling 2: 174
+Geef aantal verkochte tickets voor voorstelling 3: 23
+Totaal aantal verkochte tickets: 319
+Voorstelling 2 heeft de meeste tickets verkocht met 174 tickets.
+```
 
 **Input:**
 
 ```
-61
-4
+122
+174
 23
 ```
 
 **Expected Output:**
 
 ```
-Totaal aantal verkochte tickets: 88
-Voorstelling 1 heeft de meeste tickets verkocht met 61 tickets.
+Totaal aantal verkochte tickets: 319
+Voorstelling 2 heeft de meeste tickets verkocht met 174 tickets.
 ```
 
 ---
 
 ### Case 13
 
-**Description:** Run 13: args=60, 120, 90
+**Complete console output:**
 
+```
+Geef aantal verkochte tickets voor voorstelling 1: 164
+Geef aantal verkochte tickets voor voorstelling 2: 158
+Geef aantal verkochte tickets voor voorstelling 3: 187
+Totaal aantal verkochte tickets: 509
+Voorstelling 3 heeft de meeste tickets verkocht met 187 tickets.
+```
 
 **Input:**
 
 ```
-60
-120
-90
+164
+158
+187
 ```
 
 **Expected Output:**
 
 ```
-Totaal aantal verkochte tickets: 270
-Voorstelling 2 heeft de meeste tickets verkocht met 120 tickets.
+Totaal aantal verkochte tickets: 509
+Voorstelling 3 heeft de meeste tickets verkocht met 187 tickets.
 ```
 
 ---
 
 ### Case 14
 
-**Description:** Run 14: args=50, 110, 169
+**Complete console output:**
 
+```
+Geef aantal verkochte tickets voor voorstelling 1: 149
+Geef aantal verkochte tickets voor voorstelling 2: 107
+Geef aantal verkochte tickets voor voorstelling 3: 89
+Totaal aantal verkochte tickets: 345
+Voorstelling 1 heeft de meeste tickets verkocht met 149 tickets.
+```
 
 **Input:**
 
 ```
-50
-110
-169
+149
+107
+89
 ```
 
 **Expected Output:**
 
 ```
-Totaal aantal verkochte tickets: 329
-Voorstelling 3 heeft de meeste tickets verkocht met 169 tickets.
+Totaal aantal verkochte tickets: 345
+Voorstelling 1 heeft de meeste tickets verkocht met 149 tickets.
 ```
 
 ---
 
 ### Case 15
 
-**Description:** Run 15: args=115, 99, 99
+**Complete console output:**
 
+```
+Geef aantal verkochte tickets voor voorstelling 1: 99
+Geef aantal verkochte tickets voor voorstelling 2: 169
+Geef aantal verkochte tickets voor voorstelling 3: 37
+Totaal aantal verkochte tickets: 305
+Voorstelling 2 heeft de meeste tickets verkocht met 169 tickets.
+```
 
 **Input:**
 
 ```
-115
 99
-99
+169
+37
 ```
 
 **Expected Output:**
 
 ```
-Totaal aantal verkochte tickets: 313
-Voorstelling 1 heeft de meeste tickets verkocht met 115 tickets.
+Totaal aantal verkochte tickets: 305
+Voorstelling 2 heeft de meeste tickets verkocht met 169 tickets.
 ```
 
 ---

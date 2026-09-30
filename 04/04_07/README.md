@@ -16,430 +16,630 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=1Dzsn, 7t0U5, 78f0P, KvZ5T, ja, uN0Vh
+**Complete console output:**
 
+```
+Geef kleur 1: t6jKc
+Geef kleur 2: VscEd
+Geef kleur 3: X9VXX
+Geef kleur 4: MZUlC
+Wil je een vijfde kleur toevoegen? (ja/nee): nee
+Totaal aantal kleuren: 4
+t6jKc
+VscEd
+X9VXX
+MZUlC
+```
 
 **Input:**
 
 ```
-1Dzsn
-7t0U5
-78f0P
-KvZ5T
-ja
-uN0Vh
+t6jKc
+VscEd
+X9VXX
+MZUlC
+nee
+TlYi3
 ```
 
 **Expected Output:**
 
 ```
-Totaal aantal kleuren: 5
-1Dzsn
-7t0U5
-78f0P
-KvZ5T
-uN0Vh
+Totaal aantal kleuren: 4
+t6jKc
+VscEd
+X9VXX
+MZUlC
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=qguHL, YHFKH, iKbZQ, gDTy0, nee, kYRx7
+**Complete console output:**
 
+```
+Geef kleur 1: 6vgo3
+Geef kleur 2: UEHaT
+Geef kleur 3: SS5qR
+Geef kleur 4: UhAX6
+Wil je een vijfde kleur toevoegen? (ja/nee): nee
+Totaal aantal kleuren: 4
+6vgo3
+UEHaT
+SS5qR
+UhAX6
+```
 
 **Input:**
 
 ```
-qguHL
-YHFKH
-iKbZQ
-gDTy0
+6vgo3
+UEHaT
+SS5qR
+UhAX6
 nee
-kYRx7
+7dRZn
 ```
 
 **Expected Output:**
 
 ```
 Totaal aantal kleuren: 4
-qguHL
-YHFKH
-iKbZQ
-gDTy0
+6vgo3
+UEHaT
+SS5qR
+UhAX6
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=k9sF0, cbuEq, l1v3K, 4FT1f, nee, dn12P
+**Complete console output:**
 
+```
+Geef kleur 1: 61p0H
+Geef kleur 2: GnKM1
+Geef kleur 3: 8n1bN
+Geef kleur 4: 4ACDb
+Wil je een vijfde kleur toevoegen? (ja/nee): nee
+Totaal aantal kleuren: 4
+61p0H
+GnKM1
+8n1bN
+4ACDb
+```
 
 **Input:**
 
 ```
-k9sF0
-cbuEq
-l1v3K
-4FT1f
+61p0H
+GnKM1
+8n1bN
+4ACDb
 nee
-dn12P
+OKo6A
 ```
 
 **Expected Output:**
 
 ```
 Totaal aantal kleuren: 4
-k9sF0
-cbuEq
-l1v3K
-4FT1f
+61p0H
+GnKM1
+8n1bN
+4ACDb
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=CziAu, I9vt7, TRCV4, QjdNG, nee, 5Hu35
+**Complete console output:**
 
+```
+Geef kleur 1: 4jaJ9
+Geef kleur 2: CrhGc
+Geef kleur 3: KYb7J
+Geef kleur 4: Xi6aw
+Wil je een vijfde kleur toevoegen? (ja/nee): ja
+Geef de vijfde kleur: dtt2b
+Totaal aantal kleuren: 5
+4jaJ9
+CrhGc
+KYb7J
+Xi6aw
+dtt2b
+```
 
 **Input:**
 
 ```
-CziAu
-I9vt7
-TRCV4
-QjdNG
-nee
-5Hu35
+4jaJ9
+CrhGc
+KYb7J
+Xi6aw
+ja
+dtt2b
 ```
 
 **Expected Output:**
 
 ```
-Totaal aantal kleuren: 4
-CziAu
-I9vt7
-TRCV4
-QjdNG
+Totaal aantal kleuren: 5
+4jaJ9
+CrhGc
+KYb7J
+Xi6aw
+dtt2b
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=9HNdf, vz6X1, QCtZl, THNvE, nee, qv1Aw
+**Complete console output:**
 
+```
+Geef kleur 1: V6Cfm
+Geef kleur 2: 0iiuq
+Geef kleur 3: A2Pjl
+Geef kleur 4: cGt8g
+Wil je een vijfde kleur toevoegen? (ja/nee): ja
+Geef de vijfde kleur: yZec7
+Totaal aantal kleuren: 5
+V6Cfm
+0iiuq
+A2Pjl
+cGt8g
+yZec7
+```
 
 **Input:**
 
 ```
-9HNdf
-vz6X1
-QCtZl
-THNvE
-nee
-qv1Aw
+V6Cfm
+0iiuq
+A2Pjl
+cGt8g
+ja
+yZec7
 ```
 
 **Expected Output:**
 
 ```
-Totaal aantal kleuren: 4
-9HNdf
-vz6X1
-QCtZl
-THNvE
+Totaal aantal kleuren: 5
+V6Cfm
+0iiuq
+A2Pjl
+cGt8g
+yZec7
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=cGfMi, BFSvw, 7VnHW, fz6Hc, ja, A3uC9
+**Complete console output:**
 
+```
+Geef kleur 1: Ecwy0
+Geef kleur 2: poyrE
+Geef kleur 3: aO2er
+Geef kleur 4: m8B76
+Wil je een vijfde kleur toevoegen? (ja/nee): ja
+Geef de vijfde kleur: SyJYf
+Totaal aantal kleuren: 5
+Ecwy0
+poyrE
+aO2er
+m8B76
+SyJYf
+```
 
 **Input:**
 
 ```
-cGfMi
-BFSvw
-7VnHW
-fz6Hc
+Ecwy0
+poyrE
+aO2er
+m8B76
 ja
-A3uC9
+SyJYf
 ```
 
 **Expected Output:**
 
 ```
 Totaal aantal kleuren: 5
-cGfMi
-BFSvw
-7VnHW
-fz6Hc
-A3uC9
+Ecwy0
+poyrE
+aO2er
+m8B76
+SyJYf
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=CA42O, s1tpR, FnB5P, tRRE5, ja, MwoSI
+**Complete console output:**
 
+```
+Geef kleur 1: tShEM
+Geef kleur 2: 1n2J3
+Geef kleur 3: g8Tzc
+Geef kleur 4: x0Sjs
+Wil je een vijfde kleur toevoegen? (ja/nee): nee
+Totaal aantal kleuren: 4
+tShEM
+1n2J3
+g8Tzc
+x0Sjs
+```
 
 **Input:**
 
 ```
-CA42O
-s1tpR
-FnB5P
-tRRE5
-ja
-MwoSI
-```
-
-**Expected Output:**
-
-```
-Totaal aantal kleuren: 5
-CA42O
-s1tpR
-FnB5P
-tRRE5
-MwoSI
-```
-
----
-
-### Case 8
-
-**Description:** Run 8: args=4VjuF, uUhnk, 1VKzJ, IGKSL, ja, tvNlp
-
-
-**Input:**
-
-```
-4VjuF
-uUhnk
-1VKzJ
-IGKSL
-ja
-tvNlp
-```
-
-**Expected Output:**
-
-```
-Totaal aantal kleuren: 5
-4VjuF
-uUhnk
-1VKzJ
-IGKSL
-tvNlp
-```
-
----
-
-### Case 9
-
-**Description:** Run 9: args=Id0ga, 11IuL, ozYjW, INhYV, ja, yN0Eu
-
-
-**Input:**
-
-```
-Id0ga
-11IuL
-ozYjW
-INhYV
-ja
-yN0Eu
-```
-
-**Expected Output:**
-
-```
-Totaal aantal kleuren: 5
-Id0ga
-11IuL
-ozYjW
-INhYV
-yN0Eu
-```
-
----
-
-### Case 10
-
-**Description:** Run 10: args=GWqvz, NAOZP, wVOO8, lxHTv, ja, R2W2L
-
-
-**Input:**
-
-```
-GWqvz
-NAOZP
-wVOO8
-lxHTv
-ja
-R2W2L
-```
-
-**Expected Output:**
-
-```
-Totaal aantal kleuren: 5
-GWqvz
-NAOZP
-wVOO8
-lxHTv
-R2W2L
-```
-
----
-
-### Case 11
-
-**Description:** Run 11: args=55NiP, Jphvp, apK5N, bi0RO, ja, go0r5
-
-
-**Input:**
-
-```
-55NiP
-Jphvp
-apK5N
-bi0RO
-ja
-go0r5
-```
-
-**Expected Output:**
-
-```
-Totaal aantal kleuren: 5
-55NiP
-Jphvp
-apK5N
-bi0RO
-go0r5
-```
-
----
-
-### Case 12
-
-**Description:** Run 12: args=snW5V, v7fVl, KPt0P, JpHcG, ja, njwLG
-
-
-**Input:**
-
-```
-snW5V
-v7fVl
-KPt0P
-JpHcG
-ja
-njwLG
-```
-
-**Expected Output:**
-
-```
-Totaal aantal kleuren: 5
-snW5V
-v7fVl
-KPt0P
-JpHcG
-njwLG
-```
-
----
-
-### Case 13
-
-**Description:** Run 13: args=SbuGZ, HsGdD, SpvtC, Zh8ke, ja, offLv
-
-
-**Input:**
-
-```
-SbuGZ
-HsGdD
-SpvtC
-Zh8ke
-ja
-offLv
-```
-
-**Expected Output:**
-
-```
-Totaal aantal kleuren: 5
-SbuGZ
-HsGdD
-SpvtC
-Zh8ke
-offLv
-```
-
----
-
-### Case 14
-
-**Description:** Run 14: args=5CZHb, cncdK, bmFHO, QVo1P, nee, TSWll
-
-
-**Input:**
-
-```
-5CZHb
-cncdK
-bmFHO
-QVo1P
+tShEM
+1n2J3
+g8Tzc
+x0Sjs
 nee
-TSWll
+Psejp
 ```
 
 **Expected Output:**
 
 ```
 Totaal aantal kleuren: 4
-5CZHb
-cncdK
-bmFHO
-QVo1P
+tShEM
+1n2J3
+g8Tzc
+x0Sjs
 ```
 
 ---
 
-### Case 15
+### Case 8
 
-**Description:** Run 15: args=3n4wn, ncHKQ, YXLag, HqSz5, ja, JfXSb
+**Complete console output:**
 
+```
+Geef kleur 1: z41le
+Geef kleur 2: G74Xs
+Geef kleur 3: 09mcQ
+Geef kleur 4: TA6su
+Wil je een vijfde kleur toevoegen? (ja/nee): nee
+Totaal aantal kleuren: 4
+z41le
+G74Xs
+09mcQ
+TA6su
+```
 
 **Input:**
 
 ```
-3n4wn
-ncHKQ
-YXLag
-HqSz5
+z41le
+G74Xs
+09mcQ
+TA6su
+nee
+R3Chn
+```
+
+**Expected Output:**
+
+```
+Totaal aantal kleuren: 4
+z41le
+G74Xs
+09mcQ
+TA6su
+```
+
+---
+
+### Case 9
+
+**Complete console output:**
+
+```
+Geef kleur 1: r3UMg
+Geef kleur 2: C7Aqj
+Geef kleur 3: jBhNk
+Geef kleur 4: 43MZE
+Wil je een vijfde kleur toevoegen? (ja/nee): ja
+Geef de vijfde kleur: UWi01
+Totaal aantal kleuren: 5
+r3UMg
+C7Aqj
+jBhNk
+43MZE
+UWi01
+```
+
+**Input:**
+
+```
+r3UMg
+C7Aqj
+jBhNk
+43MZE
 ja
-JfXSb
+UWi01
 ```
 
 **Expected Output:**
 
 ```
 Totaal aantal kleuren: 5
-3n4wn
-ncHKQ
-YXLag
-HqSz5
-JfXSb
+r3UMg
+C7Aqj
+jBhNk
+43MZE
+UWi01
+```
+
+---
+
+### Case 10
+
+**Complete console output:**
+
+```
+Geef kleur 1: Vpheq
+Geef kleur 2: Gf7mY
+Geef kleur 3: s8DDf
+Geef kleur 4: Cshng
+Wil je een vijfde kleur toevoegen? (ja/nee): ja
+Geef de vijfde kleur: KXyXW
+Totaal aantal kleuren: 5
+Vpheq
+Gf7mY
+s8DDf
+Cshng
+KXyXW
+```
+
+**Input:**
+
+```
+Vpheq
+Gf7mY
+s8DDf
+Cshng
+ja
+KXyXW
+```
+
+**Expected Output:**
+
+```
+Totaal aantal kleuren: 5
+Vpheq
+Gf7mY
+s8DDf
+Cshng
+KXyXW
+```
+
+---
+
+### Case 11
+
+**Complete console output:**
+
+```
+Geef kleur 1: DCFtu
+Geef kleur 2: sF5Gh
+Geef kleur 3: qM8mE
+Geef kleur 4: 2RLFV
+Wil je een vijfde kleur toevoegen? (ja/nee): ja
+Geef de vijfde kleur: o6EV7
+Totaal aantal kleuren: 5
+DCFtu
+sF5Gh
+qM8mE
+2RLFV
+o6EV7
+```
+
+**Input:**
+
+```
+DCFtu
+sF5Gh
+qM8mE
+2RLFV
+ja
+o6EV7
+```
+
+**Expected Output:**
+
+```
+Totaal aantal kleuren: 5
+DCFtu
+sF5Gh
+qM8mE
+2RLFV
+o6EV7
+```
+
+---
+
+### Case 12
+
+**Complete console output:**
+
+```
+Geef kleur 1: pu8Oh
+Geef kleur 2: yt3BA
+Geef kleur 3: XrYQw
+Geef kleur 4: Yakm9
+Wil je een vijfde kleur toevoegen? (ja/nee): ja
+Geef de vijfde kleur: xRzRO
+Totaal aantal kleuren: 5
+pu8Oh
+yt3BA
+XrYQw
+Yakm9
+xRzRO
+```
+
+**Input:**
+
+```
+pu8Oh
+yt3BA
+XrYQw
+Yakm9
+ja
+xRzRO
+```
+
+**Expected Output:**
+
+```
+Totaal aantal kleuren: 5
+pu8Oh
+yt3BA
+XrYQw
+Yakm9
+xRzRO
+```
+
+---
+
+### Case 13
+
+**Complete console output:**
+
+```
+Geef kleur 1: rtbW4
+Geef kleur 2: zwJeA
+Geef kleur 3: uL6AP
+Geef kleur 4: zNNor
+Wil je een vijfde kleur toevoegen? (ja/nee): ja
+Geef de vijfde kleur: BWNuX
+Totaal aantal kleuren: 5
+rtbW4
+zwJeA
+uL6AP
+zNNor
+BWNuX
+```
+
+**Input:**
+
+```
+rtbW4
+zwJeA
+uL6AP
+zNNor
+ja
+BWNuX
+```
+
+**Expected Output:**
+
+```
+Totaal aantal kleuren: 5
+rtbW4
+zwJeA
+uL6AP
+zNNor
+BWNuX
+```
+
+---
+
+### Case 14
+
+**Complete console output:**
+
+```
+Geef kleur 1: Iwo5Q
+Geef kleur 2: ffYIs
+Geef kleur 3: Mgw11
+Geef kleur 4: jcNwx
+Wil je een vijfde kleur toevoegen? (ja/nee): ja
+Geef de vijfde kleur: 6MOI0
+Totaal aantal kleuren: 5
+Iwo5Q
+ffYIs
+Mgw11
+jcNwx
+6MOI0
+```
+
+**Input:**
+
+```
+Iwo5Q
+ffYIs
+Mgw11
+jcNwx
+ja
+6MOI0
+```
+
+**Expected Output:**
+
+```
+Totaal aantal kleuren: 5
+Iwo5Q
+ffYIs
+Mgw11
+jcNwx
+6MOI0
+```
+
+---
+
+### Case 15
+
+**Complete console output:**
+
+```
+Geef kleur 1: DjjOW
+Geef kleur 2: xyoUa
+Geef kleur 3: 2A8yH
+Geef kleur 4: IGgE9
+Wil je een vijfde kleur toevoegen? (ja/nee): ja
+Geef de vijfde kleur: BGy1G
+Totaal aantal kleuren: 5
+DjjOW
+xyoUa
+2A8yH
+IGgE9
+BGy1G
+```
+
+**Input:**
+
+```
+DjjOW
+xyoUa
+2A8yH
+IGgE9
+ja
+BGy1G
+```
+
+**Expected Output:**
+
+```
+Totaal aantal kleuren: 5
+DjjOW
+xyoUa
+2A8yH
+IGgE9
+BGy1G
 ```
 
 ---

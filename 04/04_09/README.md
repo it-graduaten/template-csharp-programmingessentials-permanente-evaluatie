@@ -14,155 +14,366 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=65, 97, 34, 82, 75
+**Complete console output:**
 
+```
+Geef score van student 1: 88
+Geef score van student 2: 95
+Geef score van student 3: 52
+Geef score van student 4: 76
+Geef score van student 5: 15
+Het gemiddelde is 65.2.
+```
 
 **Input:**
 
 ```
-65
-97
-34
-82
-75
+88
+95
+52
+76
+15
 ```
 
 **Expected Output:**
 
 ```
-Het gemiddelde is 70.6.
+Het gemiddelde is 65.2.
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=82, 65, 91, 66, 29
+**Complete console output:**
 
+```
+Geef score van student 1: 50
+Geef score van student 2: 18
+Geef score van student 3: 61
+Geef score van student 4: 22
+Geef score van student 5: 70
+Het gemiddelde is 44.2.
+```
 
 **Input:**
 
 ```
-82
-65
-91
-66
-29
+50
+18
+61
+22
+70
 ```
 
 **Expected Output:**
 
 ```
-Het gemiddelde is 66.6.
+Het gemiddelde is 44.2.
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=79, 86, 2, 4, 94
+**Complete console output:**
 
+```
+Geef score van student 1: 65
+Geef score van student 2: 4
+Geef score van student 3: 41
+Geef score van student 4: 30
+Geef score van student 5: 82
+Het gemiddelde is 44.4.
+```
 
 **Input:**
 
 ```
-79
-86
-2
+65
 4
-94
+41
+30
+82
 ```
 
 **Expected Output:**
 
 ```
-Het gemiddelde is 53.
+Het gemiddelde is 44.4.
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=2, 44, 12, 15, 10
+**Complete console output:**
 
+```
+Geef score van student 1: 77
+Geef score van student 2: 4
+Geef score van student 3: 9
+Geef score van student 4: 53
+Geef score van student 5: 72
+Het gemiddelde is 43.
+```
 
 **Input:**
 
 ```
-2
-44
-12
-15
-10
+77
+4
+9
+53
+72
 ```
 
 **Expected Output:**
 
 ```
-Het gemiddelde is 16.6.
+Het gemiddelde is 43.
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=3, 90, 22, 95, 98
+**Complete console output:**
 
+```
+Geef score van student 1: 7
+Geef score van student 2: 63
+Geef score van student 3: 17
+Geef score van student 4: 54
+Geef score van student 5: 47
+Het gemiddelde is 37.6.
+```
 
 **Input:**
 
 ```
-3
-90
-22
-95
-98
+7
+63
+17
+54
+47
 ```
 
 **Expected Output:**
 
 ```
-Het gemiddelde is 61.6.
+Het gemiddelde is 37.6.
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=73, 17, 95, 99, 53
+**Complete console output:**
 
+```
+Geef score van student 1: 26
+Geef score van student 2: 36
+Geef score van student 3: 39
+Geef score van student 4: 11
+Geef score van student 5: 6
+Het gemiddelde is 23.6.
+```
 
 **Input:**
 
 ```
-73
-17
-95
-99
-53
+26
+36
+39
+11
+6
 ```
 
 **Expected Output:**
 
 ```
-Het gemiddelde is 67.4.
+Het gemiddelde is 23.6.
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=28, 36, 33, 10, 75
+**Complete console output:**
 
+```
+Geef score van student 1: 48
+Geef score van student 2: 99
+Geef score van student 3: 16
+Geef score van student 4: 63
+Geef score van student 5: 69
+Het gemiddelde is 59.
+```
 
 **Input:**
 
 ```
-28
+48
+99
+16
+63
+69
+```
+
+**Expected Output:**
+
+```
+Het gemiddelde is 59.
+```
+
+---
+
+### Case 8
+
+**Complete console output:**
+
+```
+Geef score van student 1: 6
+Geef score van student 2: 62
+Geef score van student 3: 18
+Geef score van student 4: 92
+Geef score van student 5: 34
+Het gemiddelde is 42.4.
+```
+
+**Input:**
+
+```
+6
+62
+18
+92
+34
+```
+
+**Expected Output:**
+
+```
+Het gemiddelde is 42.4.
+```
+
+---
+
+### Case 9
+
+**Complete console output:**
+
+```
+Geef score van student 1: 83
+Geef score van student 2: 60
+Geef score van student 3: 23
+Geef score van student 4: 61
+Geef score van student 5: 56
+Het gemiddelde is 56.6.
+```
+
+**Input:**
+
+```
+83
+60
+23
+61
+56
+```
+
+**Expected Output:**
+
+```
+Het gemiddelde is 56.6.
+```
+
+---
+
+### Case 10
+
+**Complete console output:**
+
+```
+Geef score van student 1: 36
+Geef score van student 2: 83
+Geef score van student 3: 65
+Geef score van student 4: 25
+Geef score van student 5: 77
+Het gemiddelde is 57.2.
+```
+
+**Input:**
+
+```
 36
-33
-10
-75
+83
+65
+25
+77
+```
+
+**Expected Output:**
+
+```
+Het gemiddelde is 57.2.
+```
+
+---
+
+### Case 11
+
+**Complete console output:**
+
+```
+Geef score van student 1: 79
+Geef score van student 2: 64
+Geef score van student 3: 91
+Geef score van student 4: 49
+Geef score van student 5: 77
+Het gemiddelde is 72.
+```
+
+**Input:**
+
+```
+79
+64
+91
+49
+77
+```
+
+**Expected Output:**
+
+```
+Het gemiddelde is 72.
+```
+
+---
+
+### Case 12
+
+**Complete console output:**
+
+```
+Geef score van student 1: 47
+Geef score van student 2: 85
+Geef score van student 3: 42
+Geef score van student 4: 2
+Geef score van student 5: 6
+Het gemiddelde is 36.4.
+```
+
+**Input:**
+
+```
+47
+85
+42
+2
+6
 ```
 
 **Expected Output:**
@@ -173,186 +384,95 @@ Het gemiddelde is 36.4.
 
 ---
 
-### Case 8
-
-**Description:** Run 8: args=93, 53, 20, 14, 68
-
-
-**Input:**
-
-```
-93
-53
-20
-14
-68
-```
-
-**Expected Output:**
-
-```
-Het gemiddelde is 49.6.
-```
-
----
-
-### Case 9
-
-**Description:** Run 9: args=17, 27, 18, 99, 61
-
-
-**Input:**
-
-```
-17
-27
-18
-99
-61
-```
-
-**Expected Output:**
-
-```
-Het gemiddelde is 44.4.
-```
-
----
-
-### Case 10
-
-**Description:** Run 10: args=85, 49, 77, 1, 44
-
-
-**Input:**
-
-```
-85
-49
-77
-1
-44
-```
-
-**Expected Output:**
-
-```
-Het gemiddelde is 51.2.
-```
-
----
-
-### Case 11
-
-**Description:** Run 11: args=70, 25, 89, 59, 99
-
-
-**Input:**
-
-```
-70
-25
-89
-59
-99
-```
-
-**Expected Output:**
-
-```
-Het gemiddelde is 68.4.
-```
-
----
-
-### Case 12
-
-**Description:** Run 12: args=43, 25, 21, 65, 79
-
-
-**Input:**
-
-```
-43
-25
-21
-65
-79
-```
-
-**Expected Output:**
-
-```
-Het gemiddelde is 46.6.
-```
-
----
-
 ### Case 13
 
-**Description:** Run 13: args=80, 11, 55, 16, 58
+**Complete console output:**
 
+```
+Geef score van student 1: 87
+Geef score van student 2: 78
+Geef score van student 3: 38
+Geef score van student 4: 23
+Geef score van student 5: 34
+Het gemiddelde is 52.
+```
 
 **Input:**
 
 ```
-80
-11
-55
-16
-58
+87
+78
+38
+23
+34
 ```
 
 **Expected Output:**
 
 ```
-Het gemiddelde is 44.
+Het gemiddelde is 52.
 ```
 
 ---
 
 ### Case 14
 
-**Description:** Run 14: args=32, 87, 9, 94, 0
+**Complete console output:**
 
+```
+Geef score van student 1: 83
+Geef score van student 2: 98
+Geef score van student 3: 57
+Geef score van student 4: 87
+Geef score van student 5: 44
+Het gemiddelde is 73.8.
+```
 
 **Input:**
 
 ```
-32
+83
+98
+57
 87
-9
-94
-0
+44
 ```
 
 **Expected Output:**
 
 ```
-Het gemiddelde is 44.4.
+Het gemiddelde is 73.8.
 ```
 
 ---
 
 ### Case 15
 
-**Description:** Run 15: args=13, 40, 41, 47, 55
+**Complete console output:**
 
+```
+Geef score van student 1: 96
+Geef score van student 2: 11
+Geef score van student 3: 12
+Geef score van student 4: 59
+Geef score van student 5: 88
+Het gemiddelde is 53.2.
+```
 
 **Input:**
 
 ```
-13
-40
-41
-47
-55
+96
+11
+12
+59
+88
 ```
 
 **Expected Output:**
 
 ```
-Het gemiddelde is 39.2.
+Het gemiddelde is 53.2.
 ```
 
 ---

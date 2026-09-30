@@ -12,475 +12,550 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=921.4007404475894
+**Complete console output:**
 
+```
+2,193.95
+```
 
 **Input:**
 
 ```
-921.4007404475894
+349.355622972362
 ```
 
 **Expected Output:**
 
 ```
-5,786.40
+2,193.95
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=260.58019726863495
+**Complete console output:**
 
+```
+407.64
+```
 
 **Input:**
 
 ```
-260.58019726863495
+64.91090555783816
 ```
 
 **Expected Output:**
 
 ```
-1,636.44
+407.64
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=538.9342252803694
+**Complete console output:**
 
+```
+5,494.98
+```
 
 **Input:**
 
 ```
-538.9342252803694
+874.9973398422949
 ```
 
 **Expected Output:**
 
 ```
-3,384.51
+5,494.98
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=319.7346050909479
+**Complete console output:**
 
+```
+1,798.29
+```
 
 **Input:**
 
 ```
-319.7346050909479
+286.3526885523382
 ```
 
 **Expected Output:**
 
 ```
-2,007.93
+1,798.29
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=23.080129612079777
+**Complete console output:**
 
+```
+4,553.41
+```
 
 **Input:**
 
 ```
-23.080129612079777
+725.0650884867287
 ```
 
 **Expected Output:**
 
 ```
-144.94
+4,553.41
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=17.36706780536485
+**Complete console output:**
 
+```
+212.67
+```
 
 **Input:**
 
 ```
-17.36706780536485
+33.86532056853843
 ```
 
 **Expected Output:**
 
 ```
-109.07
+212.67
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=16.999581177692516
+**Complete console output:**
 
+```
+76.11
+```
 
 **Input:**
 
 ```
-16.999581177692516
+12.118980362062972
 ```
 
 **Expected Output:**
 
 ```
-106.76
+76.11
 ```
 
 ---
 
 ### Case 8
 
-**Description:** Run 8: args=70.13663581276676
+**Complete console output:**
 
+```
+711.27
+```
 
 **Input:**
 
 ```
-70.13663581276676
+113.25888921007777
 ```
 
 **Expected Output:**
 
 ```
-440.46
+711.27
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=181.3621814286875
+**Complete console output:**
 
+```
+6,178.77
+```
 
 **Input:**
 
 ```
-181.3621814286875
+983.8799535068314
 ```
 
 **Expected Output:**
 
 ```
-1,138.95
+6,178.77
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=776.4028373649159
+**Complete console output:**
 
+```
+3,131.93
+```
 
 **Input:**
 
 ```
-776.4028373649159
+498.715495354047
 ```
 
 **Expected Output:**
 
 ```
-4,875.81
+3,131.93
 ```
 
 ---
 
 ### Case 11
 
-**Description:** Run 11: args=347.02472804092514
+**Complete console output:**
 
+```
+4,594.28
+```
 
 **Input:**
 
 ```
-347.02472804092514
+731.5730473220674
 ```
 
 **Expected Output:**
 
 ```
-2,179.32
+4,594.28
 ```
 
 ---
 
 ### Case 12
 
-**Description:** Run 12: args=476.5597649095712
+**Complete console output:**
 
+```
+5,603.25
+```
 
 **Input:**
 
 ```
-476.5597649095712
+892.2368541975364
 ```
 
 **Expected Output:**
 
 ```
-2,992.80
+5,603.25
 ```
 
 ---
 
 ### Case 13
 
-**Description:** Run 13: args=191.71567623021284
+**Complete console output:**
 
+```
+253.90
+```
 
 **Input:**
 
 ```
-191.71567623021284
+40.43040083119411
 ```
 
 **Expected Output:**
 
 ```
-1,203.97
+253.90
 ```
 
 ---
 
 ### Case 14
 
-**Description:** Run 14: args=937.2581757684867
+**Complete console output:**
 
+```
+395.98
+```
 
 **Input:**
 
 ```
-937.2581757684867
+63.054862000488576
 ```
 
 **Expected Output:**
 
 ```
-5,885.98
+395.98
 ```
 
 ---
 
 ### Case 15
 
-**Description:** Run 15: args=92.22249718447948
+**Complete console output:**
 
+```
+3,652.49
+```
 
 **Input:**
 
 ```
-92.22249718447948
+581.6074154598487
 ```
 
 **Expected Output:**
 
 ```
-579.16
+3,652.49
 ```
 
 ---
 
 ### Case 16
 
-**Description:** Run 16: args=71.57731403261486
+**Complete console output:**
 
+```
+6,068.06
+```
 
 **Input:**
 
 ```
-71.57731403261486
+966.2516998762856
 ```
 
 **Expected Output:**
 
 ```
-449.51
+6,068.06
 ```
 
 ---
 
 ### Case 17
 
-**Description:** Run 17: args=53.73266065165097
+**Complete console output:**
 
+```
+5,449.75
+```
 
 **Input:**
 
 ```
-53.73266065165097
+867.7945617009929
 ```
 
 **Expected Output:**
 
 ```
-337.44
+5,449.75
 ```
 
 ---
 
 ### Case 18
 
-**Description:** Run 18: args=629.6847374056022
+**Complete console output:**
 
+```
+4,836.82
+```
 
 **Input:**
 
 ```
-629.6847374056022
+770.19465287253
 ```
 
 **Expected Output:**
 
 ```
-3,954.42
+4,836.82
 ```
 
 ---
 
 ### Case 19
 
-**Description:** Run 19: args=116.66114416716368
+**Complete console output:**
 
+```
+1,637.62
+```
 
 **Input:**
 
 ```
-116.66114416716368
+260.7676938299857
 ```
 
 **Expected Output:**
 
 ```
-732.63
+1,637.62
 ```
 
 ---
 
 ### Case 20
 
-**Description:** Run 20: args=675.6855048142849
+**Complete console output:**
 
+```
+2,913.68
+```
 
 **Input:**
 
 ```
-675.6855048142849
+463.9618522853317
 ```
 
 **Expected Output:**
 
 ```
-4,243.30
+2,913.68
 ```
 
 ---
 
 ### Case 21
 
-**Description:** Run 21: args=103.10228241742432
+**Complete console output:**
 
+```
+5,870.79
+```
 
 **Input:**
 
 ```
-103.10228241742432
+934.8389576583114
 ```
 
 **Expected Output:**
 
 ```
-647.48
+5,870.79
 ```
 
 ---
 
 ### Case 22
 
-**Description:** Run 22: args=780.4766019522557
+**Complete console output:**
 
+```
+3,740.96
+```
 
 **Input:**
 
 ```
-780.4766019522557
+595.6944833381426
 ```
 
 **Expected Output:**
 
 ```
-4,901.39
+3,740.96
 ```
 
 ---
 
 ### Case 23
 
-**Description:** Run 23: args=490.1095882915299
+**Complete console output:**
 
+```
+827.24
+```
 
 **Input:**
 
 ```
-490.1095882915299
+131.72653807257646
 ```
 
 **Expected Output:**
 
 ```
-3,077.89
+827.24
 ```
 
 ---
 
 ### Case 24
 
-**Description:** Run 24: args=560.1752782490681
+**Complete console output:**
 
+```
+2,227.42
+```
 
 **Input:**
 
 ```
-560.1752782490681
+354.6850907224016
 ```
 
 **Expected Output:**
 
 ```
-3,517.90
+2,227.42
 ```
 
 ---
 
 ### Case 25
 
-**Description:** Run 25: args=51.648729014565156
+**Complete console output:**
 
+```
+3,632.76
+```
 
 **Input:**
 
 ```
-51.648729014565156
+578.4652481334209
 ```
 
 **Expected Output:**
 
 ```
-324.35
+3,632.76
 ```
 
 ---

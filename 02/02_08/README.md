@@ -10,475 +10,575 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=1279.9375260208087
+**Complete console output:**
 
+```
+Geef je saldo: 1511.1806433521353
+Goed sparen!
+```
 
 **Input:**
 
 ```
-1279.9375260208087
+1511.1806433521353
 ```
 
 **Expected Output:**
 
 ```
-Geef je saldo: Goed sparen!
+Goed sparen!
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=1213.6531237137342
+**Complete console output:**
 
+```
+Geef je saldo: 1707.4967370850495
+Goed sparen!
+```
 
 **Input:**
 
 ```
-1213.6531237137342
+1707.4967370850495
 ```
 
 **Expected Output:**
 
 ```
-Geef je saldo: Goed sparen!
+Goed sparen!
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=1072.5627725548977
+**Complete console output:**
 
+```
+Geef je saldo: 1351.8217321481513
+Goed sparen!
+```
 
 **Input:**
 
 ```
-1072.5627725548977
+1351.8217321481513
 ```
 
 **Expected Output:**
 
 ```
-Geef je saldo: Goed sparen!
+Goed sparen!
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=283.71387789459067
+**Complete console output:**
 
+```
+Geef je saldo: 966.289063308154
+Bovengemiddeld
+```
 
 **Input:**
 
 ```
-283.71387789459067
+966.289063308154
 ```
 
 **Expected Output:**
 
 ```
-Geef je saldo: Lager dan gemiddeld.
+Bovengemiddeld
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=1497.436770490393
+**Complete console output:**
 
+```
+Geef je saldo: 1678.071399524901
+Goed sparen!
+```
 
 **Input:**
 
 ```
-1497.436770490393
+1678.071399524901
 ```
 
 **Expected Output:**
 
 ```
-Geef je saldo: Goed sparen!
+Goed sparen!
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=924.4736273317973
+**Complete console output:**
 
+```
+Geef je saldo: 1077.536887558541
+Goed sparen!
+```
 
 **Input:**
 
 ```
-924.4736273317973
+1077.536887558541
 ```
 
 **Expected Output:**
 
 ```
-Geef je saldo: Bovengemiddeld
+Goed sparen!
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=606.8747948254191
+**Complete console output:**
 
+```
+Geef je saldo: 1575.4349190175487
+Goed sparen!
+```
 
 **Input:**
 
 ```
-606.8747948254191
+1575.4349190175487
 ```
 
 **Expected Output:**
 
 ```
-Geef je saldo: Bovengemiddeld
+Goed sparen!
 ```
 
 ---
 
 ### Case 8
 
-**Description:** Run 8: args=1540.3172323182555
+**Complete console output:**
 
+```
+Geef je saldo: 1907.4206975919358
+Goed sparen!
+```
 
 **Input:**
 
 ```
-1540.3172323182555
+1907.4206975919358
 ```
 
 **Expected Output:**
 
 ```
-Geef je saldo: Goed sparen!
+Goed sparen!
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=1297.8361257223564
+**Complete console output:**
 
+```
+Geef je saldo: 582.9686724705194
+Bovengemiddeld
+```
 
 **Input:**
 
 ```
-1297.8361257223564
+582.9686724705194
 ```
 
 **Expected Output:**
 
 ```
-Geef je saldo: Goed sparen!
+Bovengemiddeld
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=1536.2599826332828
+**Complete console output:**
 
+```
+Geef je saldo: 1340.3035141031128
+Goed sparen!
+```
 
 **Input:**
 
 ```
-1536.2599826332828
+1340.3035141031128
 ```
 
 **Expected Output:**
 
 ```
-Geef je saldo: Goed sparen!
+Goed sparen!
 ```
 
 ---
 
 ### Case 11
 
-**Description:** Run 11: args=250.63916921693541
+**Complete console output:**
 
+```
+Geef je saldo: 310.4450287919975
+Lager dan gemiddeld.
+```
 
 **Input:**
 
 ```
-250.63916921693541
+310.4450287919975
 ```
 
 **Expected Output:**
 
 ```
-Geef je saldo: Lager dan gemiddeld.
+Lager dan gemiddeld.
 ```
 
 ---
 
 ### Case 12
 
-**Description:** Run 12: args=1709.6058221821204
+**Complete console output:**
 
+```
+Geef je saldo: 1169.5134530951636
+Goed sparen!
+```
 
 **Input:**
 
 ```
-1709.6058221821204
+1169.5134530951636
 ```
 
 **Expected Output:**
 
 ```
-Geef je saldo: Goed sparen!
+Goed sparen!
 ```
 
 ---
 
 ### Case 13
 
-**Description:** Run 13: args=470.95627858125846
+**Complete console output:**
 
+```
+Geef je saldo: 567.8716227703286
+Bovengemiddeld
+```
 
 **Input:**
 
 ```
-470.95627858125846
+567.8716227703286
 ```
 
 **Expected Output:**
 
 ```
-Geef je saldo: Lager dan gemiddeld.
+Bovengemiddeld
 ```
 
 ---
 
 ### Case 14
 
-**Description:** Run 14: args=388.22000560905434
+**Complete console output:**
 
+```
+Geef je saldo: 456.92408553382035
+Lager dan gemiddeld.
+```
 
 **Input:**
 
 ```
-388.22000560905434
+456.92408553382035
 ```
 
 **Expected Output:**
 
 ```
-Geef je saldo: Lager dan gemiddeld.
+Lager dan gemiddeld.
 ```
 
 ---
 
 ### Case 15
 
-**Description:** Run 15: args=296.89858909361664
+**Complete console output:**
 
+```
+Geef je saldo: 88.61253265188363
+Lager dan gemiddeld.
+```
 
 **Input:**
 
 ```
-296.89858909361664
+88.61253265188363
 ```
 
 **Expected Output:**
 
 ```
-Geef je saldo: Lager dan gemiddeld.
+Lager dan gemiddeld.
 ```
 
 ---
 
 ### Case 16
 
-**Description:** Run 16: args=321.89682208796586
+**Complete console output:**
 
+```
+Geef je saldo: 190.50869997650378
+Lager dan gemiddeld.
+```
 
 **Input:**
 
 ```
-321.89682208796586
+190.50869997650378
 ```
 
 **Expected Output:**
 
 ```
-Geef je saldo: Lager dan gemiddeld.
+Lager dan gemiddeld.
 ```
 
 ---
 
 ### Case 17
 
-**Description:** Run 17: args=1372.3820531737272
+**Complete console output:**
 
+```
+Geef je saldo: 953.5635012927646
+Bovengemiddeld
+```
 
 **Input:**
 
 ```
-1372.3820531737272
+953.5635012927646
 ```
 
 **Expected Output:**
 
 ```
-Geef je saldo: Goed sparen!
+Bovengemiddeld
 ```
 
 ---
 
 ### Case 18
 
-**Description:** Run 18: args=986.0244075994435
+**Complete console output:**
 
+```
+Geef je saldo: 1795.9962775534796
+Goed sparen!
+```
 
 **Input:**
 
 ```
-986.0244075994435
+1795.9962775534796
 ```
 
 **Expected Output:**
 
 ```
-Geef je saldo: Bovengemiddeld
+Goed sparen!
 ```
 
 ---
 
 ### Case 19
 
-**Description:** Run 19: args=838.4460148651731
+**Complete console output:**
 
+```
+Geef je saldo: 1322.8455355201957
+Goed sparen!
+```
 
 **Input:**
 
 ```
-838.4460148651731
+1322.8455355201957
 ```
 
 **Expected Output:**
 
 ```
-Geef je saldo: Bovengemiddeld
+Goed sparen!
 ```
 
 ---
 
 ### Case 20
 
-**Description:** Run 20: args=101.97302281353183
+**Complete console output:**
 
+```
+Geef je saldo: 1624.6107633277718
+Goed sparen!
+```
 
 **Input:**
 
 ```
-101.97302281353183
+1624.6107633277718
 ```
 
 **Expected Output:**
 
 ```
-Geef je saldo: Lager dan gemiddeld.
+Goed sparen!
 ```
 
 ---
 
 ### Case 21
 
-**Description:** Run 21: args=1224.2994237697367
+**Complete console output:**
 
+```
+Geef je saldo: 508.91645510374974
+Bovengemiddeld
+```
 
 **Input:**
 
 ```
-1224.2994237697367
+508.91645510374974
 ```
 
 **Expected Output:**
 
 ```
-Geef je saldo: Goed sparen!
+Bovengemiddeld
 ```
 
 ---
 
 ### Case 22
 
-**Description:** Run 22: args=1826.299902684679
+**Complete console output:**
 
+```
+Geef je saldo: 1669.9551616922456
+Goed sparen!
+```
 
 **Input:**
 
 ```
-1826.299902684679
+1669.9551616922456
 ```
 
 **Expected Output:**
 
 ```
-Geef je saldo: Goed sparen!
+Goed sparen!
 ```
 
 ---
 
 ### Case 23
 
-**Description:** Run 23: args=1859.3013106589938
+**Complete console output:**
 
+```
+Geef je saldo: 376.7210519861892
+Lager dan gemiddeld.
+```
 
 **Input:**
 
 ```
-1859.3013106589938
+376.7210519861892
 ```
 
 **Expected Output:**
 
 ```
-Geef je saldo: Goed sparen!
+Lager dan gemiddeld.
 ```
 
 ---
 
 ### Case 24
 
-**Description:** Run 24: args=1553.8470616372604
+**Complete console output:**
 
+```
+Geef je saldo: 1589.18934743876
+Goed sparen!
+```
 
 **Input:**
 
 ```
-1553.8470616372604
+1589.18934743876
 ```
 
 **Expected Output:**
 
 ```
-Geef je saldo: Goed sparen!
+Goed sparen!
 ```
 
 ---
 
 ### Case 25
 
-**Description:** Run 25: args=1070.135483936859
+**Complete console output:**
 
+```
+Geef je saldo: 1439.7070015725856
+Goed sparen!
+```
 
 **Input:**
 
 ```
-1070.135483936859
+1439.7070015725856
 ```
 
 **Expected Output:**
 
 ```
-Geef je saldo: Goed sparen!
+Goed sparen!
 ```
 
 ---

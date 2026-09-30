@@ -10,48 +10,59 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=2, 8, -1
-
-
-**Input:**
-
-```
-2
-8
--1
-```
-
-**Expected Output:**
+**Complete console output:**
 
 ```
 Hoeveel scores wil je invoeren?
-Geef score 1: Geef score 2: Geslaagd: 0
-Gezakt: 2
+5
+Geef score 1: Geef score 2: Geef score 3: Geef score 4: Geef score 5: Geslaagd: 2
+Gezakt: 3
 ```
-
----
-
-### Case 2
-
-**Description:** Run 2: args=5, 3, -5, 10, 19, 11
-
 
 **Input:**
 
 ```
 5
-3
--5
-10
-19
+-10
+13
+7
+8
 11
 ```
 
 **Expected Output:**
 
 ```
+Geef score 1: Geef score 2: Geef score 3: Geef score 4: Geef score 5: Geslaagd: 2
+Gezakt: 3
+```
+
+---
+
+### Case 2
+
+**Complete console output:**
+
+```
 Hoeveel scores wil je invoeren?
-Geef score 1: Geef score 2: Geef score 3: Geef score 4: Geef score 5: Geslaagd: 3
+3
+Geef score 1: Geef score 2: Geef score 3: Geslaagd: 1
+Gezakt: 2
+```
+
+**Input:**
+
+```
+3
+-6
+16
+1
+```
+
+**Expected Output:**
+
+```
+Geef score 1: Geef score 2: Geef score 3: Geslaagd: 1
 Gezakt: 2
 ```
 
@@ -59,22 +70,26 @@ Gezakt: 2
 
 ### Case 3
 
-**Description:** Run 3: args=2, -6, 10
+**Complete console output:**
 
+```
+Hoeveel scores wil je invoeren?
+1
+Geef score 1: Geslaagd: 0
+Gezakt: 1
+```
 
 **Input:**
 
 ```
+1
 2
--6
-10
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel scores wil je invoeren?
-Geef score 1: Geef score 2: Geslaagd: 1
+Geef score 1: Geslaagd: 0
 Gezakt: 1
 ```
 
@@ -82,47 +97,59 @@ Gezakt: 1
 
 ### Case 4
 
-**Description:** Run 4: args=4, -1, 10, 12, -3
+**Complete console output:**
 
+```
+Hoeveel scores wil je invoeren?
+5
+Geef score 1: Geef score 2: Geef score 3: Geef score 4: Geef score 5: Geslaagd: 2
+Gezakt: 3
+```
 
 **Input:**
 
 ```
-4
+5
+5
 -1
-10
+19
+7
 12
--3
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel scores wil je invoeren?
-Geef score 1: Geef score 2: Geef score 3: Geef score 4: Geslaagd: 2
-Gezakt: 2
+Geef score 1: Geef score 2: Geef score 3: Geef score 4: Geef score 5: Geslaagd: 2
+Gezakt: 3
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=2, 3, -3
+**Complete console output:**
 
+```
+Hoeveel scores wil je invoeren?
+3
+Geef score 1: Geef score 2: Geef score 3: Geslaagd: 1
+Gezakt: 2
+```
 
 **Input:**
 
 ```
-2
 3
--3
+12
+-7
+2
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel scores wil je invoeren?
-Geef score 1: Geef score 2: Geslaagd: 0
+Geef score 1: Geef score 2: Geef score 3: Geslaagd: 1
 Gezakt: 2
 ```
 
@@ -130,49 +157,56 @@ Gezakt: 2
 
 ### Case 6
 
-**Description:** Run 6: args=4, -10, -4, 4, 16
+**Complete console output:**
 
+```
+Hoeveel scores wil je invoeren?
+4
+Geef score 1: Geef score 2: Geef score 3: Geef score 4: Geslaagd: 2
+Gezakt: 2
+```
 
 **Input:**
 
 ```
 4
--10
--4
-4
-16
+-7
+11
+12
+6
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel scores wil je invoeren?
-Geef score 1: Geef score 2: Geef score 3: Geef score 4: Geslaagd: 1
-Gezakt: 3
+Geef score 1: Geef score 2: Geef score 3: Geef score 4: Geslaagd: 2
+Gezakt: 2
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=4, 11, -9, 13, 16
+**Complete console output:**
 
+```
+Hoeveel scores wil je invoeren?
+1
+Geef score 1: Geslaagd: 0
+Gezakt: 1
+```
 
 **Input:**
 
 ```
-4
-11
--9
-13
-16
+1
+0
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel scores wil je invoeren?
-Geef score 1: Geef score 2: Geef score 3: Geef score 4: Geslaagd: 3
+Geef score 1: Geslaagd: 0
 Gezakt: 1
 ```
 
@@ -180,24 +214,29 @@ Gezakt: 1
 
 ### Case 8
 
-**Description:** Run 8: args=5, 14, -7, -1, 1, -8
+**Complete console output:**
 
+```
+Hoeveel scores wil je invoeren?
+5
+Geef score 1: Geef score 2: Geef score 3: Geef score 4: Geef score 5: Geslaagd: 1
+Gezakt: 4
+```
 
 **Input:**
 
 ```
 5
-14
--7
--1
-1
--8
+13
+5
+-2
+7
+-5
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel scores wil je invoeren?
 Geef score 1: Geef score 2: Geef score 3: Geef score 4: Geef score 5: Geslaagd: 1
 Gezakt: 4
 ```
@@ -206,23 +245,29 @@ Gezakt: 4
 
 ### Case 9
 
-**Description:** Run 9: args=3, -9, 9, -4
+**Complete console output:**
 
+```
+Hoeveel scores wil je invoeren?
+4
+Geef score 1: Geef score 2: Geef score 3: Geef score 4: Geslaagd: 1
+Gezakt: 3
+```
 
 **Input:**
 
 ```
-3
--9
-9
+4
 -4
+5
+7
+14
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel scores wil je invoeren?
-Geef score 1: Geef score 2: Geef score 3: Geslaagd: 0
+Geef score 1: Geef score 2: Geef score 3: Geef score 4: Geslaagd: 1
 Gezakt: 3
 ```
 
@@ -230,24 +275,27 @@ Gezakt: 3
 
 ### Case 10
 
-**Description:** Run 10: args=3, 15, -4, -8
+**Complete console output:**
 
+```
+Hoeveel scores wil je invoeren?
+1
+Geef score 1: Geslaagd: 1
+Gezakt: 0
+```
 
 **Input:**
 
 ```
-3
-15
--4
--8
+1
+14
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel scores wil je invoeren?
-Geef score 1: Geef score 2: Geef score 3: Geslaagd: 1
-Gezakt: 2
+Geef score 1: Geslaagd: 1
+Gezakt: 0
 ```
 
 ---

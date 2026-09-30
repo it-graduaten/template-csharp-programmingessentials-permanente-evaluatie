@@ -12,475 +12,550 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=187.9802543783644
+**Complete console output:**
 
+```
+223,746.00
+```
 
 **Input:**
 
 ```
-187.9802543783644
+266.9394831397293
 ```
 
 **Expected Output:**
 
 ```
-110,956.85
+223,746.00
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=559.854920597759
+**Complete console output:**
 
+```
+621,111.11
+```
 
 **Input:**
 
 ```
-559.854920597759
+444.75396271797155
 ```
 
 **Expected Output:**
 
 ```
-984,193.85
+621,111.11
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=364.10046414625907
+**Complete console output:**
 
+```
+200,731.06
+```
 
 **Input:**
 
 ```
-364.10046414625907
+252.83806800700893
 ```
 
 **Expected Output:**
 
 ```
-416,267.12
+200,731.06
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=947.4883107547183
+**Complete console output:**
 
+```
+798,574.67
+```
 
 **Input:**
 
 ```
-947.4883107547183
+504.3046120532684
 ```
 
 **Expected Output:**
 
 ```
-2,818,885.07
+798,574.67
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=79.35981188720683
+**Complete console output:**
 
+```
+633,742.03
+```
 
 **Input:**
 
 ```
-79.35981188720683
+449.2534597307908
 ```
 
 **Expected Output:**
 
 ```
-19,775.66
+633,742.03
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=310.81669642503573
+**Complete console output:**
 
+```
+10,669.31
+```
 
 **Input:**
 
 ```
-310.81669642503573
+58.29125697715917
 ```
 
 **Expected Output:**
 
 ```
-303,346.04
+10,669.31
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=627.190946567601
+**Complete console output:**
 
+```
+1,242,142.84
+```
 
 **Input:**
 
 ```
-627.190946567601
+628.9569868972907
 ```
 
 **Expected Output:**
 
 ```
-1,235,177.04
+1,242,142.84
 ```
 
 ---
 
 ### Case 8
 
-**Description:** Run 8: args=299.4422318015829
+**Complete console output:**
 
+```
+3,054.76
+```
 
 **Input:**
 
 ```
-299.4422318015829
+31.19060950159532
 ```
 
 **Expected Output:**
 
 ```
-281,550.14
+3,054.76
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=637.6484486855555
+**Complete console output:**
 
+```
+974,873.40
+```
 
 **Input:**
 
 ```
-637.6484486855555
+557.1976626699413
 ```
 
 **Expected Output:**
 
 ```
-1,276,710.01
+974,873.40
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=169.5055737165751
+**Complete console output:**
 
+```
+1,489,804.87
+```
 
 **Input:**
 
 ```
-169.5055737165751
+688.8106778755547
 ```
 
 **Expected Output:**
 
 ```
-90,218.92
+1,489,804.87
 ```
 
 ---
 
 ### Case 11
 
-**Description:** Run 11: args=725.6563452012431
+**Complete console output:**
 
+```
+2,235,013.57
+```
 
 **Input:**
 
 ```
-725.6563452012431
+843.6751508310269
 ```
 
 **Expected Output:**
 
 ```
-1,653,452.19
+2,235,013.57
 ```
 
 ---
 
 ### Case 12
 
-**Description:** Run 12: args=705.8315422524936
+**Complete console output:**
 
+```
+775,272.31
+```
 
 **Input:**
 
 ```
-705.8315422524936
+496.892350655685
 ```
 
 **Expected Output:**
 
 ```
-1,564,342.24
+775,272.31
 ```
 
 ---
 
 ### Case 13
 
-**Description:** Run 13: args=687.1807927027853
+**Complete console output:**
 
+```
+589,348.01
+```
 
 **Input:**
 
 ```
-687.1807927027853
+433.2325589504916
 ```
 
 **Expected Output:**
 
 ```
-1,482,762.77
+589,348.01
 ```
 
 ---
 
 ### Case 14
 
-**Description:** Run 14: args=871.5237699242878
+**Complete console output:**
 
+```
+2,311,930.16
+```
 
 **Input:**
 
 ```
-871.5237699242878
+858.0696301478014
 ```
 
 **Expected Output:**
 
 ```
-2,384,998.56
+2,311,930.16
 ```
 
 ---
 
 ### Case 15
 
-**Description:** Run 15: args=583.8101875582574
+**Complete console output:**
 
+```
+2,729,080.38
+```
 
 **Input:**
 
 ```
-583.8101875582574
+932.2735003527663
 ```
 
 **Expected Output:**
 
 ```
-1,070,219.81
+2,729,080.38
 ```
 
 ---
 
 ### Case 16
 
-**Description:** Run 16: args=983.5411639902607
+**Complete console output:**
 
+```
+2,916,181.78
+```
 
 **Input:**
 
 ```
-983.5411639902607
+963.7013597758961
 ```
 
 **Expected Output:**
 
 ```
-3,037,489.11
+2,916,181.78
 ```
 
 ---
 
 ### Case 17
 
-**Description:** Run 17: args=511.6736442993509
+**Complete console output:**
 
+```
+1,724,421.81
+```
 
 **Input:**
 
 ```
-511.6736442993509
+741.066069249326
 ```
 
 **Expected Output:**
 
 ```
-822,083.14
+1,724,421.81
 ```
 
 ---
 
 ### Case 18
 
-**Description:** Run 18: args=796.6241993652923
+**Complete console output:**
 
+```
+2,923.20
+```
 
 **Input:**
 
 ```
-796.6241993652923
+30.511566042800496
 ```
 
 **Expected Output:**
 
 ```
-1,992,675.76
+2,923.20
 ```
 
 ---
 
 ### Case 19
 
-**Description:** Run 19: args=479.2166160289052
+**Complete console output:**
 
+```
+53,200.41
+```
 
 **Input:**
 
 ```
-479.2166160289052
+130.16453215294402
 ```
 
 **Expected Output:**
 
 ```
-721,096.49
+53,200.41
 ```
 
 ---
 
 ### Case 20
 
-**Description:** Run 20: args=117.67983680164211
+**Complete console output:**
 
+```
+91,375.97
+```
 
 **Input:**
 
 ```
-117.67983680164211
+170.58906113628314
 ```
 
 **Expected Output:**
 
 ```
-43,484.43
+91,375.97
 ```
 
 ---
 
 ### Case 21
 
-**Description:** Run 21: args=300.3080774021877
+**Complete console output:**
 
+```
+343,971.76
+```
 
 **Input:**
 
 ```
-300.3080774021877
+330.9760490862574
 ```
 
 **Expected Output:**
 
 ```
-283,180.72
+343,971.76
 ```
 
 ---
 
 ### Case 22
 
-**Description:** Run 22: args=327.1934690218163
+**Complete console output:**
 
+```
+2,643,367.47
+```
 
 **Input:**
 
 ```
-327.1934690218163
+917.5166346391924
 ```
 
 **Expected Output:**
 
 ```
-336,154.48
+2,643,367.47
 ```
 
 ---
 
 ### Case 23
 
-**Description:** Run 23: args=583.9211323443495
+**Complete console output:**
 
+```
+483,564.81
+```
 
 **Input:**
 
 ```
-583.9211323443495
+392.43028720467254
 ```
 
 **Expected Output:**
 
 ```
-1,070,626.61
+483,564.81
 ```
 
 ---
 
 ### Case 24
 
-**Description:** Run 24: args=73.30681059103433
+**Complete console output:**
 
+```
+345,456.34
+```
 
 **Input:**
 
 ```
-73.30681059103433
+331.6895253540625
 ```
 
 **Expected Output:**
 
 ```
-16,874.01
+345,456.34
 ```
 
 ---
 
 ### Case 25
 
-**Description:** Run 25: args=210.2196017598931
+**Complete console output:**
 
+```
+1,884,371.70
+```
 
 **Input:**
 
 ```
-210.2196017598931
+774.6730765324155
 ```
 
 **Expected Output:**
 
 ```
-138,763.76
+1,884,371.70
 ```
 
 ---

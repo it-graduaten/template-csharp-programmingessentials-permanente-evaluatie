@@ -14,405 +14,585 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=sHMnB, 7, AQvzx, 28, 11mNL, 94
+**Complete console output:**
 
+```
+Geef naam van student 1: nInFx
+Geef score van student 1: 65
+Geef naam van student 2: zWPFq
+Geef score van student 2: 74
+Geef naam van student 3: EECQ1
+Geef score van student 3: 82
+Student nInFx heeft score 65.
+Student zWPFq heeft score 74.
+Student EECQ1 heeft score 82.
+Het gemiddelde is 73.66666666666667.
+```
 
 **Input:**
 
 ```
-sHMnB
-7
-AQvzx
-28
-11mNL
-94
+nInFx
+65
+zWPFq
+74
+EECQ1
+82
 ```
 
 **Expected Output:**
 
 ```
-Student sHMnB heeft score 7.
-Student AQvzx heeft score 28.
-Student 11mNL heeft score 94.
-Het gemiddelde is 43.
+Student nInFx heeft score 65.
+Student zWPFq heeft score 74.
+Student EECQ1 heeft score 82.
+Het gemiddelde is 73.66666666666667.
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=T2FAe, 69, 9ihoe, 37, zPUkc, 20
+**Complete console output:**
 
+```
+Geef naam van student 1: O1cFJ
+Geef score van student 1: 7
+Geef naam van student 2: 4AuBn
+Geef score van student 2: 50
+Geef naam van student 3: 5BhEU
+Geef score van student 3: 52
+Student O1cFJ heeft score 7.
+Student 4AuBn heeft score 50.
+Student 5BhEU heeft score 52.
+Het gemiddelde is 36.333333333333336.
+```
 
 **Input:**
 
 ```
-T2FAe
-69
-9ihoe
-37
-zPUkc
-20
+O1cFJ
+7
+4AuBn
+50
+5BhEU
+52
 ```
 
 **Expected Output:**
 
 ```
-Student T2FAe heeft score 69.
-Student 9ihoe heeft score 37.
-Student zPUkc heeft score 20.
-Het gemiddelde is 42.
+Student O1cFJ heeft score 7.
+Student 4AuBn heeft score 50.
+Student 5BhEU heeft score 52.
+Het gemiddelde is 36.333333333333336.
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=GzDLI, 56, n24yz, 52, uMeW7, 96
+**Complete console output:**
 
+```
+Geef naam van student 1: ayj8G
+Geef score van student 1: 10
+Geef naam van student 2: Ys1eD
+Geef score van student 2: 76
+Geef naam van student 3: XzcNP
+Geef score van student 3: 41
+Student ayj8G heeft score 10.
+Student Ys1eD heeft score 76.
+Student XzcNP heeft score 41.
+Het gemiddelde is 42.333333333333336.
+```
 
 **Input:**
 
 ```
-GzDLI
-56
-n24yz
-52
-uMeW7
-96
+ayj8G
+10
+Ys1eD
+76
+XzcNP
+41
 ```
 
 **Expected Output:**
 
 ```
-Student GzDLI heeft score 56.
-Student n24yz heeft score 52.
-Student uMeW7 heeft score 96.
-Het gemiddelde is 68.
+Student ayj8G heeft score 10.
+Student Ys1eD heeft score 76.
+Student XzcNP heeft score 41.
+Het gemiddelde is 42.333333333333336.
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=VWi5m, 47, WLlFU, 10, f9WOJ, 70
+**Complete console output:**
 
+```
+Geef naam van student 1: PriQS
+Geef score van student 1: 51
+Geef naam van student 2: VMz88
+Geef score van student 2: 95
+Geef naam van student 3: kZhyX
+Geef score van student 3: 15
+Student PriQS heeft score 51.
+Student VMz88 heeft score 95.
+Student kZhyX heeft score 15.
+Het gemiddelde is 53.666666666666664.
+```
 
 **Input:**
 
 ```
-VWi5m
-47
-WLlFU
-10
-f9WOJ
-70
+PriQS
+51
+VMz88
+95
+kZhyX
+15
 ```
 
 **Expected Output:**
 
 ```
-Student VWi5m heeft score 47.
-Student WLlFU heeft score 10.
-Student f9WOJ heeft score 70.
-Het gemiddelde is 42.333333333333336.
+Student PriQS heeft score 51.
+Student VMz88 heeft score 95.
+Student kZhyX heeft score 15.
+Het gemiddelde is 53.666666666666664.
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=FsLeN, 92, ZN7B2, 73, 0lWpm, 65
+**Complete console output:**
 
+```
+Geef naam van student 1: ugyC9
+Geef score van student 1: 48
+Geef naam van student 2: FXORH
+Geef score van student 2: 4
+Geef naam van student 3: xtyAz
+Geef score van student 3: 4
+Student ugyC9 heeft score 48.
+Student FXORH heeft score 4.
+Student xtyAz heeft score 4.
+Het gemiddelde is 18.666666666666668.
+```
 
 **Input:**
 
 ```
-FsLeN
-92
-ZN7B2
-73
-0lWpm
-65
+ugyC9
+48
+FXORH
+4
+xtyAz
+4
 ```
 
 **Expected Output:**
 
 ```
-Student FsLeN heeft score 92.
-Student ZN7B2 heeft score 73.
-Student 0lWpm heeft score 65.
-Het gemiddelde is 76.66666666666667.
+Student ugyC9 heeft score 48.
+Student FXORH heeft score 4.
+Student xtyAz heeft score 4.
+Het gemiddelde is 18.666666666666668.
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=D4eiZ, 56, ABCeF, 70, jiadL, 1
+**Complete console output:**
 
+```
+Geef naam van student 1: E5rYp
+Geef score van student 1: 74
+Geef naam van student 2: 3A7mi
+Geef score van student 2: 3
+Geef naam van student 3: GQ6RF
+Geef score van student 3: 78
+Student E5rYp heeft score 74.
+Student 3A7mi heeft score 3.
+Student GQ6RF heeft score 78.
+Het gemiddelde is 51.666666666666664.
+```
 
 **Input:**
 
 ```
-D4eiZ
-56
-ABCeF
-70
-jiadL
-1
+E5rYp
+74
+3A7mi
+3
+GQ6RF
+78
 ```
 
 **Expected Output:**
 
 ```
-Student D4eiZ heeft score 56.
-Student ABCeF heeft score 70.
-Student jiadL heeft score 1.
-Het gemiddelde is 42.333333333333336.
+Student E5rYp heeft score 74.
+Student 3A7mi heeft score 3.
+Student GQ6RF heeft score 78.
+Het gemiddelde is 51.666666666666664.
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=zUuYr, 23, 8vkhC, 45, 06Ilt, 56
+**Complete console output:**
 
+```
+Geef naam van student 1: 6wNmh
+Geef score van student 1: 9
+Geef naam van student 2: iQWYY
+Geef score van student 2: 18
+Geef naam van student 3: w9hkC
+Geef score van student 3: 5
+Student 6wNmh heeft score 9.
+Student iQWYY heeft score 18.
+Student w9hkC heeft score 5.
+Het gemiddelde is 10.666666666666666.
+```
 
 **Input:**
 
 ```
-zUuYr
-23
-8vkhC
-45
-06Ilt
-56
+6wNmh
+9
+iQWYY
+18
+w9hkC
+5
 ```
 
 **Expected Output:**
 
 ```
-Student zUuYr heeft score 23.
-Student 8vkhC heeft score 45.
-Student 06Ilt heeft score 56.
-Het gemiddelde is 41.333333333333336.
+Student 6wNmh heeft score 9.
+Student iQWYY heeft score 18.
+Student w9hkC heeft score 5.
+Het gemiddelde is 10.666666666666666.
 ```
 
 ---
 
 ### Case 8
 
-**Description:** Run 8: args=8rQ2Y, 64, XWJ9D, 3, 24C5Z, 57
+**Complete console output:**
 
+```
+Geef naam van student 1: eLzp5
+Geef score van student 1: 78
+Geef naam van student 2: mhg6B
+Geef score van student 2: 91
+Geef naam van student 3: ueAcA
+Geef score van student 3: 71
+Student eLzp5 heeft score 78.
+Student mhg6B heeft score 91.
+Student ueAcA heeft score 71.
+Het gemiddelde is 80.
+```
 
 **Input:**
 
 ```
-8rQ2Y
-64
-XWJ9D
-3
-24C5Z
-57
+eLzp5
+78
+mhg6B
+91
+ueAcA
+71
 ```
 
 **Expected Output:**
 
 ```
-Student 8rQ2Y heeft score 64.
-Student XWJ9D heeft score 3.
-Student 24C5Z heeft score 57.
-Het gemiddelde is 41.333333333333336.
+Student eLzp5 heeft score 78.
+Student mhg6B heeft score 91.
+Student ueAcA heeft score 71.
+Het gemiddelde is 80.
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=ymWnj, 47, 8aD3R, 11, RR10k, 51
+**Complete console output:**
 
+```
+Geef naam van student 1: 9Mdms
+Geef score van student 1: 99
+Geef naam van student 2: w78bK
+Geef score van student 2: 49
+Geef naam van student 3: nNcXI
+Geef score van student 3: 34
+Student 9Mdms heeft score 99.
+Student w78bK heeft score 49.
+Student nNcXI heeft score 34.
+Het gemiddelde is 60.666666666666664.
+```
 
 **Input:**
 
 ```
-ymWnj
-47
-8aD3R
-11
-RR10k
-51
+9Mdms
+99
+w78bK
+49
+nNcXI
+34
 ```
 
 **Expected Output:**
 
 ```
-Student ymWnj heeft score 47.
-Student 8aD3R heeft score 11.
-Student RR10k heeft score 51.
-Het gemiddelde is 36.333333333333336.
+Student 9Mdms heeft score 99.
+Student w78bK heeft score 49.
+Student nNcXI heeft score 34.
+Het gemiddelde is 60.666666666666664.
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=HVEsM, 81, 4Rdoh, 37, 8cvpa, 98
+**Complete console output:**
 
+```
+Geef naam van student 1: hCopx
+Geef score van student 1: 90
+Geef naam van student 2: yv3Hf
+Geef score van student 2: 18
+Geef naam van student 3: ttuSi
+Geef score van student 3: 67
+Student hCopx heeft score 90.
+Student yv3Hf heeft score 18.
+Student ttuSi heeft score 67.
+Het gemiddelde is 58.333333333333336.
+```
 
 **Input:**
 
 ```
-HVEsM
-81
-4Rdoh
-37
-8cvpa
-98
-```
-
-**Expected Output:**
-
-```
-Student HVEsM heeft score 81.
-Student 4Rdoh heeft score 37.
-Student 8cvpa heeft score 98.
-Het gemiddelde is 72.
-```
-
----
-
-### Case 11
-
-**Description:** Run 11: args=1aO7V, 50, YJvcg, 54, OdMsp, 25
-
-
-**Input:**
-
-```
-1aO7V
-50
-YJvcg
-54
-OdMsp
-25
-```
-
-**Expected Output:**
-
-```
-Student 1aO7V heeft score 50.
-Student YJvcg heeft score 54.
-Student OdMsp heeft score 25.
-Het gemiddelde is 43.
-```
-
----
-
-### Case 12
-
-**Description:** Run 12: args=71hcy, 78, GkHDS, 95, bJTue, 24
-
-
-**Input:**
-
-```
-71hcy
-78
-GkHDS
-95
-bJTue
-24
-```
-
-**Expected Output:**
-
-```
-Student 71hcy heeft score 78.
-Student GkHDS heeft score 95.
-Student bJTue heeft score 24.
-Het gemiddelde is 65.66666666666667.
-```
-
----
-
-### Case 13
-
-**Description:** Run 13: args=i0uq0, 80, jw5e4, 84, qg8MK, 96
-
-
-**Input:**
-
-```
-i0uq0
-80
-jw5e4
-84
-qg8MK
-96
-```
-
-**Expected Output:**
-
-```
-Student i0uq0 heeft score 80.
-Student jw5e4 heeft score 84.
-Student qg8MK heeft score 96.
-Het gemiddelde is 86.66666666666667.
-```
-
----
-
-### Case 14
-
-**Description:** Run 14: args=yQh41, 0, NWxNd, 86, ytyhD, 40
-
-
-**Input:**
-
-```
-yQh41
-0
-NWxNd
-86
-ytyhD
-40
-```
-
-**Expected Output:**
-
-```
-Student yQh41 heeft score 0.
-Student NWxNd heeft score 86.
-Student ytyhD heeft score 40.
-Het gemiddelde is 42.
-```
-
----
-
-### Case 15
-
-**Description:** Run 15: args=QBSKK, 11, AfUW4, 70, m2RYL, 67
-
-
-**Input:**
-
-```
-QBSKK
-11
-AfUW4
-70
-m2RYL
+hCopx
+90
+yv3Hf
+18
+ttuSi
 67
 ```
 
 **Expected Output:**
 
 ```
-Student QBSKK heeft score 11.
-Student AfUW4 heeft score 70.
-Student m2RYL heeft score 67.
-Het gemiddelde is 49.333333333333336.
+Student hCopx heeft score 90.
+Student yv3Hf heeft score 18.
+Student ttuSi heeft score 67.
+Het gemiddelde is 58.333333333333336.
+```
+
+---
+
+### Case 11
+
+**Complete console output:**
+
+```
+Geef naam van student 1: 1X9zC
+Geef score van student 1: 36
+Geef naam van student 2: 4E7hd
+Geef score van student 2: 46
+Geef naam van student 3: cpv9R
+Geef score van student 3: 99
+Student 1X9zC heeft score 36.
+Student 4E7hd heeft score 46.
+Student cpv9R heeft score 99.
+Het gemiddelde is 60.333333333333336.
+```
+
+**Input:**
+
+```
+1X9zC
+36
+4E7hd
+46
+cpv9R
+99
+```
+
+**Expected Output:**
+
+```
+Student 1X9zC heeft score 36.
+Student 4E7hd heeft score 46.
+Student cpv9R heeft score 99.
+Het gemiddelde is 60.333333333333336.
+```
+
+---
+
+### Case 12
+
+**Complete console output:**
+
+```
+Geef naam van student 1: WaEGp
+Geef score van student 1: 24
+Geef naam van student 2: 7LAoW
+Geef score van student 2: 73
+Geef naam van student 3: gF6TR
+Geef score van student 3: 88
+Student WaEGp heeft score 24.
+Student 7LAoW heeft score 73.
+Student gF6TR heeft score 88.
+Het gemiddelde is 61.666666666666664.
+```
+
+**Input:**
+
+```
+WaEGp
+24
+7LAoW
+73
+gF6TR
+88
+```
+
+**Expected Output:**
+
+```
+Student WaEGp heeft score 24.
+Student 7LAoW heeft score 73.
+Student gF6TR heeft score 88.
+Het gemiddelde is 61.666666666666664.
+```
+
+---
+
+### Case 13
+
+**Complete console output:**
+
+```
+Geef naam van student 1: grx1I
+Geef score van student 1: 70
+Geef naam van student 2: Xp7C8
+Geef score van student 2: 48
+Geef naam van student 3: MdYm3
+Geef score van student 3: 54
+Student grx1I heeft score 70.
+Student Xp7C8 heeft score 48.
+Student MdYm3 heeft score 54.
+Het gemiddelde is 57.333333333333336.
+```
+
+**Input:**
+
+```
+grx1I
+70
+Xp7C8
+48
+MdYm3
+54
+```
+
+**Expected Output:**
+
+```
+Student grx1I heeft score 70.
+Student Xp7C8 heeft score 48.
+Student MdYm3 heeft score 54.
+Het gemiddelde is 57.333333333333336.
+```
+
+---
+
+### Case 14
+
+**Complete console output:**
+
+```
+Geef naam van student 1: z7uXG
+Geef score van student 1: 27
+Geef naam van student 2: PC7oe
+Geef score van student 2: 45
+Geef naam van student 3: M7lA0
+Geef score van student 3: 95
+Student z7uXG heeft score 27.
+Student PC7oe heeft score 45.
+Student M7lA0 heeft score 95.
+Het gemiddelde is 55.666666666666664.
+```
+
+**Input:**
+
+```
+z7uXG
+27
+PC7oe
+45
+M7lA0
+95
+```
+
+**Expected Output:**
+
+```
+Student z7uXG heeft score 27.
+Student PC7oe heeft score 45.
+Student M7lA0 heeft score 95.
+Het gemiddelde is 55.666666666666664.
+```
+
+---
+
+### Case 15
+
+**Complete console output:**
+
+```
+Geef naam van student 1: 6ygrH
+Geef score van student 1: 42
+Geef naam van student 2: wec1Q
+Geef score van student 2: 98
+Geef naam van student 3: PswJ1
+Geef score van student 3: 11
+Student 6ygrH heeft score 42.
+Student wec1Q heeft score 98.
+Student PswJ1 heeft score 11.
+Het gemiddelde is 50.333333333333336.
+```
+
+**Input:**
+
+```
+6ygrH
+42
+wec1Q
+98
+PswJ1
+11
+```
+
+**Expected Output:**
+
+```
+Student 6ygrH heeft score 42.
+Student wec1Q heeft score 98.
+Student PswJ1 heeft score 11.
+Het gemiddelde is 50.333333333333336.
 ```
 
 ---

@@ -10,27 +10,12 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=-9
-
-
-**Input:**
+**Complete console output:**
 
 ```
--9
+Geef een getal: 32
+Het getal is positief
 ```
-
-**Expected Output:**
-
-```
-Geef een getal: Het getal is negatief
-```
-
----
-
-### Case 2
-
-**Description:** Run 2: args=32
-
 
 **Input:**
 
@@ -41,281 +26,134 @@ Geef een getal: Het getal is negatief
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is positief
+Het getal is positief
+```
+
+---
+
+### Case 2
+
+**Complete console output:**
+
+```
+Geef een getal: -81
+Het getal is negatief
+```
+
+**Input:**
+
+```
+-81
+```
+
+**Expected Output:**
+
+```
+Het getal is negatief
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=22
+**Complete console output:**
 
+```
+Geef een getal: -71
+Het getal is negatief
+```
 
 **Input:**
 
 ```
-22
+-71
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is positief
+Het getal is negatief
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=77
+**Complete console output:**
 
+```
+Geef een getal: 39
+Het getal is positief
+```
 
 **Input:**
 
 ```
-77
+39
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is positief
+Het getal is positief
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=71
+**Complete console output:**
 
+```
+Geef een getal: 67
+Het getal is positief
+```
 
 **Input:**
 
 ```
-71
+67
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is positief
+Het getal is positief
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=11
+**Complete console output:**
 
+```
+Geef een getal: 8
+Het getal is positief
+```
 
 **Input:**
 
 ```
-11
+8
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is positief
+Het getal is positief
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=55
-
-
-**Input:**
+**Complete console output:**
 
 ```
-55
+Geef een getal: -27
+Het getal is negatief
 ```
-
-**Expected Output:**
-
-```
-Geef een getal: Het getal is positief
-```
-
----
-
-### Case 8
-
-**Description:** Run 8: args=-55
-
-
-**Input:**
-
-```
--55
-```
-
-**Expected Output:**
-
-```
-Geef een getal: Het getal is negatief
-```
-
----
-
-### Case 9
-
-**Description:** Run 9: args=-17
-
-
-**Input:**
-
-```
--17
-```
-
-**Expected Output:**
-
-```
-Geef een getal: Het getal is negatief
-```
-
----
-
-### Case 10
-
-**Description:** Run 10: args=54
-
-
-**Input:**
-
-```
-54
-```
-
-**Expected Output:**
-
-```
-Geef een getal: Het getal is positief
-```
-
----
-
-### Case 11
-
-**Description:** Run 11: args=-39
-
-
-**Input:**
-
-```
--39
-```
-
-**Expected Output:**
-
-```
-Geef een getal: Het getal is negatief
-```
-
----
-
-### Case 12
-
-**Description:** Run 12: args=-51
-
-
-**Input:**
-
-```
--51
-```
-
-**Expected Output:**
-
-```
-Geef een getal: Het getal is negatief
-```
-
----
-
-### Case 13
-
-**Description:** Run 13: args=-13
-
-
-**Input:**
-
-```
--13
-```
-
-**Expected Output:**
-
-```
-Geef een getal: Het getal is negatief
-```
-
----
-
-### Case 14
-
-**Description:** Run 14: args=11
-
-
-**Input:**
-
-```
-11
-```
-
-**Expected Output:**
-
-```
-Geef een getal: Het getal is positief
-```
-
----
-
-### Case 15
-
-**Description:** Run 15: args=-67
-
-
-**Input:**
-
-```
--67
-```
-
-**Expected Output:**
-
-```
-Geef een getal: Het getal is negatief
-```
-
----
-
-### Case 16
-
-**Description:** Run 16: args=-53
-
-
-**Input:**
-
-```
--53
-```
-
-**Expected Output:**
-
-```
-Geef een getal: Het getal is negatief
-```
-
----
-
-### Case 17
-
-**Description:** Run 17: args=-27
-
 
 **Input:**
 
@@ -326,129 +164,134 @@ Geef een getal: Het getal is negatief
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is negatief
+Het getal is negatief
 ```
 
 ---
 
-### Case 18
+### Case 8
 
-**Description:** Run 18: args=56
+**Complete console output:**
 
+```
+Geef een getal: 30
+Het getal is positief
+```
 
 **Input:**
 
 ```
-56
+30
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is positief
+Het getal is positief
 ```
 
 ---
 
-### Case 19
+### Case 9
 
-**Description:** Run 19: args=-52
+**Complete console output:**
 
+```
+Geef een getal: 95
+Het getal is positief
+```
 
 **Input:**
 
 ```
--52
+95
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is negatief
+Het getal is positief
 ```
 
 ---
 
-### Case 20
+### Case 10
 
-**Description:** Run 20: args=-67
+**Complete console output:**
 
+```
+Geef een getal: 81
+Het getal is positief
+```
 
 **Input:**
 
 ```
--67
+81
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is negatief
+Het getal is positief
 ```
 
 ---
 
-### Case 21
+### Case 11
 
-**Description:** Run 21: args=-24
+**Complete console output:**
 
+```
+Geef een getal: 4
+Het getal is positief
+```
 
 **Input:**
 
 ```
--24
+4
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is negatief
+Het getal is positief
 ```
 
 ---
 
-### Case 22
+### Case 12
 
-**Description:** Run 22: args=-62
+**Complete console output:**
 
+```
+Geef een getal: 27
+Het getal is positief
+```
 
 **Input:**
 
 ```
--62
+27
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is negatief
+Het getal is positief
 ```
 
 ---
 
-### Case 23
+### Case 13
 
-**Description:** Run 23: args=-42
-
-
-**Input:**
+**Complete console output:**
 
 ```
--42
+Geef een getal: -45
+Het getal is negatief
 ```
-
-**Expected Output:**
-
-```
-Geef een getal: Het getal is negatief
-```
-
----
-
-### Case 24
-
-**Description:** Run 24: args=-45
-
 
 **Input:**
 
@@ -459,26 +302,283 @@ Geef een getal: Het getal is negatief
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is negatief
+Het getal is negatief
+```
+
+---
+
+### Case 14
+
+**Complete console output:**
+
+```
+Geef een getal: 85
+Het getal is positief
+```
+
+**Input:**
+
+```
+85
+```
+
+**Expected Output:**
+
+```
+Het getal is positief
+```
+
+---
+
+### Case 15
+
+**Complete console output:**
+
+```
+Geef een getal: -91
+Het getal is negatief
+```
+
+**Input:**
+
+```
+-91
+```
+
+**Expected Output:**
+
+```
+Het getal is negatief
+```
+
+---
+
+### Case 16
+
+**Complete console output:**
+
+```
+Geef een getal: -87
+Het getal is negatief
+```
+
+**Input:**
+
+```
+-87
+```
+
+**Expected Output:**
+
+```
+Het getal is negatief
+```
+
+---
+
+### Case 17
+
+**Complete console output:**
+
+```
+Geef een getal: 36
+Het getal is positief
+```
+
+**Input:**
+
+```
+36
+```
+
+**Expected Output:**
+
+```
+Het getal is positief
+```
+
+---
+
+### Case 18
+
+**Complete console output:**
+
+```
+Geef een getal: 14
+Het getal is positief
+```
+
+**Input:**
+
+```
+14
+```
+
+**Expected Output:**
+
+```
+Het getal is positief
+```
+
+---
+
+### Case 19
+
+**Complete console output:**
+
+```
+Geef een getal: 21
+Het getal is positief
+```
+
+**Input:**
+
+```
+21
+```
+
+**Expected Output:**
+
+```
+Het getal is positief
+```
+
+---
+
+### Case 20
+
+**Complete console output:**
+
+```
+Geef een getal: -9
+Het getal is negatief
+```
+
+**Input:**
+
+```
+-9
+```
+
+**Expected Output:**
+
+```
+Het getal is negatief
+```
+
+---
+
+### Case 21
+
+**Complete console output:**
+
+```
+Geef een getal: 7
+Het getal is positief
+```
+
+**Input:**
+
+```
+7
+```
+
+**Expected Output:**
+
+```
+Het getal is positief
+```
+
+---
+
+### Case 22
+
+**Complete console output:**
+
+```
+Geef een getal: -77
+Het getal is negatief
+```
+
+**Input:**
+
+```
+-77
+```
+
+**Expected Output:**
+
+```
+Het getal is negatief
+```
+
+---
+
+### Case 23
+
+**Complete console output:**
+
+```
+Geef een getal: 15
+Het getal is positief
+```
+
+**Input:**
+
+```
+15
+```
+
+**Expected Output:**
+
+```
+Het getal is positief
+```
+
+---
+
+### Case 24
+
+**Complete console output:**
+
+```
+Geef een getal: 1
+Het getal is positief
+```
+
+**Input:**
+
+```
+1
+```
+
+**Expected Output:**
+
+```
+Het getal is positief
 ```
 
 ---
 
 ### Case 25
 
-**Description:** Run 25: args=-95
+**Complete console output:**
 
+```
+Geef een getal: 71
+Het getal is positief
+```
 
 **Input:**
 
 ```
--95
+71
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is negatief
+Het getal is positief
 ```
 
 ---

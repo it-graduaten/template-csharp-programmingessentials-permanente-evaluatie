@@ -10,475 +10,575 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=80
+**Complete console output:**
 
+```
+Geef een getal: -46
+Het getal is even
+```
 
 **Input:**
 
 ```
-80
+-46
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is even
+Het getal is even
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=-74
+**Complete console output:**
 
+```
+Geef een getal: -67
+Het getal is oneven
+```
 
 **Input:**
 
 ```
--74
+-67
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is even
+Het getal is oneven
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=68
+**Complete console output:**
 
+```
+Geef een getal: -16
+Het getal is even
+```
 
 **Input:**
 
 ```
-68
+-16
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is even
+Het getal is even
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=39
+**Complete console output:**
 
+```
+Geef een getal: 48
+Het getal is even
+```
 
 **Input:**
 
 ```
-39
+48
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is oneven
+Het getal is even
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=21
+**Complete console output:**
 
+```
+Geef een getal: -12
+Het getal is even
+```
 
 **Input:**
 
 ```
-21
+-12
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is oneven
+Het getal is even
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=8
+**Complete console output:**
 
+```
+Geef een getal: 75
+Het getal is oneven
+```
 
 **Input:**
 
 ```
-8
+75
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is even
+Het getal is oneven
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=-84
+**Complete console output:**
 
+```
+Geef een getal: -19
+Het getal is oneven
+```
 
 **Input:**
 
 ```
--84
+-19
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is even
+Het getal is oneven
 ```
 
 ---
 
 ### Case 8
 
-**Description:** Run 8: args=-32
+**Complete console output:**
 
+```
+Geef een getal: -86
+Het getal is even
+```
 
 **Input:**
 
 ```
--32
+-86
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is even
+Het getal is even
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=-5
+**Complete console output:**
 
+```
+Geef een getal: 69
+Het getal is oneven
+```
 
 **Input:**
 
 ```
--5
+69
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is oneven
+Het getal is oneven
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=-94
+**Complete console output:**
 
+```
+Geef een getal: -19
+Het getal is oneven
+```
 
 **Input:**
 
 ```
--94
+-19
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is even
+Het getal is oneven
 ```
 
 ---
 
 ### Case 11
 
-**Description:** Run 11: args=29
+**Complete console output:**
 
+```
+Geef een getal: 43
+Het getal is oneven
+```
 
 **Input:**
 
 ```
-29
+43
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is oneven
+Het getal is oneven
 ```
 
 ---
 
 ### Case 12
 
-**Description:** Run 12: args=-56
+**Complete console output:**
 
+```
+Geef een getal: 82
+Het getal is even
+```
 
 **Input:**
 
 ```
--56
+82
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is even
+Het getal is even
 ```
 
 ---
 
 ### Case 13
 
-**Description:** Run 13: args=-11
+**Complete console output:**
 
+```
+Geef een getal: -66
+Het getal is even
+```
 
 **Input:**
 
 ```
--11
+-66
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is oneven
+Het getal is even
 ```
 
 ---
 
 ### Case 14
 
-**Description:** Run 14: args=-33
+**Complete console output:**
 
+```
+Geef een getal: -82
+Het getal is even
+```
 
 **Input:**
 
 ```
--33
+-82
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is oneven
+Het getal is even
 ```
 
 ---
 
 ### Case 15
 
-**Description:** Run 15: args=-21
+**Complete console output:**
 
+```
+Geef een getal: -75
+Het getal is oneven
+```
 
 **Input:**
 
 ```
--21
+-75
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is oneven
+Het getal is oneven
 ```
 
 ---
 
 ### Case 16
 
-**Description:** Run 16: args=-97
+**Complete console output:**
 
+```
+Geef een getal: 62
+Het getal is even
+```
 
 **Input:**
 
 ```
--97
+62
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is oneven
+Het getal is even
 ```
 
 ---
 
 ### Case 17
 
-**Description:** Run 17: args=40
+**Complete console output:**
 
+```
+Geef een getal: 76
+Het getal is even
+```
 
 **Input:**
 
 ```
-40
+76
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is even
+Het getal is even
 ```
 
 ---
 
 ### Case 18
 
-**Description:** Run 18: args=-61
+**Complete console output:**
 
+```
+Geef een getal: 87
+Het getal is oneven
+```
 
 **Input:**
 
 ```
--61
+87
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is oneven
+Het getal is oneven
 ```
 
 ---
 
 ### Case 19
 
-**Description:** Run 19: args=60
+**Complete console output:**
 
+```
+Geef een getal: -86
+Het getal is even
+```
 
 **Input:**
 
 ```
-60
+-86
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is even
+Het getal is even
 ```
 
 ---
 
 ### Case 20
 
-**Description:** Run 20: args=29
+**Complete console output:**
 
+```
+Geef een getal: -37
+Het getal is oneven
+```
 
 **Input:**
 
 ```
-29
+-37
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is oneven
+Het getal is oneven
 ```
 
 ---
 
 ### Case 21
 
-**Description:** Run 21: args=77
+**Complete console output:**
 
+```
+Geef een getal: 81
+Het getal is oneven
+```
 
 **Input:**
 
 ```
-77
+81
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is oneven
+Het getal is oneven
 ```
 
 ---
 
 ### Case 22
 
-**Description:** Run 22: args=72
+**Complete console output:**
 
+```
+Geef een getal: -53
+Het getal is oneven
+```
 
 **Input:**
 
 ```
-72
+-53
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is even
+Het getal is oneven
 ```
 
 ---
 
 ### Case 23
 
-**Description:** Run 23: args=-22
+**Complete console output:**
 
+```
+Geef een getal: 43
+Het getal is oneven
+```
 
 **Input:**
 
 ```
--22
+43
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is even
+Het getal is oneven
 ```
 
 ---
 
 ### Case 24
 
-**Description:** Run 24: args=90
+**Complete console output:**
 
+```
+Geef een getal: 83
+Het getal is oneven
+```
 
 **Input:**
 
 ```
-90
+83
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is even
+Het getal is oneven
 ```
 
 ---
 
 ### Case 25
 
-**Description:** Run 25: args=3
+**Complete console output:**
 
+```
+Geef een getal: -45
+Het getal is oneven
+```
 
 **Input:**
 
 ```
-3
+-45
 ```
 
 **Expected Output:**
 
 ```
-Geef een getal: Het getal is oneven
+Het getal is oneven
 ```
 
 ---

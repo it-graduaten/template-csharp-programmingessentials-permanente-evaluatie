@@ -10,242 +10,285 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=4, Ines, Piet, Kurt, Ronny, I
+**Complete console output:**
 
+```
+Hoeveel namen wil je invoeren?
+2
+Geef naam 1: Geef naam 2: Geef een letter: Kristien
+Aantal namen dat begint met 'V': 0
+```
 
 **Input:**
 
 ```
-4
-Ines
-Piet
-Kurt
-Ronny
-I
+2
+Kristien
+Julien
+V
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel namen wil je invoeren?
-Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Geef een letter: Aantal namen dat begint met 'I': 1
+Geef naam 1: Geef naam 2: Aantal namen dat begint met 'V': 0
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=4, Sandra, Kevin, Roger, Peggy, B
+**Complete console output:**
 
+```
+Hoeveel namen wil je invoeren?
+1
+Geef naam 1: Geef een letter: Mauro
+Aantal namen dat begint met 'W': 0
+```
 
 **Input:**
 
 ```
-4
-Sandra
-Kevin
-Roger
-Peggy
-B
+1
+Mauro
+W
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel namen wil je invoeren?
-Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Geef een letter: Aantal namen dat begint met 'B': 0
+Geef naam 1: Aantal namen dat begint met 'W': 0
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=3, Muhammed, Ludovicus, Karin, Q
+**Complete console output:**
 
+```
+Hoeveel namen wil je invoeren?
+1
+Geef naam 1: Geef een letter: Pieter
+Aantal namen dat begint met 'W': 0
+```
 
 **Input:**
 
 ```
-3
-Muhammed
-Ludovicus
-Karin
-Q
+1
+Pieter
+W
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel namen wil je invoeren?
-Geef naam 1: Geef naam 2: Geef naam 3: Geef een letter: Aantal namen dat begint met 'Q': 0
+Geef naam 1: Aantal namen dat begint met 'W': 0
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=1, Elisabeth, M
+**Complete console output:**
 
+```
+Hoeveel namen wil je invoeren?
+4
+Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Geef een letter: Tom
+Aantal namen dat begint met 'T': 1
+```
 
 **Input:**
 
 ```
-1
-Elisabeth
-M
+4
+Tom
+Johan
+Nancy
+Eline
+T
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel namen wil je invoeren?
-Geef naam 1: Geef een letter: Aantal namen dat begint met 'M': 0
+Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Aantal namen dat begint met 'T': 1
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=1, Laura, U
+**Complete console output:**
 
+```
+Hoeveel namen wil je invoeren?
+5
+Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Geef naam 5: Geef een letter: Mario
+Aantal namen dat begint met 'J': 2
+```
 
 **Input:**
 
 ```
-1
-Laura
-U
+5
+Mario
+Joanna
+Ine
+Jenny
+Yvonne
+J
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel namen wil je invoeren?
-Geef naam 1: Geef een letter: Aantal namen dat begint met 'U': 0
+Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Geef naam 5: Aantal namen dat begint met 'J': 2
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=5, Lucien, Gabrielle, Bernadette, Frieda, Marc, D
+**Complete console output:**
 
+```
+Hoeveel namen wil je invoeren?
+1
+Geef naam 1: Geef een letter: Monique
+Aantal namen dat begint met 'L': 0
+```
 
 **Input:**
 
 ```
-5
-Lucien
-Gabrielle
-Bernadette
-Frieda
-Marc
-D
+1
+Monique
+L
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel namen wil je invoeren?
-Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Geef naam 5: Geef een letter: Aantal namen dat begint met 'D': 0
+Geef naam 1: Aantal namen dat begint met 'L': 0
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=1, Mohamed, X
+**Complete console output:**
 
+```
+Hoeveel namen wil je invoeren?
+3
+Geef naam 1: Geef naam 2: Geef naam 3: Geef een letter: Kim
+Aantal namen dat begint met 'E': 0
+```
 
 **Input:**
 
 ```
-1
-Mohamed
-X
+3
+Kim
+Ruben
+Petra
+E
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel namen wil je invoeren?
-Geef naam 1: Geef een letter: Aantal namen dat begint met 'X': 0
+Geef naam 1: Geef naam 2: Geef naam 3: Aantal namen dat begint met 'E': 0
 ```
 
 ---
 
 ### Case 8
 
-**Description:** Run 8: args=4, Anita, Eva, Theo, René, A
+**Complete console output:**
 
+```
+Hoeveel namen wil je invoeren?
+4
+Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Geef een letter: Victoria
+Aantal namen dat begint met 'Z': 0
+```
 
 **Input:**
 
 ```
 4
-Anita
-Eva
-Theo
-René
-A
+Victoria
+Adriana
+Wout
+Luc
+Z
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel namen wil je invoeren?
-Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Geef een letter: Aantal namen dat begint met 'A': 1
+Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Aantal namen dat begint met 'Z': 0
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=4, Amelie, Marc, Vic, Fatima, A
+**Complete console output:**
 
+```
+Hoeveel namen wil je invoeren?
+3
+Geef naam 1: Geef naam 2: Geef naam 3: Geef een letter: Ward
+Aantal namen dat begint met 'J': 0
+```
 
 **Input:**
 
 ```
-4
-Amelie
-Marc
-Vic
-Fatima
-A
+3
+Ward
+Mehdi
+Heidi
+J
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel namen wil je invoeren?
-Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Geef een letter: Aantal namen dat begint met 'A': 1
+Geef naam 1: Geef naam 2: Geef naam 3: Aantal namen dat begint met 'J': 0
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=5, Nils, Yvonne, Ryan, Peter, André, U
+**Complete console output:**
 
+```
+Hoeveel namen wil je invoeren?
+1
+Geef naam 1: Geef een letter: Mathias
+Aantal namen dat begint met 'A': 0
+```
 
 **Input:**
 
 ```
-5
-Nils
-Yvonne
-Ryan
-Peter
-André
-U
+1
+Mathias
+A
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel namen wil je invoeren?
-Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Geef naam 5: Geef een letter: Aantal namen dat begint met 'U': 0
+Geef naam 1: Aantal namen dat begint met 'A': 0
 ```
 
 ---

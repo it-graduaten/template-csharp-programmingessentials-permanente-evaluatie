@@ -10,508 +10,635 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=49.51875634388606, 1
+**Complete console output:**
 
+```
+Geef de prijs van het product: 14.867139103237347
+Hoeveel stuks wil je kopen? 9
+120.42382673622251
+```
 
 **Input:**
 
 ```
-49.51875634388606
-1
+14.867139103237347
+9
 ```
 
 **Expected Output:**
 
 ```
-Geef de prijs van het product: Hoeveel stuks wil je kopen? Geen korting
-49.51875634388606
+120.42382673622251
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=35.30654264637855, 6
+**Complete console output:**
 
+```
+Geef de prijs van het product: 41.730245829989386
+Hoeveel stuks wil je kopen? 8
+300.4577699759236
+```
 
 **Input:**
 
 ```
-35.30654264637855
-6
+41.730245829989386
+8
 ```
 
 **Expected Output:**
 
 ```
-Geef de prijs van het product: Hoeveel stuks wil je kopen? 190.6553302904442
+300.4577699759236
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=35.28341007922804, 8
+**Complete console output:**
 
+```
+Geef de prijs van het product: 12.662463249757067
+Hoeveel stuks wil je kopen? 4
+45.58486769912544
+```
 
 **Input:**
 
 ```
-35.28341007922804
-8
-```
-
-**Expected Output:**
-
-```
-Geef de prijs van het product: Hoeveel stuks wil je kopen? 254.0405525704419
-```
-
----
-
-### Case 4
-
-**Description:** Run 4: args=25.187191416245028, 6
-
-
-**Input:**
-
-```
-25.187191416245028
-6
-```
-
-**Expected Output:**
-
-```
-Geef de prijs van het product: Hoeveel stuks wil je kopen? 136.01083364772316
-```
-
----
-
-### Case 5
-
-**Description:** Run 5: args=42.343939380614934, 10
-
-
-**Input:**
-
-```
-42.343939380614934
-10
-```
-
-**Expected Output:**
-
-```
-Geef de prijs van het product: Hoeveel stuks wil je kopen? 381.0954544255344
-```
-
----
-
-### Case 6
-
-**Description:** Run 6: args=6.538503302536483, 5
-
-
-**Input:**
-
-```
-6.538503302536483
-5
-```
-
-**Expected Output:**
-
-```
-Geef de prijs van het product: Hoeveel stuks wil je kopen? Geen korting
-32.69251651268242
-```
-
----
-
-### Case 7
-
-**Description:** Run 7: args=24.315041491853343, 7
-
-
-**Input:**
-
-```
-24.315041491853343
-7
-```
-
-**Expected Output:**
-
-```
-Geef de prijs van het product: Hoeveel stuks wil je kopen? 153.18476139867605
-```
-
----
-
-### Case 8
-
-**Description:** Run 8: args=36.38853993072345, 1
-
-
-**Input:**
-
-```
-36.38853993072345
-1
-```
-
-**Expected Output:**
-
-```
-Geef de prijs van het product: Hoeveel stuks wil je kopen? Geen korting
-36.38853993072345
-```
-
----
-
-### Case 9
-
-**Description:** Run 9: args=25.293280367307194, 7
-
-
-**Input:**
-
-```
-25.293280367307194
-7
-```
-
-**Expected Output:**
-
-```
-Geef de prijs van het product: Hoeveel stuks wil je kopen? 159.3476663140353
-```
-
----
-
-### Case 10
-
-**Description:** Run 10: args=40.798073284884474, 3
-
-
-**Input:**
-
-```
-40.798073284884474
-3
-```
-
-**Expected Output:**
-
-```
-Geef de prijs van het product: Hoeveel stuks wil je kopen? 110.15479786918807
-```
-
----
-
-### Case 11
-
-**Description:** Run 11: args=2.7962859507612885, 10
-
-
-**Input:**
-
-```
-2.7962859507612885
-10
-```
-
-**Expected Output:**
-
-```
-Geef de prijs van het product: Hoeveel stuks wil je kopen? Geen korting
-27.962859507612883
-```
-
----
-
-### Case 12
-
-**Description:** Run 12: args=30.875001367912027, 3
-
-
-**Input:**
-
-```
-30.875001367912027
-3
-```
-
-**Expected Output:**
-
-```
-Geef de prijs van het product: Hoeveel stuks wil je kopen? 83.36250369336247
-```
-
----
-
-### Case 13
-
-**Description:** Run 13: args=39.84943556109869, 1
-
-
-**Input:**
-
-```
-39.84943556109869
-1
-```
-
-**Expected Output:**
-
-```
-Geef de prijs van het product: Hoeveel stuks wil je kopen? Geen korting
-39.84943556109869
-```
-
----
-
-### Case 14
-
-**Description:** Run 14: args=19.77570433808676, 9
-
-
-**Input:**
-
-```
-19.77570433808676
-9
-```
-
-**Expected Output:**
-
-```
-Geef de prijs van het product: Hoeveel stuks wil je kopen? 160.18320513850279
-```
-
----
-
-### Case 15
-
-**Description:** Run 15: args=16.11755022900381, 10
-
-
-**Input:**
-
-```
-16.11755022900381
-10
-```
-
-**Expected Output:**
-
-```
-Geef de prijs van het product: Hoeveel stuks wil je kopen? 145.0579520610343
-```
-
----
-
-### Case 16
-
-**Description:** Run 16: args=22.19123555858872, 8
-
-
-**Input:**
-
-```
-22.19123555858872
-8
-```
-
-**Expected Output:**
-
-```
-Geef de prijs van het product: Hoeveel stuks wil je kopen? 159.77689602183878
-```
-
----
-
-### Case 17
-
-**Description:** Run 17: args=45.17399544304556, 8
-
-
-**Input:**
-
-```
-45.17399544304556
-8
-```
-
-**Expected Output:**
-
-```
-Geef de prijs van het product: Hoeveel stuks wil je kopen? 325.252767189928
-```
-
----
-
-### Case 18
-
-**Description:** Run 18: args=4.295393454593135, 10
-
-
-**Input:**
-
-```
-4.295393454593135
-10
-```
-
-**Expected Output:**
-
-```
-Geef de prijs van het product: Hoeveel stuks wil je kopen? Geen korting
-42.953934545931354
-```
-
----
-
-### Case 19
-
-**Description:** Run 19: args=21.380956306708626, 7
-
-
-**Input:**
-
-```
-21.380956306708626
-7
-```
-
-**Expected Output:**
-
-```
-Geef de prijs van het product: Hoeveel stuks wil je kopen? 134.70002473226432
-```
-
----
-
-### Case 20
-
-**Description:** Run 20: args=17.963804471363957, 10
-
-
-**Input:**
-
-```
-17.963804471363957
-10
-```
-
-**Expected Output:**
-
-```
-Geef de prijs van het product: Hoeveel stuks wil je kopen? 161.67424024227563
-```
-
----
-
-### Case 21
-
-**Description:** Run 21: args=4.520198052343387, 5
-
-
-**Input:**
-
-```
-4.520198052343387
-5
-```
-
-**Expected Output:**
-
-```
-Geef de prijs van het product: Hoeveel stuks wil je kopen? Geen korting
-22.600990261716937
-```
-
----
-
-### Case 22
-
-**Description:** Run 22: args=39.51743800871498, 2
-
-
-**Input:**
-
-```
-39.51743800871498
-2
-```
-
-**Expected Output:**
-
-```
-Geef de prijs van het product: Hoeveel stuks wil je kopen? 71.13138841568697
-```
-
----
-
-### Case 23
-
-**Description:** Run 23: args=11.388617912336718, 4
-
-
-**Input:**
-
-```
-11.388617912336718
+12.662463249757067
 4
 ```
 
 **Expected Output:**
 
 ```
-Geef de prijs van het product: Hoeveel stuks wil je kopen? Geen korting
-45.55447164934687
+45.58486769912544
 ```
 
 ---
 
-### Case 24
+### Case 4
 
-**Description:** Run 24: args=49.22720578513119, 8
+**Complete console output:**
 
+```
+Geef de prijs van het product: 8.0987410339946
+Hoeveel stuks wil je kopen? 2
+Geen korting
+16.1974820679892
+```
 
 **Input:**
 
 ```
-49.22720578513119
-8
+8.0987410339946
+2
 ```
 
 **Expected Output:**
 
 ```
-Geef de prijs van het product: Hoeveel stuks wil je kopen? 354.43588165294454
+Geen korting
+16.1974820679892
 ```
 
 ---
 
-### Case 25
+### Case 5
 
-**Description:** Run 25: args=26.149190446368642, 9
+**Complete console output:**
 
+```
+Geef de prijs van het product: 45.0282817455123
+Hoeveel stuks wil je kopen? 6
+243.15272142576646
+```
 
 **Input:**
 
 ```
-26.149190446368642
+45.0282817455123
+6
+```
+
+**Expected Output:**
+
+```
+243.15272142576646
+```
+
+---
+
+### Case 6
+
+**Complete console output:**
+
+```
+Geef de prijs van het product: 31.354231855452785
+Hoeveel stuks wil je kopen? 5
+141.09404334953754
+```
+
+**Input:**
+
+```
+31.354231855452785
+5
+```
+
+**Expected Output:**
+
+```
+141.09404334953754
+```
+
+---
+
+### Case 7
+
+**Complete console output:**
+
+```
+Geef de prijs van het product: 5.239493461819119
+Hoeveel stuks wil je kopen? 3
+Geen korting
+15.718480385457358
+```
+
+**Input:**
+
+```
+5.239493461819119
+3
+```
+
+**Expected Output:**
+
+```
+Geen korting
+15.718480385457358
+```
+
+---
+
+### Case 8
+
+**Complete console output:**
+
+```
+Geef de prijs van het product: 15.359211241180695
+Hoeveel stuks wil je kopen? 9
+124.40961105356364
+```
+
+**Input:**
+
+```
+15.359211241180695
 9
 ```
 
 **Expected Output:**
 
 ```
-Geef de prijs van het product: Hoeveel stuks wil je kopen? 211.808442615586
+124.40961105356364
+```
+
+---
+
+### Case 9
+
+**Complete console output:**
+
+```
+Geef de prijs van het product: 15.63670225217663
+Hoeveel stuks wil je kopen? 10
+140.73032026958967
+```
+
+**Input:**
+
+```
+15.63670225217663
+10
+```
+
+**Expected Output:**
+
+```
+140.73032026958967
+```
+
+---
+
+### Case 10
+
+**Complete console output:**
+
+```
+Geef de prijs van het product: 27.339901751503533
+Hoeveel stuks wil je kopen? 6
+147.63546945811908
+```
+
+**Input:**
+
+```
+27.339901751503533
+6
+```
+
+**Expected Output:**
+
+```
+147.63546945811908
+```
+
+---
+
+### Case 11
+
+**Complete console output:**
+
+```
+Geef de prijs van het product: 48.343821550130436
+Hoeveel stuks wil je kopen? 4
+174.03775758046956
+```
+
+**Input:**
+
+```
+48.343821550130436
+4
+```
+
+**Expected Output:**
+
+```
+174.03775758046956
+```
+
+---
+
+### Case 12
+
+**Complete console output:**
+
+```
+Geef de prijs van het product: 48.675034325293915
+Hoeveel stuks wil je kopen? 2
+87.61506178552905
+```
+
+**Input:**
+
+```
+48.675034325293915
+2
+```
+
+**Expected Output:**
+
+```
+87.61506178552905
+```
+
+---
+
+### Case 13
+
+**Complete console output:**
+
+```
+Geef de prijs van het product: 4.4042268010123635
+Hoeveel stuks wil je kopen? 8
+Geen korting
+35.23381440809891
+```
+
+**Input:**
+
+```
+4.4042268010123635
+8
+```
+
+**Expected Output:**
+
+```
+Geen korting
+35.23381440809891
+```
+
+---
+
+### Case 14
+
+**Complete console output:**
+
+```
+Geef de prijs van het product: 33.390963022903705
+Hoeveel stuks wil je kopen? 3
+90.15560016184
+```
+
+**Input:**
+
+```
+33.390963022903705
+3
+```
+
+**Expected Output:**
+
+```
+90.15560016184
+```
+
+---
+
+### Case 15
+
+**Complete console output:**
+
+```
+Geef de prijs van het product: 28.63441995893779
+Hoeveel stuks wil je kopen? 7
+180.39684574130808
+```
+
+**Input:**
+
+```
+28.63441995893779
+7
+```
+
+**Expected Output:**
+
+```
+180.39684574130808
+```
+
+---
+
+### Case 16
+
+**Complete console output:**
+
+```
+Geef de prijs van het product: 44.763605982352836
+Hoeveel stuks wil je kopen? 9
+362.58520845705794
+```
+
+**Input:**
+
+```
+44.763605982352836
+9
+```
+
+**Expected Output:**
+
+```
+362.58520845705794
+```
+
+---
+
+### Case 17
+
+**Complete console output:**
+
+```
+Geef de prijs van het product: 4.382520752678048
+Hoeveel stuks wil je kopen? 7
+Geen korting
+30.67764526874634
+```
+
+**Input:**
+
+```
+4.382520752678048
+7
+```
+
+**Expected Output:**
+
+```
+Geen korting
+30.67764526874634
+```
+
+---
+
+### Case 18
+
+**Complete console output:**
+
+```
+Geef de prijs van het product: 49.73931136900548
+Hoeveel stuks wil je kopen? 7
+313.35766162473453
+```
+
+**Input:**
+
+```
+49.73931136900548
+7
+```
+
+**Expected Output:**
+
+```
+313.35766162473453
+```
+
+---
+
+### Case 19
+
+**Complete console output:**
+
+```
+Geef de prijs van het product: 3.7180993767722463
+Hoeveel stuks wil je kopen? 9
+Geen korting
+33.46289439095022
+```
+
+**Input:**
+
+```
+3.7180993767722463
+9
+```
+
+**Expected Output:**
+
+```
+Geen korting
+33.46289439095022
+```
+
+---
+
+### Case 20
+
+**Complete console output:**
+
+```
+Geef de prijs van het product: 25.323694724656356
+Hoeveel stuks wil je kopen? 6
+136.74795151314433
+```
+
+**Input:**
+
+```
+25.323694724656356
+6
+```
+
+**Expected Output:**
+
+```
+136.74795151314433
+```
+
+---
+
+### Case 21
+
+**Complete console output:**
+
+```
+Geef de prijs van het product: 22.855480836512452
+Hoeveel stuks wil je kopen? 4
+82.27973101144482
+```
+
+**Input:**
+
+```
+22.855480836512452
+4
+```
+
+**Expected Output:**
+
+```
+82.27973101144482
+```
+
+---
+
+### Case 22
+
+**Complete console output:**
+
+```
+Geef de prijs van het product: 46.951554067370516
+Hoeveel stuks wil je kopen? 2
+84.51279732126693
+```
+
+**Input:**
+
+```
+46.951554067370516
+2
+```
+
+**Expected Output:**
+
+```
+84.51279732126693
+```
+
+---
+
+### Case 23
+
+**Complete console output:**
+
+```
+Geef de prijs van het product: 27.68802607486498
+Hoeveel stuks wil je kopen? 9
+224.27301120640632
+```
+
+**Input:**
+
+```
+27.68802607486498
+9
+```
+
+**Expected Output:**
+
+```
+224.27301120640632
+```
+
+---
+
+### Case 24
+
+**Complete console output:**
+
+```
+Geef de prijs van het product: 27.71226817160106
+Hoeveel stuks wil je kopen? 2
+49.88208270888191
+```
+
+**Input:**
+
+```
+27.71226817160106
+2
+```
+
+**Expected Output:**
+
+```
+49.88208270888191
+```
+
+---
+
+### Case 25
+
+**Complete console output:**
+
+```
+Geef de prijs van het product: 24.39994634196664
+Hoeveel stuks wil je kopen? 8
+175.6796136621598
+```
+
+**Input:**
+
+```
+24.39994634196664
+8
+```
+
+**Expected Output:**
+
+```
+175.6796136621598
 ```
 
 ---

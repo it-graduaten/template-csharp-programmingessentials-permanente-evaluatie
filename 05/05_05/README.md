@@ -10,138 +10,135 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=2, 16, -3, 19
+**Complete console output:**
 
+```
+Hoeveel getallen wil je invoeren?
+1
+Geef getal 1: Geef een getal om te zoeken: 3
+Het getal 0 is niet gevonden.
+```
 
 **Input:**
 
 ```
-2
-16
--3
-19
+1
+3
+0
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel getallen wil je invoeren?
-Geef getal 1: Geef getal 2: Geef een getal om te zoeken: Het getal 19 is niet gevonden.
+Geef getal 1: Het getal 0 is niet gevonden.
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=4, 3, 2, 7, -8, -5
+**Complete console output:**
 
+```
+Hoeveel getallen wil je invoeren?
+3
+Geef getal 1: Geef getal 2: Geef getal 3: Geef een getal om te zoeken: 20
+Het getal -8 is niet gevonden.
+```
 
 **Input:**
 
 ```
-4
 3
-2
-7
+20
+-10
+8
 -8
--5
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel getallen wil je invoeren?
-Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Geef een getal om te zoeken: Het getal -5 is niet gevonden.
+Geef getal 1: Geef getal 2: Geef getal 3: Het getal -8 is niet gevonden.
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=5, 13, 14, -1, 18, 9, -9
+**Complete console output:**
 
+```
+Hoeveel getallen wil je invoeren?
+4
+Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Geef een getal om te zoeken: 2
+Het getal 17 is niet gevonden.
+```
 
 **Input:**
 
 ```
-5
-13
-14
--1
-18
-9
+4
+2
+19
 -9
+-1
+17
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel getallen wil je invoeren?
-Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Geef getal 5: Geef een getal om te zoeken: Het getal -9 is niet gevonden.
+Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Het getal 17 is niet gevonden.
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=4, -4, -4, 19, -3, 9
+**Complete console output:**
 
+```
+Hoeveel getallen wil je invoeren?
+1
+Geef getal 1: Geef een getal om te zoeken: 20
+Het getal 10 is niet gevonden.
+```
 
 **Input:**
 
 ```
-4
--4
--4
-19
--3
-9
+1
+20
+10
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel getallen wil je invoeren?
-Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Geef een getal om te zoeken: Het getal 9 is niet gevonden.
+Geef getal 1: Het getal 10 is niet gevonden.
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=2, -1, 16, 6
-
-
-**Input:**
-
-```
-2
--1
-16
-6
-```
-
-**Expected Output:**
+**Complete console output:**
 
 ```
 Hoeveel getallen wil je invoeren?
-Geef getal 1: Geef getal 2: Geef een getal om te zoeken: Het getal 6 is niet gevonden.
+4
+Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Geef een getal om te zoeken: 0
+Het getal -1 is niet gevonden.
 ```
-
----
-
-### Case 6
-
-**Description:** Run 6: args=4, 0, -1, 2, 18, -1
-
 
 **Input:**
 
 ```
 4
 0
--1
-2
+13
+-9
 18
 -1
 ```
@@ -149,109 +146,154 @@ Geef getal 1: Geef getal 2: Geef een getal om te zoeken: Het getal 6 is niet gev
 **Expected Output:**
 
 ```
+Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Het getal -1 is niet gevonden.
+```
+
+---
+
+### Case 6
+
+**Complete console output:**
+
+```
 Hoeveel getallen wil je invoeren?
-Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Geef een getal om te zoeken: Het getal -1 is gevonden op de volgende index(en):
-1
+4
+Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Geef een getal om te zoeken: 9
+Het getal -3 is niet gevonden.
+```
+
+**Input:**
+
+```
+4
+9
+-10
+15
+13
+-3
+```
+
+**Expected Output:**
+
+```
+Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Het getal -3 is niet gevonden.
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=3, 2, 17, 18, -2
+**Complete console output:**
 
+```
+Hoeveel getallen wil je invoeren?
+3
+Geef getal 1: Geef getal 2: Geef getal 3: Geef een getal om te zoeken: -4
+Het getal -4 is gevonden op de volgende index(en):
+0
+```
 
 **Input:**
 
 ```
 3
-2
-17
-18
--2
+-4
+1
+-9
+-4
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel getallen wil je invoeren?
-Geef getal 1: Geef getal 2: Geef getal 3: Geef een getal om te zoeken: Het getal -2 is niet gevonden.
+Geef getal 1: Geef getal 2: Geef getal 3: Het getal -4 is gevonden op de volgende index(en):
+0
 ```
 
 ---
 
 ### Case 8
 
-**Description:** Run 8: args=5, 2, 6, -4, 7, 17, 16
+**Complete console output:**
 
+```
+Hoeveel getallen wil je invoeren?
+1
+Geef getal 1: Geef een getal om te zoeken: 14
+Het getal -1 is niet gevonden.
+```
 
 **Input:**
 
 ```
-5
-2
-6
--4
-7
-17
-16
+1
+14
+-1
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel getallen wil je invoeren?
-Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Geef getal 5: Geef een getal om te zoeken: Het getal 16 is niet gevonden.
+Geef getal 1: Het getal -1 is niet gevonden.
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=3, -5, -9, 14, -4
+**Complete console output:**
 
+```
+Hoeveel getallen wil je invoeren?
+2
+Geef getal 1: Geef getal 2: Geef een getal om te zoeken: -2
+Het getal -3 is niet gevonden.
+```
 
 **Input:**
 
 ```
-3
--5
--9
-14
--4
+2
+-2
+-1
+-3
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel getallen wil je invoeren?
-Geef getal 1: Geef getal 2: Geef getal 3: Geef een getal om te zoeken: Het getal -4 is niet gevonden.
+Geef getal 1: Geef getal 2: Het getal -3 is niet gevonden.
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=5, 1, 11, 1, 16, 14, -7
+**Complete console output:**
 
+```
+Hoeveel getallen wil je invoeren?
+3
+Geef getal 1: Geef getal 2: Geef getal 3: Geef een getal om te zoeken: 19
+Het getal 4 is gevonden op de volgende index(en):
+1
+```
 
 **Input:**
 
 ```
-5
-1
-11
-1
-16
-14
--7
+3
+19
+4
+-8
+4
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel getallen wil je invoeren?
-Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Geef getal 5: Geef een getal om te zoeken: Het getal -7 is niet gevonden.
+Geef getal 1: Geef getal 2: Geef getal 3: Het getal 4 is gevonden op de volgende index(en):
+1
 ```
 
 ---

@@ -10,428 +10,113 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=man, 73
+**Complete console output:**
 
+```
+Voor welk geslacht vraag je het tarief? man
+Voor welke leeftijd vraag je het tarief? 32
+Werkend
+```
 
 **Input:**
 
 ```
 man
-73
-```
-
-**Expected Output:**
-
-```
-Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Pensioen
-```
-
----
-
-### Case 2
-
-**Description:** Run 2: args=vrouw, 68
-
-
-**Input:**
-
-```
-vrouw
-68
-```
-
-**Expected Output:**
-
-```
-Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Pensioen
-```
-
----
-
-### Case 3
-
-**Description:** Run 3: args=vrouw, 2
-
-
-**Input:**
-
-```
-vrouw
-2
-```
-
-**Expected Output:**
-
-```
-Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Kind
-```
-
----
-
-### Case 4
-
-**Description:** Run 4: args=man, 14
-
-
-**Input:**
-
-```
-man
-14
-```
-
-**Expected Output:**
-
-```
-Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Kind
-```
-
----
-
-### Case 5
-
-**Description:** Run 5: args=vrouw, 18
-
-
-**Input:**
-
-```
-vrouw
-18
-```
-
-**Expected Output:**
-
-```
-Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Werkend
-```
-
----
-
-### Case 6
-
-**Description:** Run 6: args=man, 17
-
-
-**Input:**
-
-```
-man
-17
-```
-
-**Expected Output:**
-
-```
-Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Kind
-```
-
----
-
-### Case 7
-
-**Description:** Run 7: args=man, 0
-
-
-**Input:**
-
-```
-man
-0
-```
-
-**Expected Output:**
-
-```
-Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Kind
-```
-
----
-
-### Case 8
-
-**Description:** Run 8: args=vrouw, 23
-
-
-**Input:**
-
-```
-vrouw
-23
-```
-
-**Expected Output:**
-
-```
-Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Werkend
-```
-
----
-
-### Case 9
-
-**Description:** Run 9: args=vrouw, 36
-
-
-**Input:**
-
-```
-vrouw
-36
-```
-
-**Expected Output:**
-
-```
-Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Werkend
-```
-
----
-
-### Case 10
-
-**Description:** Run 10: args=man, 75
-
-
-**Input:**
-
-```
-man
-75
-```
-
-**Expected Output:**
-
-```
-Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Pensioen
-```
-
----
-
-### Case 11
-
-**Description:** Run 11: args=man, 72
-
-
-**Input:**
-
-```
-man
-72
-```
-
-**Expected Output:**
-
-```
-Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Pensioen
-```
-
----
-
-### Case 12
-
-**Description:** Run 12: args=vrouw, 86
-
-
-**Input:**
-
-```
-vrouw
-86
-```
-
-**Expected Output:**
-
-```
-Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Pensioen
-```
-
----
-
-### Case 13
-
-**Description:** Run 13: args=vrouw, 37
-
-
-**Input:**
-
-```
-vrouw
-37
-```
-
-**Expected Output:**
-
-```
-Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Werkend
-```
-
----
-
-### Case 14
-
-**Description:** Run 14: args=vrouw, 71
-
-
-**Input:**
-
-```
-vrouw
-71
-```
-
-**Expected Output:**
-
-```
-Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Pensioen
-```
-
----
-
-### Case 15
-
-**Description:** Run 15: args=vrouw, 32
-
-
-**Input:**
-
-```
-vrouw
 32
 ```
 
 **Expected Output:**
 
 ```
-Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Werkend
+Werkend
 ```
 
 ---
 
-### Case 16
+### Case 2
 
-**Description:** Run 16: args=vrouw, 14
+**Complete console output:**
 
+```
+Voor welk geslacht vraag je het tarief? man
+Voor welke leeftijd vraag je het tarief? 43
+Werkend
+```
 
 **Input:**
 
 ```
-vrouw
-14
+man
+43
 ```
 
 **Expected Output:**
 
 ```
-Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Kind
+Werkend
 ```
 
 ---
 
-### Case 17
+### Case 3
 
-**Description:** Run 17: args=vrouw, 1
+**Complete console output:**
 
+```
+Voor welk geslacht vraag je het tarief? vrouw
+Voor welke leeftijd vraag je het tarief? 90
+Pensioen
+```
 
 **Input:**
 
 ```
 vrouw
-1
+90
 ```
 
 **Expected Output:**
 
 ```
-Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Kind
+Pensioen
 ```
 
 ---
 
-### Case 18
+### Case 4
 
-**Description:** Run 18: args=vrouw, 98
+**Complete console output:**
 
+```
+Voor welk geslacht vraag je het tarief? vrouw
+Voor welke leeftijd vraag je het tarief? 29
+Werkend
+```
 
 **Input:**
 
 ```
 vrouw
-98
+29
 ```
 
 **Expected Output:**
 
 ```
-Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Pensioen
+Werkend
 ```
 
 ---
 
-### Case 19
+### Case 5
 
-**Description:** Run 19: args=vrouw, 34
-
-
-**Input:**
+**Complete console output:**
 
 ```
-vrouw
-34
+Voor welk geslacht vraag je het tarief? man
+Voor welke leeftijd vraag je het tarief? 13
+Kind
 ```
-
-**Expected Output:**
-
-```
-Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Werkend
-```
-
----
-
-### Case 20
-
-**Description:** Run 20: args=vrouw, 89
-
-
-**Input:**
-
-```
-vrouw
-89
-```
-
-**Expected Output:**
-
-```
-Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Pensioen
-```
-
----
-
-### Case 21
-
-**Description:** Run 21: args=vrouw, 15
-
-
-**Input:**
-
-```
-vrouw
-15
-```
-
-**Expected Output:**
-
-```
-Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Kind
-```
-
----
-
-### Case 22
-
-**Description:** Run 22: args=man, 13
-
 
 **Input:**
 
@@ -443,67 +128,507 @@ man
 **Expected Output:**
 
 ```
-Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Kind
+Kind
+```
+
+---
+
+### Case 6
+
+**Complete console output:**
+
+```
+Voor welk geslacht vraag je het tarief? man
+Voor welke leeftijd vraag je het tarief? 64
+Pensioen
+```
+
+**Input:**
+
+```
+man
+64
+```
+
+**Expected Output:**
+
+```
+Pensioen
+```
+
+---
+
+### Case 7
+
+**Complete console output:**
+
+```
+Voor welk geslacht vraag je het tarief? vrouw
+Voor welke leeftijd vraag je het tarief? 52
+Werkend
+```
+
+**Input:**
+
+```
+vrouw
+52
+```
+
+**Expected Output:**
+
+```
+Werkend
+```
+
+---
+
+### Case 8
+
+**Complete console output:**
+
+```
+Voor welk geslacht vraag je het tarief? vrouw
+Voor welke leeftijd vraag je het tarief? 76
+Pensioen
+```
+
+**Input:**
+
+```
+vrouw
+76
+```
+
+**Expected Output:**
+
+```
+Pensioen
+```
+
+---
+
+### Case 9
+
+**Complete console output:**
+
+```
+Voor welk geslacht vraag je het tarief? vrouw
+Voor welke leeftijd vraag je het tarief? 32
+Werkend
+```
+
+**Input:**
+
+```
+vrouw
+32
+```
+
+**Expected Output:**
+
+```
+Werkend
+```
+
+---
+
+### Case 10
+
+**Complete console output:**
+
+```
+Voor welk geslacht vraag je het tarief? man
+Voor welke leeftijd vraag je het tarief? 18
+Werkend
+```
+
+**Input:**
+
+```
+man
+18
+```
+
+**Expected Output:**
+
+```
+Werkend
+```
+
+---
+
+### Case 11
+
+**Complete console output:**
+
+```
+Voor welk geslacht vraag je het tarief? man
+Voor welke leeftijd vraag je het tarief? 35
+Werkend
+```
+
+**Input:**
+
+```
+man
+35
+```
+
+**Expected Output:**
+
+```
+Werkend
+```
+
+---
+
+### Case 12
+
+**Complete console output:**
+
+```
+Voor welk geslacht vraag je het tarief? man
+Voor welke leeftijd vraag je het tarief? 6
+Kind
+```
+
+**Input:**
+
+```
+man
+6
+```
+
+**Expected Output:**
+
+```
+Kind
+```
+
+---
+
+### Case 13
+
+**Complete console output:**
+
+```
+Voor welk geslacht vraag je het tarief? man
+Voor welke leeftijd vraag je het tarief? 36
+Werkend
+```
+
+**Input:**
+
+```
+man
+36
+```
+
+**Expected Output:**
+
+```
+Werkend
+```
+
+---
+
+### Case 14
+
+**Complete console output:**
+
+```
+Voor welk geslacht vraag je het tarief? vrouw
+Voor welke leeftijd vraag je het tarief? 3
+Kind
+```
+
+**Input:**
+
+```
+vrouw
+3
+```
+
+**Expected Output:**
+
+```
+Kind
+```
+
+---
+
+### Case 15
+
+**Complete console output:**
+
+```
+Voor welk geslacht vraag je het tarief? man
+Voor welke leeftijd vraag je het tarief? 19
+Werkend
+```
+
+**Input:**
+
+```
+man
+19
+```
+
+**Expected Output:**
+
+```
+Werkend
+```
+
+---
+
+### Case 16
+
+**Complete console output:**
+
+```
+Voor welk geslacht vraag je het tarief? man
+Voor welke leeftijd vraag je het tarief? 8
+Kind
+```
+
+**Input:**
+
+```
+man
+8
+```
+
+**Expected Output:**
+
+```
+Kind
+```
+
+---
+
+### Case 17
+
+**Complete console output:**
+
+```
+Voor welk geslacht vraag je het tarief? man
+Voor welke leeftijd vraag je het tarief? 32
+Werkend
+```
+
+**Input:**
+
+```
+man
+32
+```
+
+**Expected Output:**
+
+```
+Werkend
+```
+
+---
+
+### Case 18
+
+**Complete console output:**
+
+```
+Voor welk geslacht vraag je het tarief? man
+Voor welke leeftijd vraag je het tarief? 72
+Pensioen
+```
+
+**Input:**
+
+```
+man
+72
+```
+
+**Expected Output:**
+
+```
+Pensioen
+```
+
+---
+
+### Case 19
+
+**Complete console output:**
+
+```
+Voor welk geslacht vraag je het tarief? vrouw
+Voor welke leeftijd vraag je het tarief? 11
+Kind
+```
+
+**Input:**
+
+```
+vrouw
+11
+```
+
+**Expected Output:**
+
+```
+Kind
+```
+
+---
+
+### Case 20
+
+**Complete console output:**
+
+```
+Voor welk geslacht vraag je het tarief? man
+Voor welke leeftijd vraag je het tarief? 82
+Pensioen
+```
+
+**Input:**
+
+```
+man
+82
+```
+
+**Expected Output:**
+
+```
+Pensioen
+```
+
+---
+
+### Case 21
+
+**Complete console output:**
+
+```
+Voor welk geslacht vraag je het tarief? man
+Voor welke leeftijd vraag je het tarief? 66
+Pensioen
+```
+
+**Input:**
+
+```
+man
+66
+```
+
+**Expected Output:**
+
+```
+Pensioen
+```
+
+---
+
+### Case 22
+
+**Complete console output:**
+
+```
+Voor welk geslacht vraag je het tarief? man
+Voor welke leeftijd vraag je het tarief? 21
+Werkend
+```
+
+**Input:**
+
+```
+man
+21
+```
+
+**Expected Output:**
+
+```
+Werkend
 ```
 
 ---
 
 ### Case 23
 
-**Description:** Run 23: args=vrouw, 1
+**Complete console output:**
 
+```
+Voor welk geslacht vraag je het tarief? vrouw
+Voor welke leeftijd vraag je het tarief? 61
+Pensioen
+```
 
 **Input:**
 
 ```
 vrouw
-1
+61
 ```
 
 **Expected Output:**
 
 ```
-Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Kind
+Pensioen
 ```
 
 ---
 
 ### Case 24
 
-**Description:** Run 24: args=vrouw, 68
+**Complete console output:**
 
+```
+Voor welk geslacht vraag je het tarief? man
+Voor welke leeftijd vraag je het tarief? 53
+Werkend
+```
 
 **Input:**
 
 ```
-vrouw
-68
-```
-
-**Expected Output:**
-
-```
-Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Pensioen
-```
-
----
-
-### Case 25
-
-**Description:** Run 25: args=vrouw, 53
-
-
-**Input:**
-
-```
-vrouw
+man
 53
 ```
 
 **Expected Output:**
 
 ```
-Voor welk geslacht vraag je het tarief? Voor welke leeftijd vraag je het tarief? Werkend
+Werkend
+```
+
+---
+
+### Case 25
+
+**Complete console output:**
+
+```
+Voor welk geslacht vraag je het tarief? vrouw
+Voor welke leeftijd vraag je het tarief? 59
+Werkend
+```
+
+**Input:**
+
+```
+vrouw
+59
+```
+
+**Expected Output:**
+
+```
+Werkend
 ```
 
 ---

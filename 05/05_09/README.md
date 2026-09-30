@@ -10,95 +10,64 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=14
+**Complete console output:**
 
+```
+Geef een geheel getal: 
+17
+17 x 1 = 17
+17 x 2 = 34
+17 x 3 = 51
+17 x 4 = 68
+17 x 5 = 85
+17 x 6 = 102
+17 x 7 = 119
+17 x 8 = 136
+17 x 9 = 153
+17 x 10 = 170
+```
 
 **Input:**
 
 ```
-14
+17
 ```
 
 **Expected Output:**
 
 ```
-Geef een geheel getal:
-14 x 1 = 14
-14 x 2 = 28
-14 x 3 = 42
-14 x 4 = 56
-14 x 5 = 70
-14 x 6 = 84
-14 x 7 = 98
-14 x 8 = 112
-14 x 9 = 126
-14 x 10 = 140
+17 x 1 = 17
+17 x 2 = 34
+17 x 3 = 51
+17 x 4 = 68
+17 x 5 = 85
+17 x 6 = 102
+17 x 7 = 119
+17 x 8 = 136
+17 x 9 = 153
+17 x 10 = 170
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=7
-
-
-**Input:**
+**Complete console output:**
 
 ```
-7
+Geef een geheel getal: 
+2
+2 x 1 = 2
+2 x 2 = 4
+2 x 3 = 6
+2 x 4 = 8
+2 x 5 = 10
+2 x 6 = 12
+2 x 7 = 14
+2 x 8 = 16
+2 x 9 = 18
+2 x 10 = 20
 ```
-
-**Expected Output:**
-
-```
-Geef een geheel getal:
-7 x 1 = 7
-7 x 2 = 14
-7 x 3 = 21
-7 x 4 = 28
-7 x 5 = 35
-7 x 6 = 42
-7 x 7 = 49
-7 x 8 = 56
-7 x 9 = 63
-7 x 10 = 70
-```
-
----
-
-### Case 3
-
-**Description:** Run 3: args=16
-
-
-**Input:**
-
-```
-16
-```
-
-**Expected Output:**
-
-```
-Geef een geheel getal:
-16 x 1 = 16
-16 x 2 = 32
-16 x 3 = 48
-16 x 4 = 64
-16 x 5 = 80
-16 x 6 = 96
-16 x 7 = 112
-16 x 8 = 128
-16 x 9 = 144
-16 x 10 = 160
-```
-
----
-
-### Case 4
-
-**Description:** Run 4: args=2
-
 
 **Input:**
 
@@ -109,7 +78,6 @@ Geef een geheel getal:
 **Expected Output:**
 
 ```
-Geef een geheel getal:
 2 x 1 = 2
 2 x 2 = 4
 2 x 3 = 6
@@ -124,68 +92,108 @@ Geef een geheel getal:
 
 ---
 
+### Case 3
+
+**Complete console output:**
+
+```
+Geef een geheel getal: 
+3
+3 x 1 = 3
+3 x 2 = 6
+3 x 3 = 9
+3 x 4 = 12
+3 x 5 = 15
+3 x 6 = 18
+3 x 7 = 21
+3 x 8 = 24
+3 x 9 = 27
+3 x 10 = 30
+```
+
+**Input:**
+
+```
+3
+```
+
+**Expected Output:**
+
+```
+3 x 1 = 3
+3 x 2 = 6
+3 x 3 = 9
+3 x 4 = 12
+3 x 5 = 15
+3 x 6 = 18
+3 x 7 = 21
+3 x 8 = 24
+3 x 9 = 27
+3 x 10 = 30
+```
+
+---
+
+### Case 4
+
+**Complete console output:**
+
+```
+Geef een geheel getal: 
+18
+18 x 1 = 18
+18 x 2 = 36
+18 x 3 = 54
+18 x 4 = 72
+18 x 5 = 90
+18 x 6 = 108
+18 x 7 = 126
+18 x 8 = 144
+18 x 9 = 162
+18 x 10 = 180
+```
+
+**Input:**
+
+```
+18
+```
+
+**Expected Output:**
+
+```
+18 x 1 = 18
+18 x 2 = 36
+18 x 3 = 54
+18 x 4 = 72
+18 x 5 = 90
+18 x 6 = 108
+18 x 7 = 126
+18 x 8 = 144
+18 x 9 = 162
+18 x 10 = 180
+```
+
+---
+
 ### Case 5
 
-**Description:** Run 5: args=10
-
-
-**Input:**
+**Complete console output:**
 
 ```
-10
+Geef een geheel getal: 
+11
+11 x 1 = 11
+11 x 2 = 22
+11 x 3 = 33
+11 x 4 = 44
+11 x 5 = 55
+11 x 6 = 66
+11 x 7 = 77
+11 x 8 = 88
+11 x 9 = 99
+11 x 10 = 110
 ```
-
-**Expected Output:**
-
-```
-Geef een geheel getal:
-10 x 1 = 10
-10 x 2 = 20
-10 x 3 = 30
-10 x 4 = 40
-10 x 5 = 50
-10 x 6 = 60
-10 x 7 = 70
-10 x 8 = 80
-10 x 9 = 90
-10 x 10 = 100
-```
-
----
-
-### Case 6
-
-**Description:** Run 6: args=12
-
-
-**Input:**
-
-```
-12
-```
-
-**Expected Output:**
-
-```
-Geef een geheel getal:
-12 x 1 = 12
-12 x 2 = 24
-12 x 3 = 36
-12 x 4 = 48
-12 x 5 = 60
-12 x 6 = 72
-12 x 7 = 84
-12 x 8 = 96
-12 x 9 = 108
-12 x 10 = 120
-```
-
----
-
-### Case 7
-
-**Description:** Run 7: args=11
-
 
 **Input:**
 
@@ -196,7 +204,6 @@ Geef een geheel getal:
 **Expected Output:**
 
 ```
-Geef een geheel getal:
 11 x 1 = 11
 11 x 2 = 22
 11 x 3 = 33
@@ -211,89 +218,212 @@ Geef een geheel getal:
 
 ---
 
-### Case 8
+### Case 6
 
-**Description:** Run 8: args=6
+**Complete console output:**
 
+```
+Geef een geheel getal: 
+13
+13 x 1 = 13
+13 x 2 = 26
+13 x 3 = 39
+13 x 4 = 52
+13 x 5 = 65
+13 x 6 = 78
+13 x 7 = 91
+13 x 8 = 104
+13 x 9 = 117
+13 x 10 = 130
+```
 
 **Input:**
 
 ```
-6
+13
 ```
 
 **Expected Output:**
 
 ```
-Geef een geheel getal:
-6 x 1 = 6
-6 x 2 = 12
-6 x 3 = 18
-6 x 4 = 24
-6 x 5 = 30
-6 x 6 = 36
-6 x 7 = 42
-6 x 8 = 48
-6 x 9 = 54
-6 x 10 = 60
+13 x 1 = 13
+13 x 2 = 26
+13 x 3 = 39
+13 x 4 = 52
+13 x 5 = 65
+13 x 6 = 78
+13 x 7 = 91
+13 x 8 = 104
+13 x 9 = 117
+13 x 10 = 130
+```
+
+---
+
+### Case 7
+
+**Complete console output:**
+
+```
+Geef een geheel getal: 
+1
+1 x 1 = 1
+1 x 2 = 2
+1 x 3 = 3
+1 x 4 = 4
+1 x 5 = 5
+1 x 6 = 6
+1 x 7 = 7
+1 x 8 = 8
+1 x 9 = 9
+1 x 10 = 10
+```
+
+**Input:**
+
+```
+1
+```
+
+**Expected Output:**
+
+```
+1 x 1 = 1
+1 x 2 = 2
+1 x 3 = 3
+1 x 4 = 4
+1 x 5 = 5
+1 x 6 = 6
+1 x 7 = 7
+1 x 8 = 8
+1 x 9 = 9
+1 x 10 = 10
+```
+
+---
+
+### Case 8
+
+**Complete console output:**
+
+```
+Geef een geheel getal: 
+8
+8 x 1 = 8
+8 x 2 = 16
+8 x 3 = 24
+8 x 4 = 32
+8 x 5 = 40
+8 x 6 = 48
+8 x 7 = 56
+8 x 8 = 64
+8 x 9 = 72
+8 x 10 = 80
+```
+
+**Input:**
+
+```
+8
+```
+
+**Expected Output:**
+
+```
+8 x 1 = 8
+8 x 2 = 16
+8 x 3 = 24
+8 x 4 = 32
+8 x 5 = 40
+8 x 6 = 48
+8 x 7 = 56
+8 x 8 = 64
+8 x 9 = 72
+8 x 10 = 80
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=14
+**Complete console output:**
 
+```
+Geef een geheel getal: 
+7
+7 x 1 = 7
+7 x 2 = 14
+7 x 3 = 21
+7 x 4 = 28
+7 x 5 = 35
+7 x 6 = 42
+7 x 7 = 49
+7 x 8 = 56
+7 x 9 = 63
+7 x 10 = 70
+```
 
 **Input:**
 
 ```
-14
+7
 ```
 
 **Expected Output:**
 
 ```
-Geef een geheel getal:
-14 x 1 = 14
-14 x 2 = 28
-14 x 3 = 42
-14 x 4 = 56
-14 x 5 = 70
-14 x 6 = 84
-14 x 7 = 98
-14 x 8 = 112
-14 x 9 = 126
-14 x 10 = 140
+7 x 1 = 7
+7 x 2 = 14
+7 x 3 = 21
+7 x 4 = 28
+7 x 5 = 35
+7 x 6 = 42
+7 x 7 = 49
+7 x 8 = 56
+7 x 9 = 63
+7 x 10 = 70
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=12
+**Complete console output:**
 
+```
+Geef een geheel getal: 
+4
+4 x 1 = 4
+4 x 2 = 8
+4 x 3 = 12
+4 x 4 = 16
+4 x 5 = 20
+4 x 6 = 24
+4 x 7 = 28
+4 x 8 = 32
+4 x 9 = 36
+4 x 10 = 40
+```
 
 **Input:**
 
 ```
-12
+4
 ```
 
 **Expected Output:**
 
 ```
-Geef een geheel getal:
-12 x 1 = 12
-12 x 2 = 24
-12 x 3 = 36
-12 x 4 = 48
-12 x 5 = 60
-12 x 6 = 72
-12 x 7 = 84
-12 x 8 = 96
-12 x 9 = 108
-12 x 10 = 120
+4 x 1 = 4
+4 x 2 = 8
+4 x 3 = 12
+4 x 4 = 16
+4 x 5 = 20
+4 x 6 = 24
+4 x 7 = 28
+4 x 8 = 32
+4 x 9 = 36
+4 x 10 = 40
 ```
 
 ---

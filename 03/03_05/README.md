@@ -17,14 +17,19 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=41, ja
+**Complete console output:**
 
+```
+Geef je gemiddelde percentage: 3
+Heb je wiskunde gevolgd? (ja/nee): nee
+richtingskeuzebegeleiding
+```
 
 **Input:**
 
 ```
-41
-ja
+3
+nee
 ```
 
 **Expected Output:**
@@ -37,33 +42,43 @@ richtingskeuzebegeleiding
 
 ### Case 2
 
-**Description:** Run 2: args=15, ja
+**Complete console output:**
 
+```
+Geef je gemiddelde percentage: 74
+Heb je wiskunde gevolgd? (ja/nee): nee
+Techniek
+```
 
 **Input:**
 
 ```
-15
-ja
+74
+nee
 ```
 
 **Expected Output:**
 
 ```
-richtingskeuzebegeleiding
+Techniek
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=10, ja
+**Complete console output:**
 
+```
+Geef je gemiddelde percentage: 56
+Heb je wiskunde gevolgd? (ja/nee): ja
+richtingskeuzebegeleiding
+```
 
 **Input:**
 
 ```
-10
+56
 ja
 ```
 
@@ -77,13 +92,18 @@ richtingskeuzebegeleiding
 
 ### Case 4
 
-**Description:** Run 4: args=27, nee
+**Complete console output:**
 
+```
+Geef je gemiddelde percentage: 33
+Heb je wiskunde gevolgd? (ja/nee): nee
+richtingskeuzebegeleiding
+```
 
 **Input:**
 
 ```
-27
+33
 nee
 ```
 
@@ -97,8 +117,138 @@ richtingskeuzebegeleiding
 
 ### Case 5
 
-**Description:** Run 5: args=11, nee
+**Complete console output:**
 
+```
+Geef je gemiddelde percentage: 23
+Heb je wiskunde gevolgd? (ja/nee): nee
+richtingskeuzebegeleiding
+```
+
+**Input:**
+
+```
+23
+nee
+```
+
+**Expected Output:**
+
+```
+richtingskeuzebegeleiding
+```
+
+---
+
+### Case 6
+
+**Complete console output:**
+
+```
+Geef je gemiddelde percentage: 78
+Heb je wiskunde gevolgd? (ja/nee): ja
+Wetenschap
+```
+
+**Input:**
+
+```
+78
+ja
+```
+
+**Expected Output:**
+
+```
+Wetenschap
+```
+
+---
+
+### Case 7
+
+**Complete console output:**
+
+```
+Geef je gemiddelde percentage: 86
+Heb je wiskunde gevolgd? (ja/nee): ja
+Wetenschap
+```
+
+**Input:**
+
+```
+86
+ja
+```
+
+**Expected Output:**
+
+```
+Wetenschap
+```
+
+---
+
+### Case 8
+
+**Complete console output:**
+
+```
+Geef je gemiddelde percentage: 2
+Heb je wiskunde gevolgd? (ja/nee): nee
+richtingskeuzebegeleiding
+```
+
+**Input:**
+
+```
+2
+nee
+```
+
+**Expected Output:**
+
+```
+richtingskeuzebegeleiding
+```
+
+---
+
+### Case 9
+
+**Complete console output:**
+
+```
+Geef je gemiddelde percentage: 92
+Heb je wiskunde gevolgd? (ja/nee): ja
+Wetenschap
+```
+
+**Input:**
+
+```
+92
+ja
+```
+
+**Expected Output:**
+
+```
+Wetenschap
+```
+
+---
+
+### Case 10
+
+**Complete console output:**
+
+```
+Geef je gemiddelde percentage: 11
+Heb je wiskunde gevolgd? (ja/nee): nee
+richtingskeuzebegeleiding
+```
 
 **Input:**
 
@@ -115,135 +265,45 @@ richtingskeuzebegeleiding
 
 ---
 
-### Case 6
-
-**Description:** Run 6: args=15, nee
-
-
-**Input:**
-
-```
-15
-nee
-```
-
-**Expected Output:**
-
-```
-richtingskeuzebegeleiding
-```
-
----
-
-### Case 7
-
-**Description:** Run 7: args=69, nee
-
-
-**Input:**
-
-```
-69
-nee
-```
-
-**Expected Output:**
-
-```
-Techniek
-```
-
----
-
-### Case 8
-
-**Description:** Run 8: args=19, nee
-
-
-**Input:**
-
-```
-19
-nee
-```
-
-**Expected Output:**
-
-```
-richtingskeuzebegeleiding
-```
-
----
-
-### Case 9
-
-**Description:** Run 9: args=13, ja
-
-
-**Input:**
-
-```
-13
-ja
-```
-
-**Expected Output:**
-
-```
-richtingskeuzebegeleiding
-```
-
----
-
-### Case 10
-
-**Description:** Run 10: args=36, nee
-
-
-**Input:**
-
-```
-36
-nee
-```
-
-**Expected Output:**
-
-```
-richtingskeuzebegeleiding
-```
-
----
-
 ### Case 11
 
-**Description:** Run 11: args=48, nee
+**Complete console output:**
 
+```
+Geef je gemiddelde percentage: 99
+Heb je wiskunde gevolgd? (ja/nee): nee
+Letteren
+```
 
 **Input:**
 
 ```
-48
+99
 nee
 ```
 
 **Expected Output:**
 
 ```
-richtingskeuzebegeleiding
+Letteren
 ```
 
 ---
 
 ### Case 12
 
-**Description:** Run 12: args=4, nee
+**Complete console output:**
 
+```
+Geef je gemiddelde percentage: 53
+Heb je wiskunde gevolgd? (ja/nee): nee
+richtingskeuzebegeleiding
+```
 
 **Input:**
 
 ```
-4
+53
 nee
 ```
 
@@ -257,68 +317,38 @@ richtingskeuzebegeleiding
 
 ### Case 13
 
-**Description:** Run 13: args=94, ja
+**Complete console output:**
 
+```
+Geef je gemiddelde percentage: 67
+Heb je wiskunde gevolgd? (ja/nee): ja
+Techniek
+```
 
 **Input:**
 
 ```
-94
+67
 ja
 ```
 
 **Expected Output:**
 
 ```
-Wetenschap
+Techniek
 ```
 
 ---
 
 ### Case 14
 
-**Description:** Run 14: args=51, nee
-
-
-**Input:**
+**Complete console output:**
 
 ```
-51
-nee
-```
-
-**Expected Output:**
-
-```
+Geef je gemiddelde percentage: 32
+Heb je wiskunde gevolgd? (ja/nee): ja
 richtingskeuzebegeleiding
 ```
-
----
-
-### Case 15
-
-**Description:** Run 15: args=40, ja
-
-
-**Input:**
-
-```
-40
-ja
-```
-
-**Expected Output:**
-
-```
-richtingskeuzebegeleiding
-```
-
----
-
-### Case 16
-
-**Description:** Run 16: args=32, ja
-
 
 **Input:**
 
@@ -335,16 +365,71 @@ richtingskeuzebegeleiding
 
 ---
 
-### Case 17
+### Case 15
 
-**Description:** Run 17: args=29, nee
+**Complete console output:**
 
+```
+Geef je gemiddelde percentage: 95
+Heb je wiskunde gevolgd? (ja/nee): ja
+Wetenschap
+```
 
 **Input:**
 
 ```
-29
+95
+ja
+```
+
+**Expected Output:**
+
+```
+Wetenschap
+```
+
+---
+
+### Case 16
+
+**Complete console output:**
+
+```
+Geef je gemiddelde percentage: 76
+Heb je wiskunde gevolgd? (ja/nee): nee
+Letteren
+```
+
+**Input:**
+
+```
+76
 nee
+```
+
+**Expected Output:**
+
+```
+Letteren
+```
+
+---
+
+### Case 17
+
+**Complete console output:**
+
+```
+Geef je gemiddelde percentage: 44
+Heb je wiskunde gevolgd? (ja/nee): ja
+richtingskeuzebegeleiding
+```
+
+**Input:**
+
+```
+44
+ja
 ```
 
 **Expected Output:**
@@ -357,74 +442,94 @@ richtingskeuzebegeleiding
 
 ### Case 18
 
-**Description:** Run 18: args=93, ja
+**Complete console output:**
 
+```
+Geef je gemiddelde percentage: 98
+Heb je wiskunde gevolgd? (ja/nee): nee
+Letteren
+```
 
 **Input:**
 
 ```
-93
-ja
+98
+nee
 ```
 
 **Expected Output:**
 
 ```
-Wetenschap
+Letteren
 ```
 
 ---
 
 ### Case 19
 
-**Description:** Run 19: args=7, ja
+**Complete console output:**
 
+```
+Geef je gemiddelde percentage: 73
+Heb je wiskunde gevolgd? (ja/nee): nee
+Techniek
+```
 
 **Input:**
 
 ```
-7
-ja
+73
+nee
 ```
 
 **Expected Output:**
 
 ```
-richtingskeuzebegeleiding
+Techniek
 ```
 
 ---
 
 ### Case 20
 
-**Description:** Run 20: args=25, ja
+**Complete console output:**
 
+```
+Geef je gemiddelde percentage: 71
+Heb je wiskunde gevolgd? (ja/nee): nee
+Techniek
+```
 
 **Input:**
 
 ```
-25
-ja
+71
+nee
 ```
 
 **Expected Output:**
 
 ```
-richtingskeuzebegeleiding
+Techniek
 ```
 
 ---
 
 ### Case 21
 
-**Description:** Run 21: args=12, nee
+**Complete console output:**
 
+```
+Geef je gemiddelde percentage: 56
+Heb je wiskunde gevolgd? (ja/nee): ja
+richtingskeuzebegeleiding
+```
 
 **Input:**
 
 ```
-12
-nee
+56
+ja
 ```
 
 **Expected Output:**
@@ -437,33 +542,43 @@ richtingskeuzebegeleiding
 
 ### Case 22
 
-**Description:** Run 22: args=39, nee
+**Complete console output:**
 
+```
+Geef je gemiddelde percentage: 72
+Heb je wiskunde gevolgd? (ja/nee): nee
+Techniek
+```
 
 **Input:**
 
 ```
-39
+72
 nee
 ```
 
 **Expected Output:**
 
 ```
-richtingskeuzebegeleiding
+Techniek
 ```
 
 ---
 
 ### Case 23
 
-**Description:** Run 23: args=89, nee
+**Complete console output:**
 
+```
+Geef je gemiddelde percentage: 78
+Heb je wiskunde gevolgd? (ja/nee): nee
+Letteren
+```
 
 **Input:**
 
 ```
-89
+78
 nee
 ```
 
@@ -477,34 +592,44 @@ Letteren
 
 ### Case 24
 
-**Description:** Run 24: args=36, nee
+**Complete console output:**
 
+```
+Geef je gemiddelde percentage: 63
+Heb je wiskunde gevolgd? (ja/nee): ja
+Techniek
+```
 
 **Input:**
 
 ```
-36
-nee
+63
+ja
 ```
 
 **Expected Output:**
 
 ```
-richtingskeuzebegeleiding
+Techniek
 ```
 
 ---
 
 ### Case 25
 
-**Description:** Run 25: args=3, nee
+**Complete console output:**
 
+```
+Geef je gemiddelde percentage: 25
+Heb je wiskunde gevolgd? (ja/nee): ja
+richtingskeuzebegeleiding
+```
 
 **Input:**
 
 ```
-3
-nee
+25
+ja
 ```
 
 **Expected Output:**

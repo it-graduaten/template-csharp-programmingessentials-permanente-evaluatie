@@ -16,13 +16,18 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=17, M, nee
+**Complete console output:**
 
+```
+Geef je leeftijd: 24
+Geef je geslacht (M of V): M
+Toegang toegestaan
+```
 
 **Input:**
 
 ```
-17
+24
 M
 nee
 ```
@@ -30,20 +35,25 @@ nee
 **Expected Output:**
 
 ```
-Toegang geweigerd
+Toegang toegestaan
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=29, V, ja
+**Complete console output:**
 
+```
+Geef je leeftijd: 18
+Geef je geslacht (M of V): V
+Toegang toegestaan
+```
 
 **Input:**
 
 ```
-29
+18
 V
 ja
 ```
@@ -58,14 +68,19 @@ Toegang toegestaan
 
 ### Case 3
 
-**Description:** Run 3: args=29, V, nee
+**Complete console output:**
 
+```
+Geef je leeftijd: 37
+Geef je geslacht (M of V): M
+Toegang toegestaan
+```
 
 **Input:**
 
 ```
-29
-V
+37
+M
 nee
 ```
 
@@ -79,35 +94,20 @@ Toegang toegestaan
 
 ### Case 4
 
-**Description:** Run 4: args=17, M, nee
+**Complete console output:**
 
+```
+Geef je leeftijd: 11
+Geef je geslacht (M of V): V
+Ben je vergezeld van een volwassene? (ja/neen): ja
+Toegang toegestaan
+```
 
 **Input:**
 
 ```
-17
-M
-nee
-```
-
-**Expected Output:**
-
-```
-Toegang geweigerd
-```
-
----
-
-### Case 5
-
-**Description:** Run 5: args=32, M, ja
-
-
-**Input:**
-
-```
-32
-M
+11
+V
 ja
 ```
 
@@ -119,17 +119,22 @@ Toegang toegestaan
 
 ---
 
-### Case 6
+### Case 5
 
-**Description:** Run 6: args=0, M, nee
+**Complete console output:**
 
+```
+Geef je leeftijd: 4
+Geef je geslacht (M of V): M
+Toegang geweigerd
+```
 
 **Input:**
 
 ```
-0
+4
 M
-nee
+ja
 ```
 
 **Expected Output:**
@@ -140,15 +145,47 @@ Toegang geweigerd
 
 ---
 
-### Case 7
+### Case 6
 
-**Description:** Run 7: args=33, V, ja
+**Complete console output:**
 
+```
+Geef je leeftijd: 12
+Geef je geslacht (M of V): V
+Ben je vergezeld van een volwassene? (ja/neen): ja
+Toegang toegestaan
+```
 
 **Input:**
 
 ```
-33
+12
+V
+ja
+```
+
+**Expected Output:**
+
+```
+Toegang toegestaan
+```
+
+---
+
+### Case 7
+
+**Complete console output:**
+
+```
+Geef je leeftijd: 25
+Geef je geslacht (M of V): V
+Toegang toegestaan
+```
+
+**Input:**
+
+```
+25
 V
 ja
 ```
@@ -163,8 +200,13 @@ Toegang toegestaan
 
 ### Case 8
 
-**Description:** Run 8: args=25, V, ja
+**Complete console output:**
 
+```
+Geef je leeftijd: 25
+Geef je geslacht (M of V): V
+Toegang toegestaan
+```
 
 **Input:**
 
@@ -184,15 +226,20 @@ Toegang toegestaan
 
 ### Case 9
 
-**Description:** Run 9: args=19, M, ja
+**Complete console output:**
 
+```
+Geef je leeftijd: 40
+Geef je geslacht (M of V): V
+Toegang toegestaan
+```
 
 **Input:**
 
 ```
-19
-M
-ja
+40
+V
+nee
 ```
 
 **Expected Output:**
@@ -205,13 +252,18 @@ Toegang toegestaan
 
 ### Case 10
 
-**Description:** Run 10: args=23, M, nee
+**Complete console output:**
 
+```
+Geef je leeftijd: 34
+Geef je geslacht (M of V): M
+Toegang toegestaan
+```
 
 **Input:**
 
 ```
-23
+34
 M
 nee
 ```
@@ -226,8 +278,300 @@ Toegang toegestaan
 
 ### Case 11
 
-**Description:** Run 11: args=36, V, ja
+**Complete console output:**
 
+```
+Geef je leeftijd: 11
+Geef je geslacht (M of V): V
+Ben je vergezeld van een volwassene? (ja/neen): nee
+Toegang geweigerd
+```
+
+**Input:**
+
+```
+11
+V
+nee
+```
+
+**Expected Output:**
+
+```
+Toegang geweigerd
+```
+
+---
+
+### Case 12
+
+**Complete console output:**
+
+```
+Geef je leeftijd: 26
+Geef je geslacht (M of V): V
+Toegang toegestaan
+```
+
+**Input:**
+
+```
+26
+V
+nee
+```
+
+**Expected Output:**
+
+```
+Toegang toegestaan
+```
+
+---
+
+### Case 13
+
+**Complete console output:**
+
+```
+Geef je leeftijd: 6
+Geef je geslacht (M of V): M
+Toegang geweigerd
+```
+
+**Input:**
+
+```
+6
+M
+ja
+```
+
+**Expected Output:**
+
+```
+Toegang geweigerd
+```
+
+---
+
+### Case 14
+
+**Complete console output:**
+
+```
+Geef je leeftijd: 1
+Geef je geslacht (M of V): M
+Toegang geweigerd
+```
+
+**Input:**
+
+```
+1
+M
+ja
+```
+
+**Expected Output:**
+
+```
+Toegang geweigerd
+```
+
+---
+
+### Case 15
+
+**Complete console output:**
+
+```
+Geef je leeftijd: 30
+Geef je geslacht (M of V): M
+Toegang toegestaan
+```
+
+**Input:**
+
+```
+30
+M
+nee
+```
+
+**Expected Output:**
+
+```
+Toegang toegestaan
+```
+
+---
+
+### Case 16
+
+**Complete console output:**
+
+```
+Geef je leeftijd: 4
+Geef je geslacht (M of V): V
+Toegang geweigerd
+```
+
+**Input:**
+
+```
+4
+V
+ja
+```
+
+**Expected Output:**
+
+```
+Toegang geweigerd
+```
+
+---
+
+### Case 17
+
+**Complete console output:**
+
+```
+Geef je leeftijd: 38
+Geef je geslacht (M of V): V
+Toegang toegestaan
+```
+
+**Input:**
+
+```
+38
+V
+ja
+```
+
+**Expected Output:**
+
+```
+Toegang toegestaan
+```
+
+---
+
+### Case 18
+
+**Complete console output:**
+
+```
+Geef je leeftijd: 31
+Geef je geslacht (M of V): V
+Toegang toegestaan
+```
+
+**Input:**
+
+```
+31
+V
+nee
+```
+
+**Expected Output:**
+
+```
+Toegang toegestaan
+```
+
+---
+
+### Case 19
+
+**Complete console output:**
+
+```
+Geef je leeftijd: 2
+Geef je geslacht (M of V): M
+Toegang geweigerd
+```
+
+**Input:**
+
+```
+2
+M
+nee
+```
+
+**Expected Output:**
+
+```
+Toegang geweigerd
+```
+
+---
+
+### Case 20
+
+**Complete console output:**
+
+```
+Geef je leeftijd: 2
+Geef je geslacht (M of V): M
+Toegang geweigerd
+```
+
+**Input:**
+
+```
+2
+M
+ja
+```
+
+**Expected Output:**
+
+```
+Toegang geweigerd
+```
+
+---
+
+### Case 21
+
+**Complete console output:**
+
+```
+Geef je leeftijd: 27
+Geef je geslacht (M of V): V
+Toegang toegestaan
+```
+
+**Input:**
+
+```
+27
+V
+nee
+```
+
+**Expected Output:**
+
+```
+Toegang toegestaan
+```
+
+---
+
+### Case 22
+
+**Complete console output:**
+
+```
+Geef je leeftijd: 36
+Geef je geslacht (M of V): V
+Toegang toegestaan
+```
 
 **Input:**
 
@@ -245,248 +589,22 @@ Toegang toegestaan
 
 ---
 
-### Case 12
+### Case 23
 
-**Description:** Run 12: args=25, V, ja
-
-
-**Input:**
+**Complete console output:**
 
 ```
-25
-V
-ja
-```
-
-**Expected Output:**
-
-```
-Toegang toegestaan
-```
-
----
-
-### Case 13
-
-**Description:** Run 13: args=5, V, ja
-
-
-**Input:**
-
-```
-5
-V
-ja
-```
-
-**Expected Output:**
-
-```
+Geef je leeftijd: 6
+Geef je geslacht (M of V): V
 Toegang geweigerd
 ```
-
----
-
-### Case 14
-
-**Description:** Run 14: args=0, M, ja
-
-
-**Input:**
-
-```
-0
-M
-ja
-```
-
-**Expected Output:**
-
-```
-Toegang geweigerd
-```
-
----
-
-### Case 15
-
-**Description:** Run 15: args=30, V, ja
-
-
-**Input:**
-
-```
-30
-V
-ja
-```
-
-**Expected Output:**
-
-```
-Toegang toegestaan
-```
-
----
-
-### Case 16
-
-**Description:** Run 16: args=20, M, ja
-
-
-**Input:**
-
-```
-20
-M
-ja
-```
-
-**Expected Output:**
-
-```
-Toegang toegestaan
-```
-
----
-
-### Case 17
-
-**Description:** Run 17: args=8, V, ja
-
-
-**Input:**
-
-```
-8
-V
-ja
-```
-
-**Expected Output:**
-
-```
-Toegang geweigerd
-```
-
----
-
-### Case 18
-
-**Description:** Run 18: args=12, V, ja
-
-
-**Input:**
-
-```
-12
-V
-ja
-```
-
-**Expected Output:**
-
-```
-Toegang toegestaan
-```
-
----
-
-### Case 19
-
-**Description:** Run 19: args=37, M, ja
-
-
-**Input:**
-
-```
-37
-M
-ja
-```
-
-**Expected Output:**
-
-```
-Toegang toegestaan
-```
-
----
-
-### Case 20
-
-**Description:** Run 20: args=6, M, nee
-
 
 **Input:**
 
 ```
 6
-M
-nee
-```
-
-**Expected Output:**
-
-```
-Toegang geweigerd
-```
-
----
-
-### Case 21
-
-**Description:** Run 21: args=10, V, nee
-
-
-**Input:**
-
-```
-10
 V
-nee
-```
-
-**Expected Output:**
-
-```
-Toegang geweigerd
-```
-
----
-
-### Case 22
-
-**Description:** Run 22: args=26, M, ja
-
-
-**Input:**
-
-```
-26
-M
 ja
-```
-
-**Expected Output:**
-
-```
-Toegang toegestaan
-```
-
----
-
-### Case 23
-
-**Description:** Run 23: args=14, M, nee
-
-
-**Input:**
-
-```
-14
-M
-nee
 ```
 
 **Expected Output:**
@@ -499,13 +617,18 @@ Toegang geweigerd
 
 ### Case 24
 
-**Description:** Run 24: args=37, V, nee
+**Complete console output:**
 
+```
+Geef je leeftijd: 4
+Geef je geslacht (M of V): V
+Toegang geweigerd
+```
 
 **Input:**
 
 ```
-37
+4
 V
 nee
 ```
@@ -513,28 +636,33 @@ nee
 **Expected Output:**
 
 ```
-Toegang toegestaan
+Toegang geweigerd
 ```
 
 ---
 
 ### Case 25
 
-**Description:** Run 25: args=30, M, nee
+**Complete console output:**
 
+```
+Geef je leeftijd: 7
+Geef je geslacht (M of V): V
+Toegang geweigerd
+```
 
 **Input:**
 
 ```
-30
-M
-nee
+7
+V
+ja
 ```
 
 **Expected Output:**
 
 ```
-Toegang toegestaan
+Toegang geweigerd
 ```
 
 ---

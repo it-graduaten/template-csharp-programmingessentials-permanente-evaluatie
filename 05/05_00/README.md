@@ -10,264 +10,304 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=4, Christiane, Giovanni, Niels, Gregory
+**Complete console output:**
 
+```
+Hoeveel namen wil je invoeren?
+4
+Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Index 0: Hasan
+Index 1: Jelle
+Index 2: Luc
+Index 3: Mohammad
+```
 
 **Input:**
 
 ```
 4
-Christiane
-Giovanni
-Niels
-Gregory
+Hasan
+Jelle
+Luc
+Mohammad
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel namen wil je invoeren?
-Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4:
-Index 0: Christiane
-Index 1: Giovanni
-Index 2: Niels
-Index 3: Gregory
+Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Index 0: Hasan
+Index 1: Jelle
+Index 2: Luc
+Index 3: Mohammad
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=2, Marjan, Marcus
+**Complete console output:**
 
+```
+Hoeveel namen wil je invoeren?
+3
+Geef naam 1: Geef naam 2: Geef naam 3: Index 0: Amber
+Index 1: Jarne
+Index 2: Youssef
+```
 
 **Input:**
 
 ```
-2
-Marjan
-Marcus
+3
+Amber
+Jarne
+Youssef
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel namen wil je invoeren?
-Geef naam 1: Geef naam 2:
-Index 0: Marjan
-Index 1: Marcus
+Geef naam 1: Geef naam 2: Geef naam 3: Index 0: Amber
+Index 1: Jarne
+Index 2: Youssef
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=3, Hilde, Christine, Hassan
+**Complete console output:**
 
+```
+Hoeveel namen wil je invoeren?
+1
+Geef naam 1: Index 0: Maria
+```
 
 **Input:**
 
 ```
-3
-Hilde
-Christine
-Hassan
+1
+Maria
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel namen wil je invoeren?
-Geef naam 1: Geef naam 2: Geef naam 3:
-Index 0: Hilde
-Index 1: Christine
-Index 2: Hassan
+Geef naam 1: Index 0: Maria
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=5, Ivonne, Astrid, Mathis, Godelieve, Nathan
+**Complete console output:**
 
+```
+Hoeveel namen wil je invoeren?
+1
+Geef naam 1: Index 0: Bob
+```
 
 **Input:**
 
 ```
-5
-Ivonne
-Astrid
-Mathis
-Godelieve
-Nathan
+1
+Bob
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel namen wil je invoeren?
-Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Geef naam 5:
-Index 0: Ivonne
-Index 1: Astrid
-Index 2: Mathis
-Index 3: Godelieve
-Index 4: Nathan
+Geef naam 1: Index 0: Bob
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=2, Viviane, Kristof
+**Complete console output:**
 
+```
+Hoeveel namen wil je invoeren?
+2
+Geef naam 1: Geef naam 2: Index 0: Milan
+Index 1: Mario
+```
 
 **Input:**
 
 ```
 2
-Viviane
-Kristof
+Milan
+Mario
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel namen wil je invoeren?
-Geef naam 1: Geef naam 2:
-Index 0: Viviane
-Index 1: Kristof
+Geef naam 1: Geef naam 2: Index 0: Milan
+Index 1: Mario
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=5, Pedro, Julie, Franky, Liliane, Tim
+**Complete console output:**
 
+```
+Hoeveel namen wil je invoeren?
+2
+Geef naam 1: Geef naam 2: Index 0: Christophe
+Index 1: Anke
+```
 
 **Input:**
 
 ```
-5
-Pedro
-Julie
-Franky
-Liliane
-Tim
+2
+Christophe
+Anke
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel namen wil je invoeren?
-Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Geef naam 5:
-Index 0: Pedro
-Index 1: Julie
-Index 2: Franky
-Index 3: Liliane
-Index 4: Tim
+Geef naam 1: Geef naam 2: Index 0: Christophe
+Index 1: Anke
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=5, Lisa, Joseph, Pascale, Jolien, Bart
+**Complete console output:**
 
+```
+Hoeveel namen wil je invoeren?
+2
+Geef naam 1: Geef naam 2: Index 0: Tania
+Index 1: Daisy
+```
 
 **Input:**
 
 ```
-5
-Lisa
-Joseph
-Pascale
-Jolien
-Bart
+2
+Tania
+Daisy
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel namen wil je invoeren?
-Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Geef naam 5:
-Index 0: Lisa
-Index 1: Joseph
-Index 2: Pascale
-Index 3: Jolien
-Index 4: Bart
+Geef naam 1: Geef naam 2: Index 0: Tania
+Index 1: Daisy
 ```
 
 ---
 
 ### Case 8
 
-**Description:** Run 8: args=2, Heleen, Gunter
+**Complete console output:**
 
+```
+Hoeveel namen wil je invoeren?
+4
+Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Index 0: Katrien
+Index 1: Francine
+Index 2: Mieke
+Index 3: Sabrina
+```
 
 **Input:**
 
 ```
-2
-Heleen
-Gunter
+4
+Katrien
+Francine
+Mieke
+Sabrina
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel namen wil je invoeren?
-Geef naam 1: Geef naam 2:
-Index 0: Heleen
-Index 1: Gunter
+Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Index 0: Katrien
+Index 1: Francine
+Index 2: Mieke
+Index 3: Sabrina
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=2, Florence, Freddy
+**Complete console output:**
 
+```
+Hoeveel namen wil je invoeren?
+4
+Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Index 0: Wim
+Index 1: Maria
+Index 2: Frieda
+Index 3: Louise
+```
 
 **Input:**
 
 ```
-2
-Florence
-Freddy
+4
+Wim
+Maria
+Frieda
+Louise
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel namen wil je invoeren?
-Geef naam 1: Geef naam 2:
-Index 0: Florence
-Index 1: Freddy
+Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Index 0: Wim
+Index 1: Maria
+Index 2: Frieda
+Index 3: Louise
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=2, Daniel, Antoine
+**Complete console output:**
 
+```
+Hoeveel namen wil je invoeren?
+5
+Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Geef naam 5: Index 0: Kamiel
+Index 1: Joseph
+Index 2: Johnny
+Index 3: Milan
+Index 4: Mehmet
+```
 
 **Input:**
 
 ```
-2
-Daniel
-Antoine
+5
+Kamiel
+Joseph
+Johnny
+Milan
+Mehmet
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel namen wil je invoeren?
-Geef naam 1: Geef naam 2:
-Index 0: Daniel
-Index 1: Antoine
+Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Geef naam 5: Index 0: Kamiel
+Index 1: Joseph
+Index 2: Johnny
+Index 3: Milan
+Index 4: Mehmet
 ```
 
 ---

@@ -12,14 +12,18 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=0147, 579
+**Complete console output:**
 
+```
+Geef je pincode (4 cijfers): 0147
+Foute pincode.
+```
 
 **Input:**
 
 ```
 0147
-579
+513
 ```
 
 **Expected Output:**
@@ -32,34 +36,42 @@ Foute pincode.
 
 ### Case 2
 
-**Description:** Run 2: args=1234, 570
+**Complete console output:**
 
+```
+Geef je pincode (4 cijfers): 0147
+Foute pincode.
+```
 
 **Input:**
 
 ```
-1234
-570
+0147
+438
 ```
 
 **Expected Output:**
 
 ```
-Onvoldoende saldo.
+Foute pincode.
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=0147, 502
+**Complete console output:**
 
+```
+Geef je pincode (4 cijfers): 0147
+Foute pincode.
+```
 
 **Input:**
 
 ```
 0147
-502
+473
 ```
 
 **Expected Output:**
@@ -72,14 +84,18 @@ Foute pincode.
 
 ### Case 4
 
-**Description:** Run 4: args=0147, 529
+**Complete console output:**
 
+```
+Geef je pincode (4 cijfers): 0147
+Foute pincode.
+```
 
 **Input:**
 
 ```
 0147
-529
+495
 ```
 
 **Expected Output:**
@@ -92,14 +108,18 @@ Foute pincode.
 
 ### Case 5
 
-**Description:** Run 5: args=0147, 433
+**Complete console output:**
 
+```
+Geef je pincode (4 cijfers): 0147
+Foute pincode.
+```
 
 **Input:**
 
 ```
 0147
-433
+536
 ```
 
 **Expected Output:**
@@ -112,34 +132,43 @@ Foute pincode.
 
 ### Case 6
 
-**Description:** Run 6: args=1234, 479
+**Complete console output:**
 
+```
+Geef je pincode (4 cijfers): 0147
+Foute pincode.
+```
 
 **Input:**
 
 ```
-1234
-479
+0147
+428
 ```
 
 **Expected Output:**
 
 ```
-Uitbetaling van 479€ gaat door. Nieuw saldo: 21€
+Foute pincode.
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=1234, 531
+**Complete console output:**
 
+```
+Geef je pincode (4 cijfers): 1234
+Geef het bedrag dat je wil opnemen: 514
+Onvoldoende saldo.
+```
 
 **Input:**
 
 ```
 1234
-531
+514
 ```
 
 **Expected Output:**
@@ -152,54 +181,67 @@ Onvoldoende saldo.
 
 ### Case 8
 
-**Description:** Run 8: args=1234, 487
+**Complete console output:**
 
+```
+Geef je pincode (4 cijfers): 0147
+Foute pincode.
+```
 
 **Input:**
 
 ```
-1234
-487
+0147
+559
 ```
 
 **Expected Output:**
 
 ```
-Uitbetaling van 487€ gaat door. Nieuw saldo: 13€
+Foute pincode.
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=1234, 436
+**Complete console output:**
 
+```
+Geef je pincode (4 cijfers): 1234
+Geef het bedrag dat je wil opnemen: 597
+Onvoldoende saldo.
+```
 
 **Input:**
 
 ```
 1234
-436
+597
 ```
 
 **Expected Output:**
 
 ```
-Uitbetaling van 436€ gaat door. Nieuw saldo: 64€
+Onvoldoende saldo.
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=0147, 546
+**Complete console output:**
 
+```
+Geef je pincode (4 cijfers): 0147
+Foute pincode.
+```
 
 **Input:**
 
 ```
 0147
-546
+497
 ```
 
 **Expected Output:**
@@ -212,74 +254,91 @@ Foute pincode.
 
 ### Case 11
 
-**Description:** Run 11: args=1234, 412
+**Complete console output:**
 
+```
+Geef je pincode (4 cijfers): 1234
+Geef het bedrag dat je wil opnemen: 583
+Onvoldoende saldo.
+```
 
 **Input:**
 
 ```
 1234
-412
+583
 ```
 
 **Expected Output:**
 
 ```
-Uitbetaling van 412€ gaat door. Nieuw saldo: 88€
+Onvoldoende saldo.
 ```
 
 ---
 
 ### Case 12
 
-**Description:** Run 12: args=1234, 530
+**Complete console output:**
 
+```
+Geef je pincode (4 cijfers): 0147
+Foute pincode.
+```
 
 **Input:**
 
 ```
-1234
-530
+0147
+544
 ```
 
 **Expected Output:**
 
 ```
-Onvoldoende saldo.
+Foute pincode.
 ```
 
 ---
 
 ### Case 13
 
-**Description:** Run 13: args=1234, 515
+**Complete console output:**
 
+```
+Geef je pincode (4 cijfers): 0147
+Foute pincode.
+```
 
 **Input:**
 
 ```
-1234
-515
+0147
+490
 ```
 
 **Expected Output:**
 
 ```
-Onvoldoende saldo.
+Foute pincode.
 ```
 
 ---
 
 ### Case 14
 
-**Description:** Run 14: args=0147, 531
+**Complete console output:**
 
+```
+Geef je pincode (4 cijfers): 0147
+Foute pincode.
+```
 
 **Input:**
 
 ```
 0147
-531
+424
 ```
 
 **Expected Output:**
@@ -292,14 +351,18 @@ Foute pincode.
 
 ### Case 15
 
-**Description:** Run 15: args=0147, 518
+**Complete console output:**
 
+```
+Geef je pincode (4 cijfers): 0147
+Foute pincode.
+```
 
 **Input:**
 
 ```
 0147
-518
+589
 ```
 
 **Expected Output:**
@@ -312,34 +375,44 @@ Foute pincode.
 
 ### Case 16
 
-**Description:** Run 16: args=0147, 502
+**Complete console output:**
 
+```
+Geef je pincode (4 cijfers): 1234
+Geef het bedrag dat je wil opnemen: 445
+Uitbetaling van 445€ gaat door. Nieuw saldo: 55€
+```
 
 **Input:**
 
 ```
-0147
-502
+1234
+445
 ```
 
 **Expected Output:**
 
 ```
-Foute pincode.
+Uitbetaling van 445€ gaat door. Nieuw saldo: 55€
 ```
 
 ---
 
 ### Case 17
 
-**Description:** Run 17: args=1234, 548
+**Complete console output:**
 
+```
+Geef je pincode (4 cijfers): 1234
+Geef het bedrag dat je wil opnemen: 517
+Onvoldoende saldo.
+```
 
 **Input:**
 
 ```
 1234
-548
+517
 ```
 
 **Expected Output:**
@@ -352,8 +425,37 @@ Onvoldoende saldo.
 
 ### Case 18
 
-**Description:** Run 18: args=0147, 460
+**Complete console output:**
 
+```
+Geef je pincode (4 cijfers): 1234
+Geef het bedrag dat je wil opnemen: 425
+Uitbetaling van 425€ gaat door. Nieuw saldo: 75€
+```
+
+**Input:**
+
+```
+1234
+425
+```
+
+**Expected Output:**
+
+```
+Uitbetaling van 425€ gaat door. Nieuw saldo: 75€
+```
+
+---
+
+### Case 19
+
+**Complete console output:**
+
+```
+Geef je pincode (4 cijfers): 0147
+Foute pincode.
+```
 
 **Input:**
 
@@ -370,36 +472,45 @@ Foute pincode.
 
 ---
 
-### Case 19
+### Case 20
 
-**Description:** Run 19: args=1234, 441
+**Complete console output:**
 
+```
+Geef je pincode (4 cijfers): 1234
+Geef het bedrag dat je wil opnemen: 533
+Onvoldoende saldo.
+```
 
 **Input:**
 
 ```
 1234
-441
+533
 ```
 
 **Expected Output:**
 
 ```
-Uitbetaling van 441€ gaat door. Nieuw saldo: 59€
+Onvoldoende saldo.
 ```
 
 ---
 
-### Case 20
+### Case 21
 
-**Description:** Run 20: args=0147, 547
+**Complete console output:**
 
+```
+Geef je pincode (4 cijfers): 0147
+Foute pincode.
+```
 
 **Input:**
 
 ```
 0147
-547
+518
 ```
 
 **Expected Output:**
@@ -410,36 +521,20 @@ Foute pincode.
 
 ---
 
-### Case 21
-
-**Description:** Run 21: args=1234, 458
-
-
-**Input:**
-
-```
-1234
-458
-```
-
-**Expected Output:**
-
-```
-Uitbetaling van 458€ gaat door. Nieuw saldo: 42€
-```
-
----
-
 ### Case 22
 
-**Description:** Run 22: args=0147, 499
+**Complete console output:**
 
+```
+Geef je pincode (4 cijfers): 0147
+Foute pincode.
+```
 
 **Input:**
 
 ```
 0147
-499
+575
 ```
 
 **Expected Output:**
@@ -452,14 +547,18 @@ Foute pincode.
 
 ### Case 23
 
-**Description:** Run 23: args=0147, 431
+**Complete console output:**
 
+```
+Geef je pincode (4 cijfers): 0147
+Foute pincode.
+```
 
 **Input:**
 
 ```
 0147
-431
+526
 ```
 
 **Expected Output:**
@@ -472,14 +571,19 @@ Foute pincode.
 
 ### Case 24
 
-**Description:** Run 24: args=1234, 592
+**Complete console output:**
 
+```
+Geef je pincode (4 cijfers): 1234
+Geef het bedrag dat je wil opnemen: 556
+Onvoldoende saldo.
+```
 
 **Input:**
 
 ```
 1234
-592
+556
 ```
 
 **Expected Output:**
@@ -492,20 +596,25 @@ Onvoldoende saldo.
 
 ### Case 25
 
-**Description:** Run 25: args=1234, 486
+**Complete console output:**
 
+```
+Geef je pincode (4 cijfers): 1234
+Geef het bedrag dat je wil opnemen: 578
+Onvoldoende saldo.
+```
 
 **Input:**
 
 ```
 1234
-486
+578
 ```
 
 **Expected Output:**
 
 ```
-Uitbetaling van 486€ gaat door. Nieuw saldo: 14€
+Onvoldoende saldo.
 ```
 
 ---

@@ -12,575 +12,675 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=-391, -707, 634, 784
+**Complete console output:**
 
+```
+1281
+411781
+```
 
 **Input:**
 
 ```
--391
--707
+647
 634
-784
+509
+809
 ```
 
 **Expected Output:**
 
 ```
--1098
-497056
+1281
+411781
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=772, -580, -530, 716
+**Complete console output:**
 
+```
+605
+-280080
+```
 
 **Input:**
 
 ```
-772
--580
--530
-716
+-296
+901
+360
+-778
 ```
 
 **Expected Output:**
 
 ```
-192
--379480
+605
+-280080
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=672, -569, -747, 780
+**Complete console output:**
 
+```
+-161
+19173
+```
 
 **Input:**
 
 ```
-672
--569
--747
-780
+276
+-437
+33
+581
 ```
 
 **Expected Output:**
 
 ```
-103
--582660
+-161
+19173
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=163, -718, 31, -931
+**Complete console output:**
 
+```
+-1790
+264033
+```
 
 **Input:**
 
 ```
-163
--718
-31
--931
+-968
+-822
+889
+297
 ```
 
 **Expected Output:**
 
 ```
--555
--28861
+-1790
+264033
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=212, 25, 125, -608
+**Complete console output:**
 
+```
+-289
+176085
+```
 
 **Input:**
 
 ```
-212
-25
-125
--608
+-70
+-219
+645
+273
 ```
 
 **Expected Output:**
 
 ```
-237
--76000
+-289
+176085
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=892, 125, -256, -193
+**Complete console output:**
 
+```
+-323
+183960
+```
 
 **Input:**
 
 ```
-892
-125
--256
--193
+345
+-668
+219
+840
 ```
 
 **Expected Output:**
 
 ```
-1017
-49408
+-323
+183960
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=220, -823, 462, -399
+**Complete console output:**
 
+```
+-394
+719834
+```
 
 **Input:**
 
 ```
-220
--823
-462
--399
+-3
+-391
+-722
+-997
 ```
 
 **Expected Output:**
 
 ```
--603
--184338
+-394
+719834
 ```
 
 ---
 
 ### Case 8
 
-**Description:** Run 8: args=945, 918, -827, -175
+**Complete console output:**
 
+```
+1479
+337542
+```
 
 **Input:**
 
 ```
-945
-918
--827
--175
+515
+964
+606
+557
 ```
 
 **Expected Output:**
 
 ```
-1863
-144725
+1479
+337542
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=754, -982, -147, 189
+**Complete console output:**
 
+```
+171
+124250
+```
 
 **Input:**
 
 ```
-754
--982
--147
-189
+-277
+448
+-125
+-994
 ```
 
 **Expected Output:**
 
 ```
--228
--27783
+171
+124250
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=306, -210, -351, -352
+**Complete console output:**
 
+```
+-788
+-204452
+```
 
 **Input:**
 
 ```
-306
--210
--351
--352
+-189
+-599
+316
+-647
 ```
 
 **Expected Output:**
 
 ```
-96
-123552
+-788
+-204452
 ```
 
 ---
 
 ### Case 11
 
-**Description:** Run 11: args=571, -223, 411, 295
+**Complete console output:**
 
+```
+-735
+22484
+```
 
 **Input:**
 
 ```
-571
--223
-411
-295
+-396
+-339
+511
+44
 ```
 
 **Expected Output:**
 
 ```
-348
-121245
+-735
+22484
 ```
 
 ---
 
 ### Case 12
 
-**Description:** Run 12: args=-997, 294, -658, 591
+**Complete console output:**
 
+```
+-440
+128774
+```
 
 **Input:**
 
 ```
--997
-294
--658
-591
+-329
+-111
+134
+961
 ```
 
 **Expected Output:**
 
 ```
--703
--388878
+-440
+128774
 ```
 
 ---
 
 ### Case 13
 
-**Description:** Run 13: args=58, 840, 74, -624
+**Complete console output:**
 
+```
+-477
+-581876
+```
 
 **Input:**
 
 ```
-58
-840
-74
--624
+-921
+444
+-731
+796
 ```
 
 **Expected Output:**
 
 ```
-898
--46176
+-477
+-581876
 ```
 
 ---
 
 ### Case 14
 
-**Description:** Run 14: args=493, -997, -762, -64
+**Complete console output:**
 
+```
+-425
+685032
+```
 
 **Input:**
 
 ```
-493
--997
--762
--64
+-856
+431
+-782
+-876
 ```
 
 **Expected Output:**
 
 ```
--504
-48768
+-425
+685032
 ```
 
 ---
 
 ### Case 15
 
-**Description:** Run 15: args=-229, -700, 41, 95
+**Complete console output:**
 
+```
+-114
+243936
+```
 
 **Input:**
 
 ```
--229
--700
-41
-95
+265
+-379
+-924
+-264
 ```
 
 **Expected Output:**
 
 ```
--929
-3895
+-114
+243936
 ```
 
 ---
 
 ### Case 16
 
-**Description:** Run 16: args=778, -245, -775, 821
+**Complete console output:**
 
+```
+-1454
+-252047
+```
 
 **Input:**
 
 ```
-778
--245
--775
-821
+-853
+-601
+307
+-821
 ```
 
 **Expected Output:**
 
 ```
-533
--636275
+-1454
+-252047
 ```
 
 ---
 
 ### Case 17
 
-**Description:** Run 17: args=-661, -792, 277, -457
+**Complete console output:**
 
+```
+-823
+-308740
+```
 
 **Input:**
 
 ```
--661
--792
-277
--457
+-263
+-560
+359
+-860
 ```
 
 **Expected Output:**
 
 ```
--1453
--126589
+-823
+-308740
 ```
 
 ---
 
 ### Case 18
 
-**Description:** Run 18: args=805, -412, 734, 310
+**Complete console output:**
 
+```
+-565
+-210512
+```
 
 **Input:**
 
 ```
-805
--412
-734
-310
+-44
+-521
+892
+-236
 ```
 
 **Expected Output:**
 
 ```
-393
-227540
+-565
+-210512
 ```
 
 ---
 
 ### Case 19
 
-**Description:** Run 19: args=955, 86, -313, -827
+**Complete console output:**
 
+```
+-300
+548916
+```
 
 **Input:**
 
 ```
-955
-86
--313
--827
+-808
+508
+-921
+-596
 ```
 
 **Expected Output:**
 
 ```
-1041
-258851
+-300
+548916
 ```
 
 ---
 
 ### Case 20
 
-**Description:** Run 20: args=-583, -699, -130, 877
+**Complete console output:**
 
+```
+284
+384970
+```
 
 **Input:**
 
 ```
--583
--699
--130
-877
+253
+31
+562
+685
 ```
 
 **Expected Output:**
 
 ```
--1282
--114010
+284
+384970
 ```
 
 ---
 
 ### Case 21
 
-**Description:** Run 21: args=720, 736, 764, -612
+**Complete console output:**
 
+```
+-241
+-508905
+```
 
 **Input:**
 
 ```
-720
-736
-764
--612
+-112
+-129
+-645
+789
 ```
 
 **Expected Output:**
 
 ```
-1456
--467568
+-241
+-508905
 ```
 
 ---
 
 ### Case 22
 
-**Description:** Run 22: args=-29, -59, -942, 275
+**Complete console output:**
 
+```
+-258
+438501
+```
 
 **Input:**
 
 ```
--29
--59
--942
-275
+-718
+460
+-471
+-931
 ```
 
 **Expected Output:**
 
 ```
--88
--259050
+-258
+438501
 ```
 
 ---
 
 ### Case 23
 
-**Description:** Run 23: args=39, -600, 594, 877
+**Complete console output:**
 
+```
+1866
+-403620
+```
 
 **Input:**
 
 ```
-39
--600
-594
-877
+912
+954
+-420
+961
 ```
 
 **Expected Output:**
 
 ```
--561
-520938
+1866
+-403620
 ```
 
 ---
 
 ### Case 24
 
-**Description:** Run 24: args=-253, 490, -860, 511
+**Complete console output:**
 
+```
+-511
+35072
+```
 
 **Input:**
 
 ```
--253
-490
--860
-511
+-931
+420
+-548
+-64
 ```
 
 **Expected Output:**
 
 ```
-237
--439460
+-511
+35072
 ```
 
 ---
 
 ### Case 25
 
-**Description:** Run 25: args=-399, -631, 915, 368
+**Complete console output:**
 
+```
+-861
+18304
+```
 
 **Input:**
 
 ```
--399
--631
-915
-368
+-295
+-566
+176
+104
 ```
 
 **Expected Output:**
 
 ```
--1030
-336720
+-861
+18304
 ```
 
 ---

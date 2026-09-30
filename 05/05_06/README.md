@@ -10,8 +10,15 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=4
+**Complete console output:**
 
+```
+Geef een geheel getal: 
+4
+0
+2
+4
+```
 
 **Input:**
 
@@ -22,7 +29,6 @@ Below are the automatically generated input/output expectations.
 **Expected Output:**
 
 ```
-Geef een geheel getal:
 0
 2
 4
@@ -32,8 +38,14 @@ Geef een geheel getal:
 
 ### Case 2
 
-**Description:** Run 2: args=3
+**Complete console output:**
 
+```
+Geef een geheel getal: 
+3
+0
+2
+```
 
 **Input:**
 
@@ -44,7 +56,6 @@ Geef een geheel getal:
 **Expected Output:**
 
 ```
-Geef een geheel getal:
 0
 2
 ```
@@ -53,94 +64,128 @@ Geef een geheel getal:
 
 ### Case 3
 
-**Description:** Run 3: args=9
+**Complete console output:**
 
+```
+Geef een geheel getal: 
+6
+0
+2
+4
+6
+```
 
 **Input:**
 
 ```
-9
+6
 ```
 
 **Expected Output:**
 
 ```
-Geef een geheel getal:
 0
 2
 4
 6
-8
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=2
+**Complete console output:**
 
+```
+Geef een geheel getal: 
+0
+0
+```
 
 **Input:**
 
 ```
-2
+0
 ```
 
 **Expected Output:**
 
 ```
-Geef een geheel getal:
 0
-2
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=2
+**Complete console output:**
 
+```
+Geef een geheel getal: 
+6
+0
+2
+4
+6
+```
 
 **Input:**
 
 ```
-2
+6
 ```
 
 **Expected Output:**
 
 ```
-Geef een geheel getal:
 0
 2
+4
+6
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=1
+**Complete console output:**
 
+```
+Geef een geheel getal: 
+3
+0
+2
+```
 
 **Input:**
 
 ```
-1
+3
 ```
 
 **Expected Output:**
 
 ```
-Geef een geheel getal:
 0
+2
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=10
+**Complete console output:**
 
+```
+Geef een geheel getal: 
+10
+0
+2
+4
+6
+8
+10
+```
 
 **Input:**
 
@@ -151,7 +196,6 @@ Geef een geheel getal:
 **Expected Output:**
 
 ```
-Geef een geheel getal:
 0
 2
 4
@@ -164,65 +208,86 @@ Geef een geheel getal:
 
 ### Case 8
 
-**Description:** Run 8: args=4
+**Complete console output:**
 
+```
+Geef een geheel getal: 
+10
+0
+2
+4
+6
+8
+10
+```
 
 **Input:**
 
 ```
-4
+10
 ```
 
 **Expected Output:**
 
 ```
-Geef een geheel getal:
 0
 2
 4
+6
+8
+10
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=7
+**Complete console output:**
 
+```
+Geef een geheel getal: 
+2
+0
+2
+```
 
 **Input:**
 
 ```
-7
+2
 ```
 
 **Expected Output:**
 
 ```
-Geef een geheel getal:
 0
 2
-4
-6
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=1
+**Complete console output:**
 
+```
+Geef een geheel getal: 
+3
+0
+2
+```
 
 **Input:**
 
 ```
-1
+3
 ```
 
 **Expected Output:**
 
 ```
-Geef een geheel getal:
 0
+2
 ```
 
 ---

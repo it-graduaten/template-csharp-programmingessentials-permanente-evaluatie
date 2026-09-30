@@ -10,236 +10,282 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=3, Robin, 551, Geoffrey, 857, Heidi, 262
+**Complete console output:**
 
+```
+Hoeveel producten wil je invoeren?
+1
+Geef naam product 1: Geef prijs van product 1 in centen: Duurste product: Rudy voor 280 centen
+```
 
 **Input:**
 
 ```
-3
-Robin
-551
-Geoffrey
-857
-Heidi
-262
+1
+Rudy
+280
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel producten wil je invoeren?
-Geef naam product 1: Geef prijs van product 1 in centen: Geef naam product 2: Geef prijs van product 2 in centen: Geef naam product 3: Geef prijs van product 3 in centen: Duurste product: Geoffrey voor 857 centen
+Geef naam product 1: Geef prijs van product 1 in centen: Duurste product: Rudy voor 280 centen
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=1, Emily, 147
+**Complete console output:**
 
+```
+Hoeveel producten wil je invoeren?
+3
+Geef naam product 1: Geef prijs van product 1 in centen: Geef naam product 2: Geef prijs van product 2 in centen: Geef naam product 3: Geef prijs van product 3 in centen: Duurste product: Audrey voor 914 centen
+```
 
 **Input:**
 
 ```
-1
-Emily
-147
+3
+Liv
+431
+Audrey
+914
+Willy
+324
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel producten wil je invoeren?
-Geef naam product 1: Geef prijs van product 1 in centen: Duurste product: Emily voor 147 centen
+Geef naam product 1: Geef prijs van product 1 in centen: Geef naam product 2: Geef prijs van product 2 in centen: Geef naam product 3: Geef prijs van product 3 in centen: Duurste product: Audrey voor 914 centen
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=2, Dorien, 871, Nele, 328
+**Complete console output:**
 
+```
+Hoeveel producten wil je invoeren?
+2
+Geef naam product 1: Geef prijs van product 1 in centen: Geef naam product 2: Geef prijs van product 2 in centen: Duurste product: Ward voor 709 centen
+```
 
 **Input:**
 
 ```
 2
-Dorien
-871
-Nele
-328
+Ward
+709
+Ann
+451
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel producten wil je invoeren?
-Geef naam product 1: Geef prijs van product 1 in centen: Geef naam product 2: Geef prijs van product 2 in centen: Duurste product: Dorien voor 871 centen
+Geef naam product 1: Geef prijs van product 1 in centen: Geef naam product 2: Geef prijs van product 2 in centen: Duurste product: Ward voor 709 centen
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=2, Jeanne, 637, Etienne, 289
+**Complete console output:**
 
+```
+Hoeveel producten wil je invoeren?
+2
+Geef naam product 1: Geef prijs van product 1 in centen: Geef naam product 2: Geef prijs van product 2 in centen: Duurste product: Noah voor 790 centen
+```
 
 **Input:**
 
 ```
 2
-Jeanne
-637
-Etienne
-289
+Patrick
+108
+Noah
+790
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel producten wil je invoeren?
-Geef naam product 1: Geef prijs van product 1 in centen: Geef naam product 2: Geef prijs van product 2 in centen: Duurste product: Jeanne voor 637 centen
+Geef naam product 1: Geef prijs van product 1 in centen: Geef naam product 2: Geef prijs van product 2 in centen: Duurste product: Noah voor 790 centen
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=1, Marie, 440
+**Complete console output:**
 
+```
+Hoeveel producten wil je invoeren?
+2
+Geef naam product 1: Geef prijs van product 1 in centen: Geef naam product 2: Geef prijs van product 2 in centen: Duurste product: Guy voor 800 centen
+```
 
 **Input:**
 
 ```
-1
-Marie
-440
+2
+Guy
+800
+Karim
+300
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel producten wil je invoeren?
-Geef naam product 1: Geef prijs van product 1 in centen: Duurste product: Marie voor 440 centen
+Geef naam product 1: Geef prijs van product 1 in centen: Geef naam product 2: Geef prijs van product 2 in centen: Duurste product: Guy voor 800 centen
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=2, Anna, 631, Rafaël, 727
+**Complete console output:**
 
+```
+Hoeveel producten wil je invoeren?
+3
+Geef naam product 1: Geef prijs van product 1 in centen: Geef naam product 2: Geef prijs van product 2 in centen: Geef naam product 3: Geef prijs van product 3 in centen: Duurste product: Renée voor 729 centen
+```
 
 **Input:**
 
 ```
-2
-Anna
-631
-Rafaël
-727
+3
+Renée
+729
+Hanne
+346
+Dorien
+392
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel producten wil je invoeren?
-Geef naam product 1: Geef prijs van product 1 in centen: Geef naam product 2: Geef prijs van product 2 in centen: Duurste product: Rafaël voor 727 centen
+Geef naam product 1: Geef prijs van product 1 in centen: Geef naam product 2: Geef prijs van product 2 in centen: Geef naam product 3: Geef prijs van product 3 in centen: Duurste product: Renée voor 729 centen
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=2, Wannes, 192, Samira, 130
+**Complete console output:**
 
+```
+Hoeveel producten wil je invoeren?
+2
+Geef naam product 1: Geef prijs van product 1 in centen: Geef naam product 2: Geef prijs van product 2 in centen: Duurste product: Jelle voor 944 centen
+```
 
 **Input:**
 
 ```
 2
-Wannes
-192
-Samira
-130
+Rita
+231
+Jelle
+944
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel producten wil je invoeren?
-Geef naam product 1: Geef prijs van product 1 in centen: Geef naam product 2: Geef prijs van product 2 in centen: Duurste product: Wannes voor 192 centen
+Geef naam product 1: Geef prijs van product 1 in centen: Geef naam product 2: Geef prijs van product 2 in centen: Duurste product: Jelle voor 944 centen
 ```
 
 ---
 
 ### Case 8
 
-**Description:** Run 8: args=1, Pieter, 693
+**Complete console output:**
 
+```
+Hoeveel producten wil je invoeren?
+1
+Geef naam product 1: Geef prijs van product 1 in centen: Duurste product: Marie-Rose voor 129 centen
+```
 
 **Input:**
 
 ```
 1
-Pieter
-693
+Marie-Rose
+129
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel producten wil je invoeren?
-Geef naam product 1: Geef prijs van product 1 in centen: Duurste product: Pieter voor 693 centen
+Geef naam product 1: Geef prijs van product 1 in centen: Duurste product: Marie-Rose voor 129 centen
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=1, Jasper, 100
+**Complete console output:**
 
+```
+Hoeveel producten wil je invoeren?
+3
+Geef naam product 1: Geef prijs van product 1 in centen: Geef naam product 2: Geef prijs van product 2 in centen: Geef naam product 3: Geef prijs van product 3 in centen: Duurste product: Tim voor 812 centen
+```
 
 **Input:**
 
 ```
-1
-Jasper
-100
+3
+Christiaan
+571
+Tim
+812
+Mohamed
+304
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel producten wil je invoeren?
-Geef naam product 1: Geef prijs van product 1 in centen: Duurste product: Jasper voor 100 centen
+Geef naam product 1: Geef prijs van product 1 in centen: Geef naam product 2: Geef prijs van product 2 in centen: Geef naam product 3: Geef prijs van product 3 in centen: Duurste product: Tim voor 812 centen
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=3, Hannelore, 380, André, 626, Bart, 780
+**Complete console output:**
 
+```
+Hoeveel producten wil je invoeren?
+2
+Geef naam product 1: Geef prijs van product 1 in centen: Geef naam product 2: Geef prijs van product 2 in centen: Duurste product: Antoon voor 545 centen
+```
 
 **Input:**
 
 ```
-3
-Hannelore
-380
-André
-626
-Bart
-780
+2
+Antoon
+545
+Margareta
+241
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel producten wil je invoeren?
-Geef naam product 1: Geef prijs van product 1 in centen: Geef naam product 2: Geef prijs van product 2 in centen: Geef naam product 3: Geef prijs van product 3 in centen: Duurste product: Bart voor 780 centen
+Geef naam product 1: Geef prijs van product 1 in centen: Geef naam product 2: Geef prijs van product 2 in centen: Duurste product: Antoon voor 545 centen
 ```
 
 ---

@@ -10,232 +10,268 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=2, -2, 10
+**Complete console output:**
 
+```
+Hoeveel getallen wil je invoeren?
+3
+Geef getal 1: Geef getal 2: Geef getal 3: Gemiddelde: 4.666666666666667
+```
 
 **Input:**
 
 ```
-2
--2
-10
+3
+-7
+20
+1
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel getallen wil je invoeren?
-Geef getal 1: Geef getal 2: Gemiddelde: 4
+Geef getal 1: Geef getal 2: Geef getal 3: Gemiddelde: 4.666666666666667
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=2, 1, -9
+**Complete console output:**
 
+```
+Hoeveel getallen wil je invoeren?
+2
+Geef getal 1: Geef getal 2: Gemiddelde: 8
+```
 
 **Input:**
 
 ```
 2
-1
--9
+-1
+17
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel getallen wil je invoeren?
-Geef getal 1: Geef getal 2: Gemiddelde: -4
+Geef getal 1: Geef getal 2: Gemiddelde: 8
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=1, 7
+**Complete console output:**
 
+```
+Hoeveel getallen wil je invoeren?
+1
+Geef getal 1: Gemiddelde: -3
+```
 
 **Input:**
 
 ```
 1
-7
+-3
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel getallen wil je invoeren?
-Geef getal 1: Gemiddelde: 7
+Geef getal 1: Gemiddelde: -3
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=4, 2, -4, -8, 8
+**Complete console output:**
 
+```
+Hoeveel getallen wil je invoeren?
+5
+Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Geef getal 5: Gemiddelde: 8.4
+```
 
 **Input:**
 
 ```
+5
+7
+15
+18
+-2
 4
-2
--4
--8
-8
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel getallen wil je invoeren?
-Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Gemiddelde: -0.5
+Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Geef getal 5: Gemiddelde: 8.4
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=2, 10, 8
+**Complete console output:**
 
+```
+Hoeveel getallen wil je invoeren?
+2
+Geef getal 1: Geef getal 2: Gemiddelde: 3
+```
 
 **Input:**
 
 ```
 2
-10
 8
+-2
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel getallen wil je invoeren?
-Geef getal 1: Geef getal 2: Gemiddelde: 9
+Geef getal 1: Geef getal 2: Gemiddelde: 3
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=4, 1, 6, 15, 0
+**Complete console output:**
 
+```
+Hoeveel getallen wil je invoeren?
+3
+Geef getal 1: Geef getal 2: Geef getal 3: Gemiddelde: 9.666666666666666
+```
 
 **Input:**
 
 ```
-4
-1
-6
-15
-0
+3
+2
+11
+16
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel getallen wil je invoeren?
-Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Gemiddelde: 5.5
+Geef getal 1: Geef getal 2: Geef getal 3: Gemiddelde: 9.666666666666666
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=5, 11, 13, 16, 3, 14
+**Complete console output:**
 
+```
+Hoeveel getallen wil je invoeren?
+3
+Geef getal 1: Geef getal 2: Geef getal 3: Gemiddelde: -0.3333333333333333
+```
 
 **Input:**
 
 ```
-5
-11
-13
-16
 3
-14
+-3
+0
+2
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel getallen wil je invoeren?
-Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Geef getal 5: Gemiddelde: 11.4
+Geef getal 1: Geef getal 2: Geef getal 3: Gemiddelde: -0.3333333333333333
 ```
 
 ---
 
 ### Case 8
 
-**Description:** Run 8: args=3, -5, 17, -6
+**Complete console output:**
 
+```
+Hoeveel getallen wil je invoeren?
+5
+Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Geef getal 5: Gemiddelde: 7
+```
 
 **Input:**
 
 ```
-3
--5
-17
--6
+5
+15
+-9
+18
+-2
+13
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel getallen wil je invoeren?
-Geef getal 1: Geef getal 2: Geef getal 3: Gemiddelde: 2
+Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Geef getal 5: Gemiddelde: 7
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=4, 11, -2, 14, -9
+**Complete console output:**
 
+```
+Hoeveel getallen wil je invoeren?
+2
+Geef getal 1: Geef getal 2: Gemiddelde: 6
+```
 
 **Input:**
 
 ```
-4
-11
--2
-14
--9
+2
+17
+-5
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel getallen wil je invoeren?
-Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Gemiddelde: 3.5
+Geef getal 1: Geef getal 2: Gemiddelde: 6
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=5, 17, 13, 8, -1, -4
+**Complete console output:**
 
+```
+Hoeveel getallen wil je invoeren?
+2
+Geef getal 1: Geef getal 2: Gemiddelde: 6
+```
 
 **Input:**
 
 ```
-5
-17
-13
-8
--1
--4
+2
+-8
+20
 ```
 
 **Expected Output:**
 
 ```
-Hoeveel getallen wil je invoeren?
-Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Geef getal 5: Gemiddelde: 6.6
+Geef getal 1: Geef getal 2: Gemiddelde: 6
 ```
 
 ---

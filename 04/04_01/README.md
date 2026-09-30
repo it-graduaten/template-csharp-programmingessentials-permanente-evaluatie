@@ -12,36 +12,75 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=3, -26, 29
+**Complete console output:**
 
+```
+Geef getal 1: 19
+Geef getal 2: 44
+Geef getal 3: -46
+Het grootste getal is 44.
+```
 
 **Input:**
 
 ```
-3
--26
-29
+19
+44
+-46
 ```
 
 **Expected Output:**
 
 ```
-Het grootste getal is 29.
+Het grootste getal is 44.
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=22, -97, -41
+**Complete console output:**
 
+```
+Geef getal 1: -90
+Geef getal 2: -33
+Geef getal 3: 21
+Het grootste getal is 21.
+```
 
 **Input:**
 
 ```
+-90
+-33
+21
+```
+
+**Expected Output:**
+
+```
+Het grootste getal is 21.
+```
+
+---
+
+### Case 3
+
+**Complete console output:**
+
+```
+Geef getal 1: -80
+Geef getal 2: 22
+Geef getal 3: 1
+Het grootste getal is 22.
+```
+
+**Input:**
+
+```
+-80
 22
--97
--41
+1
 ```
 
 **Expected Output:**
@@ -52,164 +91,266 @@ Het grootste getal is 22.
 
 ---
 
-### Case 3
-
-**Description:** Run 3: args=-49, 38, 51
-
-
-**Input:**
-
-```
--49
-38
-51
-```
-
-**Expected Output:**
-
-```
-Het grootste getal is 51.
-```
-
----
-
 ### Case 4
 
-**Description:** Run 4: args=85, 40, 55
+**Complete console output:**
 
+```
+Geef getal 1: -31
+Geef getal 2: 98
+Geef getal 3: 87
+Het grootste getal is 98.
+```
 
 **Input:**
 
 ```
-85
-40
-55
+-31
+98
+87
 ```
 
 **Expected Output:**
 
 ```
-Het grootste getal is 85.
+Het grootste getal is 98.
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=-5, 10, 77
+**Complete console output:**
 
+```
+Geef getal 1: -75
+Geef getal 2: -30
+Geef getal 3: -79
+Het grootste getal is -30.
+```
 
 **Input:**
 
 ```
--5
-10
-77
+-75
+-30
+-79
 ```
 
 **Expected Output:**
 
 ```
-Het grootste getal is 77.
+Het grootste getal is -30.
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=30, 80, 62
+**Complete console output:**
 
+```
+Geef getal 1: 58
+Geef getal 2: 82
+Geef getal 3: 33
+Het grootste getal is 82.
+```
 
 **Input:**
 
 ```
-30
-80
-62
+58
+82
+33
 ```
 
 **Expected Output:**
 
 ```
-Het grootste getal is 80.
+Het grootste getal is 82.
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=-84, 1, -26
+**Complete console output:**
 
+```
+Geef getal 1: -60
+Geef getal 2: 82
+Geef getal 3: 93
+Het grootste getal is 93.
+```
 
 **Input:**
 
 ```
--84
-1
--26
+-60
+82
+93
 ```
 
 **Expected Output:**
 
 ```
-Het grootste getal is 1.
+Het grootste getal is 93.
 ```
 
 ---
 
 ### Case 8
 
-**Description:** Run 8: args=-38, -1, -67
+**Complete console output:**
 
+```
+Geef getal 1: 42
+Geef getal 2: 73
+Geef getal 3: -57
+Het grootste getal is 73.
+```
 
 **Input:**
 
 ```
--38
--1
--67
+42
+73
+-57
 ```
 
 **Expected Output:**
 
 ```
-Het grootste getal is -1.
+Het grootste getal is 73.
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=10, 77, -94
+**Complete console output:**
 
+```
+Geef getal 1: 25
+Geef getal 2: 45
+Geef getal 3: 34
+Het grootste getal is 45.
+```
 
 **Input:**
 
 ```
-10
-77
--94
+25
+45
+34
 ```
 
 **Expected Output:**
 
 ```
-Het grootste getal is 77.
+Het grootste getal is 45.
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=50, -28, -16
+**Complete console output:**
 
+```
+Geef getal 1: -10
+Geef getal 2: -91
+Geef getal 3: 39
+Het grootste getal is 39.
+```
 
 **Input:**
 
 ```
+-10
+-91
+39
+```
+
+**Expected Output:**
+
+```
+Het grootste getal is 39.
+```
+
+---
+
+### Case 11
+
+**Complete console output:**
+
+```
+Geef getal 1: 81
+Geef getal 2: -20
+Geef getal 3: -59
+Het grootste getal is 81.
+```
+
+**Input:**
+
+```
+81
+-20
+-59
+```
+
+**Expected Output:**
+
+```
+Het grootste getal is 81.
+```
+
+---
+
+### Case 12
+
+**Complete console output:**
+
+```
+Geef getal 1: 26
+Geef getal 2: 55
+Geef getal 3: 92
+Het grootste getal is 92.
+```
+
+**Input:**
+
+```
+26
+55
+92
+```
+
+**Expected Output:**
+
+```
+Het grootste getal is 92.
+```
+
+---
+
+### Case 13
+
+**Complete console output:**
+
+```
+Geef getal 1: -39
+Geef getal 2: 50
+Geef getal 3: -5
+Het grootste getal is 50.
+```
+
+**Input:**
+
+```
+-39
 50
--28
--16
+-5
 ```
 
 **Expected Output:**
@@ -220,107 +361,56 @@ Het grootste getal is 50.
 
 ---
 
-### Case 11
-
-**Description:** Run 11: args=29, 76, -16
-
-
-**Input:**
-
-```
-29
-76
--16
-```
-
-**Expected Output:**
-
-```
-Het grootste getal is 76.
-```
-
----
-
-### Case 12
-
-**Description:** Run 12: args=-12, -73, 37
-
-
-**Input:**
-
-```
--12
--73
-37
-```
-
-**Expected Output:**
-
-```
-Het grootste getal is 37.
-```
-
----
-
-### Case 13
-
-**Description:** Run 13: args=-9, -89, -77
-
-
-**Input:**
-
-```
--9
--89
--77
-```
-
-**Expected Output:**
-
-```
-Het grootste getal is -9.
-```
-
----
-
 ### Case 14
 
-**Description:** Run 14: args=-93, 54, -29
+**Complete console output:**
 
+```
+Geef getal 1: -43
+Geef getal 2: 0
+Geef getal 3: -18
+Het grootste getal is 0.
+```
 
 **Input:**
 
 ```
--93
-54
--29
+-43
+0
+-18
 ```
 
 **Expected Output:**
 
 ```
-Het grootste getal is 54.
+Het grootste getal is 0.
 ```
 
 ---
 
 ### Case 15
 
-**Description:** Run 15: args=30, 9, -31
+**Complete console output:**
 
+```
+Geef getal 1: 67
+Geef getal 2: 69
+Geef getal 3: 5
+Het grootste getal is 69.
+```
 
 **Input:**
 
 ```
-30
-9
--31
+67
+69
+5
 ```
 
 **Expected Output:**
 
 ```
-Het grootste getal is 30.
+Het grootste getal is 69.
 ```
 
 ---
