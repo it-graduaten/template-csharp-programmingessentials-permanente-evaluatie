@@ -1,16 +1,10 @@
 # 04_05
 
-Een school wil een systeem bouwen om studenten te registreren en hun stemmen bij te houden. De school heeft exact twee kandidaat-borgmeesters: Anna en Bart.
+Een restaurant wil de bestellingen van zijn klanten bijhouden. Er zijn precies drie klanten die bestellen. Het restaurant heeft drie gerechten op het menu: pasta, pizza en burger.
 
-Gebruik een List<string> om de namen van de gestemden bij te houden.
+Vraag de gebruiker om de naam van elke klant en welk gerecht ze willen bestellen. Sla elke bestelling op als een string in een List<string> in het formaat "Naam: gerecht".
 
-Vraag de gebruiker eerst hoeveel studenten er gaan stemmen. Vervolgens vraag je voor elke student:
-1. De naam van de student.
-2. Voor welke kandidaat ze stemmen (Anna of Bart).
-
-Sla de naam van elke student op in de lijst. Tel ook het aantal stemmen voor Anna en Bart apart bij.
-
-Tonen na alle stemmen: het totaal aantal stemmen, het aantal stemmen voor Anna, het aantal stemmen voor Bart, en wie gewonnen heeft.
+Tonen na alle bestellingen: hoeveel van elk gerecht er besteld is, en een overzicht van wie wat besteld heeft.
 
 ## Fuzz Test Cases
 
@@ -23,33 +17,40 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
-Hoeveel studenten gaan stemmen? 1
-Naam van student 1: Voor welke kandidaat stem je? (Anna/Bart): jaYi0
-Totaal aantal stemmen: 1
-Stemmen voor Anna: 0
-Stemmen voor Bart: 1
-Bart heeft gewonnen!
+Naam van klant 1: Koen
+Gerecht van klant 1: burger
+Naam van klant 2: Oliver
+Gerecht van klant 2: pizza
+Naam van klant 3: Fien
+Gerecht van klant 3: pasta
+Aantal pasta: 1
+Aantal pizza: 1
+Aantal burger: 1
+Koen - burger besteld.
+Oliver - pizza besteld.
+Fien - pasta besteld.
 ```
 
 **Input:**
 
 ```
-1
-jaYi0
-bart
-2ILmq
-anna
-3JApO
-bart
+Koen
+burger
+Oliver
+pizza
+Fien
+pasta
 ```
 
 **Expected Output:**
 
 ```
-Naam van student 1: Totaal aantal stemmen: 1
-Stemmen voor Anna: 0
-Stemmen voor Bart: 1
-Bart heeft gewonnen!
+Aantal pasta: 1
+Aantal pizza: 1
+Aantal burger: 1
+Koen - burger besteld.
+Oliver - pizza besteld.
+Fien - pasta besteld.
 ```
 
 ---
@@ -59,33 +60,40 @@ Bart heeft gewonnen!
 **Complete console output:**
 
 ```
-Hoeveel studenten gaan stemmen? 1
-Naam van student 1: Voor welke kandidaat stem je? (Anna/Bart): cXTug
-Totaal aantal stemmen: 1
-Stemmen voor Anna: 0
-Stemmen voor Bart: 1
-Bart heeft gewonnen!
+Naam van klant 1: Martin
+Gerecht van klant 1: burger
+Naam van klant 2: Martine
+Gerecht van klant 2: pasta
+Naam van klant 3: Ben
+Gerecht van klant 3: burger
+Aantal pasta: 1
+Aantal pizza: 0
+Aantal burger: 2
+Martin - burger besteld.
+Martine - pasta besteld.
+Ben - burger besteld.
 ```
 
 **Input:**
 
 ```
-1
-cXTug
-bart
-imNv4
-anna
-Glk0H
-bart
+Martin
+burger
+Martine
+pasta
+Ben
+burger
 ```
 
 **Expected Output:**
 
 ```
-Naam van student 1: Totaal aantal stemmen: 1
-Stemmen voor Anna: 0
-Stemmen voor Bart: 1
-Bart heeft gewonnen!
+Aantal pasta: 1
+Aantal pizza: 0
+Aantal burger: 2
+Martin - burger besteld.
+Martine - pasta besteld.
+Ben - burger besteld.
 ```
 
 ---
@@ -95,34 +103,40 @@ Bart heeft gewonnen!
 **Complete console output:**
 
 ```
-Hoeveel studenten gaan stemmen? 2
-Naam van student 1: Voor welke kandidaat stem je? (Anna/Bart): uHGoj
-Naam van student 2: Voor welke kandidaat stem je? (Anna/Bart): anna
-Totaal aantal stemmen: 2
-Stemmen voor Anna: 2
-Stemmen voor Bart: 0
-Anna heeft gewonnen!
+Naam van klant 1: Lea
+Gerecht van klant 1: pizza
+Naam van klant 2: Helena
+Gerecht van klant 2: pizza
+Naam van klant 3: Bruno
+Gerecht van klant 3: burger
+Aantal pasta: 0
+Aantal pizza: 2
+Aantal burger: 1
+Lea - pizza besteld.
+Helena - pizza besteld.
+Bruno - burger besteld.
 ```
 
 **Input:**
 
 ```
-2
-uHGoj
-anna
-0HyVE
-anna
-Jvxc5
-anna
+Lea
+pizza
+Helena
+pizza
+Bruno
+burger
 ```
 
 **Expected Output:**
 
 ```
-Naam van student 1: Naam van student 2: Totaal aantal stemmen: 2
-Stemmen voor Anna: 2
-Stemmen voor Bart: 0
-Anna heeft gewonnen!
+Aantal pasta: 0
+Aantal pizza: 2
+Aantal burger: 1
+Lea - pizza besteld.
+Helena - pizza besteld.
+Bruno - burger besteld.
 ```
 
 ---
@@ -132,35 +146,40 @@ Anna heeft gewonnen!
 **Complete console output:**
 
 ```
-Hoeveel studenten gaan stemmen? 3
-Naam van student 1: Voor welke kandidaat stem je? (Anna/Bart): v3S8o
-Naam van student 2: Voor welke kandidaat stem je? (Anna/Bart): anna
-Naam van student 3: Voor welke kandidaat stem je? (Anna/Bart): HLs45
-Totaal aantal stemmen: 3
-Stemmen voor Anna: 1
-Stemmen voor Bart: 2
-Bart heeft gewonnen!
+Naam van klant 1: Ann
+Gerecht van klant 1: pizza
+Naam van klant 2: Samuel
+Gerecht van klant 2: burger
+Naam van klant 3: Johan
+Gerecht van klant 3: pizza
+Aantal pasta: 0
+Aantal pizza: 2
+Aantal burger: 1
+Ann - pizza besteld.
+Samuel - burger besteld.
+Johan - pizza besteld.
 ```
 
 **Input:**
 
 ```
-3
-v3S8o
-anna
-HLs45
-bart
-VbI4f
-bart
+Ann
+pizza
+Samuel
+burger
+Johan
+pizza
 ```
 
 **Expected Output:**
 
 ```
-Naam van student 1: Naam van student 2: Naam van student 3: Totaal aantal stemmen: 3
-Stemmen voor Anna: 1
-Stemmen voor Bart: 2
-Bart heeft gewonnen!
+Aantal pasta: 0
+Aantal pizza: 2
+Aantal burger: 1
+Ann - pizza besteld.
+Samuel - burger besteld.
+Johan - pizza besteld.
 ```
 
 ---
@@ -170,35 +189,40 @@ Bart heeft gewonnen!
 **Complete console output:**
 
 ```
-Hoeveel studenten gaan stemmen? 3
-Naam van student 1: Voor welke kandidaat stem je? (Anna/Bart): cNcdZ
-Naam van student 2: Voor welke kandidaat stem je? (Anna/Bart): bart
-Naam van student 3: Voor welke kandidaat stem je? (Anna/Bart): 96Uny
-Totaal aantal stemmen: 3
-Stemmen voor Anna: 1
-Stemmen voor Bart: 2
-Bart heeft gewonnen!
+Naam van klant 1: Sonia
+Gerecht van klant 1: pasta
+Naam van klant 2: Tatiana
+Gerecht van klant 2: pasta
+Naam van klant 3: Anne
+Gerecht van klant 3: burger
+Aantal pasta: 2
+Aantal pizza: 0
+Aantal burger: 1
+Sonia - pasta besteld.
+Tatiana - pasta besteld.
+Anne - burger besteld.
 ```
 
 **Input:**
 
 ```
-3
-cNcdZ
-bart
-96Uny
-bart
-GSUTp
-anna
+Sonia
+pasta
+Tatiana
+pasta
+Anne
+burger
 ```
 
 **Expected Output:**
 
 ```
-Naam van student 1: Naam van student 2: Naam van student 3: Totaal aantal stemmen: 3
-Stemmen voor Anna: 1
-Stemmen voor Bart: 2
-Bart heeft gewonnen!
+Aantal pasta: 2
+Aantal pizza: 0
+Aantal burger: 1
+Sonia - pasta besteld.
+Tatiana - pasta besteld.
+Anne - burger besteld.
 ```
 
 ---
@@ -208,34 +232,40 @@ Bart heeft gewonnen!
 **Complete console output:**
 
 ```
-Hoeveel studenten gaan stemmen? 2
-Naam van student 1: Voor welke kandidaat stem je? (Anna/Bart): K2C9g
-Naam van student 2: Voor welke kandidaat stem je? (Anna/Bart): anna
-Totaal aantal stemmen: 2
-Stemmen voor Anna: 1
-Stemmen voor Bart: 1
-Het is een gelijke stand!
+Naam van klant 1: Wendy
+Gerecht van klant 1: burger
+Naam van klant 2: Karima
+Gerecht van klant 2: pizza
+Naam van klant 3: Martina
+Gerecht van klant 3: pasta
+Aantal pasta: 1
+Aantal pizza: 1
+Aantal burger: 1
+Wendy - burger besteld.
+Karima - pizza besteld.
+Martina - pasta besteld.
 ```
 
 **Input:**
 
 ```
-2
-K2C9g
-anna
-L8s43
-bart
-4nbJe
-bart
+Wendy
+burger
+Karima
+pizza
+Martina
+pasta
 ```
 
 **Expected Output:**
 
 ```
-Naam van student 1: Naam van student 2: Totaal aantal stemmen: 2
-Stemmen voor Anna: 1
-Stemmen voor Bart: 1
-Het is een gelijke stand!
+Aantal pasta: 1
+Aantal pizza: 1
+Aantal burger: 1
+Wendy - burger besteld.
+Karima - pizza besteld.
+Martina - pasta besteld.
 ```
 
 ---
@@ -245,33 +275,40 @@ Het is een gelijke stand!
 **Complete console output:**
 
 ```
-Hoeveel studenten gaan stemmen? 1
-Naam van student 1: Voor welke kandidaat stem je? (Anna/Bart): KsZjb
-Totaal aantal stemmen: 1
-Stemmen voor Anna: 0
-Stemmen voor Bart: 1
-Bart heeft gewonnen!
+Naam van klant 1: Noah
+Gerecht van klant 1: burger
+Naam van klant 2: Eline
+Gerecht van klant 2: pasta
+Naam van klant 3: Paul
+Gerecht van klant 3: pizza
+Aantal pasta: 1
+Aantal pizza: 1
+Aantal burger: 1
+Noah - burger besteld.
+Eline - pasta besteld.
+Paul - pizza besteld.
 ```
 
 **Input:**
 
 ```
-1
-KsZjb
-bart
-jMWe2
-bart
-s1kKc
-bart
+Noah
+burger
+Eline
+pasta
+Paul
+pizza
 ```
 
 **Expected Output:**
 
 ```
-Naam van student 1: Totaal aantal stemmen: 1
-Stemmen voor Anna: 0
-Stemmen voor Bart: 1
-Bart heeft gewonnen!
+Aantal pasta: 1
+Aantal pizza: 1
+Aantal burger: 1
+Noah - burger besteld.
+Eline - pasta besteld.
+Paul - pizza besteld.
 ```
 
 ---
@@ -281,34 +318,40 @@ Bart heeft gewonnen!
 **Complete console output:**
 
 ```
-Hoeveel studenten gaan stemmen? 2
-Naam van student 1: Voor welke kandidaat stem je? (Anna/Bart): Em1DE
-Naam van student 2: Voor welke kandidaat stem je? (Anna/Bart): bart
-Totaal aantal stemmen: 2
-Stemmen voor Anna: 0
-Stemmen voor Bart: 2
-Bart heeft gewonnen!
+Naam van klant 1: Wesley
+Gerecht van klant 1: pizza
+Naam van klant 2: Eva
+Gerecht van klant 2: pizza
+Naam van klant 3: Dominique
+Gerecht van klant 3: pasta
+Aantal pasta: 1
+Aantal pizza: 2
+Aantal burger: 0
+Wesley - pizza besteld.
+Eva - pizza besteld.
+Dominique - pasta besteld.
 ```
 
 **Input:**
 
 ```
-2
-Em1DE
-bart
-iT56q
-bart
-yxU38
-anna
+Wesley
+pizza
+Eva
+pizza
+Dominique
+pasta
 ```
 
 **Expected Output:**
 
 ```
-Naam van student 1: Naam van student 2: Totaal aantal stemmen: 2
-Stemmen voor Anna: 0
-Stemmen voor Bart: 2
-Bart heeft gewonnen!
+Aantal pasta: 1
+Aantal pizza: 2
+Aantal burger: 0
+Wesley - pizza besteld.
+Eva - pizza besteld.
+Dominique - pasta besteld.
 ```
 
 ---
@@ -318,34 +361,40 @@ Bart heeft gewonnen!
 **Complete console output:**
 
 ```
-Hoeveel studenten gaan stemmen? 2
-Naam van student 1: Voor welke kandidaat stem je? (Anna/Bart): SgzfJ
-Naam van student 2: Voor welke kandidaat stem je? (Anna/Bart): anna
-Totaal aantal stemmen: 2
-Stemmen voor Anna: 2
-Stemmen voor Bart: 0
-Anna heeft gewonnen!
+Naam van klant 1: Maria
+Gerecht van klant 1: burger
+Naam van klant 2: Kristof
+Gerecht van klant 2: burger
+Naam van klant 3: Kaat
+Gerecht van klant 3: burger
+Aantal pasta: 0
+Aantal pizza: 0
+Aantal burger: 3
+Maria - burger besteld.
+Kristof - burger besteld.
+Kaat - burger besteld.
 ```
 
 **Input:**
 
 ```
-2
-SgzfJ
-anna
-nDQCO
-anna
-tRUHg
-bart
+Maria
+burger
+Kristof
+burger
+Kaat
+burger
 ```
 
 **Expected Output:**
 
 ```
-Naam van student 1: Naam van student 2: Totaal aantal stemmen: 2
-Stemmen voor Anna: 2
-Stemmen voor Bart: 0
-Anna heeft gewonnen!
+Aantal pasta: 0
+Aantal pizza: 0
+Aantal burger: 3
+Maria - burger besteld.
+Kristof - burger besteld.
+Kaat - burger besteld.
 ```
 
 ---
@@ -355,35 +404,40 @@ Anna heeft gewonnen!
 **Complete console output:**
 
 ```
-Hoeveel studenten gaan stemmen? 3
-Naam van student 1: Voor welke kandidaat stem je? (Anna/Bart): fzp6H
-Naam van student 2: Voor welke kandidaat stem je? (Anna/Bart): anna
-Naam van student 3: Voor welke kandidaat stem je? (Anna/Bart): D4uMe
-Totaal aantal stemmen: 3
-Stemmen voor Anna: 3
-Stemmen voor Bart: 0
-Anna heeft gewonnen!
+Naam van klant 1: Viviane
+Gerecht van klant 1: burger
+Naam van klant 2: Marc
+Gerecht van klant 2: pasta
+Naam van klant 3: Robin
+Gerecht van klant 3: burger
+Aantal pasta: 1
+Aantal pizza: 0
+Aantal burger: 2
+Viviane - burger besteld.
+Marc - pasta besteld.
+Robin - burger besteld.
 ```
 
 **Input:**
 
 ```
-3
-fzp6H
-anna
-D4uMe
-anna
-XNJIx
-anna
+Viviane
+burger
+Marc
+pasta
+Robin
+burger
 ```
 
 **Expected Output:**
 
 ```
-Naam van student 1: Naam van student 2: Naam van student 3: Totaal aantal stemmen: 3
-Stemmen voor Anna: 3
-Stemmen voor Bart: 0
-Anna heeft gewonnen!
+Aantal pasta: 1
+Aantal pizza: 0
+Aantal burger: 2
+Viviane - burger besteld.
+Marc - pasta besteld.
+Robin - burger besteld.
 ```
 
 ---
@@ -393,34 +447,40 @@ Anna heeft gewonnen!
 **Complete console output:**
 
 ```
-Hoeveel studenten gaan stemmen? 2
-Naam van student 1: Voor welke kandidaat stem je? (Anna/Bart): NUZyp
-Naam van student 2: Voor welke kandidaat stem je? (Anna/Bart): anna
-Totaal aantal stemmen: 2
-Stemmen voor Anna: 2
-Stemmen voor Bart: 0
-Anna heeft gewonnen!
+Naam van klant 1: Tuur
+Gerecht van klant 1: burger
+Naam van klant 2: Gino
+Gerecht van klant 2: pizza
+Naam van klant 3: Carine
+Gerecht van klant 3: pizza
+Aantal pasta: 0
+Aantal pizza: 2
+Aantal burger: 1
+Tuur - burger besteld.
+Gino - pizza besteld.
+Carine - pizza besteld.
 ```
 
 **Input:**
 
 ```
-2
-NUZyp
-anna
-Mo6qD
-anna
-ZSBSo
-bart
+Tuur
+burger
+Gino
+pizza
+Carine
+pizza
 ```
 
 **Expected Output:**
 
 ```
-Naam van student 1: Naam van student 2: Totaal aantal stemmen: 2
-Stemmen voor Anna: 2
-Stemmen voor Bart: 0
-Anna heeft gewonnen!
+Aantal pasta: 0
+Aantal pizza: 2
+Aantal burger: 1
+Tuur - burger besteld.
+Gino - pizza besteld.
+Carine - pizza besteld.
 ```
 
 ---
@@ -430,34 +490,40 @@ Anna heeft gewonnen!
 **Complete console output:**
 
 ```
-Hoeveel studenten gaan stemmen? 2
-Naam van student 1: Voor welke kandidaat stem je? (Anna/Bart): YQrHh
-Naam van student 2: Voor welke kandidaat stem je? (Anna/Bart): bart
-Totaal aantal stemmen: 2
-Stemmen voor Anna: 0
-Stemmen voor Bart: 2
-Bart heeft gewonnen!
+Naam van klant 1: Hendrik
+Gerecht van klant 1: burger
+Naam van klant 2: Dorien
+Gerecht van klant 2: pasta
+Naam van klant 3: Frieda
+Gerecht van klant 3: pizza
+Aantal pasta: 1
+Aantal pizza: 1
+Aantal burger: 1
+Hendrik - burger besteld.
+Dorien - pasta besteld.
+Frieda - pizza besteld.
 ```
 
 **Input:**
 
 ```
-2
-YQrHh
-bart
-2Skhi
-bart
-nnkUs
-anna
+Hendrik
+burger
+Dorien
+pasta
+Frieda
+pizza
 ```
 
 **Expected Output:**
 
 ```
-Naam van student 1: Naam van student 2: Totaal aantal stemmen: 2
-Stemmen voor Anna: 0
-Stemmen voor Bart: 2
-Bart heeft gewonnen!
+Aantal pasta: 1
+Aantal pizza: 1
+Aantal burger: 1
+Hendrik - burger besteld.
+Dorien - pasta besteld.
+Frieda - pizza besteld.
 ```
 
 ---
@@ -467,34 +533,40 @@ Bart heeft gewonnen!
 **Complete console output:**
 
 ```
-Hoeveel studenten gaan stemmen? 2
-Naam van student 1: Voor welke kandidaat stem je? (Anna/Bart): k1P6J
-Naam van student 2: Voor welke kandidaat stem je? (Anna/Bart): anna
-Totaal aantal stemmen: 2
-Stemmen voor Anna: 2
-Stemmen voor Bart: 0
-Anna heeft gewonnen!
+Naam van klant 1: Hendrik
+Gerecht van klant 1: pasta
+Naam van klant 2: Luc
+Gerecht van klant 2: pasta
+Naam van klant 3: Bram
+Gerecht van klant 3: burger
+Aantal pasta: 2
+Aantal pizza: 0
+Aantal burger: 1
+Hendrik - pasta besteld.
+Luc - pasta besteld.
+Bram - burger besteld.
 ```
 
 **Input:**
 
 ```
-2
-k1P6J
-anna
-y5zXK
-anna
-NzpaN
-anna
+Hendrik
+pasta
+Luc
+pasta
+Bram
+burger
 ```
 
 **Expected Output:**
 
 ```
-Naam van student 1: Naam van student 2: Totaal aantal stemmen: 2
-Stemmen voor Anna: 2
-Stemmen voor Bart: 0
-Anna heeft gewonnen!
+Aantal pasta: 2
+Aantal pizza: 0
+Aantal burger: 1
+Hendrik - pasta besteld.
+Luc - pasta besteld.
+Bram - burger besteld.
 ```
 
 ---
@@ -504,35 +576,40 @@ Anna heeft gewonnen!
 **Complete console output:**
 
 ```
-Hoeveel studenten gaan stemmen? 3
-Naam van student 1: Voor welke kandidaat stem je? (Anna/Bart): euEq9
-Naam van student 2: Voor welke kandidaat stem je? (Anna/Bart): bart
-Naam van student 3: Voor welke kandidaat stem je? (Anna/Bart): voxN9
-Totaal aantal stemmen: 3
-Stemmen voor Anna: 0
-Stemmen voor Bart: 3
-Bart heeft gewonnen!
+Naam van klant 1: Alexandra
+Gerecht van klant 1: burger
+Naam van klant 2: Liesbet
+Gerecht van klant 2: pizza
+Naam van klant 3: Jean
+Gerecht van klant 3: pasta
+Aantal pasta: 1
+Aantal pizza: 1
+Aantal burger: 1
+Alexandra - burger besteld.
+Liesbet - pizza besteld.
+Jean - pasta besteld.
 ```
 
 **Input:**
 
 ```
-3
-euEq9
-bart
-voxN9
-bart
-igK4a
-bart
+Alexandra
+burger
+Liesbet
+pizza
+Jean
+pasta
 ```
 
 **Expected Output:**
 
 ```
-Naam van student 1: Naam van student 2: Naam van student 3: Totaal aantal stemmen: 3
-Stemmen voor Anna: 0
-Stemmen voor Bart: 3
-Bart heeft gewonnen!
+Aantal pasta: 1
+Aantal pizza: 1
+Aantal burger: 1
+Alexandra - burger besteld.
+Liesbet - pizza besteld.
+Jean - pasta besteld.
 ```
 
 ---
@@ -542,33 +619,40 @@ Bart heeft gewonnen!
 **Complete console output:**
 
 ```
-Hoeveel studenten gaan stemmen? 1
-Naam van student 1: Voor welke kandidaat stem je? (Anna/Bart): BnxTr
-Totaal aantal stemmen: 1
-Stemmen voor Anna: 1
-Stemmen voor Bart: 0
-Anna heeft gewonnen!
+Naam van klant 1: Jana
+Gerecht van klant 1: pizza
+Naam van klant 2: Michèle
+Gerecht van klant 2: pizza
+Naam van klant 3: Said
+Gerecht van klant 3: burger
+Aantal pasta: 0
+Aantal pizza: 2
+Aantal burger: 1
+Jana - pizza besteld.
+Michèle - pizza besteld.
+Said - burger besteld.
 ```
 
 **Input:**
 
 ```
-1
-BnxTr
-anna
-2tg5W
-bart
-1kbNO
-anna
+Jana
+pizza
+Michèle
+pizza
+Said
+burger
 ```
 
 **Expected Output:**
 
 ```
-Naam van student 1: Totaal aantal stemmen: 1
-Stemmen voor Anna: 1
-Stemmen voor Bart: 0
-Anna heeft gewonnen!
+Aantal pasta: 0
+Aantal pizza: 2
+Aantal burger: 1
+Jana - pizza besteld.
+Michèle - pizza besteld.
+Said - burger besteld.
 ```
 
 ---
