@@ -6,7 +6,7 @@ Vraag de gebruiker om vijf producten in te voeren. Voeg elk product toe aan de l
 
 Vraag daarna of de gebruiker een product wil verwijderen. Als ja, vraag dan welk product. Verwijder het product uit de lijst.
 
-Tonen: het aantal producten na het verwijderen en de namen van alle resterende producten.
+Tonen: het aantal producten na het verwijderen.
 
 ## Fuzz Test Cases
 
@@ -19,41 +19,30 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
-Geef product 1: CSj7F
-Geef product 2: 5EB49
-Geef product 3: Mu5Yl
-Geef product 4: Z2h7N
-Geef product 5: 18EcP
+Geef product 1: melk
+Geef product 2: croissants
+Geef product 3: kaas
+Geef product 4: bananen
+Geef product 5: koekjes
 Wil je een product verwijderen? (ja/nee): nee
 Aantal producten: 5
-CSj7F
-5EB49
-Mu5Yl
-Z2h7N
-18EcP
 ```
 
 **Input:**
 
 ```
-CSj7F
-5EB49
-Mu5Yl
-Z2h7N
-18EcP
+melk
+croissants
+kaas
+bananen
+koekjes
 nee
-puqJ2
 ```
 
 **Expected Output:**
 
 ```
 Aantal producten: 5
-CSj7F
-5EB49
-Mu5Yl
-Z2h7N
-18EcP
 ```
 
 ---
@@ -63,42 +52,30 @@ Z2h7N
 **Complete console output:**
 
 ```
-Geef product 1: nTlQK
-Geef product 2: GJq6k
-Geef product 3: Jklbz
-Geef product 4: MowiS
-Geef product 5: LgS9D
-Wil je een product verwijderen? (ja/nee): ja
-Welk product wil je verwijderen? jeGNm
+Geef product 1: fruitsap
+Geef product 2: pistolets
+Geef product 3: kaas
+Geef product 4: bananen
+Geef product 5: chips
+Wil je een product verwijderen? (ja/nee): nee
 Aantal producten: 5
-nTlQK
-GJq6k
-Jklbz
-MowiS
-LgS9D
 ```
 
 **Input:**
 
 ```
-nTlQK
-GJq6k
-Jklbz
-MowiS
-LgS9D
-ja
-jeGNm
+fruitsap
+pistolets
+kaas
+bananen
+chips
+nee
 ```
 
 **Expected Output:**
 
 ```
 Aantal producten: 5
-nTlQK
-GJq6k
-Jklbz
-MowiS
-LgS9D
 ```
 
 ---
@@ -108,42 +85,30 @@ LgS9D
 **Complete console output:**
 
 ```
-Geef product 1: djBFT
-Geef product 2: wQIEr
-Geef product 3: jdM5A
-Geef product 4: ct4XF
-Geef product 5: cH8fG
-Wil je een product verwijderen? (ja/nee): ja
-Welk product wil je verwijderen? vLQko
+Geef product 1: fruitsap
+Geef product 2: croissants
+Geef product 3: kipfilet
+Geef product 4: peren
+Geef product 5: chocolade
+Wil je een product verwijderen? (ja/nee): nee
 Aantal producten: 5
-djBFT
-wQIEr
-jdM5A
-ct4XF
-cH8fG
 ```
 
 **Input:**
 
 ```
-djBFT
-wQIEr
-jdM5A
-ct4XF
-cH8fG
-ja
-vLQko
+fruitsap
+croissants
+kipfilet
+peren
+chocolade
+nee
 ```
 
 **Expected Output:**
 
 ```
 Aantal producten: 5
-djBFT
-wQIEr
-jdM5A
-ct4XF
-cH8fG
 ```
 
 ---
@@ -153,41 +118,30 @@ cH8fG
 **Complete console output:**
 
 ```
-Geef product 1: CJNxy
-Geef product 2: cLRIS
-Geef product 3: Iv0Az
-Geef product 4: uQEpz
-Geef product 5: QRDch
+Geef product 1: fruitsap
+Geef product 2: pistolets
+Geef product 3: ham
+Geef product 4: bananen
+Geef product 5: koekjes
 Wil je een product verwijderen? (ja/nee): nee
 Aantal producten: 5
-CJNxy
-cLRIS
-Iv0Az
-uQEpz
-QRDch
 ```
 
 **Input:**
 
 ```
-CJNxy
-cLRIS
-Iv0Az
-uQEpz
-QRDch
+fruitsap
+pistolets
+ham
+bananen
+koekjes
 nee
-pYQyy
 ```
 
 **Expected Output:**
 
 ```
 Aantal producten: 5
-CJNxy
-cLRIS
-Iv0Az
-uQEpz
-QRDch
 ```
 
 ---
@@ -197,42 +151,32 @@ QRDch
 **Complete console output:**
 
 ```
-Geef product 1: BhiYZ
-Geef product 2: 7p7ba
-Geef product 3: Jqs5w
-Geef product 4: lCrkw
-Geef product 5: 4f4Zt
+Geef product 1: melk
+Geef product 2: brood
+Geef product 3: kaas
+Geef product 4: peren
+Geef product 5: chips
 Wil je een product verwijderen? (ja/nee): ja
-Welk product wil je verwijderen? 9dTGp
+Welk product wil je verwijderen? fruitsap
 Aantal producten: 5
-BhiYZ
-7p7ba
-Jqs5w
-lCrkw
-4f4Zt
 ```
 
 **Input:**
 
 ```
-BhiYZ
-7p7ba
-Jqs5w
-lCrkw
-4f4Zt
+melk
+brood
+kaas
+peren
+chips
 ja
-9dTGp
+fruitsap
 ```
 
 **Expected Output:**
 
 ```
 Aantal producten: 5
-BhiYZ
-7p7ba
-Jqs5w
-lCrkw
-4f4Zt
 ```
 
 ---
@@ -242,41 +186,32 @@ lCrkw
 **Complete console output:**
 
 ```
-Geef product 1: Ncv8F
-Geef product 2: jWAbw
-Geef product 3: Ppehr
-Geef product 4: puXiU
-Geef product 5: mPmzz
-Wil je een product verwijderen? (ja/nee): nee
+Geef product 1: melk
+Geef product 2: croissants
+Geef product 3: kaas
+Geef product 4: peren
+Geef product 5: chocolade
+Wil je een product verwijderen? (ja/nee): ja
+Welk product wil je verwijderen? water
 Aantal producten: 5
-Ncv8F
-jWAbw
-Ppehr
-puXiU
-mPmzz
 ```
 
 **Input:**
 
 ```
-Ncv8F
-jWAbw
-Ppehr
-puXiU
-mPmzz
-nee
-ieYWB
+melk
+croissants
+kaas
+peren
+chocolade
+ja
+water
 ```
 
 **Expected Output:**
 
 ```
 Aantal producten: 5
-Ncv8F
-jWAbw
-Ppehr
-puXiU
-mPmzz
 ```
 
 ---
@@ -286,42 +221,30 @@ mPmzz
 **Complete console output:**
 
 ```
-Geef product 1: z713H
-Geef product 2: Zmpbg
-Geef product 3: vqIVC
-Geef product 4: SHgA9
-Geef product 5: uThPY
-Wil je een product verwijderen? (ja/nee): ja
-Welk product wil je verwijderen? 6PbMH
+Geef product 1: fruitsap
+Geef product 2: croissants
+Geef product 3: ham
+Geef product 4: peren
+Geef product 5: chocolade
+Wil je een product verwijderen? (ja/nee): nee
 Aantal producten: 5
-z713H
-Zmpbg
-vqIVC
-SHgA9
-uThPY
 ```
 
 **Input:**
 
 ```
-z713H
-Zmpbg
-vqIVC
-SHgA9
-uThPY
-ja
-6PbMH
+fruitsap
+croissants
+ham
+peren
+chocolade
+nee
 ```
 
 **Expected Output:**
 
 ```
 Aantal producten: 5
-z713H
-Zmpbg
-vqIVC
-SHgA9
-uThPY
 ```
 
 ---
@@ -331,41 +254,30 @@ uThPY
 **Complete console output:**
 
 ```
-Geef product 1: r13DF
-Geef product 2: mBSjr
-Geef product 3: YThWY
-Geef product 4: KcOMc
-Geef product 5: iwESq
+Geef product 1: fruitsap
+Geef product 2: pistolets
+Geef product 3: kaas
+Geef product 4: bananen
+Geef product 5: chocolade
 Wil je een product verwijderen? (ja/nee): nee
 Aantal producten: 5
-r13DF
-mBSjr
-YThWY
-KcOMc
-iwESq
 ```
 
 **Input:**
 
 ```
-r13DF
-mBSjr
-YThWY
-KcOMc
-iwESq
+fruitsap
+pistolets
+kaas
+bananen
+chocolade
 nee
-Kdmb6
 ```
 
 **Expected Output:**
 
 ```
 Aantal producten: 5
-r13DF
-mBSjr
-YThWY
-KcOMc
-iwESq
 ```
 
 ---
@@ -375,41 +287,32 @@ iwESq
 **Complete console output:**
 
 ```
-Geef product 1: kE3co
-Geef product 2: xpiDn
-Geef product 3: PobtQ
-Geef product 4: Sa402
-Geef product 5: yja3G
-Wil je een product verwijderen? (ja/nee): nee
-Aantal producten: 5
-kE3co
-xpiDn
-PobtQ
-Sa402
-yja3G
+Geef product 1: water
+Geef product 2: brood
+Geef product 3: ham
+Geef product 4: bananen
+Geef product 5: chips
+Wil je een product verwijderen? (ja/nee): ja
+Welk product wil je verwijderen? brood
+Aantal producten: 4
 ```
 
 **Input:**
 
 ```
-kE3co
-xpiDn
-PobtQ
-Sa402
-yja3G
-nee
-ZEIfn
+water
+brood
+ham
+bananen
+chips
+ja
+brood
 ```
 
 **Expected Output:**
 
 ```
-Aantal producten: 5
-kE3co
-xpiDn
-PobtQ
-Sa402
-yja3G
+Aantal producten: 4
 ```
 
 ---
@@ -419,42 +322,30 @@ yja3G
 **Complete console output:**
 
 ```
-Geef product 1: iaJPe
-Geef product 2: BcjJb
-Geef product 3: 6fsvX
-Geef product 4: rw0Lu
-Geef product 5: rKznD
-Wil je een product verwijderen? (ja/nee): ja
-Welk product wil je verwijderen? uDhf5
+Geef product 1: melk
+Geef product 2: brood
+Geef product 3: kipfilet
+Geef product 4: bananen
+Geef product 5: koekjes
+Wil je een product verwijderen? (ja/nee): nee
 Aantal producten: 5
-iaJPe
-BcjJb
-6fsvX
-rw0Lu
-rKznD
 ```
 
 **Input:**
 
 ```
-iaJPe
-BcjJb
-6fsvX
-rw0Lu
-rKznD
-ja
-uDhf5
+melk
+brood
+kipfilet
+bananen
+koekjes
+nee
 ```
 
 **Expected Output:**
 
 ```
 Aantal producten: 5
-iaJPe
-BcjJb
-6fsvX
-rw0Lu
-rKznD
 ```
 
 ---
@@ -464,42 +355,32 @@ rKznD
 **Complete console output:**
 
 ```
-Geef product 1: HliQx
-Geef product 2: MnATw
-Geef product 3: utLas
-Geef product 4: IoaIp
-Geef product 5: apRSl
+Geef product 1: water
+Geef product 2: croissants
+Geef product 3: ham
+Geef product 4: bananen
+Geef product 5: koekjes
 Wil je een product verwijderen? (ja/nee): ja
-Welk product wil je verwijderen? pivro
+Welk product wil je verwijderen? peren
 Aantal producten: 5
-HliQx
-MnATw
-utLas
-IoaIp
-apRSl
 ```
 
 **Input:**
 
 ```
-HliQx
-MnATw
-utLas
-IoaIp
-apRSl
+water
+croissants
+ham
+bananen
+koekjes
 ja
-pivro
+peren
 ```
 
 **Expected Output:**
 
 ```
 Aantal producten: 5
-HliQx
-MnATw
-utLas
-IoaIp
-apRSl
 ```
 
 ---
@@ -509,42 +390,32 @@ apRSl
 **Complete console output:**
 
 ```
-Geef product 1: W5mCA
-Geef product 2: XhNrx
-Geef product 3: Xr3KC
-Geef product 4: f038E
-Geef product 5: YYMTE
+Geef product 1: melk
+Geef product 2: croissants
+Geef product 3: ham
+Geef product 4: appels
+Geef product 5: chocolade
 Wil je een product verwijderen? (ja/nee): ja
-Welk product wil je verwijderen? hn9aM
-Aantal producten: 5
-W5mCA
-XhNrx
-Xr3KC
-f038E
-YYMTE
+Welk product wil je verwijderen? chocolade
+Aantal producten: 4
 ```
 
 **Input:**
 
 ```
-W5mCA
-XhNrx
-Xr3KC
-f038E
-YYMTE
+melk
+croissants
+ham
+appels
+chocolade
 ja
-hn9aM
+chocolade
 ```
 
 **Expected Output:**
 
 ```
-Aantal producten: 5
-W5mCA
-XhNrx
-Xr3KC
-f038E
-YYMTE
+Aantal producten: 4
 ```
 
 ---
@@ -554,42 +425,32 @@ YYMTE
 **Complete console output:**
 
 ```
-Geef product 1: A7WAd
-Geef product 2: rix6h
-Geef product 3: bQ2C7
-Geef product 4: b2Gvl
-Geef product 5: sct1L
+Geef product 1: fruitsap
+Geef product 2: croissants
+Geef product 3: kipfilet
+Geef product 4: peren
+Geef product 5: chocolade
 Wil je een product verwijderen? (ja/nee): ja
-Welk product wil je verwijderen? DTQTj
-Aantal producten: 5
-A7WAd
-rix6h
-bQ2C7
-b2Gvl
-sct1L
+Welk product wil je verwijderen? chocolade
+Aantal producten: 4
 ```
 
 **Input:**
 
 ```
-A7WAd
-rix6h
-bQ2C7
-b2Gvl
-sct1L
+fruitsap
+croissants
+kipfilet
+peren
+chocolade
 ja
-DTQTj
+chocolade
 ```
 
 **Expected Output:**
 
 ```
-Aantal producten: 5
-A7WAd
-rix6h
-bQ2C7
-b2Gvl
-sct1L
+Aantal producten: 4
 ```
 
 ---
@@ -599,41 +460,32 @@ sct1L
 **Complete console output:**
 
 ```
-Geef product 1: HXCiu
-Geef product 2: ASI9W
-Geef product 3: yxdzk
-Geef product 4: aYqAk
-Geef product 5: iaYMZ
-Wil je een product verwijderen? (ja/nee): nee
-Aantal producten: 5
-HXCiu
-ASI9W
-yxdzk
-aYqAk
-iaYMZ
+Geef product 1: water
+Geef product 2: pistolets
+Geef product 3: kipfilet
+Geef product 4: bananen
+Geef product 5: chocolade
+Wil je een product verwijderen? (ja/nee): ja
+Welk product wil je verwijderen? bananen
+Aantal producten: 4
 ```
 
 **Input:**
 
 ```
-HXCiu
-ASI9W
-yxdzk
-aYqAk
-iaYMZ
-nee
-PYzUo
+water
+pistolets
+kipfilet
+bananen
+chocolade
+ja
+bananen
 ```
 
 **Expected Output:**
 
 ```
-Aantal producten: 5
-HXCiu
-ASI9W
-yxdzk
-aYqAk
-iaYMZ
+Aantal producten: 4
 ```
 
 ---
@@ -643,42 +495,368 @@ iaYMZ
 **Complete console output:**
 
 ```
-Geef product 1: jdBmn
-Geef product 2: M80UM
-Geef product 3: 1I0Is
-Geef product 4: o7vir
-Geef product 5: ipAIm
+Geef product 1: water
+Geef product 2: pistolets
+Geef product 3: kaas
+Geef product 4: peren
+Geef product 5: chocolade
 Wil je een product verwijderen? (ja/nee): ja
-Welk product wil je verwijderen? auRHV
+Welk product wil je verwijderen? appels
 Aantal producten: 5
-jdBmn
-M80UM
-1I0Is
-o7vir
-ipAIm
 ```
 
 **Input:**
 
 ```
-jdBmn
-M80UM
-1I0Is
-o7vir
-ipAIm
+water
+pistolets
+kaas
+peren
+chocolade
 ja
-auRHV
+appels
 ```
 
 **Expected Output:**
 
 ```
 Aantal producten: 5
-jdBmn
-M80UM
-1I0Is
-o7vir
-ipAIm
+```
+
+---
+
+### Case 16
+
+**Complete console output:**
+
+```
+Geef product 1: water
+Geef product 2: pistolets
+Geef product 3: kipfilet
+Geef product 4: appels
+Geef product 5: koekjes
+Wil je een product verwijderen? (ja/nee): nee
+Aantal producten: 5
+```
+
+**Input:**
+
+```
+water
+pistolets
+kipfilet
+appels
+koekjes
+nee
+```
+
+**Expected Output:**
+
+```
+Aantal producten: 5
+```
+
+---
+
+### Case 17
+
+**Complete console output:**
+
+```
+Geef product 1: melk
+Geef product 2: brood
+Geef product 3: kaas
+Geef product 4: bananen
+Geef product 5: koekjes
+Wil je een product verwijderen? (ja/nee): nee
+Aantal producten: 5
+```
+
+**Input:**
+
+```
+melk
+brood
+kaas
+bananen
+koekjes
+nee
+```
+
+**Expected Output:**
+
+```
+Aantal producten: 5
+```
+
+---
+
+### Case 18
+
+**Complete console output:**
+
+```
+Geef product 1: water
+Geef product 2: brood
+Geef product 3: kipfilet
+Geef product 4: bananen
+Geef product 5: chocolade
+Wil je een product verwijderen? (ja/nee): nee
+Aantal producten: 5
+```
+
+**Input:**
+
+```
+water
+brood
+kipfilet
+bananen
+chocolade
+nee
+```
+
+**Expected Output:**
+
+```
+Aantal producten: 5
+```
+
+---
+
+### Case 19
+
+**Complete console output:**
+
+```
+Geef product 1: melk
+Geef product 2: pistolets
+Geef product 3: kipfilet
+Geef product 4: peren
+Geef product 5: koekjes
+Wil je een product verwijderen? (ja/nee): ja
+Welk product wil je verwijderen? brood
+Aantal producten: 5
+```
+
+**Input:**
+
+```
+melk
+pistolets
+kipfilet
+peren
+koekjes
+ja
+brood
+```
+
+**Expected Output:**
+
+```
+Aantal producten: 5
+```
+
+---
+
+### Case 20
+
+**Complete console output:**
+
+```
+Geef product 1: water
+Geef product 2: croissants
+Geef product 3: kipfilet
+Geef product 4: bananen
+Geef product 5: koekjes
+Wil je een product verwijderen? (ja/nee): ja
+Welk product wil je verwijderen? croissants
+Aantal producten: 4
+```
+
+**Input:**
+
+```
+water
+croissants
+kipfilet
+bananen
+koekjes
+ja
+croissants
+```
+
+**Expected Output:**
+
+```
+Aantal producten: 4
+```
+
+---
+
+### Case 21
+
+**Complete console output:**
+
+```
+Geef product 1: water
+Geef product 2: brood
+Geef product 3: kaas
+Geef product 4: appels
+Geef product 5: chocolade
+Wil je een product verwijderen? (ja/nee): nee
+Aantal producten: 5
+```
+
+**Input:**
+
+```
+water
+brood
+kaas
+appels
+chocolade
+nee
+```
+
+**Expected Output:**
+
+```
+Aantal producten: 5
+```
+
+---
+
+### Case 22
+
+**Complete console output:**
+
+```
+Geef product 1: fruitsap
+Geef product 2: pistolets
+Geef product 3: kaas
+Geef product 4: bananen
+Geef product 5: chips
+Wil je een product verwijderen? (ja/nee): ja
+Welk product wil je verwijderen? croissants
+Aantal producten: 5
+```
+
+**Input:**
+
+```
+fruitsap
+pistolets
+kaas
+bananen
+chips
+ja
+croissants
+```
+
+**Expected Output:**
+
+```
+Aantal producten: 5
+```
+
+---
+
+### Case 23
+
+**Complete console output:**
+
+```
+Geef product 1: water
+Geef product 2: brood
+Geef product 3: kipfilet
+Geef product 4: appels
+Geef product 5: chocolade
+Wil je een product verwijderen? (ja/nee): nee
+Aantal producten: 5
+```
+
+**Input:**
+
+```
+water
+brood
+kipfilet
+appels
+chocolade
+nee
+```
+
+**Expected Output:**
+
+```
+Aantal producten: 5
+```
+
+---
+
+### Case 24
+
+**Complete console output:**
+
+```
+Geef product 1: fruitsap
+Geef product 2: pistolets
+Geef product 3: kipfilet
+Geef product 4: bananen
+Geef product 5: chocolade
+Wil je een product verwijderen? (ja/nee): nee
+Aantal producten: 5
+```
+
+**Input:**
+
+```
+fruitsap
+pistolets
+kipfilet
+bananen
+chocolade
+nee
+```
+
+**Expected Output:**
+
+```
+Aantal producten: 5
+```
+
+---
+
+### Case 25
+
+**Complete console output:**
+
+```
+Geef product 1: water
+Geef product 2: croissants
+Geef product 3: ham
+Geef product 4: peren
+Geef product 5: chips
+Wil je een product verwijderen? (ja/nee): nee
+Aantal producten: 5
+```
+
+**Input:**
+
+```
+water
+croissants
+ham
+peren
+chips
+nee
+```
+
+**Expected Output:**
+
+```
+Aantal producten: 5
 ```
 
 ---
