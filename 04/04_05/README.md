@@ -2,8 +2,6 @@
 
 Een restaurant wil de bestellingen van zijn klanten bijhouden. Er zijn precies drie klanten die bestellen. Het restaurant heeft drie gerechten op het menu: pasta, pizza en burger.
 
-Vraag de gebruiker om de naam van elke klant en welk gerecht ze willen bestellen. Sla elke bestelling op als een string in een List<string> in het formaat "Naam: gerecht".
-
 Tonen na alle bestellingen: hoeveel van elk gerecht er besteld is, en een overzicht van wie wat besteld heeft.
 
 ## Fuzz Test Cases
