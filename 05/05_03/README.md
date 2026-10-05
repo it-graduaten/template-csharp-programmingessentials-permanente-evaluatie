@@ -14,23 +14,28 @@ Below are the automatically generated input/output expectations.
 
 ```
 Hoeveel getallen wil je invoeren?
-3
-Geef getal 1: Geef getal 2: Geef getal 3: Gemiddelde: 4.666666666666667
+4
+Geef getal 1: 11
+Geef getal 2: 6
+Geef getal 3: 6
+Geef getal 4: -1
+Gemiddelde: 5.5
 ```
 
 **Input:**
 
 ```
-3
--7
-20
-1
+4
+11
+6
+6
+-1
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1: Geef getal 2: Geef getal 3: Gemiddelde: 4.666666666666667
+Gemiddelde: 5.5
 ```
 
 ---
@@ -41,22 +46,28 @@ Geef getal 1: Geef getal 2: Geef getal 3: Gemiddelde: 4.666666666666667
 
 ```
 Hoeveel getallen wil je invoeren?
-2
-Geef getal 1: Geef getal 2: Gemiddelde: 8
+4
+Geef getal 1: 2
+Geef getal 2: -3
+Geef getal 3: 11
+Geef getal 4: 11
+Gemiddelde: 5.25
 ```
 
 **Input:**
 
 ```
+4
 2
--1
-17
+-3
+11
+11
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1: Geef getal 2: Gemiddelde: 8
+Gemiddelde: 5.25
 ```
 
 ---
@@ -67,21 +78,26 @@ Geef getal 1: Geef getal 2: Gemiddelde: 8
 
 ```
 Hoeveel getallen wil je invoeren?
-1
-Geef getal 1: Gemiddelde: -3
+3
+Geef getal 1: -2
+Geef getal 2: 15
+Geef getal 3: 2
+Gemiddelde: 5
 ```
 
 **Input:**
 
 ```
-1
--3
+3
+-2
+15
+2
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1: Gemiddelde: -3
+Gemiddelde: 5
 ```
 
 ---
@@ -92,25 +108,24 @@ Geef getal 1: Gemiddelde: -3
 
 ```
 Hoeveel getallen wil je invoeren?
-5
-Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Geef getal 5: Gemiddelde: 8.4
+2
+Geef getal 1: 9
+Geef getal 2: -5
+Gemiddelde: 2
 ```
 
 **Input:**
 
 ```
-5
-7
-15
-18
--2
-4
+2
+9
+-5
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Geef getal 5: Gemiddelde: 8.4
+Gemiddelde: 2
 ```
 
 ---
@@ -121,22 +136,22 @@ Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Geef getal 5: Gemiddelde
 
 ```
 Hoeveel getallen wil je invoeren?
-2
-Geef getal 1: Geef getal 2: Gemiddelde: 3
+1
+Geef getal 1: 14
+Gemiddelde: 14
 ```
 
 **Input:**
 
 ```
-2
-8
--2
+1
+14
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1: Geef getal 2: Gemiddelde: 3
+Gemiddelde: 14
 ```
 
 ---
@@ -147,23 +162,22 @@ Geef getal 1: Geef getal 2: Gemiddelde: 3
 
 ```
 Hoeveel getallen wil je invoeren?
-3
-Geef getal 1: Geef getal 2: Geef getal 3: Gemiddelde: 9.666666666666666
+1
+Geef getal 1: 5
+Gemiddelde: 5
 ```
 
 **Input:**
 
 ```
-3
-2
-11
-16
+1
+5
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1: Geef getal 2: Geef getal 3: Gemiddelde: 9.666666666666666
+Gemiddelde: 5
 ```
 
 ---
@@ -174,23 +188,22 @@ Geef getal 1: Geef getal 2: Geef getal 3: Gemiddelde: 9.666666666666666
 
 ```
 Hoeveel getallen wil je invoeren?
-3
-Geef getal 1: Geef getal 2: Geef getal 3: Gemiddelde: -0.3333333333333333
+1
+Geef getal 1: 18
+Gemiddelde: 18
 ```
 
 **Input:**
 
 ```
-3
--3
-0
-2
+1
+18
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1: Geef getal 2: Geef getal 3: Gemiddelde: -0.3333333333333333
+Gemiddelde: 18
 ```
 
 ---
@@ -201,25 +214,26 @@ Geef getal 1: Geef getal 2: Geef getal 3: Gemiddelde: -0.3333333333333333
 
 ```
 Hoeveel getallen wil je invoeren?
-5
-Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Geef getal 5: Gemiddelde: 7
+3
+Geef getal 1: 2
+Geef getal 2: 17
+Geef getal 3: 18
+Gemiddelde: 12.333333333333334
 ```
 
 **Input:**
 
 ```
-5
-15
--9
+3
+2
+17
 18
--2
-13
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Geef getal 5: Gemiddelde: 7
+Gemiddelde: 12.333333333333334
 ```
 
 ---
@@ -230,22 +244,26 @@ Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Geef getal 5: Gemiddelde
 
 ```
 Hoeveel getallen wil je invoeren?
-2
-Geef getal 1: Geef getal 2: Gemiddelde: 6
+3
+Geef getal 1: 20
+Geef getal 2: 3
+Geef getal 3: 18
+Gemiddelde: 13.666666666666666
 ```
 
 **Input:**
 
 ```
-2
-17
--5
+3
+20
+3
+18
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1: Geef getal 2: Gemiddelde: 6
+Gemiddelde: 13.666666666666666
 ```
 
 ---
@@ -257,21 +275,23 @@ Geef getal 1: Geef getal 2: Gemiddelde: 6
 ```
 Hoeveel getallen wil je invoeren?
 2
-Geef getal 1: Geef getal 2: Gemiddelde: 6
+Geef getal 1: 9
+Geef getal 2: 4
+Gemiddelde: 6.5
 ```
 
 **Input:**
 
 ```
 2
--8
-20
+9
+4
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1: Geef getal 2: Gemiddelde: 6
+Gemiddelde: 6.5
 ```
 
 ---

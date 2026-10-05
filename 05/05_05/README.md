@@ -14,23 +14,26 @@ Below are the automatically generated input/output expectations.
 
 ```
 Hoeveel getallen wil je invoeren?
-1
-Geef getal 1: Geef een getal om te zoeken: 3
-Het getal 0 is niet gevonden.
+2
+Geef getal 1: 18
+Geef getal 2: -7
+Geef een getal om te zoeken: -4
+Het getal -4 is niet gevonden.
 ```
 
 **Input:**
 
 ```
-1
-3
-0
+2
+18
+-7
+-4
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1: Het getal 0 is niet gevonden.
+Het getal -4 is niet gevonden.
 ```
 
 ---
@@ -42,24 +45,27 @@ Geef getal 1: Het getal 0 is niet gevonden.
 ```
 Hoeveel getallen wil je invoeren?
 3
-Geef getal 1: Geef getal 2: Geef getal 3: Geef een getal om te zoeken: 20
-Het getal -8 is niet gevonden.
+Geef getal 1: 16
+Geef getal 2: -3
+Geef getal 3: -3
+Geef een getal om te zoeken: 10
+Het getal 10 is niet gevonden.
 ```
 
 **Input:**
 
 ```
 3
-20
--10
-8
--8
+16
+-3
+-3
+10
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1: Geef getal 2: Geef getal 3: Het getal -8 is niet gevonden.
+Het getal 10 is niet gevonden.
 ```
 
 ---
@@ -71,25 +77,29 @@ Geef getal 1: Geef getal 2: Geef getal 3: Het getal -8 is niet gevonden.
 ```
 Hoeveel getallen wil je invoeren?
 4
-Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Geef een getal om te zoeken: 2
-Het getal 17 is niet gevonden.
+Geef getal 1: 5
+Geef getal 2: 19
+Geef getal 3: 16
+Geef getal 4: 4
+Geef een getal om te zoeken: 0
+Het getal 0 is niet gevonden.
 ```
 
 **Input:**
 
 ```
 4
-2
+5
 19
--9
--1
-17
+16
+4
+0
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Het getal 17 is niet gevonden.
+Het getal 0 is niet gevonden.
 ```
 
 ---
@@ -101,22 +111,23 @@ Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Het getal 17 is niet gev
 ```
 Hoeveel getallen wil je invoeren?
 1
-Geef getal 1: Geef een getal om te zoeken: 20
-Het getal 10 is niet gevonden.
+Geef getal 1: -7
+Geef een getal om te zoeken: 5
+Het getal 5 is niet gevonden.
 ```
 
 **Input:**
 
 ```
 1
-20
-10
+-7
+5
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1: Het getal 10 is niet gevonden.
+Het getal 5 is niet gevonden.
 ```
 
 ---
@@ -128,25 +139,29 @@ Geef getal 1: Het getal 10 is niet gevonden.
 ```
 Hoeveel getallen wil je invoeren?
 4
-Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Geef een getal om te zoeken: 0
-Het getal -1 is niet gevonden.
+Geef getal 1: 13
+Geef getal 2: -6
+Geef getal 3: -9
+Geef getal 4: 15
+Geef een getal om te zoeken: 6
+Het getal 6 is niet gevonden.
 ```
 
 **Input:**
 
 ```
 4
-0
 13
+-6
 -9
-18
--1
+15
+6
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Het getal -1 is niet gevonden.
+Het getal 6 is niet gevonden.
 ```
 
 ---
@@ -157,26 +172,24 @@ Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Het getal -1 is niet gev
 
 ```
 Hoeveel getallen wil je invoeren?
-4
-Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Geef een getal om te zoeken: 9
-Het getal -3 is niet gevonden.
+1
+Geef getal 1: -10
+Geef een getal om te zoeken: 14
+Het getal 14 is niet gevonden.
 ```
 
 **Input:**
 
 ```
-4
-9
+1
 -10
-15
-13
--3
+14
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Het getal -3 is niet gevonden.
+Het getal 14 is niet gevonden.
 ```
 
 ---
@@ -187,27 +200,32 @@ Geef getal 1: Geef getal 2: Geef getal 3: Geef getal 4: Het getal -3 is niet gev
 
 ```
 Hoeveel getallen wil je invoeren?
-3
-Geef getal 1: Geef getal 2: Geef getal 3: Geef een getal om te zoeken: -4
-Het getal -4 is gevonden op de volgende index(en):
-0
+5
+Geef getal 1: 15
+Geef getal 2: 10
+Geef getal 3: 20
+Geef getal 4: -8
+Geef getal 5: 1
+Geef een getal om te zoeken: -10
+Het getal -10 is niet gevonden.
 ```
 
 **Input:**
 
 ```
-3
--4
+5
+15
+10
+20
+-8
 1
--9
--4
+-10
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1: Geef getal 2: Geef getal 3: Het getal -4 is gevonden op de volgende index(en):
-0
+Het getal -10 is niet gevonden.
 ```
 
 ---
@@ -218,23 +236,26 @@ Geef getal 1: Geef getal 2: Geef getal 3: Het getal -4 is gevonden op de volgend
 
 ```
 Hoeveel getallen wil je invoeren?
-1
-Geef getal 1: Geef een getal om te zoeken: 14
-Het getal -1 is niet gevonden.
+2
+Geef getal 1: 10
+Geef getal 2: 5
+Geef een getal om te zoeken: 13
+Het getal 13 is niet gevonden.
 ```
 
 **Input:**
 
 ```
-1
-14
--1
+2
+10
+5
+13
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1: Het getal -1 is niet gevonden.
+Het getal 13 is niet gevonden.
 ```
 
 ---
@@ -245,24 +266,32 @@ Geef getal 1: Het getal -1 is niet gevonden.
 
 ```
 Hoeveel getallen wil je invoeren?
-2
-Geef getal 1: Geef getal 2: Geef een getal om te zoeken: -2
-Het getal -3 is niet gevonden.
+5
+Geef getal 1: -3
+Geef getal 2: 12
+Geef getal 3: -3
+Geef getal 4: -8
+Geef getal 5: 20
+Geef een getal om te zoeken: 16
+Het getal 16 is niet gevonden.
 ```
 
 **Input:**
 
 ```
-2
--2
--1
+5
 -3
+12
+-3
+-8
+20
+16
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1: Geef getal 2: Het getal -3 is niet gevonden.
+Het getal 16 is niet gevonden.
 ```
 
 ---
@@ -273,27 +302,32 @@ Geef getal 1: Geef getal 2: Het getal -3 is niet gevonden.
 
 ```
 Hoeveel getallen wil je invoeren?
-3
-Geef getal 1: Geef getal 2: Geef getal 3: Geef een getal om te zoeken: 19
-Het getal 4 is gevonden op de volgende index(en):
-1
+5
+Geef getal 1: 15
+Geef getal 2: -6
+Geef getal 3: -9
+Geef getal 4: 4
+Geef getal 5: 18
+Geef een getal om te zoeken: 16
+Het getal 16 is niet gevonden.
 ```
 
 **Input:**
 
 ```
-3
-19
+5
+15
+-6
+-9
 4
--8
-4
+18
+16
 ```
 
 **Expected Output:**
 
 ```
-Geef getal 1: Geef getal 2: Geef getal 3: Het getal 4 is gevonden op de volgende index(en):
-1
+Het getal 16 is niet gevonden.
 ```
 
 ---

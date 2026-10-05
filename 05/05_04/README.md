@@ -14,24 +14,28 @@ Below are the automatically generated input/output expectations.
 
 ```
 Hoeveel namen wil je invoeren?
-2
-Geef naam 1: Geef naam 2: Geef een letter: Kristien
-Aantal namen dat begint met 'V': 0
+3
+Geef naam 1: Roger
+Geef naam 2: Bart
+Geef naam 3: Caroline
+Geef een letter: Q
+Aantal namen dat begint met 'Q': 0
 ```
 
 **Input:**
 
 ```
-2
-Kristien
-Julien
-V
+3
+Roger
+Bart
+Caroline
+Q
 ```
 
 **Expected Output:**
 
 ```
-Geef naam 1: Geef naam 2: Aantal namen dat begint met 'V': 0
+Aantal namen dat begint met 'Q': 0
 ```
 
 ---
@@ -42,23 +46,26 @@ Geef naam 1: Geef naam 2: Aantal namen dat begint met 'V': 0
 
 ```
 Hoeveel namen wil je invoeren?
-1
-Geef naam 1: Geef een letter: Mauro
-Aantal namen dat begint met 'W': 0
+2
+Geef naam 1: Etienne
+Geef naam 2: Stephanie
+Geef een letter: A
+Aantal namen dat begint met 'A': 0
 ```
 
 **Input:**
 
 ```
-1
-Mauro
-W
+2
+Etienne
+Stephanie
+A
 ```
 
 **Expected Output:**
 
 ```
-Geef naam 1: Aantal namen dat begint met 'W': 0
+Aantal namen dat begint met 'A': 0
 ```
 
 ---
@@ -69,23 +76,30 @@ Geef naam 1: Aantal namen dat begint met 'W': 0
 
 ```
 Hoeveel namen wil je invoeren?
-1
-Geef naam 1: Geef een letter: Pieter
-Aantal namen dat begint met 'W': 0
+4
+Geef naam 1: Victor
+Geef naam 2: Willem
+Geef naam 3: Anne-Marie
+Geef naam 4: Johan
+Geef een letter: I
+Aantal namen dat begint met 'I': 0
 ```
 
 **Input:**
 
 ```
-1
-Pieter
-W
+4
+Victor
+Willem
+Anne-Marie
+Johan
+I
 ```
 
 **Expected Output:**
 
 ```
-Geef naam 1: Aantal namen dat begint met 'W': 0
+Aantal namen dat begint met 'I': 0
 ```
 
 ---
@@ -96,26 +110,32 @@ Geef naam 1: Aantal namen dat begint met 'W': 0
 
 ```
 Hoeveel namen wil je invoeren?
-4
-Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Geef een letter: Tom
-Aantal namen dat begint met 'T': 1
+5
+Geef naam 1: Melissa
+Geef naam 2: Nina
+Geef naam 3: Jarne
+Geef naam 4: Karim
+Geef naam 5: Carine
+Geef een letter: U
+Aantal namen dat begint met 'U': 0
 ```
 
 **Input:**
 
 ```
-4
-Tom
-Johan
-Nancy
-Eline
-T
+5
+Melissa
+Nina
+Jarne
+Karim
+Carine
+U
 ```
 
 **Expected Output:**
 
 ```
-Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Aantal namen dat begint met 'T': 1
+Aantal namen dat begint met 'U': 0
 ```
 
 ---
@@ -126,27 +146,24 @@ Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Aantal namen dat begint met 
 
 ```
 Hoeveel namen wil je invoeren?
-5
-Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Geef naam 5: Geef een letter: Mario
-Aantal namen dat begint met 'J': 2
+1
+Geef naam 1: Lucie
+Geef een letter: E
+Aantal namen dat begint met 'E': 0
 ```
 
 **Input:**
 
 ```
-5
-Mario
-Joanna
-Ine
-Jenny
-Yvonne
-J
+1
+Lucie
+E
 ```
 
 **Expected Output:**
 
 ```
-Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Geef naam 5: Aantal namen dat begint met 'J': 2
+Aantal namen dat begint met 'E': 0
 ```
 
 ---
@@ -157,23 +174,26 @@ Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Geef naam 5: Aantal namen da
 
 ```
 Hoeveel namen wil je invoeren?
-1
-Geef naam 1: Geef een letter: Monique
-Aantal namen dat begint met 'L': 0
+2
+Geef naam 1: Catharina
+Geef naam 2: Sabine
+Geef een letter: Q
+Aantal namen dat begint met 'Q': 0
 ```
 
 **Input:**
 
 ```
-1
-Monique
-L
+2
+Catharina
+Sabine
+Q
 ```
 
 **Expected Output:**
 
 ```
-Geef naam 1: Aantal namen dat begint met 'L': 0
+Aantal namen dat begint met 'Q': 0
 ```
 
 ---
@@ -184,25 +204,26 @@ Geef naam 1: Aantal namen dat begint met 'L': 0
 
 ```
 Hoeveel namen wil je invoeren?
-3
-Geef naam 1: Geef naam 2: Geef naam 3: Geef een letter: Kim
-Aantal namen dat begint met 'E': 0
+2
+Geef naam 1: Steven
+Geef naam 2: Kris
+Geef een letter: B
+Aantal namen dat begint met 'B': 0
 ```
 
 **Input:**
 
 ```
-3
-Kim
-Ruben
-Petra
-E
+2
+Steven
+Kris
+B
 ```
 
 **Expected Output:**
 
 ```
-Geef naam 1: Geef naam 2: Geef naam 3: Aantal namen dat begint met 'E': 0
+Aantal namen dat begint met 'B': 0
 ```
 
 ---
@@ -213,26 +234,28 @@ Geef naam 1: Geef naam 2: Geef naam 3: Aantal namen dat begint met 'E': 0
 
 ```
 Hoeveel namen wil je invoeren?
-4
-Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Geef een letter: Victoria
-Aantal namen dat begint met 'Z': 0
+3
+Geef naam 1: David
+Geef naam 2: Véronique
+Geef naam 3: Eva
+Geef een letter: R
+Aantal namen dat begint met 'R': 0
 ```
 
 **Input:**
 
 ```
-4
-Victoria
-Adriana
-Wout
-Luc
-Z
+3
+David
+Véronique
+Eva
+R
 ```
 
 **Expected Output:**
 
 ```
-Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Aantal namen dat begint met 'Z': 0
+Aantal namen dat begint met 'R': 0
 ```
 
 ---
@@ -243,25 +266,30 @@ Geef naam 1: Geef naam 2: Geef naam 3: Geef naam 4: Aantal namen dat begint met 
 
 ```
 Hoeveel namen wil je invoeren?
-3
-Geef naam 1: Geef naam 2: Geef naam 3: Geef een letter: Ward
-Aantal namen dat begint met 'J': 0
+4
+Geef naam 1: Daniel
+Geef naam 2: Thomas
+Geef naam 3: Joren
+Geef naam 4: An
+Geef een letter: O
+Aantal namen dat begint met 'O': 0
 ```
 
 **Input:**
 
 ```
-3
-Ward
-Mehdi
-Heidi
-J
+4
+Daniel
+Thomas
+Joren
+An
+O
 ```
 
 **Expected Output:**
 
 ```
-Geef naam 1: Geef naam 2: Geef naam 3: Aantal namen dat begint met 'J': 0
+Aantal namen dat begint met 'O': 0
 ```
 
 ---
@@ -273,22 +301,23 @@ Geef naam 1: Geef naam 2: Geef naam 3: Aantal namen dat begint met 'J': 0
 ```
 Hoeveel namen wil je invoeren?
 1
-Geef naam 1: Geef een letter: Mathias
-Aantal namen dat begint met 'A': 0
+Geef naam 1: Paul
+Geef een letter: U
+Aantal namen dat begint met 'U': 0
 ```
 
 **Input:**
 
 ```
 1
-Mathias
-A
+Paul
+U
 ```
 
 **Expected Output:**
 
 ```
-Geef naam 1: Aantal namen dat begint met 'A': 0
+Aantal namen dat begint met 'U': 0
 ```
 
 ---
