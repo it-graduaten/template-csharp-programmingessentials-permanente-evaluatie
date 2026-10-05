@@ -13,26 +13,30 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
-NONZERO_EXIT(134): Unhandled exception. System.FormatException: The input string 'Luc' was not in a correct format.
-   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
-   at System.Int32.Parse(String s)
-   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/05/05_02/consoleapp/Program.cs:line 9
+Hoeveel scores wil je invoeren?
+3
+Geef score 1: 
+24
+Geef score 2: 
+15
+Geef score 3: 
+25
+Som: 64
 ```
 
 **Input:**
 
 ```
-1
-Luc
+3
+24
+15
+25
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(134): Unhandled exception. System.FormatException: The input string 'Luc' was not in a correct format.
-   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
-   at System.Int32.Parse(String s)
-   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/05/05_02/consoleapp/Program.cs:line 9
+Som: 64
 ```
 
 ---
@@ -42,30 +46,27 @@ NONZERO_EXIT(134): Unhandled exception. System.FormatException: The input string
 **Complete console output:**
 
 ```
-NONZERO_EXIT(134): Unhandled exception. System.FormatException: The input string 'Monique' was not in a correct format.
-   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
-   at System.Int32.Parse(String s)
-   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/05/05_02/consoleapp/Program.cs:line 9
+Hoeveel scores wil je invoeren?
+2
+Geef score 1: 
+29
+Geef score 2: 
+34
+Som: 63
 ```
 
 **Input:**
 
 ```
-5
-Monique
-Tania
-Mustafa
-Jacqueline
-Paul
+2
+29
+34
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(134): Unhandled exception. System.FormatException: The input string 'Monique' was not in a correct format.
-   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
-   at System.Int32.Parse(String s)
-   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/05/05_02/consoleapp/Program.cs:line 9
+Som: 63
 ```
 
 ---
@@ -75,29 +76,24 @@ NONZERO_EXIT(134): Unhandled exception. System.FormatException: The input string
 **Complete console output:**
 
 ```
-NONZERO_EXIT(134): Unhandled exception. System.FormatException: The input string 'Mathias' was not in a correct format.
-   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
-   at System.Int32.Parse(String s)
-   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/05/05_02/consoleapp/Program.cs:line 9
+Hoeveel scores wil je invoeren?
+1
+Geef score 1: 
+23
+Som: 23
 ```
 
 **Input:**
 
 ```
-4
-Mathias
-Sofie
-Bart
-Frans
+1
+23
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(134): Unhandled exception. System.FormatException: The input string 'Mathias' was not in a correct format.
-   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
-   at System.Int32.Parse(String s)
-   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/05/05_02/consoleapp/Program.cs:line 9
+Som: 23
 ```
 
 ---
@@ -107,29 +103,24 @@ NONZERO_EXIT(134): Unhandled exception. System.FormatException: The input string
 **Complete console output:**
 
 ```
-NONZERO_EXIT(134): Unhandled exception. System.FormatException: The input string 'Elena' was not in a correct format.
-   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
-   at System.Int32.Parse(String s)
-   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/05/05_02/consoleapp/Program.cs:line 9
+Hoeveel scores wil je invoeren?
+1
+Geef score 1: 
+11
+Som: 11
 ```
 
 **Input:**
 
 ```
-4
-Elena
-Sophia
-Hugo
-Luc
+1
+11
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(134): Unhandled exception. System.FormatException: The input string 'Elena' was not in a correct format.
-   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
-   at System.Int32.Parse(String s)
-   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/05/05_02/consoleapp/Program.cs:line 9
+Som: 11
 ```
 
 ---
@@ -139,27 +130,27 @@ NONZERO_EXIT(134): Unhandled exception. System.FormatException: The input string
 **Complete console output:**
 
 ```
-NONZERO_EXIT(134): Unhandled exception. System.FormatException: The input string 'An' was not in a correct format.
-   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
-   at System.Int32.Parse(String s)
-   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/05/05_02/consoleapp/Program.cs:line 9
+Hoeveel scores wil je invoeren?
+2
+Geef score 1: 
+6
+Geef score 2: 
+26
+Som: 32
 ```
 
 **Input:**
 
 ```
 2
-An
-Isabel
+6
+26
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(134): Unhandled exception. System.FormatException: The input string 'An' was not in a correct format.
-   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
-   at System.Int32.Parse(String s)
-   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/05/05_02/consoleapp/Program.cs:line 9
+Som: 32
 ```
 
 ---
@@ -169,26 +160,33 @@ NONZERO_EXIT(134): Unhandled exception. System.FormatException: The input string
 **Complete console output:**
 
 ```
-NONZERO_EXIT(134): Unhandled exception. System.FormatException: The input string 'Theo' was not in a correct format.
-   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
-   at System.Int32.Parse(String s)
-   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/05/05_02/consoleapp/Program.cs:line 9
+Hoeveel scores wil je invoeren?
+4
+Geef score 1: 
+32
+Geef score 2: 
+27
+Geef score 3: 
+21
+Geef score 4: 
+6
+Som: 86
 ```
 
 **Input:**
 
 ```
-1
-Theo
+4
+32
+27
+21
+6
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(134): Unhandled exception. System.FormatException: The input string 'Theo' was not in a correct format.
-   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
-   at System.Int32.Parse(String s)
-   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/05/05_02/consoleapp/Program.cs:line 9
+Som: 86
 ```
 
 ---
@@ -198,28 +196,36 @@ NONZERO_EXIT(134): Unhandled exception. System.FormatException: The input string
 **Complete console output:**
 
 ```
-NONZERO_EXIT(134): Unhandled exception. System.FormatException: The input string 'Dorine' was not in a correct format.
-   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
-   at System.Int32.Parse(String s)
-   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/05/05_02/consoleapp/Program.cs:line 9
+Hoeveel scores wil je invoeren?
+5
+Geef score 1: 
+22
+Geef score 2: 
+26
+Geef score 3: 
+22
+Geef score 4: 
+4
+Geef score 5: 
+30
+Som: 104
 ```
 
 **Input:**
 
 ```
-3
-Dorine
-Renaat
-Luc
+5
+22
+26
+22
+4
+30
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(134): Unhandled exception. System.FormatException: The input string 'Dorine' was not in a correct format.
-   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
-   at System.Int32.Parse(String s)
-   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/05/05_02/consoleapp/Program.cs:line 9
+Som: 104
 ```
 
 ---
@@ -229,30 +235,33 @@ NONZERO_EXIT(134): Unhandled exception. System.FormatException: The input string
 **Complete console output:**
 
 ```
-NONZERO_EXIT(134): Unhandled exception. System.FormatException: The input string 'Louis' was not in a correct format.
-   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
-   at System.Int32.Parse(String s)
-   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/05/05_02/consoleapp/Program.cs:line 9
+Hoeveel scores wil je invoeren?
+4
+Geef score 1: 
+16
+Geef score 2: 
+13
+Geef score 3: 
+6
+Geef score 4: 
+7
+Som: 42
 ```
 
 **Input:**
 
 ```
-5
-Louis
-Isabel
-Petrus
-Mohammed
-Vanessa
+4
+16
+13
+6
+7
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(134): Unhandled exception. System.FormatException: The input string 'Louis' was not in a correct format.
-   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
-   at System.Int32.Parse(String s)
-   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/05/05_02/consoleapp/Program.cs:line 9
+Som: 42
 ```
 
 ---
@@ -262,26 +271,27 @@ NONZERO_EXIT(134): Unhandled exception. System.FormatException: The input string
 **Complete console output:**
 
 ```
-NONZERO_EXIT(134): Unhandled exception. System.FormatException: The input string 'James' was not in a correct format.
-   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
-   at System.Int32.Parse(String s)
-   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/05/05_02/consoleapp/Program.cs:line 9
+Hoeveel scores wil je invoeren?
+2
+Geef score 1: 
+29
+Geef score 2: 
+18
+Som: 47
 ```
 
 **Input:**
 
 ```
-1
-James
+2
+29
+18
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(134): Unhandled exception. System.FormatException: The input string 'James' was not in a correct format.
-   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
-   at System.Int32.Parse(String s)
-   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/05/05_02/consoleapp/Program.cs:line 9
+Som: 47
 ```
 
 ---
@@ -291,26 +301,33 @@ NONZERO_EXIT(134): Unhandled exception. System.FormatException: The input string
 **Complete console output:**
 
 ```
-NONZERO_EXIT(134): Unhandled exception. System.FormatException: The input string 'Quinten' was not in a correct format.
-   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
-   at System.Int32.Parse(String s)
-   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/05/05_02/consoleapp/Program.cs:line 9
+Hoeveel scores wil je invoeren?
+4
+Geef score 1: 
+9
+Geef score 2: 
+1
+Geef score 3: 
+30
+Geef score 4: 
+15
+Som: 55
 ```
 
 **Input:**
 
 ```
+4
+9
 1
-Quinten
+30
+15
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(134): Unhandled exception. System.FormatException: The input string 'Quinten' was not in a correct format.
-   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
-   at System.Int32.Parse(String s)
-   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/05/05_02/consoleapp/Program.cs:line 9
+Som: 55
 ```
 
 ---
