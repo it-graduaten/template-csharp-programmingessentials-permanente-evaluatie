@@ -12,475 +12,575 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=Juliette
+**Complete console output:**
 
+```
+Voer je naam in: Jan
+Welkom, Jan!
+```
 
 **Input:**
 
 ```
-Juliette
+Jan
 ```
 
 **Expected Output:**
 
 ```
-Voer je naam in: Welkom, Juliette!
+Welkom, Jan!
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=Febe
+**Complete console output:**
 
+```
+Voer je naam in: Olivia
+Welkom, Olivia!
+```
 
 **Input:**
 
 ```
-Febe
+Olivia
 ```
 
 **Expected Output:**
 
 ```
-Voer je naam in: Welkom, Febe!
+Welkom, Olivia!
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=Chloé
+**Complete console output:**
 
+```
+Voer je naam in: Nathalie
+Welkom, Nathalie!
+```
 
 **Input:**
 
 ```
-Chloé
+Nathalie
 ```
 
 **Expected Output:**
 
 ```
-Voer je naam in: Welkom, Chloé!
+Welkom, Nathalie!
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=Bart
+**Complete console output:**
 
+```
+Voer je naam in: Anne-Marie
+Welkom, Anne-Marie!
+```
 
 **Input:**
 
 ```
-Bart
+Anne-Marie
 ```
 
 **Expected Output:**
 
 ```
-Voer je naam in: Welkom, Bart!
+Welkom, Anne-Marie!
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=Johanna
+**Complete console output:**
 
+```
+Voer je naam in: Nicole
+Welkom, Nicole!
+```
 
 **Input:**
 
 ```
-Johanna
+Nicole
 ```
 
 **Expected Output:**
 
 ```
-Voer je naam in: Welkom, Johanna!
+Welkom, Nicole!
 ```
 
 ---
 
 ### Case 6
 
-**Description:** Run 6: args=Freddy
+**Complete console output:**
 
+```
+Voer je naam in: Dorine
+Welkom, Dorine!
+```
 
 **Input:**
 
 ```
-Freddy
+Dorine
 ```
 
 **Expected Output:**
 
 ```
-Voer je naam in: Welkom, Freddy!
+Welkom, Dorine!
 ```
 
 ---
 
 ### Case 7
 
-**Description:** Run 7: args=Lucas
+**Complete console output:**
 
+```
+Voer je naam in: Lennert
+Welkom, Lennert!
+```
 
 **Input:**
 
 ```
-Lucas
+Lennert
 ```
 
 **Expected Output:**
 
 ```
-Voer je naam in: Welkom, Lucas!
+Welkom, Lennert!
 ```
 
 ---
 
 ### Case 8
 
-**Description:** Run 8: args=Danielle
+**Complete console output:**
 
+```
+Voer je naam in: Steven
+Welkom, Steven!
+```
 
 **Input:**
 
 ```
-Danielle
+Steven
 ```
 
 **Expected Output:**
 
 ```
-Voer je naam in: Welkom, Danielle!
+Welkom, Steven!
 ```
 
 ---
 
 ### Case 9
 
-**Description:** Run 9: args=Monique
+**Complete console output:**
 
+```
+Voer je naam in: Dieter
+Welkom, Dieter!
+```
 
 **Input:**
 
 ```
-Monique
+Dieter
 ```
 
 **Expected Output:**
 
 ```
-Voer je naam in: Welkom, Monique!
+Welkom, Dieter!
 ```
 
 ---
 
 ### Case 10
 
-**Description:** Run 10: args=Lutgardis
+**Complete console output:**
 
+```
+Voer je naam in: Joris
+Welkom, Joris!
+```
 
 **Input:**
 
 ```
-Lutgardis
+Joris
 ```
 
 **Expected Output:**
 
 ```
-Voer je naam in: Welkom, Lutgardis!
+Welkom, Joris!
 ```
 
 ---
 
 ### Case 11
 
-**Description:** Run 11: args=Silvia
+**Complete console output:**
 
+```
+Voer je naam in: Alexander
+Welkom, Alexander!
+```
 
 **Input:**
 
 ```
-Silvia
+Alexander
 ```
 
 **Expected Output:**
 
 ```
-Voer je naam in: Welkom, Silvia!
+Welkom, Alexander!
 ```
 
 ---
 
 ### Case 12
 
-**Description:** Run 12: args=Lukas
+**Complete console output:**
 
+```
+Voer je naam in: Johan
+Welkom, Johan!
+```
 
 **Input:**
 
 ```
-Lukas
+Johan
 ```
 
 **Expected Output:**
 
 ```
-Voer je naam in: Welkom, Lukas!
+Welkom, Johan!
 ```
 
 ---
 
 ### Case 13
 
-**Description:** Run 13: args=Joanna
+**Complete console output:**
 
+```
+Voer je naam in: Paul
+Welkom, Paul!
+```
 
 **Input:**
 
 ```
-Joanna
+Paul
 ```
 
 **Expected Output:**
 
 ```
-Voer je naam in: Welkom, Joanna!
+Welkom, Paul!
 ```
 
 ---
 
 ### Case 14
 
-**Description:** Run 14: args=Sarah
+**Complete console output:**
 
+```
+Voer je naam in: Elke
+Welkom, Elke!
+```
 
 **Input:**
 
 ```
-Sarah
+Elke
 ```
 
 **Expected Output:**
 
 ```
-Voer je naam in: Welkom, Sarah!
+Welkom, Elke!
 ```
 
 ---
 
 ### Case 15
 
-**Description:** Run 15: args=Mike
+**Complete console output:**
 
+```
+Voer je naam in: Yassine
+Welkom, Yassine!
+```
 
 **Input:**
 
 ```
-Mike
+Yassine
 ```
 
 **Expected Output:**
 
 ```
-Voer je naam in: Welkom, Mike!
+Welkom, Yassine!
 ```
 
 ---
 
 ### Case 16
 
-**Description:** Run 16: args=Katrien
+**Complete console output:**
 
+```
+Voer je naam in: Raphaël
+Welkom, Raphaël!
+```
 
 **Input:**
 
 ```
-Katrien
+Raphaël
 ```
 
 **Expected Output:**
 
 ```
-Voer je naam in: Welkom, Katrien!
+Welkom, Raphaël!
 ```
 
 ---
 
 ### Case 17
 
-**Description:** Run 17: args=Bart
+**Complete console output:**
 
+```
+Voer je naam in: David
+Welkom, David!
+```
 
 **Input:**
 
 ```
-Bart
+David
 ```
 
 **Expected Output:**
 
 ```
-Voer je naam in: Welkom, Bart!
+Welkom, David!
 ```
 
 ---
 
 ### Case 18
 
-**Description:** Run 18: args=Raymond
+**Complete console output:**
 
+```
+Voer je naam in: Stijn
+Welkom, Stijn!
+```
 
 **Input:**
 
 ```
-Raymond
+Stijn
 ```
 
 **Expected Output:**
 
 ```
-Voer je naam in: Welkom, Raymond!
+Welkom, Stijn!
 ```
 
 ---
 
 ### Case 19
 
-**Description:** Run 19: args=Rachel
+**Complete console output:**
 
+```
+Voer je naam in: Willy
+Welkom, Willy!
+```
 
 **Input:**
 
 ```
-Rachel
+Willy
 ```
 
 **Expected Output:**
 
 ```
-Voer je naam in: Welkom, Rachel!
+Welkom, Willy!
 ```
 
 ---
 
 ### Case 20
 
-**Description:** Run 20: args=Marc
+**Complete console output:**
 
+```
+Voer je naam in: Geert
+Welkom, Geert!
+```
 
 **Input:**
 
 ```
-Marc
+Geert
 ```
 
 **Expected Output:**
 
 ```
-Voer je naam in: Welkom, Marc!
+Welkom, Geert!
 ```
 
 ---
 
 ### Case 21
 
-**Description:** Run 21: args=Vera
+**Complete console output:**
 
+```
+Voer je naam in: Ilse
+Welkom, Ilse!
+```
 
 **Input:**
 
 ```
-Vera
+Ilse
 ```
 
 **Expected Output:**
 
 ```
-Voer je naam in: Welkom, Vera!
+Welkom, Ilse!
 ```
 
 ---
 
 ### Case 22
 
-**Description:** Run 22: args=Bart
+**Complete console output:**
 
+```
+Voer je naam in: Brahim
+Welkom, Brahim!
+```
 
 **Input:**
 
 ```
-Bart
+Brahim
 ```
 
 **Expected Output:**
 
 ```
-Voer je naam in: Welkom, Bart!
+Welkom, Brahim!
 ```
 
 ---
 
 ### Case 23
 
-**Description:** Run 23: args=Annelies
+**Complete console output:**
 
+```
+Voer je naam in: Luca
+Welkom, Luca!
+```
 
 **Input:**
 
 ```
-Annelies
+Luca
 ```
 
 **Expected Output:**
 
 ```
-Voer je naam in: Welkom, Annelies!
+Welkom, Luca!
 ```
 
 ---
 
 ### Case 24
 
-**Description:** Run 24: args=Etienne
+**Complete console output:**
 
+```
+Voer je naam in: Marie
+Welkom, Marie!
+```
 
 **Input:**
 
 ```
-Etienne
+Marie
 ```
 
 **Expected Output:**
 
 ```
-Voer je naam in: Welkom, Etienne!
+Welkom, Marie!
 ```
 
 ---
 
 ### Case 25
 
-**Description:** Run 25: args=Gustaaf
+**Complete console output:**
 
+```
+Voer je naam in: Liam
+Welkom, Liam!
+```
 
 **Input:**
 
 ```
-Gustaaf
+Liam
 ```
 
 **Expected Output:**
 
 ```
-Voer je naam in: Welkom, Gustaaf!
+Welkom, Liam!
 ```
 
 ---

@@ -19,13 +19,18 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=2
+**Complete console output:**
 
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
+```
 
 **Input:**
 
 ```
-2
+3
 ```
 
 **Expected Output:**
@@ -40,13 +45,18 @@ NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cann
 
 ### Case 2
 
-**Description:** Run 2: args=3
+**Complete console output:**
 
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
+```
 
 **Input:**
 
 ```
-3
+4
 ```
 
 **Expected Output:**
@@ -61,29 +71,46 @@ NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cann
 
 ### Case 3
 
-**Description:** Run 3: args=3
+**Complete console output:**
 
+```
+Kies een optie:
+1. Naam toevoegen
+2. Lijst tonen
+3. Naam zoeken
+4. Aantal namen bekijken
+5. Stoppen
+Kies: 5
+```
 
 **Input:**
 
 ```
-3
+5
 ```
 
 **Expected Output:**
 
 ```
-NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
-   at System.Int32.Parse(String s)
-   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
+Kies een optie:
+1. Naam toevoegen
+2. Lijst tonen
+3. Naam zoeken
+4. Aantal namen bekijken
+5. Stoppen
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=2
+**Complete console output:**
 
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
+```
 
 **Input:**
 
@@ -103,13 +130,18 @@ NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cann
 
 ### Case 5
 
-**Description:** Run 5: args=3
+**Complete console output:**
 
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
+```
 
 **Input:**
 
 ```
-3
+1
 ```
 
 **Expected Output:**
@@ -124,29 +156,13 @@ NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cann
 
 ### Case 6
 
-**Description:** Run 6: args=2
-
-
-**Input:**
-
-```
-2
-```
-
-**Expected Output:**
+**Complete console output:**
 
 ```
 NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
    at System.Int32.Parse(String s)
    at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
 ```
-
----
-
-### Case 7
-
-**Description:** Run 7: args=1
-
 
 **Input:**
 
@@ -164,35 +180,15 @@ NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cann
 
 ---
 
-### Case 8
+### Case 7
 
-**Description:** Run 8: args=5
-
-
-**Input:**
+**Complete console output:**
 
 ```
-5
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
 ```
-
-**Expected Output:**
-
-```
-Kies een optie:
-1. Naam toevoegen
-2. Lijst tonen
-3. Naam zoeken
-4. Aantal namen bekijken
-5. Stoppen
-Kies:
-```
-
----
-
-### Case 9
-
-**Description:** Run 9: args=2
-
 
 **Input:**
 
@@ -210,60 +206,15 @@ NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cann
 
 ---
 
-### Case 10
+### Case 8
 
-**Description:** Run 10: args=5
-
-
-**Input:**
+**Complete console output:**
 
 ```
-5
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
 ```
-
-**Expected Output:**
-
-```
-Kies een optie:
-1. Naam toevoegen
-2. Lijst tonen
-3. Naam zoeken
-4. Aantal namen bekijken
-5. Stoppen
-Kies:
-```
-
----
-
-### Case 11
-
-**Description:** Run 11: args=5
-
-
-**Input:**
-
-```
-5
-```
-
-**Expected Output:**
-
-```
-Kies een optie:
-1. Naam toevoegen
-2. Lijst tonen
-3. Naam zoeken
-4. Aantal namen bekijken
-5. Stoppen
-Kies:
-```
-
----
-
-### Case 12
-
-**Description:** Run 12: args=4
-
 
 **Input:**
 
@@ -281,52 +232,19 @@ NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cann
 
 ---
 
-### Case 13
+### Case 9
 
-**Description:** Run 13: args=1
-
-
-**Input:**
+**Complete console output:**
 
 ```
-1
+Kies een optie:
+1. Naam toevoegen
+2. Lijst tonen
+3. Naam zoeken
+4. Aantal namen bekijken
+5. Stoppen
+Kies: 5
 ```
-
-**Expected Output:**
-
-```
-NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
-   at System.Int32.Parse(String s)
-   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
-```
-
----
-
-### Case 14
-
-**Description:** Run 14: args=1
-
-
-**Input:**
-
-```
-1
-```
-
-**Expected Output:**
-
-```
-NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
-   at System.Int32.Parse(String s)
-   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
-```
-
----
-
-### Case 15
-
-**Description:** Run 15: args=5
-
 
 **Input:**
 
@@ -343,15 +261,104 @@ Kies een optie:
 3. Naam zoeken
 4. Aantal namen bekijken
 5. Stoppen
-Kies:
 ```
 
 ---
 
-### Case 16
+### Case 10
 
-**Description:** Run 16: args=3
+**Complete console output:**
 
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
+```
+
+**Input:**
+
+```
+1
+```
+
+**Expected Output:**
+
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
+```
+
+---
+
+### Case 11
+
+**Complete console output:**
+
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
+```
+
+**Input:**
+
+```
+2
+```
+
+**Expected Output:**
+
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
+```
+
+---
+
+### Case 12
+
+**Complete console output:**
+
+```
+Kies een optie:
+1. Naam toevoegen
+2. Lijst tonen
+3. Naam zoeken
+4. Aantal namen bekijken
+5. Stoppen
+Kies: 5
+```
+
+**Input:**
+
+```
+5
+```
+
+**Expected Output:**
+
+```
+Kies een optie:
+1. Naam toevoegen
+2. Lijst tonen
+3. Naam zoeken
+4. Aantal namen bekijken
+5. Stoppen
+```
+
+---
+
+### Case 13
+
+**Complete console output:**
+
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
+```
 
 **Input:**
 
@@ -369,10 +376,15 @@ NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cann
 
 ---
 
-### Case 17
+### Case 14
 
-**Description:** Run 17: args=4
+**Complete console output:**
 
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
+```
 
 **Input:**
 
@@ -390,10 +402,15 @@ NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cann
 
 ---
 
-### Case 18
+### Case 15
 
-**Description:** Run 18: args=1
+**Complete console output:**
 
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
+```
 
 **Input:**
 
@@ -411,10 +428,93 @@ NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cann
 
 ---
 
+### Case 16
+
+**Complete console output:**
+
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
+```
+
+**Input:**
+
+```
+2
+```
+
+**Expected Output:**
+
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
+```
+
+---
+
+### Case 17
+
+**Complete console output:**
+
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
+```
+
+**Input:**
+
+```
+3
+```
+
+**Expected Output:**
+
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
+```
+
+---
+
+### Case 18
+
+**Complete console output:**
+
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
+```
+
+**Input:**
+
+```
+4
+```
+
+**Expected Output:**
+
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
+```
+
+---
+
 ### Case 19
 
-**Description:** Run 19: args=1
+**Complete console output:**
 
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
+```
 
 **Input:**
 
@@ -434,8 +534,13 @@ NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cann
 
 ### Case 20
 
-**Description:** Run 20: args=3
+**Complete console output:**
 
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
+```
 
 **Input:**
 
@@ -455,13 +560,18 @@ NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cann
 
 ### Case 21
 
-**Description:** Run 21: args=1
+**Complete console output:**
 
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
+```
 
 **Input:**
 
 ```
-1
+4
 ```
 
 **Expected Output:**
@@ -476,8 +586,13 @@ NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cann
 
 ### Case 22
 
-**Description:** Run 22: args=3
+**Complete console output:**
 
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
+```
 
 **Input:**
 
@@ -497,50 +612,17 @@ NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cann
 
 ### Case 23
 
-**Description:** Run 23: args=4
-
-
-**Input:**
+**Complete console output:**
 
 ```
-4
+Kies een optie:
+1. Naam toevoegen
+2. Lijst tonen
+3. Naam zoeken
+4. Aantal namen bekijken
+5. Stoppen
+Kies: 5
 ```
-
-**Expected Output:**
-
-```
-NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
-   at System.Int32.Parse(String s)
-   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
-```
-
----
-
-### Case 24
-
-**Description:** Run 24: args=4
-
-
-**Input:**
-
-```
-4
-```
-
-**Expected Output:**
-
-```
-NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
-   at System.Int32.Parse(String s)
-   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
-```
-
----
-
-### Case 25
-
-**Description:** Run 25: args=5
-
 
 **Input:**
 
@@ -557,7 +639,58 @@ Kies een optie:
 3. Naam zoeken
 4. Aantal namen bekijken
 5. Stoppen
-Kies:
+```
+
+---
+
+### Case 24
+
+**Complete console output:**
+
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
+```
+
+**Input:**
+
+```
+3
+```
+
+**Expected Output:**
+
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
+```
+
+---
+
+### Case 25
+
+**Complete console output:**
+
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
+```
+
+**Input:**
+
+```
+4
+```
+
+**Expected Output:**
+
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.<Main>$(String[] args) in /workspace/exercise-solutions/programming-essentials/07/07_05/consoleapp/Program.cs:line 13
 ```
 
 ---
