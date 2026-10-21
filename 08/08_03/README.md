@@ -19,29 +19,25 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
-Hoeveel dagen wil je invoeren? 3
+Hoeveel dagen wil je invoeren? 1
 Temperatuur dag 1: 10
-Temperatuur dag 2: 15
-Temperatuur dag 3: 20
-Gemiddelde: 15
-Hoogste: 20
+Gemiddelde: 10
+Hoogste: 10
 Laagste: 10
 ```
 
 **Input:**
 
 ```
-3
+1
 10
-15
-20
 ```
 
 **Expected Output:**
 
 ```
-Gemiddelde: 15
-Hoogste: 20
+Gemiddelde: 10
+Hoogste: 10
 Laagste: 10
 ```
 
@@ -52,39 +48,146 @@ Laagste: 10
 **Complete console output:**
 
 ```
+Hoeveel dagen wil je invoeren? 3
+Temperatuur dag 1: 20
+Temperatuur dag 2: 15
+Temperatuur dag 3: 15
+Gemiddelde: 16
+Hoogste: 20
+Laagste: 15
+```
+
+**Input:**
+
+```
+3
+20
+15
+15
+```
+
+**Expected Output:**
+
+```
+Gemiddelde: 16
+Hoogste: 20
+Laagste: 15
+```
+
+---
+
+### Case 3
+
+**Complete console output:**
+
+```
 Hoeveel dagen wil je invoeren? 5
-Temperatuur dag 1: -5
-Temperatuur dag 2: 3
-Temperatuur dag 3: 8
-Temperatuur dag 4: -2
-Temperatuur dag 5: 12
-Gemiddelde: 2
-Hoogste: 12
-Laagste: -5
+Temperatuur dag 1: 0
+Temperatuur dag 2: -10
+Temperatuur dag 3: 10
+Temperatuur dag 4: 10
+Temperatuur dag 5: 20
+Gemiddelde: 6
+Hoogste: 20
+Laagste: -10
 ```
 
 **Input:**
 
 ```
 5
--5
-3
-8
--2
-12
+0
+-10
+10
+10
+20
 ```
 
 **Expected Output:**
 
 ```
-Gemiddelde: 2
-Hoogste: 12
-Laagste: -5
+Gemiddelde: 6
+Hoogste: 20
+Laagste: -10
 ```
 
 ---
 
-### Case 3
+### Case 4
+
+**Complete console output:**
+
+```
+Hoeveel dagen wil je invoeren? 5
+Temperatuur dag 1: 25
+Temperatuur dag 2: 10
+Temperatuur dag 3: 0
+Temperatuur dag 4: 25
+Temperatuur dag 5: -10
+Gemiddelde: 10
+Hoogste: 25
+Laagste: -10
+```
+
+**Input:**
+
+```
+5
+25
+10
+0
+25
+-10
+```
+
+**Expected Output:**
+
+```
+Gemiddelde: 10
+Hoogste: 25
+Laagste: -10
+```
+
+---
+
+### Case 5
+
+**Complete console output:**
+
+```
+Hoeveel dagen wil je invoeren? 5
+Temperatuur dag 1: 0
+Temperatuur dag 2: 0
+Temperatuur dag 3: 20
+Temperatuur dag 4: 25
+Temperatuur dag 5: 10
+Gemiddelde: 11
+Hoogste: 25
+Laagste: 0
+```
+
+**Input:**
+
+```
+5
+0
+0
+20
+25
+10
+```
+
+**Expected Output:**
+
+```
+Gemiddelde: 11
+Hoogste: 25
+Laagste: 0
+```
+
+---
+
+### Case 6
 
 **Complete console output:**
 
@@ -113,42 +216,139 @@ Laagste: 25
 
 ---
 
-### Case 4
+### Case 7
 
 **Complete console output:**
 
 ```
-Hoeveel dagen wil je invoeren? 4
+Hoeveel dagen wil je invoeren? 3
 Temperatuur dag 1: 0
-Temperatuur dag 2: 0
-Temperatuur dag 3: 0
-Temperatuur dag 4: 0
-Gemiddelde: 0
-Hoogste: 0
+Temperatuur dag 2: 25
+Temperatuur dag 3: 20
+Gemiddelde: 15
+Hoogste: 25
 Laagste: 0
 ```
 
 **Input:**
 
 ```
-4
+3
 0
-0
-0
-0
+25
+20
 ```
 
 **Expected Output:**
 
 ```
-Gemiddelde: 0
-Hoogste: 0
+Gemiddelde: 15
+Hoogste: 25
 Laagste: 0
 ```
 
 ---
 
-### Case 5
+### Case 8
+
+**Complete console output:**
+
+```
+Hoeveel dagen wil je invoeren? 1
+Temperatuur dag 1: -10
+Gemiddelde: -10
+Hoogste: -10
+Laagste: -10
+```
+
+**Input:**
+
+```
+1
+-10
+```
+
+**Expected Output:**
+
+```
+Gemiddelde: -10
+Hoogste: -10
+Laagste: -10
+```
+
+---
+
+### Case 9
+
+**Complete console output:**
+
+```
+Hoeveel dagen wil je invoeren? 3
+Temperatuur dag 1: 20
+Temperatuur dag 2: -10
+Temperatuur dag 3: 25
+Gemiddelde: 11
+Hoogste: 25
+Laagste: -10
+```
+
+**Input:**
+
+```
+3
+20
+-10
+25
+```
+
+**Expected Output:**
+
+```
+Gemiddelde: 11
+Hoogste: 25
+Laagste: -10
+```
+
+---
+
+### Case 10
+
+**Complete console output:**
+
+```
+Hoeveel dagen wil je invoeren? 5
+Temperatuur dag 1: 25
+Temperatuur dag 2: 20
+Temperatuur dag 3: 20
+Temperatuur dag 4: 15
+Temperatuur dag 5: 15
+Gemiddelde: 19
+Hoogste: 25
+Laagste: 15
+```
+
+**Input:**
+
+```
+5
+25
+20
+20
+15
+15
+```
+
+**Expected Output:**
+
+```
+Gemiddelde: 19
+Hoogste: 25
+Laagste: 15
+```
+
+---
+
+### Case 11
 
 **Complete console output:**
 
@@ -156,9 +356,9 @@ Laagste: 0
 Hoeveel dagen wil je invoeren? 3
 Temperatuur dag 1: -10
 Temperatuur dag 2: -10
-Temperatuur dag 3: -10
-Gemiddelde: -10
-Hoogste: -10
+Temperatuur dag 3: 20
+Gemiddelde: 0
+Hoogste: 20
 Laagste: -10
 ```
 
@@ -168,6 +368,138 @@ Laagste: -10
 3
 -10
 -10
+20
+```
+
+**Expected Output:**
+
+```
+Gemiddelde: 0
+Hoogste: 20
+Laagste: -10
+```
+
+---
+
+### Case 12
+
+**Complete console output:**
+
+```
+Hoeveel dagen wil je invoeren? 3
+Temperatuur dag 1: 0
+Temperatuur dag 2: 0
+Temperatuur dag 3: 20
+Gemiddelde: 6
+Hoogste: 20
+Laagste: 0
+```
+
+**Input:**
+
+```
+3
+0
+0
+20
+```
+
+**Expected Output:**
+
+```
+Gemiddelde: 6
+Hoogste: 20
+Laagste: 0
+```
+
+---
+
+### Case 13
+
+**Complete console output:**
+
+```
+Hoeveel dagen wil je invoeren? 3
+Temperatuur dag 1: 10
+Temperatuur dag 2: 10
+Temperatuur dag 3: 20
+Gemiddelde: 13
+Hoogste: 20
+Laagste: 10
+```
+
+**Input:**
+
+```
+3
+10
+10
+20
+```
+
+**Expected Output:**
+
+```
+Gemiddelde: 13
+Hoogste: 20
+Laagste: 10
+```
+
+---
+
+### Case 14
+
+**Complete console output:**
+
+```
+Hoeveel dagen wil je invoeren? 5
+Temperatuur dag 1: 25
+Temperatuur dag 2: 15
+Temperatuur dag 3: -10
+Temperatuur dag 4: 10
+Temperatuur dag 5: 10
+Gemiddelde: 10
+Hoogste: 25
+Laagste: -10
+```
+
+**Input:**
+
+```
+5
+25
+15
+-10
+10
+10
+```
+
+**Expected Output:**
+
+```
+Gemiddelde: 10
+Hoogste: 25
+Laagste: -10
+```
+
+---
+
+### Case 15
+
+**Complete console output:**
+
+```
+Hoeveel dagen wil je invoeren? 1
+Temperatuur dag 1: -10
+Gemiddelde: -10
+Hoogste: -10
+Laagste: -10
+```
+
+**Input:**
+
+```
+1
 -10
 ```
 
@@ -178,3 +510,5 @@ Gemiddelde: -10
 Hoogste: -10
 Laagste: -10
 ```
+
+---

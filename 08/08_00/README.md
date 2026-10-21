@@ -38,22 +38,20 @@ Te betalen: 50
 **Complete console output:**
 
 ```
-Voer het aankoopbedrag in: 150
-Korting: 15
-Te betalen: 135
+Voer het aankoopbedrag in: 99
+Te betalen: 99
 ```
 
 **Input:**
 
 ```
-150
+99
 ```
 
 **Expected Output:**
 
 ```
-Korting: 15
-Te betalen: 135
+Te betalen: 99
 ```
 
 ---
@@ -88,6 +86,29 @@ Te betalen: 90
 **Complete console output:**
 
 ```
+Voer het aankoopbedrag in: 50
+Te betalen: 50
+```
+
+**Input:**
+
+```
+50
+```
+
+**Expected Output:**
+
+```
+Te betalen: 50
+```
+
+---
+
+### Case 5
+
+**Complete console output:**
+
+```
 Voer het aankoopbedrag in: 200
 Korting: 20
 Te betalen: 180
@@ -108,7 +129,78 @@ Te betalen: 180
 
 ---
 
-### Case 5
+### Case 6
+
+**Complete console output:**
+
+```
+Voer het aankoopbedrag in: 500
+Korting: 50
+Te betalen: 450
+```
+
+**Input:**
+
+```
+500
+```
+
+**Expected Output:**
+
+```
+Korting: 50
+Te betalen: 450
+```
+
+---
+
+### Case 7
+
+**Complete console output:**
+
+```
+Voer het aankoopbedrag in: 50
+Te betalen: 50
+```
+
+**Input:**
+
+```
+50
+```
+
+**Expected Output:**
+
+```
+Te betalen: 50
+```
+
+---
+
+### Case 8
+
+**Complete console output:**
+
+```
+Voer het aankoopbedrag in: 50
+Te betalen: 50
+```
+
+**Input:**
+
+```
+50
+```
+
+**Expected Output:**
+
+```
+Te betalen: 50
+```
+
+---
+
+### Case 9
 
 **Complete console output:**
 
@@ -128,3 +220,151 @@ Te betalen: 99
 ```
 Te betalen: 99
 ```
+
+---
+
+### Case 10
+
+**Complete console output:**
+
+```
+Voer het aankoopbedrag in: 500
+Korting: 50
+Te betalen: 450
+```
+
+**Input:**
+
+```
+500
+```
+
+**Expected Output:**
+
+```
+Korting: 50
+Te betalen: 450
+```
+
+---
+
+### Case 11
+
+**Complete console output:**
+
+```
+Voer het aankoopbedrag in: 99
+Te betalen: 99
+```
+
+**Input:**
+
+```
+99
+```
+
+**Expected Output:**
+
+```
+Te betalen: 99
+```
+
+---
+
+### Case 12
+
+**Complete console output:**
+
+```
+Voer het aankoopbedrag in: 500
+Korting: 50
+Te betalen: 450
+```
+
+**Input:**
+
+```
+500
+```
+
+**Expected Output:**
+
+```
+Korting: 50
+Te betalen: 450
+```
+
+---
+
+### Case 13
+
+**Complete console output:**
+
+```
+Voer het aankoopbedrag in: 50
+Te betalen: 50
+```
+
+**Input:**
+
+```
+50
+```
+
+**Expected Output:**
+
+```
+Te betalen: 50
+```
+
+---
+
+### Case 14
+
+**Complete console output:**
+
+```
+Voer het aankoopbedrag in: 500
+Korting: 50
+Te betalen: 450
+```
+
+**Input:**
+
+```
+500
+```
+
+**Expected Output:**
+
+```
+Korting: 50
+Te betalen: 450
+```
+
+---
+
+### Case 15
+
+**Complete console output:**
+
+```
+Voer het aankoopbedrag in: 100
+Korting: 10
+Te betalen: 90
+```
+
+**Input:**
+
+```
+100
+```
+
+**Expected Output:**
+
+```
+Korting: 10
+Te betalen: 90
+```
+
+---

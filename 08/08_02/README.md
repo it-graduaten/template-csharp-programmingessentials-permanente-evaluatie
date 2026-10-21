@@ -13,14 +13,37 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
-Voer een getal in: 4
+Voer een getal in: 7
+Het getal is oneven
+```
+
+**Input:**
+
+```
+7
+```
+
+**Expected Output:**
+
+```
+Het getal is oneven
+```
+
+---
+
+### Case 2
+
+**Complete console output:**
+
+```
+Voer een getal in: -8
 Het getal is even
 ```
 
 **Input:**
 
 ```
-4
+-8
 ```
 
 **Expected Output:**
@@ -31,7 +54,7 @@ Het getal is even
 
 ---
 
-### Case 2
+### Case 3
 
 **Complete console output:**
 
@@ -54,19 +77,19 @@ Het getal is oneven
 
 ---
 
-### Case 3
+### Case 4
 
 **Complete console output:**
 
 ```
-Voer een getal in: 0
+Voer een getal in: -8
 Het getal is even
 ```
 
 **Input:**
 
 ```
-0
+-8
 ```
 
 **Expected Output:**
@@ -77,7 +100,76 @@ Het getal is even
 
 ---
 
-### Case 4
+### Case 5
+
+**Complete console output:**
+
+```
+Voer een getal in: 4
+Het getal is even
+```
+
+**Input:**
+
+```
+4
+```
+
+**Expected Output:**
+
+```
+Het getal is even
+```
+
+---
+
+### Case 6
+
+**Complete console output:**
+
+```
+Voer een getal in: 7
+Het getal is oneven
+```
+
+**Input:**
+
+```
+7
+```
+
+**Expected Output:**
+
+```
+Het getal is oneven
+```
+
+---
+
+### Case 7
+
+**Complete console output:**
+
+```
+Voer een getal in: -8
+Het getal is even
+```
+
+**Input:**
+
+```
+-8
+```
+
+**Expected Output:**
+
+```
+Het getal is even
+```
+
+---
+
+### Case 8
 
 **Complete console output:**
 
@@ -100,7 +192,7 @@ Het getal is oneven
 
 ---
 
-### Case 5
+### Case 9
 
 **Complete console output:**
 
@@ -120,3 +212,143 @@ Het getal is even
 ```
 Het getal is even
 ```
+
+---
+
+### Case 10
+
+**Complete console output:**
+
+```
+Voer een getal in: 7
+Het getal is oneven
+```
+
+**Input:**
+
+```
+7
+```
+
+**Expected Output:**
+
+```
+Het getal is oneven
+```
+
+---
+
+### Case 11
+
+**Complete console output:**
+
+```
+Voer een getal in: 7
+Het getal is oneven
+```
+
+**Input:**
+
+```
+7
+```
+
+**Expected Output:**
+
+```
+Het getal is oneven
+```
+
+---
+
+### Case 12
+
+**Complete console output:**
+
+```
+Voer een getal in: 0
+Het getal is even
+```
+
+**Input:**
+
+```
+0
+```
+
+**Expected Output:**
+
+```
+Het getal is even
+```
+
+---
+
+### Case 13
+
+**Complete console output:**
+
+```
+Voer een getal in: 0
+Het getal is even
+```
+
+**Input:**
+
+```
+0
+```
+
+**Expected Output:**
+
+```
+Het getal is even
+```
+
+---
+
+### Case 14
+
+**Complete console output:**
+
+```
+Voer een getal in: 4
+Het getal is even
+```
+
+**Input:**
+
+```
+4
+```
+
+**Expected Output:**
+
+```
+Het getal is even
+```
+
+---
+
+### Case 15
+
+**Complete console output:**
+
+```
+Voer een getal in: -8
+Het getal is even
+```
+
+**Input:**
+
+```
+-8
+```
+
+**Expected Output:**
+
+```
+Het getal is even
+```
+
+---

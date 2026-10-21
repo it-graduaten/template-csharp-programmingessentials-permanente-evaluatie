@@ -20,33 +20,33 @@ Below are the automatically generated input/output expectations.
 
 ```
 Hoeveel getallen wil je invoeren? 5
-Getal 1: 10
-Getal 2: 20
-Getal 3: 5
+Getal 1: 25
+Getal 2: 5
+Getal 3: 0
 Getal 4: 15
-Getal 5: 25
+Getal 5: 15
 Grootste: 25
-Kleinste: 5
-Gemiddelde: 15
+Kleinste: 0
+Gemiddelde: 12
 ```
 
 **Input:**
 
 ```
 5
-10
-20
-5
-15
 25
+5
+0
+15
+15
 ```
 
 **Expected Output:**
 
 ```
 Grootste: 25
-Kleinste: 5
-Gemiddelde: 15
+Kleinste: 0
+Gemiddelde: 12
 ```
 
 ---
@@ -57,34 +57,426 @@ Gemiddelde: 15
 
 ```
 Hoeveel getallen wil je invoeren? 3
-Getal 1: -10
-Getal 2: -5
-Getal 3: 0
-Grootste: 0
-Kleinste: -10
-Gemiddelde: -5
+Getal 1: 5
+Getal 2: 0
+Getal 3: 42
+Grootste: 42
+Kleinste: 0
+Gemiddelde: 15
 ```
 
 **Input:**
 
 ```
 3
--10
--5
+5
 0
+42
 ```
 
 **Expected Output:**
 
 ```
-Grootste: 0
-Kleinste: -10
-Gemiddelde: -5
+Grootste: 42
+Kleinste: 0
+Gemiddelde: 15
 ```
 
 ---
 
 ### Case 3
+
+**Complete console output:**
+
+```
+Hoeveel getallen wil je invoeren? 5
+Getal 1: 42
+Getal 2: 0
+Getal 3: -5
+Getal 4: 5
+Getal 5: 10
+Grootste: 42
+Kleinste: -5
+Gemiddelde: 10
+```
+
+**Input:**
+
+```
+5
+42
+0
+-5
+5
+10
+```
+
+**Expected Output:**
+
+```
+Grootste: 42
+Kleinste: -5
+Gemiddelde: 10
+```
+
+---
+
+### Case 4
+
+**Complete console output:**
+
+```
+Hoeveel getallen wil je invoeren? 3
+Getal 1: 15
+Getal 2: 10
+Getal 3: 5
+Grootste: 15
+Kleinste: 5
+Gemiddelde: 10
+```
+
+**Input:**
+
+```
+3
+15
+10
+5
+```
+
+**Expected Output:**
+
+```
+Grootste: 15
+Kleinste: 5
+Gemiddelde: 10
+```
+
+---
+
+### Case 5
+
+**Complete console output:**
+
+```
+Hoeveel getallen wil je invoeren? 3
+Getal 1: 42
+Getal 2: 5
+Getal 3: -5
+Grootste: 42
+Kleinste: -5
+Gemiddelde: 14
+```
+
+**Input:**
+
+```
+3
+42
+5
+-5
+```
+
+**Expected Output:**
+
+```
+Grootste: 42
+Kleinste: -5
+Gemiddelde: 14
+```
+
+---
+
+### Case 6
+
+**Complete console output:**
+
+```
+Hoeveel getallen wil je invoeren? 1
+Getal 1: 15
+Grootste: 15
+Kleinste: 15
+Gemiddelde: 15
+```
+
+**Input:**
+
+```
+1
+15
+```
+
+**Expected Output:**
+
+```
+Grootste: 15
+Kleinste: 15
+Gemiddelde: 15
+```
+
+---
+
+### Case 7
+
+**Complete console output:**
+
+```
+Hoeveel getallen wil je invoeren? 5
+Getal 1: 0
+Getal 2: 10
+Getal 3: 5
+Getal 4: 0
+Getal 5: 5
+Grootste: 10
+Kleinste: 0
+Gemiddelde: 4
+```
+
+**Input:**
+
+```
+5
+0
+10
+5
+0
+5
+```
+
+**Expected Output:**
+
+```
+Grootste: 10
+Kleinste: 0
+Gemiddelde: 4
+```
+
+---
+
+### Case 8
+
+**Complete console output:**
+
+```
+Hoeveel getallen wil je invoeren? 1
+Getal 1: 25
+Grootste: 25
+Kleinste: 25
+Gemiddelde: 25
+```
+
+**Input:**
+
+```
+1
+25
+```
+
+**Expected Output:**
+
+```
+Grootste: 25
+Kleinste: 25
+Gemiddelde: 25
+```
+
+---
+
+### Case 9
+
+**Complete console output:**
+
+```
+Hoeveel getallen wil je invoeren? 3
+Getal 1: 25
+Getal 2: 5
+Getal 3: 25
+Grootste: 25
+Kleinste: 5
+Gemiddelde: 18
+```
+
+**Input:**
+
+```
+3
+25
+5
+25
+```
+
+**Expected Output:**
+
+```
+Grootste: 25
+Kleinste: 5
+Gemiddelde: 18
+```
+
+---
+
+### Case 10
+
+**Complete console output:**
+
+```
+Hoeveel getallen wil je invoeren? 5
+Getal 1: 10
+Getal 2: 5
+Getal 3: 5
+Getal 4: 0
+Getal 5: 42
+Grootste: 42
+Kleinste: 0
+Gemiddelde: 12
+```
+
+**Input:**
+
+```
+5
+10
+5
+5
+0
+42
+```
+
+**Expected Output:**
+
+```
+Grootste: 42
+Kleinste: 0
+Gemiddelde: 12
+```
+
+---
+
+### Case 11
+
+**Complete console output:**
+
+```
+Hoeveel getallen wil je invoeren? 3
+Getal 1: 5
+Getal 2: 5
+Getal 3: 5
+Grootste: 5
+Kleinste: 5
+Gemiddelde: 5
+```
+
+**Input:**
+
+```
+3
+5
+5
+5
+```
+
+**Expected Output:**
+
+```
+Grootste: 5
+Kleinste: 5
+Gemiddelde: 5
+```
+
+---
+
+### Case 12
+
+**Complete console output:**
+
+```
+Hoeveel getallen wil je invoeren? 1
+Getal 1: 10
+Grootste: 10
+Kleinste: 10
+Gemiddelde: 10
+```
+
+**Input:**
+
+```
+1
+10
+```
+
+**Expected Output:**
+
+```
+Grootste: 10
+Kleinste: 10
+Gemiddelde: 10
+```
+
+---
+
+### Case 13
+
+**Complete console output:**
+
+```
+Hoeveel getallen wil je invoeren? 1
+Getal 1: -10
+Grootste: -10
+Kleinste: -10
+Gemiddelde: -10
+```
+
+**Input:**
+
+```
+1
+-10
+```
+
+**Expected Output:**
+
+```
+Grootste: -10
+Kleinste: -10
+Gemiddelde: -10
+```
+
+---
+
+### Case 14
+
+**Complete console output:**
+
+```
+Hoeveel getallen wil je invoeren? 3
+Getal 1: 25
+Getal 2: 0
+Getal 3: -100
+Grootste: 25
+Kleinste: -100
+Gemiddelde: -25
+```
+
+**Input:**
+
+```
+3
+25
+0
+-100
+```
+
+**Expected Output:**
+
+```
+Grootste: 25
+Kleinste: -100
+Gemiddelde: -25
+```
+
+---
+
+### Case 15
 
 **Complete console output:**
 
@@ -112,69 +504,3 @@ Gemiddelde: 42
 ```
 
 ---
-
-### Case 4
-
-**Complete console output:**
-
-```
-Hoeveel getallen wil je invoeren? 4
-Getal 1: 7
-Getal 2: 7
-Getal 3: 7
-Getal 4: 7
-Grootste: 7
-Kleinste: 7
-Gemiddelde: 7
-```
-
-**Input:**
-
-```
-4
-7
-7
-7
-7
-```
-
-**Expected Output:**
-
-```
-Grootste: 7
-Kleinste: 7
-Gemiddelde: 7
-```
-
----
-
-### Case 5
-
-**Complete console output:**
-
-```
-Hoeveel getallen wil je invoeren? 3
-Getal 1: -100
-Getal 2: 100
-Getal 3: 0
-Grootste: 100
-Kleinste: -100
-Gemiddelde: 0
-```
-
-**Input:**
-
-```
-3
--100
-100
-0
-```
-
-**Expected Output:**
-
-```
-Grootste: 100
-Kleinste: -100
-Gemiddelde: 0
-```

@@ -19,20 +19,20 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
-Voer je leeftijd in: 8
-Categorie: Kind
+Voer je leeftijd in: 100
+Categorie: Senior
 ```
 
 **Input:**
 
 ```
-8
+100
 ```
 
 **Expected Output:**
 
 ```
-Categorie: Kind
+Categorie: Senior
 ```
 
 ---
@@ -65,14 +65,14 @@ Categorie: Volwassene
 **Complete console output:**
 
 ```
-Voer je leeftijd in: 70
+Voer je leeftijd in: 65
 Categorie: Senior
 ```
 
 **Input:**
 
 ```
-70
+65
 ```
 
 **Expected Output:**
@@ -88,20 +88,20 @@ Categorie: Senior
 **Complete console output:**
 
 ```
-Voer je leeftijd in: 11
-Categorie: Kind
+Voer je leeftijd in: 70
+Categorie: Senior
 ```
 
 **Input:**
 
 ```
-11
+70
 ```
 
 **Expected Output:**
 
 ```
-Categorie: Kind
+Categorie: Senior
 ```
 
 ---
@@ -126,3 +126,235 @@ Categorie: Volwassene
 ```
 Categorie: Volwassene
 ```
+
+---
+
+### Case 6
+
+**Complete console output:**
+
+```
+Voer je leeftijd in: 35
+Categorie: Volwassene
+```
+
+**Input:**
+
+```
+35
+```
+
+**Expected Output:**
+
+```
+Categorie: Volwassene
+```
+
+---
+
+### Case 7
+
+**Complete console output:**
+
+```
+Voer je leeftijd in: 64
+Categorie: Volwassene
+```
+
+**Input:**
+
+```
+64
+```
+
+**Expected Output:**
+
+```
+Categorie: Volwassene
+```
+
+---
+
+### Case 8
+
+**Complete console output:**
+
+```
+Voer je leeftijd in: 65
+Categorie: Senior
+```
+
+**Input:**
+
+```
+65
+```
+
+**Expected Output:**
+
+```
+Categorie: Senior
+```
+
+---
+
+### Case 9
+
+**Complete console output:**
+
+```
+Voer je leeftijd in: 0
+Categorie: Kind
+```
+
+**Input:**
+
+```
+0
+```
+
+**Expected Output:**
+
+```
+Categorie: Kind
+```
+
+---
+
+### Case 10
+
+**Complete console output:**
+
+```
+Voer je leeftijd in: 64
+Categorie: Volwassene
+```
+
+**Input:**
+
+```
+64
+```
+
+**Expected Output:**
+
+```
+Categorie: Volwassene
+```
+
+---
+
+### Case 11
+
+**Complete console output:**
+
+```
+Voer je leeftijd in: 100
+Categorie: Senior
+```
+
+**Input:**
+
+```
+100
+```
+
+**Expected Output:**
+
+```
+Categorie: Senior
+```
+
+---
+
+### Case 12
+
+**Complete console output:**
+
+```
+Voer je leeftijd in: 100
+Categorie: Senior
+```
+
+**Input:**
+
+```
+100
+```
+
+**Expected Output:**
+
+```
+Categorie: Senior
+```
+
+---
+
+### Case 13
+
+**Complete console output:**
+
+```
+Voer je leeftijd in: 0
+Categorie: Kind
+```
+
+**Input:**
+
+```
+0
+```
+
+**Expected Output:**
+
+```
+Categorie: Kind
+```
+
+---
+
+### Case 14
+
+**Complete console output:**
+
+```
+Voer je leeftijd in: 8
+Categorie: Kind
+```
+
+**Input:**
+
+```
+8
+```
+
+**Expected Output:**
+
+```
+Categorie: Kind
+```
+
+---
+
+### Case 15
+
+**Complete console output:**
+
+```
+Voer je leeftijd in: 65
+Categorie: Senior
+```
+
+**Input:**
+
+```
+65
+```
+
+**Expected Output:**
+
+```
+Categorie: Senior
+```
+
+---

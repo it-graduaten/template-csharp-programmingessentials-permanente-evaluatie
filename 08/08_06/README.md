@@ -15,20 +15,20 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
-Voer een woord in: huis
-Aantal klinkers: 2
+Voer een woord in: kijk
+Aantal klinkers: 1
 ```
 
 **Input:**
 
 ```
-huis
+kijk
 ```
 
 **Expected Output:**
 
 ```
-Aantal klinkers: 2
+Aantal klinkers: 1
 ```
 
 ---
@@ -38,14 +38,14 @@ Aantal klinkers: 2
 **Complete console output:**
 
 ```
-Voer een woord in: boom
+Voer een woord in: goed
 Aantal klinkers: 2
 ```
 
 **Input:**
 
 ```
-boom
+goed
 ```
 
 **Expected Output:**
@@ -57,29 +57,6 @@ Aantal klinkers: 2
 ---
 
 ### Case 3
-
-**Complete console output:**
-
-```
-Voer een woord in: aeiou
-Aantal klinkers: 5
-```
-
-**Input:**
-
-```
-aeiou
-```
-
-**Expected Output:**
-
-```
-Aantal klinkers: 5
-```
-
----
-
-### Case 4
 
 **Complete console output:**
 
@@ -102,7 +79,99 @@ Aantal klinkers: 0
 
 ---
 
+### Case 4
+
+**Complete console output:**
+
+```
+Voer een woord in: aeiou
+Aantal klinkers: 5
+```
+
+**Input:**
+
+```
+aeiou
+```
+
+**Expected Output:**
+
+```
+Aantal klinkers: 5
+```
+
+---
+
 ### Case 5
+
+**Complete console output:**
+
+```
+Voer een woord in: brrrt
+Aantal klinkers: 0
+```
+
+**Input:**
+
+```
+brrrt
+```
+
+**Expected Output:**
+
+```
+Aantal klinkers: 0
+```
+
+---
+
+### Case 6
+
+**Complete console output:**
+
+```
+Voer een woord in: brrrt
+Aantal klinkers: 0
+```
+
+**Input:**
+
+```
+brrrt
+```
+
+**Expected Output:**
+
+```
+Aantal klinkers: 0
+```
+
+---
+
+### Case 7
+
+**Complete console output:**
+
+```
+Voer een woord in: goed
+Aantal klinkers: 2
+```
+
+**Input:**
+
+```
+goed
+```
+
+**Expected Output:**
+
+```
+Aantal klinkers: 2
+```
+
+---
+
+### Case 8
 
 **Complete console output:**
 
@@ -122,3 +191,166 @@ AeiOu
 ```
 Aantal klinkers: 5
 ```
+
+---
+
+### Case 9
+
+**Complete console output:**
+
+```
+Voer een woord in: boom
+Aantal klinkers: 2
+```
+
+**Input:**
+
+```
+boom
+```
+
+**Expected Output:**
+
+```
+Aantal klinkers: 2
+```
+
+---
+
+### Case 10
+
+**Complete console output:**
+
+```
+Voer een woord in: x
+Aantal klinkers: 0
+```
+
+**Input:**
+
+```
+x
+```
+
+**Expected Output:**
+
+```
+Aantal klinkers: 0
+```
+
+---
+
+### Case 11
+
+**Complete console output:**
+
+```
+Voer een woord in: brrrt
+Aantal klinkers: 0
+```
+
+**Input:**
+
+```
+brrrt
+```
+
+**Expected Output:**
+
+```
+Aantal klinkers: 0
+```
+
+---
+
+### Case 12
+
+**Complete console output:**
+
+```
+Voer een woord in: aeiou
+Aantal klinkers: 5
+```
+
+**Input:**
+
+```
+aeiou
+```
+
+**Expected Output:**
+
+```
+Aantal klinkers: 5
+```
+
+---
+
+### Case 13
+
+**Complete console output:**
+
+```
+Voer een woord in: x
+Aantal klinkers: 0
+```
+
+**Input:**
+
+```
+x
+```
+
+**Expected Output:**
+
+```
+Aantal klinkers: 0
+```
+
+---
+
+### Case 14
+
+**Complete console output:**
+
+```
+Voer een woord in: brrrt
+Aantal klinkers: 0
+```
+
+**Input:**
+
+```
+brrrt
+```
+
+**Expected Output:**
+
+```
+Aantal klinkers: 0
+```
+
+---
+
+### Case 15
+
+**Complete console output:**
+
+```
+Voer een woord in: x
+Aantal klinkers: 0
+```
+
+**Input:**
+
+```
+x
+```
+
+**Expected Output:**
+
+```
+Aantal klinkers: 0
+```
+
+---

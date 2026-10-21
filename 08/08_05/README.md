@@ -20,14 +20,37 @@ Below are the automatically generated input/output expectations.
 
 ### Case 1
 
-**Description:** Run 1: args=1, 1, 4
+**Complete console output:**
+
+```
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Kies een optie: 2
+Hoeveel geld wil je opnemen? 1000
+Opname succesvol.
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Kies een optie: 4
+Bedankt en tot ziens!
+```
 
 **Input:**
 
 ```
-1
-1
+2
+1000
 4
+2
+500
+1
+3
+100
 ```
 
 **Expected Output:**
@@ -38,182 +61,127 @@ Below are the automatically generated input/output expectations.
 2. Geld opnemen
 3. Geld storten
 4. Stoppen
-Kies een optie: Het huidige saldo is 1000 euro.
+Opname succesvol.
 --- Bankautomaat ---
 1. Saldo bekijken
 2. Geld opnemen
 3. Geld storten
 4. Stoppen
-Kies een optie: Het huidige saldo is 1000 euro.
---- Bankautomaat ---
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Kies een optie: Bedankt en tot ziens!
+Bedankt en tot ziens!
 ```
 
 ---
 
 ### Case 2
 
-**Description:** Run 2: args=3, 434, 3, 888, 3, 234, 2, 644, 3, 54, 1, 4
+**Complete console output:**
+
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.ToonMenu() in /workspace/exercise-solutions/programming-essentials/08/08_05/consoleapp/Program.cs:line 41
+   at Program.Main(String[] args) in /workspace/exercise-solutions/programming-essentials/08/08_05/consoleapp/Program.cs:line 50
+```
 
 **Input:**
 
 ```
-3
-434
-3
-888
-3
-234
-2
-644
-3
-54
 1
-4
+2
+0
+3
+1000
+1
+2
+1000
 ```
 
 **Expected Output:**
 
 ```
---- Bankautomaat ---
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Kies een optie: Hoeveel geld wil je storten? Storting succesvol.
---- Bankautomaat ---
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Kies een optie: Hoeveel geld wil je storten? Storting succesvol.
---- Bankautomaat ---
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Kies een optie: Hoeveel geld wil je storten? Storting succesvol.
---- Bankautomaat ---
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Kies een optie: Hoeveel geld wil je opnemen? Opname succesvol.
---- Bankautomaat ---
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Kies een optie: Hoeveel geld wil je storten? Storting succesvol.
---- Bankautomaat ---
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Kies een optie: Het huidige saldo is 1966 euro.
---- Bankautomaat ---
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Kies een optie: Bedankt en tot ziens!
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.ToonMenu() in /workspace/exercise-solutions/programming-essentials/08/08_05/consoleapp/Program.cs:line 41
+   at Program.Main(String[] args) in /workspace/exercise-solutions/programming-essentials/08/08_05/consoleapp/Program.cs:line 50
 ```
 
 ---
 
 ### Case 3
 
-**Description:** Run 3: args=3, 960, 3, 855, 2, 1011, 1, 2, 30, 2, 518, 2, 540, 4
+**Complete console output:**
+
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.ToonMenu() in /workspace/exercise-solutions/programming-essentials/08/08_05/consoleapp/Program.cs:line 41
+   at Program.Main(String[] args) in /workspace/exercise-solutions/programming-essentials/08/08_05/consoleapp/Program.cs:line 50
+```
 
 **Input:**
 
 ```
-3
-960
-3
-855
-2
-1011
 1
-2
-30
-2
-518
-2
-540
-4
+3
+100
+1
+1
+3
+1000
 ```
 
 **Expected Output:**
 
 ```
---- Bankautomaat ---
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Kies een optie: Hoeveel geld wil je storten? Storting succesvol.
---- Bankautomaat ---
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Kies een optie: Hoeveel geld wil je storten? Storting succesvol.
---- Bankautomaat ---
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Kies een optie: Hoeveel geld wil je opnemen? Opname succesvol.
---- Bankautomaat ---
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Kies een optie: Het huidige saldo is 1804 euro.
---- Bankautomaat ---
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Kies een optie: Hoeveel geld wil je opnemen? Opname succesvol.
---- Bankautomaat ---
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Kies een optie: Hoeveel geld wil je opnemen? Opname succesvol.
---- Bankautomaat ---
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Kies een optie: Hoeveel geld wil je opnemen? Opname succesvol.
---- Bankautomaat ---
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Kies een optie: Bedankt en tot ziens!
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.ToonMenu() in /workspace/exercise-solutions/programming-essentials/08/08_05/consoleapp/Program.cs:line 41
+   at Program.Main(String[] args) in /workspace/exercise-solutions/programming-essentials/08/08_05/consoleapp/Program.cs:line 50
 ```
 
 ---
 
 ### Case 4
 
-**Description:** Run 4: args=2, 1227, 1, 4
+**Complete console output:**
+
+```
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Kies een optie: 1
+Het huidige saldo is 1000 euro.
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Kies een optie: 2
+Hoeveel geld wil je opnemen? 1500
+Kan niet meer opnemen dan er op de rekening staat.
+Onvoldoende saldo.
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Kies een optie: 4
+Bedankt en tot ziens!
+```
 
 **Input:**
 
 ```
-2
-1227
 1
+2
+1500
 4
+2
+500
+3
+100
 ```
 
 **Expected Output:**
@@ -224,42 +192,189 @@ Kies een optie: Bedankt en tot ziens!
 2. Geld opnemen
 3. Geld storten
 4. Stoppen
-Kies een optie: Hoeveel geld wil je opnemen? Kan niet meer opnemen dan er op de rekening staat.
+Het huidige saldo is 1000 euro.
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Kan niet meer opnemen dan er op de rekening staat.
 Onvoldoende saldo.
 --- Bankautomaat ---
 1. Saldo bekijken
 2. Geld opnemen
 3. Geld storten
 4. Stoppen
-Kies een optie: Het huidige saldo is 1000 euro.
---- Bankautomaat ---
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Kies een optie: Bedankt en tot ziens!
+Bedankt en tot ziens!
 ```
 
 ---
 
 ### Case 5
 
-**Description:** Run 5: args=1, 3, 195, 2, 35, 2, 275, 3, 75, 2, 1306, 4
+**Complete console output:**
+
+```
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Kies een optie: 3
+Hoeveel geld wil je storten? 500
+Storting succesvol.
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Kies een optie: 2
+Hoeveel geld wil je opnemen? 1000
+Opname succesvol.
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Kies een optie: 4
+Bedankt en tot ziens!
+```
 
 **Input:**
 
 ```
+3
+500
+2
+1000
+4
+2
+1000
+3
+100
+```
+
+**Expected Output:**
+
+```
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Storting succesvol.
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Opname succesvol.
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Bedankt en tot ziens!
+```
+
+---
+
+### Case 6
+
+**Complete console output:**
+
+```
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Kies een optie: 4
+Bedankt en tot ziens!
+```
+
+**Input:**
+
+```
+4
+3
+100
 1
+2
+0
+1
+```
+
+**Expected Output:**
+
+```
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Bedankt en tot ziens!
+```
+
+---
+
+### Case 7
+
+**Complete console output:**
+
+```
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Kies een optie: 3
+Hoeveel geld wil je storten? 0
+Storting succesvol.
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Kies een optie: 2
+Hoeveel geld wil je opnemen? 1000
+Opname succesvol.
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Kies een optie: 2
+Hoeveel geld wil je opnemen? 0
+Opname succesvol.
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Kies een optie: 3
+Hoeveel geld wil je storten? 1000
+Storting succesvol.
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Kies een optie: 4
+Bedankt en tot ziens!
+```
+
+**Input:**
+
+```
 3
-195
+0
 2
-35
+1000
 2
-275
+0
 3
-75
-2
-1306
+1000
 4
 ```
 
@@ -271,42 +386,442 @@ Kies een optie: Bedankt en tot ziens!
 2. Geld opnemen
 3. Geld storten
 4. Stoppen
-Kies een optie: Het huidige saldo is 1000 euro.
+Storting succesvol.
 --- Bankautomaat ---
 1. Saldo bekijken
 2. Geld opnemen
 3. Geld storten
 4. Stoppen
-Kies een optie: Hoeveel geld wil je storten? Storting succesvol.
+Opname succesvol.
 --- Bankautomaat ---
 1. Saldo bekijken
 2. Geld opnemen
 3. Geld storten
 4. Stoppen
-Kies een optie: Hoeveel geld wil je opnemen? Opname succesvol.
+Opname succesvol.
 --- Bankautomaat ---
 1. Saldo bekijken
 2. Geld opnemen
 3. Geld storten
 4. Stoppen
-Kies een optie: Hoeveel geld wil je opnemen? Opname succesvol.
+Storting succesvol.
 --- Bankautomaat ---
 1. Saldo bekijken
 2. Geld opnemen
 3. Geld storten
 4. Stoppen
-Kies een optie: Hoeveel geld wil je storten? Storting succesvol.
+Bedankt en tot ziens!
+```
+
+---
+
+### Case 8
+
+**Complete console output:**
+
+```
 --- Bankautomaat ---
 1. Saldo bekijken
 2. Geld opnemen
 3. Geld storten
 4. Stoppen
-Kies een optie: Hoeveel geld wil je opnemen? Kan niet meer opnemen dan er op de rekening staat.
+Kies een optie: 4
+Bedankt en tot ziens!
+```
+
+**Input:**
+
+```
+4
+4
+1
+1
+3
+100
+```
+
+**Expected Output:**
+
+```
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Bedankt en tot ziens!
+```
+
+---
+
+### Case 9
+
+**Complete console output:**
+
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.ToonMenu() in /workspace/exercise-solutions/programming-essentials/08/08_05/consoleapp/Program.cs:line 41
+   at Program.Main(String[] args) in /workspace/exercise-solutions/programming-essentials/08/08_05/consoleapp/Program.cs:line 50
+```
+
+**Input:**
+
+```
+2
+0
+2
+1500
+2
+500
+1
+1
+```
+
+**Expected Output:**
+
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.ToonMenu() in /workspace/exercise-solutions/programming-essentials/08/08_05/consoleapp/Program.cs:line 41
+   at Program.Main(String[] args) in /workspace/exercise-solutions/programming-essentials/08/08_05/consoleapp/Program.cs:line 50
+```
+
+---
+
+### Case 10
+
+**Complete console output:**
+
+```
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Kies een optie: 2
+Hoeveel geld wil je opnemen? 0
+Opname succesvol.
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Kies een optie: 4
+Bedankt en tot ziens!
+```
+
+**Input:**
+
+```
+2
+0
+4
+3
+500
+1
+4
+```
+
+**Expected Output:**
+
+```
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Opname succesvol.
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Bedankt en tot ziens!
+```
+
+---
+
+### Case 11
+
+**Complete console output:**
+
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.ToonMenu() in /workspace/exercise-solutions/programming-essentials/08/08_05/consoleapp/Program.cs:line 41
+   at Program.Main(String[] args) in /workspace/exercise-solutions/programming-essentials/08/08_05/consoleapp/Program.cs:line 50
+```
+
+**Input:**
+
+```
+3
+0
+1
+1
+2
+1000
+3
+100
+```
+
+**Expected Output:**
+
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.ToonMenu() in /workspace/exercise-solutions/programming-essentials/08/08_05/consoleapp/Program.cs:line 41
+   at Program.Main(String[] args) in /workspace/exercise-solutions/programming-essentials/08/08_05/consoleapp/Program.cs:line 50
+```
+
+---
+
+### Case 12
+
+**Complete console output:**
+
+```
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Kies een optie: 3
+Hoeveel geld wil je storten? 100
+Storting succesvol.
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Kies een optie: 2
+Hoeveel geld wil je opnemen? 1500
+Kan niet meer opnemen dan er op de rekening staat.
 Onvoldoende saldo.
 --- Bankautomaat ---
 1. Saldo bekijken
 2. Geld opnemen
 3. Geld storten
 4. Stoppen
-Kies een optie: Bedankt en tot ziens!
+Kies een optie: 4
+Bedankt en tot ziens!
 ```
+
+**Input:**
+
+```
+3
+100
+2
+1500
+4
+3
+1000
+2
+1000
+```
+
+**Expected Output:**
+
+```
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Storting succesvol.
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Kan niet meer opnemen dan er op de rekening staat.
+Onvoldoende saldo.
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Bedankt en tot ziens!
+```
+
+---
+
+### Case 13
+
+**Complete console output:**
+
+```
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Kies een optie: 1
+Het huidige saldo is 1000 euro.
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Kies een optie: 2
+Hoeveel geld wil je opnemen? 1500
+Kan niet meer opnemen dan er op de rekening staat.
+Onvoldoende saldo.
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Kies een optie: 1
+Het huidige saldo is 1000 euro.
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Kies een optie: 2
+Hoeveel geld wil je opnemen? 0
+Opname succesvol.
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Kies een optie: 4
+Bedankt en tot ziens!
+```
+
+**Input:**
+
+```
+1
+2
+1500
+1
+2
+0
+4
+```
+
+**Expected Output:**
+
+```
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Het huidige saldo is 1000 euro.
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Kan niet meer opnemen dan er op de rekening staat.
+Onvoldoende saldo.
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Het huidige saldo is 1000 euro.
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Opname succesvol.
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Bedankt en tot ziens!
+```
+
+---
+
+### Case 14
+
+**Complete console output:**
+
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.ToonMenu() in /workspace/exercise-solutions/programming-essentials/08/08_05/consoleapp/Program.cs:line 41
+   at Program.Main(String[] args) in /workspace/exercise-solutions/programming-essentials/08/08_05/consoleapp/Program.cs:line 50
+```
+
+**Input:**
+
+```
+1
+1
+1
+2
+1500
+2
+0
+```
+
+**Expected Output:**
+
+```
+NONZERO_EXIT(134): Unhandled exception. System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at Program.ToonMenu() in /workspace/exercise-solutions/programming-essentials/08/08_05/consoleapp/Program.cs:line 41
+   at Program.Main(String[] args) in /workspace/exercise-solutions/programming-essentials/08/08_05/consoleapp/Program.cs:line 50
+```
+
+---
+
+### Case 15
+
+**Complete console output:**
+
+```
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Kies een optie: 1
+Het huidige saldo is 1000 euro.
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Kies een optie: 4
+Bedankt en tot ziens!
+```
+
+**Input:**
+
+```
+1
+4
+1
+1
+1
+```
+
+**Expected Output:**
+
+```
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Het huidige saldo is 1000 euro.
+--- Bankautomaat ---
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Bedankt en tot ziens!
+```
+
+---
