@@ -18,28 +18,30 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
-Aantal deelnemers: Score 1: 3
-Score 2: 17
-Score 3: 15
-Gemiddelde: 13.7
-Hoogste: 17
+Aantal deelnemers: 
+2
+Score 1: 
+20
+Score 2: 
+20
+Gemiddelde: 20.0
+Hoogste: 20
 Geslaagd: 2
 ```
 
 **Input:**
 
 ```
-3
-17
-15
-9
+2
+20
+20
 ```
 
 **Expected Output:**
 
 ```
-Aantal deelnemers: Gemiddelde: 13.7
-Hoogste: 17
+Gemiddelde: 20.0
+Hoogste: 20
 Geslaagd: 2
 ```
 
@@ -50,33 +52,34 @@ Geslaagd: 2
 **Complete console output:**
 
 ```
-Aantal deelnemers: Score 1: 5
-Score 2: 0
-Score 3: 20
-Score 4: 10
-Score 5: 10
-Gemiddelde: 9.8
-Hoogste: 20
-Geslaagd: 3
+Aantal deelnemers: 
+3
+Score 1: 
+15
+Score 2: 
+5
+Score 3: 
+0
+Gemiddelde: 6.7
+Hoogste: 15
+Geslaagd: 1
 ```
 
 **Input:**
 
 ```
+3
+15
 5
 0
-20
-10
-10
-9
 ```
 
 **Expected Output:**
 
 ```
-Aantal deelnemers: Gemiddelde: 9.8
-Hoogste: 20
-Geslaagd: 3
+Gemiddelde: 6.7
+Hoogste: 15
+Geslaagd: 1
 ```
 
 ---
@@ -86,25 +89,34 @@ Geslaagd: 3
 **Complete console output:**
 
 ```
-Aantal deelnemers: Score 1: 1
-Gemiddelde: 5.0
-Hoogste: 5
-Geslaagd: 0
+Aantal deelnemers: 
+3
+Score 1: 
+10
+Score 2: 
+0
+Score 3: 
+15
+Gemiddelde: 8.3
+Hoogste: 15
+Geslaagd: 2
 ```
 
 **Input:**
 
 ```
-1
-5
+3
+10
+0
+15
 ```
 
 **Expected Output:**
 
 ```
-Aantal deelnemers: Gemiddelde: 5.0
-Hoogste: 5
-Geslaagd: 0
+Gemiddelde: 8.3
+Hoogste: 15
+Geslaagd: 2
 ```
 
 ---
@@ -114,33 +126,31 @@ Geslaagd: 0
 **Complete console output:**
 
 ```
-Aantal deelnemers: Score 1: 5
-Score 2: 5
-Score 3: 15
-Score 4: 0
-Score 5: 9
-Gemiddelde: 9.2
-Hoogste: 17
-Geslaagd: 2
+Aantal deelnemers: 
+2
+Score 1: 
+9
+Score 2: 
+0
+Gemiddelde: 4.5
+Hoogste: 9
+Geslaagd: 0
 ```
 
 **Input:**
 
 ```
-5
-5
-15
-0
+2
 9
-17
+0
 ```
 
 **Expected Output:**
 
 ```
-Aantal deelnemers: Gemiddelde: 9.2
-Hoogste: 17
-Geslaagd: 2
+Gemiddelde: 4.5
+Hoogste: 9
+Geslaagd: 0
 ```
 
 ---
@@ -150,10 +160,14 @@ Geslaagd: 2
 **Complete console output:**
 
 ```
-Aantal deelnemers: Score 1: 2
-Score 2: 9
-Gemiddelde: 14.5
-Hoogste: 20
+Aantal deelnemers: 
+2
+Score 1: 
+17
+Score 2: 
+5
+Gemiddelde: 11.0
+Hoogste: 17
 Geslaagd: 1
 ```
 
@@ -161,15 +175,15 @@ Geslaagd: 1
 
 ```
 2
-9
-20
+17
+5
 ```
 
 **Expected Output:**
 
 ```
-Aantal deelnemers: Gemiddelde: 14.5
-Hoogste: 20
+Gemiddelde: 11.0
+Hoogste: 17
 Geslaagd: 1
 ```
 
@@ -180,12 +194,13 @@ Geslaagd: 1
 **Complete console output:**
 
 ```
-Aantal deelnemers: Score 1: 5
-Score 2: 17
-Score 3: 20
-Score 4: 9
-Score 5: 5
-Gemiddelde: 11.2
+Aantal deelnemers: 
+2
+Score 1: 
+20
+Score 2: 
+20
+Gemiddelde: 20.0
 Hoogste: 20
 Geslaagd: 2
 ```
@@ -193,18 +208,15 @@ Geslaagd: 2
 **Input:**
 
 ```
-5
-17
+2
 20
-9
-5
-5
+20
 ```
 
 **Expected Output:**
 
 ```
-Aantal deelnemers: Gemiddelde: 11.2
+Gemiddelde: 20.0
 Hoogste: 20
 Geslaagd: 2
 ```
@@ -216,11 +228,16 @@ Geslaagd: 2
 **Complete console output:**
 
 ```
-Aantal deelnemers: Score 1: 3
-Score 2: 15
-Score 3: 20
-Gemiddelde: 11.7
-Hoogste: 20
+Aantal deelnemers: 
+3
+Score 1: 
+10
+Score 2: 
+9
+Score 3: 
+15
+Gemiddelde: 11.3
+Hoogste: 15
 Geslaagd: 2
 ```
 
@@ -228,16 +245,16 @@ Geslaagd: 2
 
 ```
 3
+10
+9
 15
-20
-0
 ```
 
 **Expected Output:**
 
 ```
-Aantal deelnemers: Gemiddelde: 11.7
-Hoogste: 20
+Gemiddelde: 11.3
+Hoogste: 15
 Geslaagd: 2
 ```
 
@@ -248,10 +265,19 @@ Geslaagd: 2
 **Complete console output:**
 
 ```
-Aantal deelnemers: Score 1: 3
-Score 2: 15
-Score 3: 15
-Gemiddelde: 16.7
+Aantal deelnemers: 
+5
+Score 1: 
+9
+Score 2: 
+20
+Score 3: 
+15
+Score 4: 
+20
+Score 5: 
+0
+Gemiddelde: 12.8
 Hoogste: 20
 Geslaagd: 3
 ```
@@ -259,16 +285,18 @@ Geslaagd: 3
 **Input:**
 
 ```
-3
-15
+5
+9
+20
 15
 20
+0
 ```
 
 **Expected Output:**
 
 ```
-Aantal deelnemers: Gemiddelde: 16.7
+Gemiddelde: 12.8
 Hoogste: 20
 Geslaagd: 3
 ```
@@ -280,33 +308,28 @@ Geslaagd: 3
 **Complete console output:**
 
 ```
-Aantal deelnemers: Score 1: 5
-Score 2: 17
-Score 3: 10
-Score 4: 5
-Score 5: 5
-Gemiddelde: 7.4
-Hoogste: 17
-Geslaagd: 2
+Aantal deelnemers: 
+1
+Score 1: 
+9
+Gemiddelde: 9.0
+Hoogste: 9
+Geslaagd: 0
 ```
 
 **Input:**
 
 ```
-5
-17
-10
-5
-5
-0
+1
+9
 ```
 
 **Expected Output:**
 
 ```
-Aantal deelnemers: Gemiddelde: 7.4
-Hoogste: 17
-Geslaagd: 2
+Gemiddelde: 9.0
+Hoogste: 9
+Geslaagd: 0
 ```
 
 ---
@@ -316,23 +339,21 @@ Geslaagd: 2
 **Complete console output:**
 
 ```
-Aantal deelnemers: Score 1: 5
-Score 2: 5
-Score 3: 15
-Score 4: 17
-Score 5: 9
-Gemiddelde: 11.2
-Hoogste: 17
-Geslaagd: 3
+Aantal deelnemers: 
+2
+Score 1: 
+9
+Score 2: 
+10
+Gemiddelde: 9.5
+Hoogste: 10
+Geslaagd: 1
 ```
 
 **Input:**
 
 ```
-5
-5
-15
-17
+2
 9
 10
 ```
@@ -340,9 +361,9 @@ Geslaagd: 3
 **Expected Output:**
 
 ```
-Aantal deelnemers: Gemiddelde: 11.2
-Hoogste: 17
-Geslaagd: 3
+Gemiddelde: 9.5
+Hoogste: 10
+Geslaagd: 1
 ```
 
 ---
@@ -352,25 +373,31 @@ Geslaagd: 3
 **Complete console output:**
 
 ```
-Aantal deelnemers: Score 1: 1
-Gemiddelde: 0.0
-Hoogste: 0
-Geslaagd: 0
+Aantal deelnemers: 
+2
+Score 1: 
+20
+Score 2: 
+0
+Gemiddelde: 10.0
+Hoogste: 20
+Geslaagd: 1
 ```
 
 **Input:**
 
 ```
-1
+2
+20
 0
 ```
 
 **Expected Output:**
 
 ```
-Aantal deelnemers: Gemiddelde: 0.0
-Hoogste: 0
-Geslaagd: 0
+Gemiddelde: 10.0
+Hoogste: 20
+Geslaagd: 1
 ```
 
 ---
@@ -380,65 +407,10 @@ Geslaagd: 0
 **Complete console output:**
 
 ```
-Aantal deelnemers: Score 1: 1
-Gemiddelde: 15.0
-Hoogste: 15
-Geslaagd: 1
-```
-
-**Input:**
-
-```
+Aantal deelnemers: 
 1
-15
-```
-
-**Expected Output:**
-
-```
-Aantal deelnemers: Gemiddelde: 15.0
-Hoogste: 15
-Geslaagd: 1
-```
-
----
-
-### Case 13
-
-**Complete console output:**
-
-```
-Aantal deelnemers: Score 1: 2
-Score 2: 9
-Gemiddelde: 14.5
-Hoogste: 20
-Geslaagd: 1
-```
-
-**Input:**
-
-```
-2
-9
-20
-```
-
-**Expected Output:**
-
-```
-Aantal deelnemers: Gemiddelde: 14.5
-Hoogste: 20
-Geslaagd: 1
-```
-
----
-
-### Case 14
-
-**Complete console output:**
-
-```
-Aantal deelnemers: Score 1: 1
+Score 1: 
+5
 Gemiddelde: 5.0
 Hoogste: 5
 Geslaagd: 0
@@ -454,9 +426,77 @@ Geslaagd: 0
 **Expected Output:**
 
 ```
-Aantal deelnemers: Gemiddelde: 5.0
+Gemiddelde: 5.0
 Hoogste: 5
 Geslaagd: 0
+```
+
+---
+
+### Case 13
+
+**Complete console output:**
+
+```
+Aantal deelnemers: 
+1
+Score 1: 
+5
+Gemiddelde: 5.0
+Hoogste: 5
+Geslaagd: 0
+```
+
+**Input:**
+
+```
+1
+5
+```
+
+**Expected Output:**
+
+```
+Gemiddelde: 5.0
+Hoogste: 5
+Geslaagd: 0
+```
+
+---
+
+### Case 14
+
+**Complete console output:**
+
+```
+Aantal deelnemers: 
+3
+Score 1: 
+20
+Score 2: 
+20
+Score 3: 
+9
+Gemiddelde: 16.3
+Hoogste: 20
+Geslaagd: 2
+```
+
+**Input:**
+
+```
+3
+20
+20
+9
+```
+
+**Expected Output:**
+
+```
+Gemiddelde: 16.3
+Hoogste: 20
+Geslaagd: 2
 ```
 
 ---
@@ -466,25 +506,40 @@ Geslaagd: 0
 **Complete console output:**
 
 ```
-Aantal deelnemers: Score 1: 1
-Gemiddelde: 15.0
-Hoogste: 15
-Geslaagd: 1
+Aantal deelnemers: 
+5
+Score 1: 
+0
+Score 2: 
+15
+Score 3: 
+20
+Score 4: 
+5
+Score 5: 
+15
+Gemiddelde: 11.0
+Hoogste: 20
+Geslaagd: 3
 ```
 
 **Input:**
 
 ```
-1
+5
+0
+15
+20
+5
 15
 ```
 
 **Expected Output:**
 
 ```
-Aantal deelnemers: Gemiddelde: 15.0
-Hoogste: 15
-Geslaagd: 1
+Gemiddelde: 11.0
+Hoogste: 20
+Geslaagd: 3
 ```
 
 ---
