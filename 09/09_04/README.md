@@ -39,7 +39,6 @@ Below are the automatically generated input/output expectations.
 **Input:**
 
 ```
-(none)
 ```
 
 **Expected Output:**
@@ -49,45 +48,3 @@ Below are the automatically generated input/output expectations.
 ```
 
 ---
-
-### Case 2
-
-**Complete console output:**
-
-```
-10
-```
-
-**Input:**
-
-```
-(none)
-```
-
-**Expected Output:**
-
-```
-10
-```
-
----
-
-### Case 3
-
-**Complete console output:**
-
-```
-0
-```
-
-**Input:**
-
-```
-(none)
-```
-
-**Expected Output:**
-
-```
-0
-```
