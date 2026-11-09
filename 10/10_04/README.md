@@ -20,35 +20,29 @@ Below are the automatically generated input/output expectations.
 
 ```
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-2
-Aantal minuten: 
-30
-Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-4
-Aantal minuten: 
-15
-Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-2
+1
 Aantal minuten: 
 60
+Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
+1
+Aantal minuten: 
+0
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
 2
 Aantal minuten: 
 -1
-Totaal auto's: 3
-Totale inkomsten: 3 euro
-Gemiddelde parkeertijd: 35.0 minuten
+Totaal auto's: 2
+Totale inkomsten: 2 euro
+Gemiddelde parkeertijd: 30.0 minuten
 ```
 
 **Input:**
 
 ```
-2
-30
-4
-15
-2
+1
 60
+1
+0
 2
 -1
 ```
@@ -56,9 +50,9 @@ Gemiddelde parkeertijd: 35.0 minuten
 **Expected Output:**
 
 ```
-Totaal auto's: 3
-Totale inkomsten: 3 euro
-Gemiddelde parkeertijd: 35.0 minuten
+Totaal auto's: 2
+Totale inkomsten: 2 euro
+Gemiddelde parkeertijd: 30.0 minuten
 ```
 
 ---
@@ -69,36 +63,36 @@ Gemiddelde parkeertijd: 35.0 minuten
 
 ```
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-1
+4
 Aantal minuten: 
-15
-Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-1
-Aantal minuten: 
-30
+60
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
 4
 Aantal minuten: 
 60
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-3
+4
+Aantal minuten: 
+60
+Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
+1
 Aantal minuten: 
 -1
 Totaal auto's: 3
-Totale inkomsten: 4.5 euro
-Gemiddelde parkeertijd: 35.0 minuten
+Totale inkomsten: 9 euro
+Gemiddelde parkeertijd: 60.0 minuten
 ```
 
 **Input:**
 
 ```
-1
-15
-1
-30
 4
 60
-3
+4
+60
+4
+60
+1
 -1
 ```
 
@@ -106,8 +100,8 @@ Gemiddelde parkeertijd: 35.0 minuten
 
 ```
 Totaal auto's: 3
-Totale inkomsten: 4.5 euro
-Gemiddelde parkeertijd: 35.0 minuten
+Totale inkomsten: 9 euro
+Gemiddelde parkeertijd: 60.0 minuten
 ```
 
 ---
@@ -118,45 +112,51 @@ Gemiddelde parkeertijd: 35.0 minuten
 
 ```
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-3
+4
 Aantal minuten: 
-60
+15
+Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
+1
+Aantal minuten: 
+15
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
 4
 Aantal minuten: 
 30
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-1
+2
 Aantal minuten: 
-0
+30
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-1
+3
 Aantal minuten: 
 -1
-Totaal auto's: 3
-Totale inkomsten: 1.5 euro
-Gemiddelde parkeertijd: 30.0 minuten
+Totaal auto's: 4
+Totale inkomsten: 3.5 euro
+Gemiddelde parkeertijd: 22.5 minuten
 ```
 
 **Input:**
 
 ```
-3
-60
+4
+15
+1
+15
 4
 30
-1
-0
-1
+2
+30
+3
 -1
 ```
 
 **Expected Output:**
 
 ```
-Totaal auto's: 3
-Totale inkomsten: 1.5 euro
-Gemiddelde parkeertijd: 30.0 minuten
+Totaal auto's: 4
+Totale inkomsten: 3.5 euro
+Gemiddelde parkeertijd: 22.5 minuten
 ```
 
 ---
@@ -167,30 +167,30 @@ Gemiddelde parkeertijd: 30.0 minuten
 
 ```
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-3
+2
 Aantal minuten: 
 0
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-2
+1
 Aantal minuten: 
 15
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-4
+1
 Aantal minuten: 
 -1
 Totaal auto's: 2
-Totale inkomsten: 0.375 euro
+Totale inkomsten: 0.5 euro
 Gemiddelde parkeertijd: 7.5 minuten
 ```
 
 **Input:**
 
 ```
-3
-0
 2
+0
+1
 15
-4
+1
 -1
 ```
 
@@ -198,7 +198,7 @@ Gemiddelde parkeertijd: 7.5 minuten
 
 ```
 Totaal auto's: 2
-Totale inkomsten: 0.375 euro
+Totale inkomsten: 0.5 euro
 Gemiddelde parkeertijd: 7.5 minuten
 ```
 
@@ -210,45 +210,33 @@ Gemiddelde parkeertijd: 7.5 minuten
 
 ```
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-2
+3
 Aantal minuten: 
-15
+60
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-1
-Aantal minuten: 
-15
-Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-4
-Aantal minuten: 
-15
-Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-1
+3
 Aantal minuten: 
 -1
-Totaal auto's: 3
-Totale inkomsten: 1.625 euro
-Gemiddelde parkeertijd: 15.0 minuten
+Totaal auto's: 1
+Totale inkomsten: 0 euro
+Gemiddelde parkeertijd: 60.0 minuten
 ```
 
 **Input:**
 
 ```
-2
-15
-1
-15
-4
-15
-1
+3
+60
+3
 -1
 ```
 
 **Expected Output:**
 
 ```
-Totaal auto's: 3
-Totale inkomsten: 1.625 euro
-Gemiddelde parkeertijd: 15.0 minuten
+Totaal auto's: 1
+Totale inkomsten: 0 euro
+Gemiddelde parkeertijd: 60.0 minuten
 ```
 
 ---
@@ -259,46 +247,34 @@ Gemiddelde parkeertijd: 15.0 minuten
 
 ```
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-4
-Aantal minuten: 
-30
-Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
 3
 Aantal minuten: 
 60
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-2
+1
 Aantal minuten: 
-60
+15
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-4
-Aantal minuten: 
-60
-Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-2
+3
 Aantal minuten: 
 30
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
 1
 Aantal minuten: 
 -1
-Totaal auto's: 5
-Totale inkomsten: 6.75 euro
-Gemiddelde parkeertijd: 48.0 minuten
+Totaal auto's: 3
+Totale inkomsten: 0.5 euro
+Gemiddelde parkeertijd: 35.0 minuten
 ```
 
 **Input:**
 
 ```
-4
-30
 3
 60
-2
-60
-4
-60
-2
+1
+15
+3
 30
 1
 -1
@@ -307,9 +283,9 @@ Gemiddelde parkeertijd: 48.0 minuten
 **Expected Output:**
 
 ```
-Totaal auto's: 5
-Totale inkomsten: 6.75 euro
-Gemiddelde parkeertijd: 48.0 minuten
+Totaal auto's: 3
+Totale inkomsten: 0.5 euro
+Gemiddelde parkeertijd: 35.0 minuten
 ```
 
 ---
@@ -320,42 +296,42 @@ Gemiddelde parkeertijd: 48.0 minuten
 
 ```
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-3
-Aantal minuten: 
-15
-Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-3
-Aantal minuten: 
-30
-Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
 1
 Aantal minuten: 
 0
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-3
+1
 Aantal minuten: 
 30
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-1
+2
+Aantal minuten: 
+60
+Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
+2
+Aantal minuten: 
+30
+Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
+3
 Aantal minuten: 
 -1
 Totaal auto's: 4
-Totale inkomsten: 0 euro
-Gemiddelde parkeertijd: 18.8 minuten
+Totale inkomsten: 3.25 euro
+Gemiddelde parkeertijd: 30.0 minuten
 ```
 
 **Input:**
 
 ```
-3
-15
-3
-30
 1
 0
-3
-30
 1
+30
+2
+60
+2
+30
+3
 -1
 ```
 
@@ -363,8 +339,8 @@ Gemiddelde parkeertijd: 18.8 minuten
 
 ```
 Totaal auto's: 4
-Totale inkomsten: 0 euro
-Gemiddelde parkeertijd: 18.8 minuten
+Totale inkomsten: 3.25 euro
+Gemiddelde parkeertijd: 30.0 minuten
 ```
 
 ---
@@ -375,33 +351,45 @@ Gemiddelde parkeertijd: 18.8 minuten
 
 ```
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-2
+1
+Aantal minuten: 
+30
+Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
+3
 Aantal minuten: 
 0
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-4
+2
+Aantal minuten: 
+15
+Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
+2
 Aantal minuten: 
 -1
-Totaal auto's: 1
-Totale inkomsten: 0 euro
-Gemiddelde parkeertijd: 0.0 minuten
+Totaal auto's: 3
+Totale inkomsten: 1.375 euro
+Gemiddelde parkeertijd: 15.0 minuten
 ```
 
 **Input:**
 
 ```
-2
+1
+30
+3
 0
-4
+2
+15
+2
 -1
 ```
 
 **Expected Output:**
 
 ```
-Totaal auto's: 1
-Totale inkomsten: 0 euro
-Gemiddelde parkeertijd: 0.0 minuten
+Totaal auto's: 3
+Totale inkomsten: 1.375 euro
+Gemiddelde parkeertijd: 15.0 minuten
 ```
 
 ---
@@ -412,42 +400,42 @@ Gemiddelde parkeertijd: 0.0 minuten
 
 ```
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-2
-Aantal minuten: 
-0
-Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-4
-Aantal minuten: 
-30
-Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-3
-Aantal minuten: 
-15
-Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-2
+1
 Aantal minuten: 
 60
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
 2
 Aantal minuten: 
+15
+Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
+1
+Aantal minuten: 
+0
+Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
+1
+Aantal minuten: 
+0
+Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
+4
+Aantal minuten: 
 -1
 Totaal auto's: 4
-Totale inkomsten: 3 euro
-Gemiddelde parkeertijd: 26.2 minuten
+Totale inkomsten: 2.375 euro
+Gemiddelde parkeertijd: 18.8 minuten
 ```
 
 **Input:**
 
 ```
-2
-0
-4
-30
-3
-15
-2
+1
 60
 2
+15
+1
+0
+1
+0
+4
 -1
 ```
 
@@ -455,8 +443,8 @@ Gemiddelde parkeertijd: 26.2 minuten
 
 ```
 Totaal auto's: 4
-Totale inkomsten: 3 euro
-Gemiddelde parkeertijd: 26.2 minuten
+Totale inkomsten: 2.375 euro
+Gemiddelde parkeertijd: 18.8 minuten
 ```
 
 ---
@@ -467,33 +455,39 @@ Gemiddelde parkeertijd: 26.2 minuten
 
 ```
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-4
+2
 Aantal minuten: 
 0
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-4
+3
+Aantal minuten: 
+60
+Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
+2
 Aantal minuten: 
 -1
-Totaal auto's: 1
+Totaal auto's: 2
 Totale inkomsten: 0 euro
-Gemiddelde parkeertijd: 0.0 minuten
+Gemiddelde parkeertijd: 30.0 minuten
 ```
 
 **Input:**
 
 ```
-4
+2
 0
-4
+3
+60
+2
 -1
 ```
 
 **Expected Output:**
 
 ```
-Totaal auto's: 1
+Totaal auto's: 2
 Totale inkomsten: 0 euro
-Gemiddelde parkeertijd: 0.0 minuten
+Gemiddelde parkeertijd: 30.0 minuten
 ```
 
 ---
@@ -504,57 +498,39 @@ Gemiddelde parkeertijd: 0.0 minuten
 
 ```
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-3
-Aantal minuten: 
-0
-Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-1
+4
 Aantal minuten: 
 60
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-1
+4
 Aantal minuten: 
-30
+60
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
 3
-Aantal minuten: 
-30
-Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-3
-Aantal minuten: 
-30
-Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-1
 Aantal minuten: 
 -1
-Totaal auto's: 5
-Totale inkomsten: 3 euro
-Gemiddelde parkeertijd: 30.0 minuten
+Totaal auto's: 2
+Totale inkomsten: 6 euro
+Gemiddelde parkeertijd: 60.0 minuten
 ```
 
 **Input:**
 
 ```
-3
-0
-1
+4
 60
-1
-30
+4
+60
 3
-30
-3
-30
-1
 -1
 ```
 
 **Expected Output:**
 
 ```
-Totaal auto's: 5
-Totale inkomsten: 3 euro
-Gemiddelde parkeertijd: 30.0 minuten
+Totaal auto's: 2
+Totale inkomsten: 6 euro
+Gemiddelde parkeertijd: 60.0 minuten
 ```
 
 ---
@@ -567,31 +543,43 @@ Gemiddelde parkeertijd: 30.0 minuten
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
 4
 Aantal minuten: 
-30
+15
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
 4
 Aantal minuten: 
+0
+Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
+1
+Aantal minuten: 
+15
+Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
+2
+Aantal minuten: 
 -1
-Totaal auto's: 1
-Totale inkomsten: 1.5 euro
-Gemiddelde parkeertijd: 30.0 minuten
+Totaal auto's: 3
+Totale inkomsten: 1.25 euro
+Gemiddelde parkeertijd: 10.0 minuten
 ```
 
 **Input:**
 
 ```
 4
-30
+15
 4
+0
+1
+15
+2
 -1
 ```
 
 **Expected Output:**
 
 ```
-Totaal auto's: 1
-Totale inkomsten: 1.5 euro
-Gemiddelde parkeertijd: 30.0 minuten
+Totaal auto's: 3
+Totale inkomsten: 1.25 euro
+Gemiddelde parkeertijd: 10.0 minuten
 ```
 
 ---
@@ -602,9 +590,13 @@ Gemiddelde parkeertijd: 30.0 minuten
 
 ```
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-4
+1
 Aantal minuten: 
-15
+0
+Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
+3
+Aantal minuten: 
+30
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
 2
 Aantal minuten: 
@@ -612,29 +604,43 @@ Aantal minuten:
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
 1
 Aantal minuten: 
+60
+Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
+3
+Aantal minuten: 
+60
+Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
+3
+Aantal minuten: 
 -1
-Totaal auto's: 2
-Totale inkomsten: 2.25 euro
-Gemiddelde parkeertijd: 37.5 minuten
+Totaal auto's: 5
+Totale inkomsten: 3.5 euro
+Gemiddelde parkeertijd: 42.0 minuten
 ```
 
 **Input:**
 
 ```
-4
-15
+1
+0
+3
+30
 2
 60
 1
+60
+3
+60
+3
 -1
 ```
 
 **Expected Output:**
 
 ```
-Totaal auto's: 2
-Totale inkomsten: 2.25 euro
-Gemiddelde parkeertijd: 37.5 minuten
+Totaal auto's: 5
+Totale inkomsten: 3.5 euro
+Gemiddelde parkeertijd: 42.0 minuten
 ```
 
 ---
@@ -645,51 +651,45 @@ Gemiddelde parkeertijd: 37.5 minuten
 
 ```
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-2
-Aantal minuten: 
-60
-Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-2
-Aantal minuten: 
-60
-Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
 3
 Aantal minuten: 
-30
+60
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-4
+2
+Aantal minuten: 
+0
+Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
+2
 Aantal minuten: 
 15
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-3
+4
 Aantal minuten: 
 -1
-Totaal auto's: 4
-Totale inkomsten: 3.75 euro
-Gemiddelde parkeertijd: 41.2 minuten
+Totaal auto's: 3
+Totale inkomsten: 0.375 euro
+Gemiddelde parkeertijd: 25.0 minuten
 ```
 
 **Input:**
 
 ```
-2
-60
-2
-60
 3
-30
-4
+60
+2
+0
+2
 15
-3
+4
 -1
 ```
 
 **Expected Output:**
 
 ```
-Totaal auto's: 4
-Totale inkomsten: 3.75 euro
-Gemiddelde parkeertijd: 41.2 minuten
+Totaal auto's: 3
+Totale inkomsten: 0.375 euro
+Gemiddelde parkeertijd: 25.0 minuten
 ```
 
 ---
@@ -700,39 +700,51 @@ Gemiddelde parkeertijd: 41.2 minuten
 
 ```
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
+2
+Aantal minuten: 
+60
+Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
 1
 Aantal minuten: 
-15
+60
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
 3
 Aantal minuten: 
-0
+30
 Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
-2
+3
+Aantal minuten: 
+15
+Type (1=kort, 2=lang, 3=gehandicapten, 4=laadpaal): 
+1
 Aantal minuten: 
 -1
-Totaal auto's: 2
-Totale inkomsten: 0.5 euro
-Gemiddelde parkeertijd: 7.5 minuten
+Totaal auto's: 4
+Totale inkomsten: 3.5 euro
+Gemiddelde parkeertijd: 41.2 minuten
 ```
 
 **Input:**
 
 ```
-1
-15
-3
-0
 2
+60
+1
+60
+3
+30
+3
+15
+1
 -1
 ```
 
 **Expected Output:**
 
 ```
-Totaal auto's: 2
-Totale inkomsten: 0.5 euro
-Gemiddelde parkeertijd: 7.5 minuten
+Totaal auto's: 4
+Totale inkomsten: 3.5 euro
+Gemiddelde parkeertijd: 41.2 minuten
 ```
 
 ---
