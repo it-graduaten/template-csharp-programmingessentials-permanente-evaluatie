@@ -19,22 +19,22 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
-Geef het aankoopbedrag: 129
-Ben je betalende lid? (ja/nee): ja
-109.65
+Geef het aankoopbedrag: 5
+Ben je betalende lid? (ja/nee): nee
+5
 ```
 
 **Input:**
 
 ```
-129
-ja
+5
+nee
 ```
 
 **Expected Output:**
 
 ```
-109.65
+5
 ```
 
 ---
@@ -44,22 +44,22 @@ ja
 **Complete console output:**
 
 ```
-Geef het aankoopbedrag: 39
+Geef het aankoopbedrag: 49
 Ben je betalende lid? (ja/nee): ja
-39.00
+49
 ```
 
 **Input:**
 
 ```
-39
+49
 ja
 ```
 
 **Expected Output:**
 
 ```
-39.00
+49
 ```
 
 ---
@@ -69,22 +69,22 @@ ja
 **Complete console output:**
 
 ```
-Geef het aankoopbedrag: 22
-Ben je betalende lid? (ja/nee): nee
-22.00
+Geef het aankoopbedrag: 192
+Ben je betalende lid? (ja/nee): ja
+163
 ```
 
 **Input:**
 
 ```
-22
-nee
+192
+ja
 ```
 
 **Expected Output:**
 
 ```
-22.00
+163
 ```
 
 ---
@@ -94,22 +94,22 @@ nee
 **Complete console output:**
 
 ```
-Geef het aankoopbedrag: 185
-Ben je betalende lid? (ja/nee): nee
-175.75
+Geef het aankoopbedrag: 190
+Ben je betalende lid? (ja/nee): ja
+162
 ```
 
 **Input:**
 
 ```
-185
-nee
+190
+ja
 ```
 
 **Expected Output:**
 
 ```
-175.75
+162
 ```
 
 ---
@@ -119,22 +119,22 @@ nee
 **Complete console output:**
 
 ```
-Geef het aankoopbedrag: 104
-Ben je betalende lid? (ja/nee): ja
-88.40
+Geef het aankoopbedrag: 28
+Ben je betalende lid? (ja/nee): nee
+28
 ```
 
 **Input:**
 
 ```
-104
-ja
+28
+nee
 ```
 
 **Expected Output:**
 
 ```
-88.40
+28
 ```
 
 ---
@@ -144,22 +144,22 @@ ja
 **Complete console output:**
 
 ```
-Geef het aankoopbedrag: 120
+Geef het aankoopbedrag: 14
 Ben je betalende lid? (ja/nee): nee
-114.00
+14
 ```
 
 **Input:**
 
 ```
-120
+14
 nee
 ```
 
 **Expected Output:**
 
 ```
-114.00
+14
 ```
 
 ---
@@ -169,22 +169,22 @@ nee
 **Complete console output:**
 
 ```
-Geef het aankoopbedrag: 125
+Geef het aankoopbedrag: 168
 Ben je betalende lid? (ja/nee): nee
-118.75
+160
 ```
 
 **Input:**
 
 ```
-125
+168
 nee
 ```
 
 **Expected Output:**
 
 ```
-118.75
+160
 ```
 
 ---
@@ -194,22 +194,22 @@ nee
 **Complete console output:**
 
 ```
-Geef het aankoopbedrag: 48
-Ben je betalende lid? (ja/nee): ja
-48.00
+Geef het aankoopbedrag: 97
+Ben je betalende lid? (ja/nee): nee
+97
 ```
 
 **Input:**
 
 ```
-48
-ja
+97
+nee
 ```
 
 **Expected Output:**
 
 ```
-48.00
+97
 ```
 
 ---
@@ -219,22 +219,22 @@ ja
 **Complete console output:**
 
 ```
-Geef het aankoopbedrag: 24
-Ben je betalende lid? (ja/nee): nee
-24.00
+Geef het aankoopbedrag: 189
+Ben je betalende lid? (ja/nee): ja
+161
 ```
 
 **Input:**
 
 ```
-24
-nee
+189
+ja
 ```
 
 **Expected Output:**
 
 ```
-24.00
+161
 ```
 
 ---
@@ -244,22 +244,22 @@ nee
 **Complete console output:**
 
 ```
-Geef het aankoopbedrag: 189
-Ben je betalende lid? (ja/nee): nee
-179.55
+Geef het aankoopbedrag: 18
+Ben je betalende lid? (ja/nee): ja
+18
 ```
 
 **Input:**
 
 ```
-189
-nee
+18
+ja
 ```
 
 **Expected Output:**
 
 ```
-179.55
+18
 ```
 
 ---
@@ -269,22 +269,22 @@ nee
 **Complete console output:**
 
 ```
-Geef het aankoopbedrag: 191
-Ben je betalende lid? (ja/nee): nee
-181.45
+Geef het aankoopbedrag: 65
+Ben je betalende lid? (ja/nee): ja
+65
 ```
 
 **Input:**
 
 ```
-191
-nee
+65
+ja
 ```
 
 **Expected Output:**
 
 ```
-181.45
+65
 ```
 
 ---
@@ -294,22 +294,22 @@ nee
 **Complete console output:**
 
 ```
-Geef het aankoopbedrag: 67
-Ben je betalende lid? (ja/nee): ja
-67.00
+Geef het aankoopbedrag: 6
+Ben je betalende lid? (ja/nee): nee
+6
 ```
 
 **Input:**
 
 ```
-67
-ja
+6
+nee
 ```
 
 **Expected Output:**
 
 ```
-67.00
+6
 ```
 
 ---
@@ -319,22 +319,22 @@ ja
 **Complete console output:**
 
 ```
-Geef het aankoopbedrag: 2
-Ben je betalende lid? (ja/nee): nee
-2.00
+Geef het aankoopbedrag: 183
+Ben je betalende lid? (ja/nee): ja
+156
 ```
 
 **Input:**
 
 ```
-2
-nee
+183
+ja
 ```
 
 **Expected Output:**
 
 ```
-2.00
+156
 ```
 
 ---
@@ -344,22 +344,22 @@ nee
 **Complete console output:**
 
 ```
-Geef het aankoopbedrag: 29
+Geef het aankoopbedrag: 122
 Ben je betalende lid? (ja/nee): ja
-29.00
+104
 ```
 
 **Input:**
 
 ```
-29
+122
 ja
 ```
 
 **Expected Output:**
 
 ```
-29.00
+104
 ```
 
 ---
@@ -369,22 +369,22 @@ ja
 **Complete console output:**
 
 ```
-Geef het aankoopbedrag: 3
+Geef het aankoopbedrag: 74
 Ben je betalende lid? (ja/nee): ja
-3.00
+74
 ```
 
 **Input:**
 
 ```
-3
+74
 ja
 ```
 
 **Expected Output:**
 
 ```
-3.00
+74
 ```
 
 ---
@@ -394,22 +394,22 @@ ja
 **Complete console output:**
 
 ```
-Geef het aankoopbedrag: 35
+Geef het aankoopbedrag: 51
 Ben je betalende lid? (ja/nee): ja
-35.00
+51
 ```
 
 **Input:**
 
 ```
-35
+51
 ja
 ```
 
 **Expected Output:**
 
 ```
-35.00
+51
 ```
 
 ---
@@ -419,22 +419,22 @@ ja
 **Complete console output:**
 
 ```
-Geef het aankoopbedrag: 76
-Ben je betalende lid? (ja/nee): nee
-76.00
+Geef het aankoopbedrag: 43
+Ben je betalende lid? (ja/nee): ja
+43
 ```
 
 **Input:**
 
 ```
-76
-nee
+43
+ja
 ```
 
 **Expected Output:**
 
 ```
-76.00
+43
 ```
 
 ---
@@ -444,22 +444,22 @@ nee
 **Complete console output:**
 
 ```
-Geef het aankoopbedrag: 99
+Geef het aankoopbedrag: 58
 Ben je betalende lid? (ja/nee): ja
-99.00
+58
 ```
 
 **Input:**
 
 ```
-99
+58
 ja
 ```
 
 **Expected Output:**
 
 ```
-99.00
+58
 ```
 
 ---
@@ -469,84 +469,9 @@ ja
 **Complete console output:**
 
 ```
-Geef het aankoopbedrag: 108
-Ben je betalende lid? (ja/nee): ja
-91.80
-```
-
-**Input:**
-
-```
-108
-ja
-```
-
-**Expected Output:**
-
-```
-91.80
-```
-
----
-
-### Case 20
-
-**Complete console output:**
-
-```
-Geef het aankoopbedrag: 45
-Ben je betalende lid? (ja/nee): nee
-45.00
-```
-
-**Input:**
-
-```
-45
-nee
-```
-
-**Expected Output:**
-
-```
-45.00
-```
-
----
-
-### Case 21
-
-**Complete console output:**
-
-```
-Geef het aankoopbedrag: 175
-Ben je betalende lid? (ja/nee): nee
-166.25
-```
-
-**Input:**
-
-```
-175
-nee
-```
-
-**Expected Output:**
-
-```
-166.25
-```
-
----
-
-### Case 22
-
-**Complete console output:**
-
-```
 Geef het aankoopbedrag: 158
 Ben je betalende lid? (ja/nee): ja
-134.30
+134
 ```
 
 **Input:**
@@ -559,7 +484,82 @@ ja
 **Expected Output:**
 
 ```
-134.30
+134
+```
+
+---
+
+### Case 20
+
+**Complete console output:**
+
+```
+Geef het aankoopbedrag: 176
+Ben je betalende lid? (ja/nee): ja
+150
+```
+
+**Input:**
+
+```
+176
+ja
+```
+
+**Expected Output:**
+
+```
+150
+```
+
+---
+
+### Case 21
+
+**Complete console output:**
+
+```
+Geef het aankoopbedrag: 35
+Ben je betalende lid? (ja/nee): ja
+35
+```
+
+**Input:**
+
+```
+35
+ja
+```
+
+**Expected Output:**
+
+```
+35
+```
+
+---
+
+### Case 22
+
+**Complete console output:**
+
+```
+Geef het aankoopbedrag: 138
+Ben je betalende lid? (ja/nee): nee
+131
+```
+
+**Input:**
+
+```
+138
+nee
+```
+
+**Expected Output:**
+
+```
+131
 ```
 
 ---
@@ -569,22 +569,22 @@ ja
 **Complete console output:**
 
 ```
-Geef het aankoopbedrag: 100
-Ben je betalende lid? (ja/nee): ja
-100.00
+Geef het aankoopbedrag: 30
+Ben je betalende lid? (ja/nee): nee
+30
 ```
 
 **Input:**
 
 ```
-100
-ja
+30
+nee
 ```
 
 **Expected Output:**
 
 ```
-100.00
+30
 ```
 
 ---
@@ -595,21 +595,21 @@ ja
 
 ```
 Geef het aankoopbedrag: 86
-Ben je betalende lid? (ja/nee): nee
-86.00
+Ben je betalende lid? (ja/nee): ja
+86
 ```
 
 **Input:**
 
 ```
 86
-nee
+ja
 ```
 
 **Expected Output:**
 
 ```
-86.00
+86
 ```
 
 ---
@@ -619,22 +619,22 @@ nee
 **Complete console output:**
 
 ```
-Geef het aankoopbedrag: 47
-Ben je betalende lid? (ja/nee): ja
-47.00
+Geef het aankoopbedrag: 31
+Ben je betalende lid? (ja/nee): nee
+31
 ```
 
 **Input:**
 
 ```
-47
-ja
+31
+nee
 ```
 
 **Expected Output:**
 
 ```
-47.00
+31
 ```
 
 ---

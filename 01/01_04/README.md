@@ -15,19 +15,19 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
-159.25
+-118.99
 ```
 
 **Input:**
 
 ```
-70.69511525451085
+-83.88550465324415
 ```
 
 **Expected Output:**
 
 ```
-159.25
+-118.99
 ```
 
 ---
@@ -37,19 +37,19 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
-514.51
+-1.03
 ```
 
 **Input:**
 
 ```
-268.0583980817963
+-18.348920633664974
 ```
 
 **Expected Output:**
 
 ```
-514.51
+-1.03
 ```
 
 ---
@@ -59,19 +59,19 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
-1,695.95
+1539.21
 ```
 
 **Input:**
 
 ```
-924.4180417654377
+837.3414651745317
 ```
 
 **Expected Output:**
 
 ```
-1,695.95
+1539.21
 ```
 
 ---
@@ -81,19 +81,19 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
-127.11
+1768.20
 ```
 
 **Input:**
 
 ```
-52.83857116479871
+964.5552752796693
 ```
 
 **Expected Output:**
 
 ```
-127.11
+1768.20
 ```
 
 ---
@@ -103,19 +103,19 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
-1,011.87
+672.27
 ```
 
 **Input:**
 
 ```
-544.3736490788158
+355.7044964115395
 ```
 
 **Expected Output:**
 
 ```
-1,011.87
+672.27
 ```
 
 ---
@@ -125,19 +125,19 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
-1,556.34
+1105.92
 ```
 
 **Input:**
 
 ```
-846.8538926772045
+596.6197361624636
 ```
 
 **Expected Output:**
 
 ```
-1,556.34
+1105.92
 ```
 
 ---
@@ -147,19 +147,19 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
--45.52
+1647.77
 ```
 
 **Input:**
 
 ```
--43.06487098389685
+897.6481561149942
 ```
 
 **Expected Output:**
 
 ```
--45.52
+1647.77
 ```
 
 ---
@@ -169,19 +169,19 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
-1,079.18
+1467.06
 ```
 
 **Input:**
 
 ```
-581.7690408496173
+797.2539109685118
 ```
 
 **Expected Output:**
 
 ```
-1,079.18
+1467.06
 ```
 
 ---
@@ -191,19 +191,19 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
-508.38
+-50.47
 ```
 
 **Input:**
 
 ```
-264.6539432463294
+-45.81901899503463
 ```
 
 **Expected Output:**
 
 ```
-508.38
+-50.47
 ```
 
 ---
@@ -213,19 +213,19 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
-427.39
+786.58
 ```
 
 **Input:**
 
 ```
-219.65896341942192
+419.2128137496338
 ```
 
 **Expected Output:**
 
 ```
-427.39
+786.58
 ```
 
 ---
@@ -235,19 +235,19 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
-131.37
+1331.74
 ```
 
 **Input:**
 
 ```
-55.20608761233558
+722.0764560785688
 ```
 
 **Expected Output:**
 
 ```
-131.37
+1331.74
 ```
 
 ---
@@ -257,19 +257,19 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
--26.49
+408.58
 ```
 
 **Input:**
 
 ```
--32.496835147632865
+209.2137963081713
 ```
 
 **Expected Output:**
 
 ```
--26.49
+408.58
 ```
 
 ---
@@ -279,19 +279,19 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
-496.96
+413.00
 ```
 
 **Input:**
 
 ```
-258.3121063108318
+211.66537127201008
 ```
 
 **Expected Output:**
 
 ```
-496.96
+413.00
 ```
 
 ---
@@ -301,19 +301,19 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
-137.14
+135.72
 ```
 
 **Input:**
 
 ```
-58.40966530726226
+57.62226610331962
 ```
 
 **Expected Output:**
 
 ```
-137.14
+135.72
 ```
 
 ---
@@ -323,19 +323,19 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
-600.08
+1621.78
 ```
 
 **Input:**
 
 ```
-315.59732853140366
+883.2122523739228
 ```
 
 **Expected Output:**
 
 ```
-600.08
+1621.78
 ```
 
 ---
@@ -345,19 +345,19 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
--78.64
+944.84
 ```
 
 **Input:**
 
 ```
--61.464001626466434
+507.13572627226415
 ```
 
 **Expected Output:**
 
 ```
--78.64
+944.84
 ```
 
 ---
@@ -367,19 +367,19 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
-963.38
+1257.22
 ```
 
 **Input:**
 
 ```
-517.4313205935388
+680.6790927182489
 ```
 
 **Expected Output:**
 
 ```
-963.38
+1257.22
 ```
 
 ---
@@ -389,19 +389,19 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
-749.50
+1046.07
 ```
 
 **Input:**
 
 ```
-398.6085140278631
+563.3748222124441
 ```
 
 **Expected Output:**
 
 ```
-749.50
+1046.07
 ```
 
 ---
@@ -411,19 +411,19 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
-1,193.73
+1577.23
 ```
 
 **Input:**
 
 ```
-645.4045578413679
+858.4600182226121
 ```
 
 **Expected Output:**
 
 ```
-1,193.73
+1577.23
 ```
 
 ---
@@ -433,19 +433,19 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
-1,443.88
+1165.60
 ```
 
 **Input:**
 
 ```
-784.38016936864
+629.7781924804432
 ```
 
 **Expected Output:**
 
 ```
-1,443.88
+1165.60
 ```
 
 ---
@@ -455,19 +455,19 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
-454.84
+1749.46
 ```
 
 **Input:**
 
 ```
-234.91358406004076
+954.1418609843968
 ```
 
 **Expected Output:**
 
 ```
-454.84
+1749.46
 ```
 
 ---
@@ -477,19 +477,19 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
-1,369.94
+56.30
 ```
 
 **Input:**
 
 ```
-743.2985528706578
+13.5013433664691
 ```
 
 **Expected Output:**
 
 ```
-1,369.94
+56.30
 ```
 
 ---
@@ -499,19 +499,19 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
-1,547.31
+927.93
 ```
 
 **Input:**
 
 ```
-841.8410941673396
+497.7396030259247
 ```
 
 **Expected Output:**
 
 ```
-1,547.31
+927.93
 ```
 
 ---
@@ -521,19 +521,19 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
-643.02
+143.46
 ```
 
 **Input:**
 
 ```
-339.45612805566554
+61.92198627025874
 ```
 
 **Expected Output:**
 
 ```
-643.02
+143.46
 ```
 
 ---
@@ -543,19 +543,19 @@ Below are the automatically generated input/output expectations.
 **Complete console output:**
 
 ```
-525.67
+774.84
 ```
 
 **Input:**
 
 ```
-274.2625197037372
+412.6897621564473
 ```
 
 **Expected Output:**
 
 ```
-525.67
+774.84
 ```
 
 ---
