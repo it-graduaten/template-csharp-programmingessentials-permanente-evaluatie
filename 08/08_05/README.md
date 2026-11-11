@@ -29,8 +29,30 @@ Kies een optie:
 3. Geld storten
 4. Stoppen
 Maak een keuze: 
-1
-Het huidige saldo is 1000 euro.
+3
+Hoeveel geld wil je storten? 
+0
+Storting succesvol.
+Kies een optie:
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Maak een keuze: 
+3
+Hoeveel geld wil je storten? 
+100
+Storting succesvol.
+Kies een optie:
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Maak een keuze: 
+3
+Hoeveel geld wil je storten? 
+1000
+Storting succesvol.
 Kies een optie:
 1. Saldo bekijken
 2. Geld opnemen
@@ -39,7 +61,7 @@ Kies een optie:
 Maak een keuze: 
 2
 Hoeveel geld wil je opnemen? 
-0
+1500
 Opname succesvol.
 Kies een optie:
 1. Saldo bekijken
@@ -57,14 +79,6 @@ Kies een optie:
 3. Geld storten
 4. Stoppen
 Maak een keuze: 
-1
-Het huidige saldo is 2000 euro.
-Kies een optie:
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Maak een keuze: 
 4
 Bedankt en tot ziens!
 ```
@@ -72,11 +86,22 @@ Bedankt en tot ziens!
 **Input:**
 
 ```
-1
-2
+3
 0
 3
+100
+3
 1000
+2
+1500
+3
+1000
+4
+2
+1000
+3
+0
+4
 1
 4
 ```
@@ -84,10 +109,11 @@ Bedankt en tot ziens!
 **Expected Output:**
 
 ```
-Het huidige saldo is 1000 euro.
+Storting succesvol.
+Storting succesvol.
+Storting succesvol.
 Opname succesvol.
 Storting succesvol.
-Het huidige saldo is 2000 euro.
 Bedankt en tot ziens!
 ```
 
@@ -104,72 +130,10 @@ Kies een optie:
 3. Geld storten
 4. Stoppen
 Maak een keuze: 
-1
-Het huidige saldo is 1000 euro.
-Kies een optie:
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Maak een keuze: 
-1
-Het huidige saldo is 1000 euro.
-Kies een optie:
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Maak een keuze: 
-3
-Hoeveel geld wil je storten? 
-100
-Storting succesvol.
-Kies een optie:
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Maak een keuze: 
-1
-Het huidige saldo is 1100 euro.
-Kies een optie:
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Maak een keuze: 
 2
 Hoeveel geld wil je opnemen? 
-500
-Opname succesvol.
-Kies een optie:
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Maak een keuze: 
-3
-Hoeveel geld wil je storten? 
-500
-Storting succesvol.
-Kies een optie:
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Maak een keuze: 
-3
-Hoeveel geld wil je storten? 
 1000
-Storting succesvol.
-Kies een optie:
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Maak een keuze: 
-1
-Het huidige saldo is 2100 euro.
+Opname succesvol.
 Kies een optie:
 1. Saldo bekijken
 2. Geld opnemen
@@ -183,35 +147,17 @@ Bedankt en tot ziens!
 **Input:**
 
 ```
-1
-1
-3
-100
-1
 2
-500
-3
-500
-3
 1000
-1
 4
-2
-500
+1
 4
 ```
 
 **Expected Output:**
 
 ```
-Het huidige saldo is 1000 euro.
-Het huidige saldo is 1000 euro.
-Storting succesvol.
-Het huidige saldo is 1100 euro.
 Opname succesvol.
-Storting succesvol.
-Storting succesvol.
-Het huidige saldo is 2100 euro.
 Bedankt en tot ziens!
 ```
 
@@ -230,39 +176,8 @@ Kies een optie:
 Maak een keuze: 
 2
 Hoeveel geld wil je opnemen? 
-0
-Opname succesvol.
-Kies een optie:
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Maak een keuze: 
-2
-Hoeveel geld wil je opnemen? 
 1500
-Kan niet meer opnemen dan er op de rekening staat.
 Onvoldoende saldo.
-Kies een optie:
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Maak een keuze: 
-3
-Hoeveel geld wil je storten? 
-1000
-Storting succesvol.
-Kies een optie:
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Maak een keuze: 
-3
-Hoeveel geld wil je storten? 
-1000
-Storting succesvol.
 Kies een optie:
 1. Saldo bekijken
 2. Geld opnemen
@@ -277,19 +192,7 @@ Bedankt en tot ziens!
 
 ```
 2
-0
-2
 1500
-3
-1000
-3
-1000
-4
-2
-1500
-2
-500
-1
 4
 4
 ```
@@ -297,11 +200,7 @@ Bedankt en tot ziens!
 **Expected Output:**
 
 ```
-Opname succesvol.
-Kan niet meer opnemen dan er op de rekening staat.
 Onvoldoende saldo.
-Storting succesvol.
-Storting succesvol.
 Bedankt en tot ziens!
 ```
 
@@ -318,18 +217,9 @@ Kies een optie:
 3. Geld storten
 4. Stoppen
 Maak een keuze: 
-1
-Het huidige saldo is 1000 euro.
-Kies een optie:
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Maak een keuze: 
 2
 Hoeveel geld wil je opnemen? 
 1500
-Kan niet meer opnemen dan er op de rekening staat.
 Onvoldoende saldo.
 Kies een optie:
 1. Saldo bekijken
@@ -345,21 +235,10 @@ Kies een optie:
 3. Geld storten
 4. Stoppen
 Maak een keuze: 
-2
-Hoeveel geld wil je opnemen? 
-1500
-Kan niet meer opnemen dan er op de rekening staat.
-Onvoldoende saldo.
-Kies een optie:
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Maak een keuze: 
-2
-Hoeveel geld wil je opnemen? 
-500
-Opname succesvol.
+3
+Hoeveel geld wil je storten? 
+1000
+Storting succesvol.
 Kies een optie:
 1. Saldo bekijken
 2. Geld opnemen
@@ -373,27 +252,30 @@ Bedankt en tot ziens!
 **Input:**
 
 ```
-1
 2
 1500
 1
+3
+1000
+4
+1
+4
+4
+3
+1000
+3
+100
 2
 1500
-2
-500
 4
 ```
 
 **Expected Output:**
 
 ```
-Het huidige saldo is 1000 euro.
-Kan niet meer opnemen dan er op de rekening staat.
 Onvoldoende saldo.
 Het huidige saldo is 1000 euro.
-Kan niet meer opnemen dan er op de rekening staat.
-Onvoldoende saldo.
-Opname succesvol.
+Storting succesvol.
 Bedankt en tot ziens!
 ```
 
@@ -410,26 +292,18 @@ Kies een optie:
 3. Geld storten
 4. Stoppen
 Maak een keuze: 
-1
-Het huidige saldo is 1000 euro.
-Kies een optie:
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Maak een keuze: 
-1
-Het huidige saldo is 1000 euro.
-Kies een optie:
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Maak een keuze: 
 2
 Hoeveel geld wil je opnemen? 
-1000
+500
 Opname succesvol.
+Kies een optie:
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Maak een keuze: 
+1
+Het huidige saldo is 500 euro.
 Kies een optie:
 1. Saldo bekijken
 2. Geld opnemen
@@ -443,13 +317,16 @@ Bedankt en tot ziens!
 **Input:**
 
 ```
-1
-1
 2
-1000
+500
+1
 4
-2
-0
+4
+4
+1
+3
+500
+4
 4
 4
 ```
@@ -457,9 +334,8 @@ Bedankt en tot ziens!
 **Expected Output:**
 
 ```
-Het huidige saldo is 1000 euro.
-Het huidige saldo is 1000 euro.
 Opname succesvol.
+Het huidige saldo is 500 euro.
 Bedankt en tot ziens!
 ```
 
@@ -494,6 +370,24 @@ Kies een optie:
 3. Geld storten
 4. Stoppen
 Maak een keuze: 
+2
+Hoeveel geld wil je opnemen? 
+1500
+Onvoldoende saldo.
+Kies een optie:
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Maak een keuze: 
+1
+Het huidige saldo is 500 euro.
+Kies een optie:
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Maak een keuze: 
 4
 Bedankt en tot ziens!
 ```
@@ -504,6 +398,16 @@ Bedankt en tot ziens!
 2
 500
 1
+2
+1500
+1
+4
+1
+1
+2
+1500
+1
+1
 4
 ```
 
@@ -511,6 +415,8 @@ Bedankt en tot ziens!
 
 ```
 Opname succesvol.
+Het huidige saldo is 500 euro.
+Onvoldoende saldo.
 Het huidige saldo is 500 euro.
 Bedankt en tot ziens!
 ```
@@ -528,10 +434,10 @@ Kies een optie:
 3. Geld storten
 4. Stoppen
 Maak een keuze: 
-2
-Hoeveel geld wil je opnemen? 
-1000
-Opname succesvol.
+3
+Hoeveel geld wil je storten? 
+0
+Storting succesvol.
 Kies een optie:
 1. Saldo bekijken
 2. Geld opnemen
@@ -545,23 +451,28 @@ Bedankt en tot ziens!
 **Input:**
 
 ```
+3
+0
+4
+3
+500
+4
+4
 2
 1000
-4
-4
 1
 2
 500
 3
-1000
-1
+0
+4
 4
 ```
 
 **Expected Output:**
 
 ```
-Opname succesvol.
+Storting succesvol.
 Bedankt en tot ziens!
 ```
 
@@ -578,6 +489,30 @@ Kies een optie:
 3. Geld storten
 4. Stoppen
 Maak een keuze: 
+1
+Het huidige saldo is 1000 euro.
+Kies een optie:
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Maak een keuze: 
+1
+Het huidige saldo is 1000 euro.
+Kies een optie:
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Maak een keuze: 
+1
+Het huidige saldo is 1000 euro.
+Kies een optie:
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Maak een keuze: 
 4
 Bedankt en tot ziens!
 ```
@@ -585,15 +520,21 @@ Bedankt en tot ziens!
 **Input:**
 
 ```
+1
+1
+1
 4
-3
-100
+2
+1500
 4
 ```
 
 **Expected Output:**
 
 ```
+Het huidige saldo is 1000 euro.
+Het huidige saldo is 1000 euro.
+Het huidige saldo is 1000 euro.
 Bedankt en tot ziens!
 ```
 
@@ -612,8 +553,17 @@ Kies een optie:
 Maak een keuze: 
 2
 Hoeveel geld wil je opnemen? 
-1500
-Kan niet meer opnemen dan er op de rekening staat.
+500
+Opname succesvol.
+Kies een optie:
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Maak een keuze: 
+2
+Hoeveel geld wil je opnemen? 
+1000
 Onvoldoende saldo.
 Kies een optie:
 1. Saldo bekijken
@@ -621,10 +571,18 @@ Kies een optie:
 3. Geld storten
 4. Stoppen
 Maak een keuze: 
-3
-Hoeveel geld wil je storten? 
-1000
-Storting succesvol.
+2
+Hoeveel geld wil je opnemen? 
+500
+Opname succesvol.
+Kies een optie:
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Maak een keuze: 
+1
+Het huidige saldo is 0 euro.
 Kies een optie:
 1. Saldo bekijken
 2. Geld opnemen
@@ -639,26 +597,28 @@ Bedankt en tot ziens!
 
 ```
 2
-1500
-3
-1000
-4
-3
 500
-3
-0
 2
 1000
+2
+500
+1
 4
+3
+1000
+1
+2
+1500
 4
 ```
 
 **Expected Output:**
 
 ```
-Kan niet meer opnemen dan er op de rekening staat.
+Opname succesvol.
 Onvoldoende saldo.
-Storting succesvol.
+Opname succesvol.
+Het huidige saldo is 0 euro.
 Bedankt en tot ziens!
 ```
 
@@ -677,7 +637,7 @@ Kies een optie:
 Maak een keuze: 
 2
 Hoeveel geld wil je opnemen? 
-0
+1000
 Opname succesvol.
 Kies een optie:
 1. Saldo bekijken
@@ -685,8 +645,10 @@ Kies een optie:
 3. Geld storten
 4. Stoppen
 Maak een keuze: 
-1
-Het huidige saldo is 1000 euro.
+2
+Hoeveel geld wil je opnemen? 
+500
+Onvoldoende saldo.
 Kies een optie:
 1. Saldo bekijken
 2. Geld opnemen
@@ -701,17 +663,12 @@ Bedankt en tot ziens!
 
 ```
 2
-0
-1
-4
-4
-3
-100
-4
-1
-2
 1000
 2
+500
+4
+1
+3
 0
 4
 ```
@@ -720,7 +677,7 @@ Bedankt en tot ziens!
 
 ```
 Opname succesvol.
-Het huidige saldo is 1000 euro.
+Onvoldoende saldo.
 Bedankt en tot ziens!
 ```
 
@@ -737,6 +694,32 @@ Kies een optie:
 3. Geld storten
 4. Stoppen
 Maak een keuze: 
+3
+Hoeveel geld wil je storten? 
+1000
+Storting succesvol.
+Kies een optie:
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Maak een keuze: 
+1
+Het huidige saldo is 2000 euro.
+Kies een optie:
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Maak een keuze: 
+1
+Het huidige saldo is 2000 euro.
+Kies een optie:
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Maak een keuze: 
 4
 Bedankt en tot ziens!
 ```
@@ -744,13 +727,19 @@ Bedankt en tot ziens!
 **Input:**
 
 ```
-4
+3
+1000
+1
+1
 4
 ```
 
 **Expected Output:**
 
 ```
+Storting succesvol.
+Het huidige saldo is 2000 euro.
+Het huidige saldo is 2000 euro.
 Bedankt en tot ziens!
 ```
 
@@ -767,6 +756,42 @@ Kies een optie:
 3. Geld storten
 4. Stoppen
 Maak een keuze: 
+1
+Het huidige saldo is 1000 euro.
+Kies een optie:
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Maak een keuze: 
+3
+Hoeveel geld wil je storten? 
+500
+Storting succesvol.
+Kies een optie:
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Maak een keuze: 
+1
+Het huidige saldo is 1500 euro.
+Kies een optie:
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Maak een keuze: 
+3
+Hoeveel geld wil je storten? 
+0
+Storting succesvol.
+Kies een optie:
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Maak een keuze: 
 4
 Bedankt en tot ziens!
 ```
@@ -774,23 +799,22 @@ Bedankt en tot ziens!
 **Input:**
 
 ```
-4
+1
 3
 500
-3
-1000
-2
-1500
 1
-2
-1000
-4
+3
+0
 4
 ```
 
 **Expected Output:**
 
 ```
+Het huidige saldo is 1000 euro.
+Storting succesvol.
+Het huidige saldo is 1500 euro.
+Storting succesvol.
 Bedankt en tot ziens!
 ```
 
@@ -807,30 +831,6 @@ Kies een optie:
 3. Geld storten
 4. Stoppen
 Maak een keuze: 
-1
-Het huidige saldo is 1000 euro.
-Kies een optie:
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Maak een keuze: 
-1
-Het huidige saldo is 1000 euro.
-Kies een optie:
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Maak een keuze: 
-1
-Het huidige saldo is 1000 euro.
-Kies een optie:
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Maak een keuze: 
 4
 Bedankt en tot ziens!
 ```
@@ -838,22 +838,23 @@ Bedankt en tot ziens!
 **Input:**
 
 ```
-1
-1
-1
 4
+3
+100
+1
+1
 1
 2
-0
+1500
+4
+3
+1000
 4
 ```
 
 **Expected Output:**
 
 ```
-Het huidige saldo is 1000 euro.
-Het huidige saldo is 1000 euro.
-Het huidige saldo is 1000 euro.
 Bedankt en tot ziens!
 ```
 
@@ -870,40 +871,8 @@ Kies een optie:
 3. Geld storten
 4. Stoppen
 Maak een keuze: 
-3
-Hoeveel geld wil je storten? 
-0
-Storting succesvol.
-Kies een optie:
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Maak een keuze: 
-2
-Hoeveel geld wil je opnemen? 
-1000
-Opname succesvol.
-Kies een optie:
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Maak een keuze: 
-2
-Hoeveel geld wil je opnemen? 
-0
-Opname succesvol.
-Kies een optie:
-1. Saldo bekijken
-2. Geld opnemen
-3. Geld storten
-4. Stoppen
-Maak een keuze: 
-3
-Hoeveel geld wil je storten? 
-1000
-Storting succesvol.
+1
+Het huidige saldo is 1000 euro.
 Kies een optie:
 1. Saldo bekijken
 2. Geld opnemen
@@ -917,30 +886,18 @@ Bedankt en tot ziens!
 **Input:**
 
 ```
-3
-0
-2
-1000
-2
-0
-3
-1000
+1
 4
-3
-1000
 1
 2
-1500
+500
 4
 ```
 
 **Expected Output:**
 
 ```
-Storting succesvol.
-Opname succesvol.
-Opname succesvol.
-Storting succesvol.
+Het huidige saldo is 1000 euro.
 Bedankt en tot ziens!
 ```
 
@@ -957,6 +914,34 @@ Kies een optie:
 3. Geld storten
 4. Stoppen
 Maak een keuze: 
+3
+Hoeveel geld wil je storten? 
+500
+Storting succesvol.
+Kies een optie:
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Maak een keuze: 
+1
+Het huidige saldo is 1500 euro.
+Kies een optie:
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Maak een keuze: 
+2
+Hoeveel geld wil je opnemen? 
+1000
+Opname succesvol.
+Kies een optie:
+1. Saldo bekijken
+2. Geld opnemen
+3. Geld storten
+4. Stoppen
+Maak een keuze: 
 4
 Bedankt en tot ziens!
 ```
@@ -964,15 +949,21 @@ Bedankt en tot ziens!
 **Input:**
 
 ```
-4
 3
+500
+1
+2
 1000
+4
 4
 ```
 
 **Expected Output:**
 
 ```
+Storting succesvol.
+Het huidige saldo is 1500 euro.
+Opname succesvol.
 Bedankt en tot ziens!
 ```
 
